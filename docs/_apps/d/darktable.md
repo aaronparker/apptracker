@@ -3,7 +3,7 @@ title: The Darktable Project darktable
 layout: default
 nav_order: 2
 parent: D
-last_modified_date: 20/12/2025 1:24:21 PM
+last_modified_date: 21/12/2025 11:38:13 AM
 ---
 
 ## The Darktable Project darktable
@@ -14,6 +14,6 @@ Evergreen app: `Darktable`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date     | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                          |
-| ------- | -------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 5.2.1   | 1/8/2025 | 130313462 | c470779d92a08345c6f9b65457484e2fe4406537b0604a6e0df0339c81059158 | x64          | Default       | exe  | [https://github.com/darktable-org/darktable/releases/download/release-5.2.1/darktable-5.2.1-win64.exe](https://github.com/darktable-org/darktable/releases/download/release-5.2.1/darktable-5.2.1-win64.exe) |
+| Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                          |
+| ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 5.4.0   | 20/12/2025 | 125621422 | 655ce83046f27d20e1385bffa1e5471b702033083772f65db1fe1a07445c3eb8 | x64          | Default       | exe  | [https://github.com/darktable-org/darktable/releases/download/release-5.4.0/darktable-5.4.0-win64.exe](https://github.com/darktable-org/darktable/releases/download/release-5.4.0/darktable-5.4.0-win64.exe) |
