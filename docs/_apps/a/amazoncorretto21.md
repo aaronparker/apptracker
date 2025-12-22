@@ -3,7 +3,7 @@ title: Amazon Corretto 21
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 21/12/2025 1:24:37 PM
+last_modified_date: 22/12/2025 11:37:09 AM
 ---
 
 ## Amazon Corretto 21

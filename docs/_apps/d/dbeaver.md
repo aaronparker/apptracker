@@ -3,7 +3,7 @@ title: dbeaver
 layout: default
 nav_order: 2
 parent: D
-last_modified_date: 21/12/2025 1:24:37 PM
+last_modified_date: 22/12/2025 11:37:09 AM
 ---
 
 ## dbeaver
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                |
 | ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 25.3.0  | 28/11/2025 | 111239656 | c92cf56936ce5f3151873fe6a9b6720f20e75b263c685b9d5a81b3094050506b | ARM64        | Default       | exe  | [https://github.com/dbeaver/dbeaver/releases/download/25.3.0/dbeaver-ce-25.3.0-aarch64-setup.exe](https://github.com/dbeaver/dbeaver/releases/download/25.3.0/dbeaver-ce-25.3.0-aarch64-setup.exe) |
-| 25.3.0  | 28/11/2025 | 117573920 | 27d4b4c08689abef2b77a529a073c6fa5b9b776235c7676f79711b1b6f11cd53 | x64          | Default       | exe  | [https://github.com/dbeaver/dbeaver/releases/download/25.3.0/dbeaver-ce-25.3.0-x86_64-setup.exe](https://github.com/dbeaver/dbeaver/releases/download/25.3.0/dbeaver-ce-25.3.0-x86_64-setup.exe)   |
+| 25.3.1  | 19/12/2025 | 109339520 | e121b9b1767fec8f9659771169f19957a2db0e7aee4ecdf14c36ca9cdcd652fe | ARM64        | Default       | exe  | [https://github.com/dbeaver/dbeaver/releases/download/25.3.1/dbeaver-ce-25.3.1-aarch64-setup.exe](https://github.com/dbeaver/dbeaver/releases/download/25.3.1/dbeaver-ce-25.3.1-aarch64-setup.exe) |
+| 25.3.1  | 19/12/2025 | 115674000 | 4d1e944f408e604e3b87271b8316589aedc79dbfcd5e8aca7fce3a948fd1f056 | x64          | Default       | exe  | [https://github.com/dbeaver/dbeaver/releases/download/25.3.1/dbeaver-ce-25.3.1-x86_64-setup.exe](https://github.com/dbeaver/dbeaver/releases/download/25.3.1/dbeaver-ce-25.3.1-x86_64-setup.exe)   |

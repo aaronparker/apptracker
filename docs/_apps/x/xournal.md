@@ -3,7 +3,7 @@ title: Xournal++
 layout: default
 nav_order: 2
 parent: X
-last_modified_date: 21/12/2025 1:24:37 PM
+last_modified_date: 22/12/2025 11:37:09 AM
 ---
 
 ## Xournal++
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                |
 | ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1.3.0   | 11/12/2025 | 66435586 | b70d208ae72e3b811e6b04f6448c3d909352cf2061dd2dc56dcc41d8a149d678 | ARM64        | Default       | exe  | [https://github.com/xournalpp/xournalpp/releases/download/v1.3.0/xournalpp-1.3.0-windows-setup-ARM64.exe](https://github.com/xournalpp/xournalpp/releases/download/v1.3.0/xournalpp-1.3.0-windows-setup-ARM64.exe) |
-| 1.3.0   | 11/12/2025 | 95437868 | bc19caadda0f1aa82681e4c90c00b6d53a5f201c53bb7d95b41fbe2bc68f5979 | x64          | Default       | exe  | [https://github.com/xournalpp/xournalpp/releases/download/v1.3.0/xournalpp-1.3.0-windows-setup-AMD64.exe](https://github.com/xournalpp/xournalpp/releases/download/v1.3.0/xournalpp-1.3.0-windows-setup-AMD64.exe) |
+| 1.3.1   | 21/12/2025 | 66448490 | 6bfa935ea57bed150c7e6d68659dad514ae51b20fbbe73ed2074bbfb69f2cba9 | ARM64        | Default       | exe  | [https://github.com/xournalpp/xournalpp/releases/download/v1.3.1/xournalpp-1.3.1-windows-setup-ARM64.exe](https://github.com/xournalpp/xournalpp/releases/download/v1.3.1/xournalpp-1.3.1-windows-setup-ARM64.exe) |
+| 1.3.1   | 21/12/2025 | 95465604 | e7a02030466cd4bd639dcee1f8cf26a98f3db757478a22d7ddd55492f442d95d | x64          | Default       | exe  | [https://github.com/xournalpp/xournalpp/releases/download/v1.3.1/xournalpp-1.3.1-windows-setup-AMD64.exe](https://github.com/xournalpp/xournalpp/releases/download/v1.3.1/xournalpp-1.3.1-windows-setup-AMD64.exe) |
