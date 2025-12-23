@@ -3,7 +3,7 @@ title: Flow Launcher Team Flow Launcher
 layout: default
 nav_order: 2
 parent: F
-last_modified_date: 23/12/2025 11:35:56 AM
+last_modified_date: 23/12/2025 1:28:10 PM
 ---
 
 ## Flow Launcher Team Flow Launcher
