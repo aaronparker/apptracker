@@ -3,7 +3,7 @@ title: Microsoft SQL Server Management Studio
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 22/12/2025 1:27:03 PM
+last_modified_date: 23/12/2025 11:35:56 AM
 ---
 
 ## Microsoft SQL Server Management Studio
@@ -12,7 +12,10 @@ last_modified_date: 22/12/2025 1:27:03 PM
 
 Evergreen app: `MicrosoftSsms`. Found **11** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Output from last run on PowerShell Core was null.
+```
 
 | Version   | Date     | Language              | URI                                                                                                                                                                                                |
 | --------- | -------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
