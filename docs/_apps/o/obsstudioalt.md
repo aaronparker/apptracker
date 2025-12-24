@@ -3,7 +3,7 @@ title: OBS Studio (alternate method)
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 24/12/2025 11:37:26 AM
+last_modified_date: 24/12/2025 1:25:49 PM
 ---
 
 ## OBS Studio (alternate method)
