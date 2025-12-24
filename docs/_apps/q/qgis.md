@@ -3,7 +3,7 @@ title: QGIS
 layout: default
 nav_order: 2
 parent: Q
-last_modified_date: 23/12/2025 1:28:10 PM
+last_modified_date: 24/12/2025 11:37:26 AM
 ---
 
 ## QGIS
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version   | Channel | Date       | URI                                                                                                                                      |
 | --------- | ------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.44.5-1  | latest  | 21/11/2025 | [https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.44.5-1.msi](https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.44.5-1.msi)   |
-| 3.40.13-1 | ltr     | 21/11/2025 | [https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.40.13-1.msi](https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.40.13-1.msi) |
+| 3.44.6-1  | latest  | 19/12/2025 | [https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.44.6-1.msi](https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.44.6-1.msi)   |
+| 3.40.14-1 | ltr     | 19/12/2025 | [https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.40.14-1.msi](https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.40.14-1.msi) |

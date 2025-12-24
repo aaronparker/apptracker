@@ -3,7 +3,7 @@ title: Microsoft Edge WebDriver
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 23/12/2025 1:28:10 PM
+last_modified_date: 24/12/2025 11:37:26 AM
 ---
 
 ## Microsoft Edge WebDriver
@@ -19,9 +19,9 @@ Last check: 🟢
 | 145.0.3734.1  | Dev     | arm64        | [https://msedgedriver.microsoft.com/145.0.3734.1/edgedriver_arm64.zip](https://msedgedriver.microsoft.com/145.0.3734.1/edgedriver_arm64.zip)   |
 | 145.0.3734.1  | Dev     | x64          | [https://msedgedriver.microsoft.com/145.0.3734.1/edgedriver_win64.zip](https://msedgedriver.microsoft.com/145.0.3734.1/edgedriver_win64.zip)   |
 | 145.0.3734.1  | Dev     | x86          | [https://msedgedriver.microsoft.com/145.0.3734.1/edgedriver_win32.zip](https://msedgedriver.microsoft.com/145.0.3734.1/edgedriver_win32.zip)   |
-| 144.0.3719.18 | Beta    | arm64        | [https://msedgedriver.microsoft.com/144.0.3719.18/edgedriver_arm64.zip](https://msedgedriver.microsoft.com/144.0.3719.18/edgedriver_arm64.zip) |
-| 144.0.3719.18 | Beta    | x64          | [https://msedgedriver.microsoft.com/144.0.3719.18/edgedriver_win64.zip](https://msedgedriver.microsoft.com/144.0.3719.18/edgedriver_win64.zip) |
-| 144.0.3719.18 | Beta    | x86          | [https://msedgedriver.microsoft.com/144.0.3719.18/edgedriver_win32.zip](https://msedgedriver.microsoft.com/144.0.3719.18/edgedriver_win32.zip) |
+| 144.0.3719.35 | Beta    | arm64        | [https://msedgedriver.microsoft.com/144.0.3719.35/edgedriver_arm64.zip](https://msedgedriver.microsoft.com/144.0.3719.35/edgedriver_arm64.zip) |
+| 144.0.3719.35 | Beta    | x64          | [https://msedgedriver.microsoft.com/144.0.3719.35/edgedriver_win64.zip](https://msedgedriver.microsoft.com/144.0.3719.35/edgedriver_win64.zip) |
+| 144.0.3719.35 | Beta    | x86          | [https://msedgedriver.microsoft.com/144.0.3719.35/edgedriver_win32.zip](https://msedgedriver.microsoft.com/144.0.3719.35/edgedriver_win32.zip) |
 | 143.0.3650.96 | Stable  | arm64        | [https://msedgedriver.microsoft.com/143.0.3650.96/edgedriver_arm64.zip](https://msedgedriver.microsoft.com/143.0.3650.96/edgedriver_arm64.zip) |
 | 143.0.3650.96 | Stable  | x64          | [https://msedgedriver.microsoft.com/143.0.3650.96/edgedriver_win64.zip](https://msedgedriver.microsoft.com/143.0.3650.96/edgedriver_win64.zip) |
 | 143.0.3650.96 | Stable  | x86          | [https://msedgedriver.microsoft.com/143.0.3650.96/edgedriver_win32.zip](https://msedgedriver.microsoft.com/143.0.3650.96/edgedriver_win32.zip) |
