@@ -3,7 +3,7 @@ title: Prometheus Windows Exporter
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 25/12/2025 11:40:55 AM
+last_modified_date: 25/12/2025 1:25:55 PM
 ---
 
 ## Prometheus Windows Exporter
