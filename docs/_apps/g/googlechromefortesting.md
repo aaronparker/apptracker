@@ -3,7 +3,7 @@ title: Google Chrome for Testing
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 24/12/2025 1:25:49 PM
+last_modified_date: 25/12/2025 11:40:55 AM
 ---
 
 ## Google Chrome for Testing
@@ -16,8 +16,8 @@ Last check: 🟢
 
 | Version        | Revision | Channel | Architecture | Type | URI                                                                                                                                                                                              |
 | -------------- | -------- | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 145.0.7595.0   | 1562154  | Canary  | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/145.0.7595.0/win64/chrome-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/145.0.7595.0/win64/chrome-win64.zip)     |
-| 145.0.7595.0   | 1562154  | Canary  | x86          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/145.0.7595.0/win32/chrome-win32.zip](https://storage.googleapis.com/chrome-for-testing-public/145.0.7595.0/win32/chrome-win32.zip)     |
+| 145.0.7598.0   | 1562545  | Canary  | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/145.0.7598.0/win64/chrome-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/145.0.7598.0/win64/chrome-win64.zip)     |
+| 145.0.7598.0   | 1562545  | Canary  | x86          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/145.0.7598.0/win32/chrome-win32.zip](https://storage.googleapis.com/chrome-for-testing-public/145.0.7598.0/win32/chrome-win32.zip)     |
 | 145.0.7572.2   | 1556498  | Dev     | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/145.0.7572.2/win64/chrome-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/145.0.7572.2/win64/chrome-win64.zip)     |
 | 145.0.7572.2   | 1556498  | Dev     | x86          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/145.0.7572.2/win32/chrome-win32.zip](https://storage.googleapis.com/chrome-for-testing-public/145.0.7572.2/win32/chrome-win32.zip)     |
 | 144.0.7559.31  | 1552494  | Beta    | x64          | zip  | [https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.31/win64/chrome-win64.zip](https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.31/win64/chrome-win64.zip)   |
