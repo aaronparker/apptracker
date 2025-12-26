@@ -3,7 +3,7 @@ title: Lukas Holecek CopyQ
 layout: default
 nav_order: 2
 parent: L
-last_modified_date: 25/12/2025 1:25:55 PM
+last_modified_date: 26/12/2025 11:40:09 AM
 ---
 
 ## Lukas Holecek CopyQ
