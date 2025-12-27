@@ -3,7 +3,7 @@ title: IronLanguages IronPython 3
 layout: default
 nav_order: 2
 parent: I
-last_modified_date: 27/12/2025 11:35:50 AM
+last_modified_date: 27/12/2025 1:25:07 PM
 ---
 
 ## IronLanguages IronPython 3
