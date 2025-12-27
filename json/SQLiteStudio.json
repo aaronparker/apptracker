@@ -1,22 +1,22 @@
 [
   {
-    "Version": "3.4.18",
-    "Date": "5/12/2025",
-    "Size": 25783113,
-    "Sha256": "413b2e063959b4be4f1fd5f23d490b7966385810a9405d9b165ba1e4dd822a0a",
+    "Version": "3.4.19",
+    "Date": "26/12/2025",
+    "Size": 25777261,
+    "Sha256": "55e390949884c52a51b32f474632393bbd115856be03bade3cf2c6057a2267a5",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.18/SQLiteStudio-3.4.18-windows-x64-installer.exe"
+    "URI": "https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.19/SQLiteStudio-3.4.19-windows-x64-installer.exe"
   },
   {
-    "Version": "3.4.18",
-    "Date": "5/12/2025",
-    "Size": 25442664,
-    "Sha256": "83ea20b41487ad9a15eab052a5fb7fe32e874292f251dd3e02281c4a74d6178f",
+    "Version": "3.4.19",
+    "Date": "26/12/2025",
+    "Size": 25442275,
+    "Sha256": "1977672c943182101553fc9ee7dfe07e9f26196ffd0cb8e11c610406cdbc4b1c",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.18/SQLiteStudio-3.4.18-windows-x86-installer.exe"
+    "URI": "https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.19/SQLiteStudio-3.4.19-windows-x86-installer.exe"
   }
 ]
