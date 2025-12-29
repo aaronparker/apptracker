@@ -3,7 +3,7 @@ title: Windscribe VPN Client
 layout: default
 nav_order: 2
 parent: W
-last_modified_date: 29/12/2025 11:34:53 AM
+last_modified_date: 29/12/2025 1:29:03 PM
 ---
 
 ## Windscribe VPN Client
