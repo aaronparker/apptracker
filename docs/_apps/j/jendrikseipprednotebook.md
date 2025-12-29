@@ -3,7 +3,7 @@ title: Jendrik Seipp RedNotebook
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 28/12/2025 1:25:13 PM
+last_modified_date: 29/12/2025 11:34:53 AM
 ---
 
 ## Jendrik Seipp RedNotebook
@@ -14,6 +14,6 @@ Evergreen app: `JendrikSeippRedNotebook`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                  |
-| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2.41    | 28/8/2025 | 25640981 | fe6c83b08978cc8943be6d312c1c51e7d028dd6918b692e87c1b257ca218bf60 | x86          | Default       | exe  | [https://github.com/jendrikseipp/rednotebook/releases/download/v2.41/rednotebook-2.41.exe](https://github.com/jendrikseipp/rednotebook/releases/download/v2.41/rednotebook-2.41.exe) |
+| Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                  |
+| ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2.42    | 28/12/2025 | 25493240 | 232b5f90edf43a90ed6bc81ddf3a0efc3a3b7a9f6a2a55b57ae9c7a9b3247445 | x86          | Default       | exe  | [https://github.com/jendrikseipp/rednotebook/releases/download/v2.42/rednotebook-2.42.exe](https://github.com/jendrikseipp/rednotebook/releases/download/v2.42/rednotebook-2.42.exe) |

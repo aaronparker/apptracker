@@ -3,7 +3,7 @@ title: Weasis DICOM Viewer
 layout: default
 nav_order: 2
 parent: W
-last_modified_date: 28/12/2025 1:25:13 PM
+last_modified_date: 29/12/2025 11:34:53 AM
 ---
 
 ## Weasis DICOM Viewer
@@ -14,6 +14,6 @@ Evergreen app: `WeasisDICOMViewer`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                      |
-| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 4.6.5   | 5/10/2025 | 49410048 | e597289fee24191576d61c2fd3504a7ae67ce320f055613bb25c6161a7cbce2a | x64          | Default       | msi  | [https://github.com/nroduit/Weasis/releases/download/v4.6.5/Weasis-4.6.5-x86-64.msi](https://github.com/nroduit/Weasis/releases/download/v4.6.5/Weasis-4.6.5-x86-64.msi) |
+| Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                      |
+| ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 4.6.6   | 29/12/2025 | 49524736 | 811f0ce99f82e72c97e791e444b71c208f0a248cae034db57c8d118fe5cde75f | x64          | Default       | msi  | [https://github.com/nroduit/Weasis/releases/download/v4.6.6/Weasis-4.6.6-x86-64.msi](https://github.com/nroduit/Weasis/releases/download/v4.6.6/Weasis-4.6.6-x86-64.msi) |
