@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2.41",
-    "Date": "28/8/2025",
-    "Size": 25640981,
-    "Sha256": "fe6c83b08978cc8943be6d312c1c51e7d028dd6918b692e87c1b257ca218bf60",
+    "Version": "2.42",
+    "Date": "28/12/2025",
+    "Size": 25493240,
+    "Sha256": "232b5f90edf43a90ed6bc81ddf3a0efc3a3b7a9f6a2a55b57ae9c7a9b3247445",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/jendrikseipp/rednotebook/releases/download/v2.41/rednotebook-2.41.exe"
+    "URI": "https://github.com/jendrikseipp/rednotebook/releases/download/v2.42/rednotebook-2.42.exe"
   }
 ]

@@ -1,22 +1,12 @@
 [
   {
-    "Version": "3.16.224",
-    "Date": "17/7/2020",
-    "Size": 24207408,
-    "Sha256": null,
-    "Architecture": "x64",
-    "InstallerType": "Default",
-    "Type": "exe",
-    "URI": "https://github.com/nomacs/nomacs/releases/download/3.16.224/nomacs-setup-x64.exe"
-  },
-  {
-    "Version": "3.16.224",
-    "Date": "17/7/2020",
-    "Size": 39862272,
-    "Sha256": null,
+    "Version": "3.22.0",
+    "Date": "28/12/2025",
+    "Size": 46391296,
+    "Sha256": "909331028c43cf95f9abc437f464dd8012b1b70b2aec3febf8028b90b634498b",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/nomacs/nomacs/releases/download/3.16.224/nomacs-setup-x64.msi"
+    "URI": "https://github.com/nomacs/nomacs/releases/download/3.22.0/nomacs-setup-x64.msi"
   }
 ]
