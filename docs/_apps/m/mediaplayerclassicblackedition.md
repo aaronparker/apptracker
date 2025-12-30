@@ -3,7 +3,7 @@ title: MPC-BE Team Media Player Classic Black Edition
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 29/12/2025 1:29:03 PM
+last_modified_date: 30/12/2025 11:38:00 AM
 ---
 
 ## MPC-BE Team Media Player Classic Black Edition
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                            |
 | ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.8.8   | 26/10/2025 | 19525792 | bfe309ffd76d9e79c599d9b925eda3f75e042a3005f75da1f5768c9080e424fb | x64          | Default       | zip  | [https://github.com/Aleksoid1978/MPC-BE/releases/download/1.8.8/MPC-BE.1.8.8.x64-installer.zip](https://github.com/Aleksoid1978/MPC-BE/releases/download/1.8.8/MPC-BE.1.8.8.x64-installer.zip) |
-| 1.8.8   | 26/10/2025 | 17958357 | a94bdd7fb7004de3e921d15c5973032162a9ccd6ed42070100e7cc253b20dabd | x86          | Default       | zip  | [https://github.com/Aleksoid1978/MPC-BE/releases/download/1.8.8/MPC-BE.1.8.8.x86-installer.zip](https://github.com/Aleksoid1978/MPC-BE/releases/download/1.8.8/MPC-BE.1.8.8.x86-installer.zip) |
+| 1.8.9   | 30/12/2025 | 19665190 | 44cd976570199135d9d94af89d0dc1b7fd19c4fd95b3f8f7c0602e25a7b8dca9 | x64          | Default       | zip  | [https://github.com/Aleksoid1978/MPC-BE/releases/download/1.8.9/MPC-BE.1.8.9.x64-installer.zip](https://github.com/Aleksoid1978/MPC-BE/releases/download/1.8.9/MPC-BE.1.8.9.x64-installer.zip) |
+| 1.8.9   | 30/12/2025 | 18073495 | 0c4b77a3e12c8252ddeccdca9a3d86cceb9e44d10d5e6caeb37eaa625707f20e | x86          | Default       | zip  | [https://github.com/Aleksoid1978/MPC-BE/releases/download/1.8.9/MPC-BE.1.8.9.x86-installer.zip](https://github.com/Aleksoid1978/MPC-BE/releases/download/1.8.9/MPC-BE.1.8.9.x86-installer.zip) |
