@@ -3,7 +3,7 @@ title: Microsoft OLE DB Driver for SQL Server (latest)
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 30/12/2025 11:38:00 AM
+last_modified_date: 30/12/2025 1:28:14 PM
 ---
 
 ## Microsoft OLE DB Driver for SQL Server (latest)
