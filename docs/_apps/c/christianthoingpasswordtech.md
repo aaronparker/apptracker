@@ -3,7 +3,7 @@ title: Christian Thoing Password Tech
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: 30/12/2025 1:28:14 PM
+last_modified_date: 31/12/2025 11:40:39 AM
 ---
 
 ## Christian Thoing Password Tech
@@ -14,6 +14,6 @@ Evergreen app: `ChristianThoingPasswordTech`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                    |
-| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.5.9   | 5/10/2025 | 13802024 | 820ef45f4a47f58cbd19630d350d13817328b6829fe32018942ad2ac1a721298 | x86          | Default       | exe  | [https://github.com/cthoeing/passwordtech/releases/download/v.3.5.9/PwTech-3.5.9-Setup.exe](https://github.com/cthoeing/passwordtech/releases/download/v.3.5.9/PwTech-3.5.9-Setup.exe) |
+| Version | Date       | Size    | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                      |
+| ------- | ---------- | ------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3.5.10  | 30/12/2025 | 8944600 | 75bb4c4149eae208a6f029dc7907f5b0522390d34fd1a606bac1f182f0fd73eb | x86          | Default       | exe  | [https://github.com/cthoeing/passwordtech/releases/download/v3.5.10/PwTech-3.5.10-Setup.exe](https://github.com/cthoeing/passwordtech/releases/download/v3.5.10/PwTech-3.5.10-Setup.exe) |
