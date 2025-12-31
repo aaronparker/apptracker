@@ -3,7 +3,7 @@ title: Adobe Brackets
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 31/12/2025 11:40:39 AM
+last_modified_date: 31/12/2025 1:26:16 PM
 ---
 
 ## Adobe Brackets

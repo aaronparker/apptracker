@@ -3,7 +3,7 @@ title: Checkmarx Zed Attack Proxy
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: 31/12/2025 11:40:39 AM
+last_modified_date: 31/12/2025 1:26:16 PM
 ---
 
 ## Checkmarx Zed Attack Proxy
