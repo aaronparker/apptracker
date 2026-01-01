@@ -131,11 +131,3 @@ jobs:
             commit_message: "Update docs ${{ steps.get-date.outputs.date }}.${{ github.run_number }} ${{ github.job }}"
             commit_user_name: ${{ secrets.COMMIT_NAME }}
             commit_user_email: ${{ secrets.COMMIT_EMAIL }}
-
-        - name: "Run if changes have been detected"
-          if: steps.commit.outputs.changes_detected == 'true'
-          run: echo "Changes committed."
-
-        - name: "Run if no changes have been detected"
-          if: steps.commit.outputs.changes_detected == 'false'
-          run: echo "No changes detected."
