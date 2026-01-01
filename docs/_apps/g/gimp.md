@@ -3,7 +3,7 @@ title: GIMP
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 01/01/2026 6:56:45 AM
+last_modified_date: 01/01/2026 11:36:31 AM
 ---
 
 ## GIMP
@@ -14,6 +14,6 @@ Evergreen app: `Gimp`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Revision | Date      | Channel | Sha256                                                           | URI                                                                                                                                                        |
-| ------- | -------- | --------- | ------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.0.6   | 1        | 7/10/2025 | Stable  | 1521ae318ff176d3d428279d52ff5abdf328ddf8644b48de75684e55e1057167 | [https://paducahix.mm.fcix.net/gimp/gimp/v3.0/windows/gimp-3.0.6-setup-1.exe](https://paducahix.mm.fcix.net/gimp/gimp/v3.0/windows/gimp-3.0.6-setup-1.exe) |
+| Version | Revision | Date      | Channel | Sha256                                                           | URI                                                                                                                                                  |
+| ------- | -------- | --------- | ------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3.0.6   | 1        | 7/10/2025 | Stable  | 1521ae318ff176d3d428279d52ff5abdf328ddf8644b48de75684e55e1057167 | [https://volico.mm.fcix.net/gimp/gimp/v3.0/windows/gimp-3.0.6-setup-1.exe](https://volico.mm.fcix.net/gimp/gimp/v3.0/windows/gimp-3.0.6-setup-1.exe) |

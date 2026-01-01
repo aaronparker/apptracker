@@ -3,7 +3,7 @@ title: Microsoft Virtual Desktop Optimization Tool
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 01/01/2026 6:56:45 AM
+last_modified_date: 01/01/2026 11:36:31 AM
 ---
 
 ## Microsoft Virtual Desktop Optimization Tool

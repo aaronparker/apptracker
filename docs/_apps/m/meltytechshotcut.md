@@ -3,7 +3,7 @@ title: Meltytech Shotcut
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 01/01/2026 6:56:45 AM
+last_modified_date: 01/01/2026 11:36:31 AM
 ---
 
 ## Meltytech Shotcut
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version  | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                  |
 | -------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 25.12.30 | 30/12/2025 | 105518304 | 75ca827d193dd14eb0c97c8e83438249c7e048f22e208ffcae5a5f0244ce5847 | ARM64        | Default       | exe  | [https://github.com/mltframework/shotcut/releases/download/v25.12.30/shotcut-win_ARM-25.12.30.exe](https://github.com/mltframework/shotcut/releases/download/v25.12.30/shotcut-win_ARM-25.12.30.exe) |
-| 25.12.30 | 30/12/2025 | 140476904 | abefd24bf3652fdf01cc211128a04a2f702656fb39d58d713c6071c0e17d36db | x64          | Default       | exe  | [https://github.com/mltframework/shotcut/releases/download/v25.12.30/shotcut-win64-25.12.30.exe](https://github.com/mltframework/shotcut/releases/download/v25.12.30/shotcut-win64-25.12.30.exe)     |
+| 25.12.31 | 31/12/2025 | 107066632 | d6dc0177e35809c17ff4282285d25d3562f2ee739cbd2b54f351942cd28f8356 | ARM64        | Default       | exe  | [https://github.com/mltframework/shotcut/releases/download/v25.12.31/shotcut-win_ARM-25.12.31.exe](https://github.com/mltframework/shotcut/releases/download/v25.12.31/shotcut-win_ARM-25.12.31.exe) |
+| 25.12.31 | 31/12/2025 | 140468752 | 69d3dfc93c5a226f539a7fa90d8ec74b8d4230657f7d4f97e15830be57f951c3 | x64          | Default       | exe  | [https://github.com/mltframework/shotcut/releases/download/v25.12.31/shotcut-win64-25.12.31.exe](https://github.com/mltframework/shotcut/releases/download/v25.12.31/shotcut-win64-25.12.31.exe)     |
