@@ -30,42 +30,46 @@ jobs:
             git config --global core.safecrlf false
             git pull origin main
 
-        - name: Download changed files artifacts
-          uses: actions/download-artifact@v7
-          with:
-            pattern: changed-files-*
-            path: artifacts
-            merge-multiple: true
-          continue-on-error: true
-
-        - name: Process changed files list
+        - name: Query changed JSON files via GitHub API
           id: changed-files
           shell: pwsh
           run: |
             $ChangedFiles = @()
+            $JsonDir = "json"
             
-            # Check for artifacts from both workflows
-            $ArtifactFiles = @("artifacts/changed-files-pwsh.txt", "artifacts/changed-files-hosted.txt")
+            # Get all JSON files in the json directory
+            $AllJsonFiles = Get-ChildItem -Path "${{ github.workspace }}/$JsonDir" -Filter "*.json" -File | Select-Object -ExpandProperty Name
+            Write-Host "Found $($AllJsonFiles.Count) total JSON files"
             
-            foreach ($File in $ArtifactFiles) {
-              if (Test-Path -Path $File) {
-                $Content = Get-Content $File -ErrorAction SilentlyContinue
-                if ($Content -and $Content -ne "No files changed") {
-                  $ChangedFiles += $Content
+            # For each JSON file, get the last commit that modified it
+            foreach ($JsonFile in $AllJsonFiles) {
+              try {
+                # Get the most recent commit for this file
+                $commitInfo = & git log -1 --format="%H|%aI" -- "$JsonDir/$JsonFile"
+                
+                if ($commitInfo) {
+                  $parts = $commitInfo -split '\|'
+                  $commitHash = $parts[0]
+                  $commitDate = $parts[1]
+                  
+                  # Add to changed files list
+                  $ChangedFiles += "$JsonDir/$JsonFile"
+                  Write-Host "Found JSON file: $JsonDir/$JsonFile (last modified: $commitDate)"
+                } else {
+                  Write-Host "No commit history found for $JsonDir/$JsonFile"
                 }
-                Write-Host "Found artifact: $File with content: $($Content -join ', ')"
+              } catch {
+                Write-Host "Error querying commit info for $JsonDir/$JsonFile : $_"
               }
             }
             
-            # Remove duplicates and filter to json files only
-            $UniqueFiles = $ChangedFiles | Where-Object { $_ -like "*.json" } | Select-Object -Unique
-            
-            if ($UniqueFiles) {
-              $UniqueFiles | Out-File -FilePath "combined-changed-files.txt" -Encoding "Utf8" -Force
-              Write-Host "Combined changed files: $($UniqueFiles -join ', ')"
+            # Output the changed files
+            if ($ChangedFiles.Count -gt 0) {
+              $ChangedFiles | Out-File -FilePath "combined-changed-files.txt" -Encoding "Utf8" -Force
+              Write-Host "Found $($ChangedFiles.Count) changed JSON files"
               echo "has-changes=true" | Out-File -FilePath $Env:GITHUB_OUTPUT -Encoding utf8 -Append
             } else {
-              Write-Host "No changed files found in artifacts"
+              Write-Host "No JSON files found in json directory"
               echo "has-changes=false" | Out-File -FilePath $Env:GITHUB_OUTPUT -Encoding utf8 -Append
             }
 

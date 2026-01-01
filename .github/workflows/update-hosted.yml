@@ -40,35 +40,6 @@ jobs:
           }
           . "${{ github.workspace }}/scripts/Update-JsonHosted.ps1" @params
 
-      # Save list of changed files for docs workflow
-      - name: Save changed files list
-        shell: pwsh
-        working-directory: ${{ github.workspace }}
-        run: |
-          # Check for modified and untracked JSON files
-          $files = @(git status --porcelain json/*.json | ForEach-Object {
-            $line = $_.Trim()
-            if ($line -match '^\s*[MA?]\s+(.+\.json)$') {
-              $matches[1]
-            }
-          })
-          
-          if ($files.Count -gt 0) {
-            $files | Out-File -FilePath "changed-files-hosted.txt" -Encoding "Utf8" -Force
-            Write-Host "Saved $($files.Count) changed files to changed-files-hosted.txt"
-            $files | ForEach-Object { Write-Host " - $_" }
-          } else {
-            "No files changed" | Out-File -FilePath "changed-files-hosted.txt" -Encoding "Utf8" -Force
-            Write-Host "No files changed"
-          }
-
-      - name: Upload changed files list
-        uses: actions/upload-artifact@v6
-        with:
-          name: changed-files-hosted
-          path: changed-files-hosted.txt
-          retention-days: 1
-
       # Format the date number for the commit message
       - name: Get date
         id: get-date
