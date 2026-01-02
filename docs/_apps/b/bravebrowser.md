@@ -3,7 +3,7 @@ title: Brave Software Brave Browser
 layout: default
 nav_order: 2
 parent: B
-last_modified_date: 02/01/2026 11:36:40 AM
+last_modified_date: 02/01/2026 1:26:23 PM
 ---
 
 ## Brave Software Brave Browser
