@@ -3,7 +3,7 @@ title: KiCad KiCad
 layout: default
 nav_order: 2
 parent: K
-last_modified_date: 01/01/2026 1:26:54 PM
+last_modified_date: 02/01/2026 11:36:40 AM
 ---
 
 ## KiCad KiCad
@@ -14,7 +14,7 @@ Evergreen app: `KiCad`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Date       | Size       | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                        |
-| ------- | ---------- | ---------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 9.0.6   | 30/10/2025 | 1092934968 | ab6a8ce081bfc021385e2dea056d264992880492f5ed7214467db9d2e07f58fa | ARM64        | Default       | exe  | [https://github.com/KiCad/kicad-source-mirror/releases/download/9.0.6/kicad-9.0.6-arm64.exe](https://github.com/KiCad/kicad-source-mirror/releases/download/9.0.6/kicad-9.0.6-arm64.exe)   |
-| 9.0.6   | 30/10/2025 | 1118335904 | f75347945e092df7615d2a3d3acd41d868d13f3b9be031ed00ecdf1c79f9e96c | x64          | Default       | exe  | [https://github.com/KiCad/kicad-source-mirror/releases/download/9.0.6/kicad-9.0.6-x86_64.exe](https://github.com/KiCad/kicad-source-mirror/releases/download/9.0.6/kicad-9.0.6-x86_64.exe) |
+| Version | Date     | Size       | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                        |
+| ------- | -------- | ---------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 9.0.7   | 1/1/2026 | 1093811048 | 8529fbd8a88b9aafdd71adfaae04f1dfd218a1817fff11ace66eee94f856c86e | ARM64        | Default       | exe  | [https://github.com/KiCad/kicad-source-mirror/releases/download/9.0.7/kicad-9.0.7-arm64.exe](https://github.com/KiCad/kicad-source-mirror/releases/download/9.0.7/kicad-9.0.7-arm64.exe)   |
+| 9.0.7   | 1/1/2026 | 1119195048 | f0a5e6f14633efeddfe1e1f6467a0d36454c51e3bfae313a6132baf2141f74aa | x64          | Default       | exe  | [https://github.com/KiCad/kicad-source-mirror/releases/download/9.0.7/kicad-9.0.7-x86_64.exe](https://github.com/KiCad/kicad-source-mirror/releases/download/9.0.7/kicad-9.0.7-x86_64.exe) |
