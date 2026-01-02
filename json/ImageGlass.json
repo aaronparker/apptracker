@@ -1,12 +1,12 @@
 [
   {
-    "Version": "9.4.0.1120",
-    "Date": "13/12/2025",
-    "Size": 143330816,
-    "Sha256": "84612aaee7699622bdccdbc1c898ace11a8298b728002a6e6015b3539564c03b",
+    "Version": "9.4.1.15",
+    "Date": "2/1/2026",
+    "Size": 143387648,
+    "Sha256": "a3babee57a462caf8ffc6431bcdfd4779c353713e9276e002f9e0737075adf64",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/d2phap/ImageGlass/releases/download/9.4.0.1120/ImageGlass_9.4.0.1120_x64.msi"
+    "URI": "https://github.com/d2phap/ImageGlass/releases/download/9.4.1.15/ImageGlass_9.4.1.15_x64.msi"
   }
 ]
