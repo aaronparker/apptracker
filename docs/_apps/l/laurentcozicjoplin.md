@@ -3,7 +3,7 @@ title: Laurent Cozic Joplin
 layout: default
 nav_order: 2
 parent: L
-last_modified_date: 02/01/2026 1:26:23 PM
+last_modified_date: 03/01/2026 11:40:42 AM
 ---
 
 ## Laurent Cozic Joplin

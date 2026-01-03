@@ -3,7 +3,7 @@ title: Wiretrustee Netbird
 layout: default
 nav_order: 2
 parent: W
-last_modified_date: 02/01/2026 1:26:23 PM
+last_modified_date: 03/01/2026 11:40:42 AM
 ---
 
 ## Wiretrustee Netbird
@@ -14,9 +14,9 @@ Evergreen app: `WiretrusteeNetbird`. Found **4** installers.
 
 Last check: 🟢
 
-| Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                    |
-| ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0.61.0  | 29/12/2025 | 18549984 | 8f9f617a437499b9e949e7fdc06ca562731fd93aba1ed7ceadcf07f6a2f49e6a | ARM64        | Default       | exe  | [https://github.com/netbirdio/netbird/releases/download/v0.61.0/netbird_installer_0.61.0_windows_arm64.exe](https://github.com/netbirdio/netbird/releases/download/v0.61.0/netbird_installer_0.61.0_windows_arm64.exe) |
-| 0.61.0  | 29/12/2025 | 31104248 | a8cdc3d901329dc898d694495bf1ca363aa2247bc2734f56ee00843d5e258654 | x64          | Default       | exe  | [https://github.com/netbirdio/netbird/releases/download/v0.61.0/netbird_installer_0.61.0_windows_amd64.exe](https://github.com/netbirdio/netbird/releases/download/v0.61.0/netbird_installer_0.61.0_windows_amd64.exe) |
-| 0.61.0  | 29/12/2025 | 21995520 | 875deac00a442251fb8472399c6e4bc9fdfc05640772ba3db33d579add5ee5c6 | ARM64        | Default       | msi  | [https://github.com/netbirdio/netbird/releases/download/v0.61.0/netbird_installer_0.61.0_windows_arm64.msi](https://github.com/netbirdio/netbird/releases/download/v0.61.0/netbird_installer_0.61.0_windows_arm64.msi) |
-| 0.61.0  | 29/12/2025 | 36175872 | 79c9ef797e7029daae4e54e9b9060c5c10b84f62b1aa859be17ecfeb3441e41c | x64          | Default       | msi  | [https://github.com/netbirdio/netbird/releases/download/v0.61.0/netbird_installer_0.61.0_windows_amd64.msi](https://github.com/netbirdio/netbird/releases/download/v0.61.0/netbird_installer_0.61.0_windows_amd64.msi) |
+| Version | Date     | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                    |
+| ------- | -------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0.61.1  | 3/1/2026 | 18556888 | 4fd7ad93721abb133ae37d95d3bec7273057ddcf869c32e5eaaffe2198531359 | ARM64        | Default       | exe  | [https://github.com/netbirdio/netbird/releases/download/v0.61.1/netbird_installer_0.61.1_windows_arm64.exe](https://github.com/netbirdio/netbird/releases/download/v0.61.1/netbird_installer_0.61.1_windows_arm64.exe) |
+| 0.61.1  | 3/1/2026 | 31097896 | 05670534baeb066fcf4223aff2f9ca8e789c461c42c22696386c06fdf9b4e767 | x64          | Default       | exe  | [https://github.com/netbirdio/netbird/releases/download/v0.61.1/netbird_installer_0.61.1_windows_amd64.exe](https://github.com/netbirdio/netbird/releases/download/v0.61.1/netbird_installer_0.61.1_windows_amd64.exe) |
+| 0.61.1  | 3/1/2026 | 21995520 | c715bc08462da167f404e37bcf4d8945168a75585c99ae2487b52558961c0c3f | ARM64        | Default       | msi  | [https://github.com/netbirdio/netbird/releases/download/v0.61.1/netbird_installer_0.61.1_windows_arm64.msi](https://github.com/netbirdio/netbird/releases/download/v0.61.1/netbird_installer_0.61.1_windows_arm64.msi) |
+| 0.61.1  | 3/1/2026 | 36155392 | 9736c8487ec82cc909fbdd5b6e7e87613f99dd6c81f770eefdcddf23d88d31e2 | x64          | Default       | msi  | [https://github.com/netbirdio/netbird/releases/download/v0.61.1/netbird_installer_0.61.1_windows_amd64.msi](https://github.com/netbirdio/netbird/releases/download/v0.61.1/netbird_installer_0.61.1_windows_amd64.msi) |
