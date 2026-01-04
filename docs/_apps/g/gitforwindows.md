@@ -3,7 +3,7 @@ title: Git for Windows
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 04/01/2026 11:33:53 AM
+last_modified_date: 04/01/2026 1:25:21 PM
 ---
 
 ## Git for Windows
