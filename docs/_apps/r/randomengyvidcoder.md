@@ -3,7 +3,7 @@ title: RandomEngy VidCoder
 layout: default
 nav_order: 2
 parent: R
-last_modified_date: 04/01/2026 1:25:21 PM
+last_modified_date: 05/01/2026 11:37:46 AM
 ---
 
 ## RandomEngy VidCoder
@@ -14,7 +14,7 @@ Evergreen app: `RandomEngyVidCoder`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                        |
-| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 12.12   | 3/11/2025 | 88689520 | cd955820e73bc419a82086f7784ede81c2d8290a41ed4735ad4dfaed0baf3c58 | x86          | Portable      | exe  | [https://github.com/RandomEngy/VidCoder/releases/download/v12.12/VidCoder-12.12-Portable.exe](https://github.com/RandomEngy/VidCoder/releases/download/v12.12/VidCoder-12.12-Portable.exe) |
-| 12.12   | 3/11/2025 | 46438760 | 460c38bf5e337661733e4d31c9b92eb36e5954bf0f55317896212dd988750b9b | x86          | Default       | exe  | [https://github.com/RandomEngy/VidCoder/releases/download/v12.12/VidCoder-12.12.exe](https://github.com/RandomEngy/VidCoder/releases/download/v12.12/VidCoder-12.12.exe)                   |
+| Version | Date     | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                        |
+| ------- | -------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 12.13   | 4/1/2026 | 88648760 | 045a4f46350211a33902299ca33c59d987eb0eb6a9395bbd36bb69b4031c9a20 | x86          | Portable      | exe  | [https://github.com/RandomEngy/VidCoder/releases/download/v12.13/VidCoder-12.13-Portable.exe](https://github.com/RandomEngy/VidCoder/releases/download/v12.13/VidCoder-12.13-Portable.exe) |
+| 12.13   | 4/1/2026 | 46405480 | 8ed835e622e341ca1aca36241b8956fc41cfa5449558a8242d6961276592542b | x86          | Default       | exe  | [https://github.com/RandomEngy/VidCoder/releases/download/v12.13/VidCoder-12.13.exe](https://github.com/RandomEngy/VidCoder/releases/download/v12.13/VidCoder-12.13.exe)                   |
