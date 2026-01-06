@@ -3,7 +3,7 @@ title: Grafana Labs Grafana k6
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 05/01/2026 1:30:45 PM
+last_modified_date: 06/01/2026 11:38:38 AM
 ---
 
 ## Grafana Labs Grafana k6
@@ -14,6 +14,6 @@ Evergreen app: `Grafanak6`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                      |
-| ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1.4.2   | 24/11/2025 | 31555584 | 15fdc6a81eae73beb37e72aded558d8974e595aff1e0414498d85b7669b15d3f | x64          | Default       | msi  | [https://github.com/grafana/k6/releases/download/v1.4.2/k6-v1.4.2-windows-amd64.msi](https://github.com/grafana/k6/releases/download/v1.4.2/k6-v1.4.2-windows-amd64.msi) |
+| Version | Date     | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                      |
+| ------- | -------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1.5.0   | 5/1/2026 | 32460800 | daeeb2f7edd63d5d0e7e6bf32c9096abb1bd6b2a33b4f02cfb6e3752be992b80 | x64          | Default       | msi  | [https://github.com/grafana/k6/releases/download/v1.5.0/k6-v1.5.0-windows-amd64.msi](https://github.com/grafana/k6/releases/download/v1.5.0/k6-v1.5.0-windows-amd64.msi) |

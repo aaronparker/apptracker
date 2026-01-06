@@ -3,7 +3,7 @@ title: Cendio ThinLinc
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: 05/01/2026 1:30:45 PM
+last_modified_date: 06/01/2026 11:38:38 AM
 ---
 
 ## Cendio ThinLinc
@@ -12,7 +12,10 @@ last_modified_date: 05/01/2026 1:30:45 PM
 
 Evergreen app: `CendioThinLinc`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+You cannot call a method on a null-valued expression.
+```
 
 | Version | URI                                                                                                                                            |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
