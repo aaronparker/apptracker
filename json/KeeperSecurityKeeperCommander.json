@@ -1,12 +1,12 @@
 [
   {
-    "Version": "17.2.2",
+    "Version": "17.2.3",
     "Date": "5/1/2026",
-    "Size": 65346248,
-    "Sha256": "a329b8b238c80d2c35fed3b4c5945abe03ba10e5756cee936fc4cd33f0ab2a7e",
+    "Size": 65337408,
+    "Sha256": "2a17609bad44a0e304f9fbad7b2fd021f57f4d5460bc4701ca9dba7471acd91c",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Keeper-Security/Commander/releases/download/v17.2.2/keeper-commander-windows-v17.2.2.exe"
+    "URI": "https://github.com/Keeper-Security/Commander/releases/download/v17.2.3/keeper-commander-windows-v17.2.3.exe"
   }
 ]

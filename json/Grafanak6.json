@@ -1,12 +1,12 @@
 [
   {
-    "Version": "1.4.2",
-    "Date": "24/11/2025",
-    "Size": 31555584,
-    "Sha256": "15fdc6a81eae73beb37e72aded558d8974e595aff1e0414498d85b7669b15d3f",
+    "Version": "1.5.0",
+    "Date": "5/1/2026",
+    "Size": 32460800,
+    "Sha256": "daeeb2f7edd63d5d0e7e6bf32c9096abb1bd6b2a33b4f02cfb6e3752be992b80",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/grafana/k6/releases/download/v1.4.2/k6-v1.4.2-windows-amd64.msi"
+    "URI": "https://github.com/grafana/k6/releases/download/v1.5.0/k6-v1.5.0-windows-amd64.msi"
   }
 ]
