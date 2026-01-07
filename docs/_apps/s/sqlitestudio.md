@@ -3,7 +3,7 @@ title: sqlitestudio.pl SQLiteStudio
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: 06/01/2026 1:28:50 PM
+last_modified_date: 07/01/2026 11:37:56 AM
 ---
 
 ## sqlitestudio.pl SQLiteStudio
@@ -14,7 +14,7 @@ Evergreen app: `SQLiteStudio`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                                      |
-| ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.4.19  | 26/12/2025 | 25777261 | 55e390949884c52a51b32f474632393bbd115856be03bade3cf2c6057a2267a5 | x64          | Default       | exe  | [https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.19/SQLiteStudio-3.4.19-windows-x64-installer.exe](https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.19/SQLiteStudio-3.4.19-windows-x64-installer.exe) |
-| 3.4.19  | 26/12/2025 | 25442275 | 1977672c943182101553fc9ee7dfe07e9f26196ffd0cb8e11c610406cdbc4b1c | x86          | Default       | exe  | [https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.19/SQLiteStudio-3.4.19-windows-x86-installer.exe](https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.19/SQLiteStudio-3.4.19-windows-x86-installer.exe) |
+| Version | Date     | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                                      |
+| ------- | -------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3.4.20  | 6/1/2026 | 25782679 | be90cbd17d9baa0f9c84f0a9c9034a840c2c19bf92f239dfa063a7a3bc06e976 | x64          | Default       | exe  | [https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.20/SQLiteStudio-3.4.20-windows-x64-installer.exe](https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.20/SQLiteStudio-3.4.20-windows-x64-installer.exe) |
+| 3.4.20  | 6/1/2026 | 25445064 | 250a6c9ee0a66a062f4640b4adcc670bf7f4a0a11061547dc358d225fd9030f0 | x86          | Default       | exe  | [https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.20/SQLiteStudio-3.4.20-windows-x86-installer.exe](https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.20/SQLiteStudio-3.4.20-windows-x86-installer.exe) |

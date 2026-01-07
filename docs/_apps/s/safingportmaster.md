@@ -3,7 +3,7 @@ title: Safing Portmaster
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: 06/01/2026 1:28:50 PM
+last_modified_date: 07/01/2026 11:37:56 AM
 ---
 
 ## Safing Portmaster
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Type | Architecture | URI                                                                                                                                                                  |
 | ------- | ---- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.0.25  | exe  | x64          | [https://updates.safing.io/latest/windows_amd64/packages/portmaster-installer.exe](https://updates.safing.io/latest/windows_amd64/packages/portmaster-installer.exe) |
+| 2.1.7   | exe  | x64          | [https://updates.safing.io/latest/windows_amd64/packages/portmaster-installer.exe](https://updates.safing.io/latest/windows_amd64/packages/portmaster-installer.exe) |

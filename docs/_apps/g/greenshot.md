@@ -3,7 +3,7 @@ title: Greenshot
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 06/01/2026 1:28:50 PM
+last_modified_date: 07/01/2026 11:37:56 AM
 ---
 
 ## Greenshot
@@ -14,7 +14,7 @@ Evergreen app: `Greenshot`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Date       | Size    | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                    |
-| ------- | ---------- | ------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.3.304 | 30/10/2025 | 3967000 | 3b1450f1183d7f272bab8c36c3c093bc74711eb40dcf722852b7361e9ef297c4 | x86          | Default       | exe  | [https://github.com/greenshot/greenshot/releases/download/v1.3.304/Greenshot-INSTALLER-1.3.304-RELEASE.exe](https://github.com/greenshot/greenshot/releases/download/v1.3.304/Greenshot-INSTALLER-1.3.304-RELEASE.exe) |
-| 1.3.304 | 30/10/2025 | 3721120 | d0f08b33282c541ecd04fa267a52e4e86fec34215373f8a839ac22ba77b45632 | x86          | Portable      | zip  | [https://github.com/greenshot/greenshot/releases/download/v1.3.304/Greenshot-PORTABLE-1.3.304-RELEASE.zip](https://github.com/greenshot/greenshot/releases/download/v1.3.304/Greenshot-PORTABLE-1.3.304-RELEASE.zip)   |
+| Version | Date     | Size    | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                    |
+| ------- | -------- | ------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.3.311 | 7/1/2026 | 3967216 | 920121063699e7add04ba1dfc71d508d02c98464c36785a55e07406c95b31769 | x86          | Default       | exe  | [https://github.com/greenshot/greenshot/releases/download/v1.3.311/Greenshot-INSTALLER-1.3.311-RELEASE.exe](https://github.com/greenshot/greenshot/releases/download/v1.3.311/Greenshot-INSTALLER-1.3.311-RELEASE.exe) |
+| 1.3.311 | 7/1/2026 | 3721672 | ea60d22599bba289d5dd9f16650f34989ea40060b31c2a82ee9db3dc92293d7d | x86          | Portable      | zip  | [https://github.com/greenshot/greenshot/releases/download/v1.3.311/Greenshot-PORTABLE-1.3.311-RELEASE.zip](https://github.com/greenshot/greenshot/releases/download/v1.3.311/Greenshot-PORTABLE-1.3.311-RELEASE.zip)   |
