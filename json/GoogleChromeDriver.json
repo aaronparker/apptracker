@@ -1,19 +1,19 @@
 [
   {
-    "Version": "145.0.7617.0",
-    "Revision": "1564339",
+    "Version": "145.0.7619.0",
+    "Revision": "1564932",
     "Channel": "Canary",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/145.0.7617.0/win64/chromedriver-win64.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/145.0.7619.0/win64/chromedriver-win64.zip"
   },
   {
-    "Version": "145.0.7617.0",
-    "Revision": "1564339",
+    "Version": "145.0.7619.0",
+    "Revision": "1564932",
     "Channel": "Canary",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/145.0.7617.0/win32/chromedriver-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/145.0.7619.0/win32/chromedriver-win32.zip"
   },
   {
     "Version": "145.0.7572.2",
@@ -48,19 +48,19 @@
     "URI": "https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.31/win32/chromedriver-win32.zip"
   },
   {
-    "Version": "143.0.7499.169",
+    "Version": "143.0.7499.192",
     "Revision": "1536371",
     "Channel": "Stable",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win64/chromedriver-win64.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.192/win64/chromedriver-win64.zip"
   },
   {
-    "Version": "143.0.7499.169",
+    "Version": "143.0.7499.192",
     "Revision": "1536371",
     "Channel": "Stable",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.192/win32/chromedriver-win32.zip"
   }
 ]
