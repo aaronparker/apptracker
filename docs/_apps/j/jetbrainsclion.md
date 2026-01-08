@@ -3,7 +3,7 @@ title: JetBrains CLion
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 07/01/2026 1:30:15 PM
+last_modified_date: 08/01/2026 1:30:24 PM
 ---
 
 ## JetBrains CLion
