@@ -3,7 +3,7 @@ title: Tracker Software PDF X-Change Editor
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: 08/01/2026 1:30:24 PM
+last_modified_date: 09/01/2026 11:42:23 AM
 ---
 
 ## Tracker Software PDF X-Change Editor
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version    | Hash                                                             | Architecture | Type | URI                                                                                                            |
 | ---------- | ---------------------------------------------------------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------- |
-| 10.8.1.406 | 0167A02C1AC9436FE2AF8C933F6BDE755ED7FC4F42DB1144848BE0BFF11E3FEB | ARM64        | msi  | [https://downloads.pdf-xchange.com/EditorV10.ARM64.msi](https://downloads.pdf-xchange.com/EditorV10.ARM64.msi) |
-| 10.8.1.406 | D25B79C6F07DB7F9421CFB96301AD323EA60E72B88C75FF8D39453902707594D | x64          | msi  | [https://downloads.pdf-xchange.com/EditorV10.x64.msi](https://downloads.pdf-xchange.com/EditorV10.x64.msi)     |
-| 10.8.1.406 | 78EF18A0E2FA5685C5AAA1451F04AFC17F12B3225BAA57DB9F2D9F0CF2887066 | x86          | msi  | [https://downloads.pdf-xchange.com/EditorV10.x86.msi](https://downloads.pdf-xchange.com/EditorV10.x86.msi)     |
+| 10.8.2.407 | 889D6C84E9839BF356FA3A729C1D0405F83D27DBF13B3F541A744F9CE43DDD28 | ARM64        | msi  | [https://downloads.pdf-xchange.com/EditorV10.ARM64.msi](https://downloads.pdf-xchange.com/EditorV10.ARM64.msi) |
+| 10.8.2.407 | 6A2A943A14BD53FC63C04018AD8C04818E3B4E49A5BF67D9084720045F5E0D2B | x64          | msi  | [https://downloads.pdf-xchange.com/EditorV10.x64.msi](https://downloads.pdf-xchange.com/EditorV10.x64.msi)     |
+| 10.8.2.407 | E4259FCC1AAC8F356EE9C73817959E7A9EB6072C47E1ECF1CF76E93846150BF9 | x86          | msi  | [https://downloads.pdf-xchange.com/EditorV10.x86.msi](https://downloads.pdf-xchange.com/EditorV10.x86.msi)     |

@@ -3,7 +3,7 @@ title: 1Password 7
 layout: default
 nav_order: 2
 parent: 1
-last_modified_date: 08/01/2026 1:30:24 PM
+last_modified_date: 09/01/2026 11:42:23 AM
 ---
 
 ## 1Password 7

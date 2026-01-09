@@ -3,7 +3,7 @@ title: OCS Inventory Windows Agent
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 08/01/2026 1:30:24 PM
+last_modified_date: 09/01/2026 11:42:23 AM
 ---
 
 ## OCS Inventory Windows Agent
