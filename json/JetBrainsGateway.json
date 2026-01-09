@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2025.3",
-    "Build": "253.28294.342",
+    "Version": "2025.3.1",
+    "Build": "253.29346.239",
     "Edition": "Gateway",
-    "Sha256": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2025.3.exe.sha256",
-    "Date": "8/12/2025",
-    "Size": 241102088,
+    "Sha256": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2025.3.1.exe.sha256",
+    "Date": "8/1/2026",
+    "Size": 240543200,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2025.3.exe"
+    "URI": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2025.3.1.exe"
   }
 ]
