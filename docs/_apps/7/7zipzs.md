@@ -3,7 +3,7 @@ title: 7-Zip ZS
 layout: default
 nav_order: 2
 parent: 7
-last_modified_date: 10/01/2026 11:35:52 AM
+last_modified_date: 10/01/2026 1:25:06 PM
 ---
 
 ## 7-Zip ZS
@@ -12,10 +12,7 @@ last_modified_date: 10/01/2026 11:35:52 AM
 
 Evergreen app: `7ZipZS`. Found **6** installers.
 
-Last check: 🔴
-```
-Output from last run on PowerShell Core was null.
-```
+Last check: 🟢
 
 | Version | Date       | Size    | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                      |
 | ------- | ---------- | ------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
