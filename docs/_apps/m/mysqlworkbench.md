@@ -3,7 +3,7 @@ title: mySQL Workbench
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 11/01/2026 11:36:10 AM
+last_modified_date: 11/01/2026 1:25:19 PM
 ---
 
 ## mySQL Workbench
