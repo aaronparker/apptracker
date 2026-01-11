@@ -3,7 +3,7 @@ title: Jörgen Persson LGTV Companion
 layout: default
 nav_order: 2
 parent: L
-last_modified_date: 10/01/2026 1:25:06 PM
+last_modified_date: 11/01/2026 11:36:10 AM
 ---
 
 ## Jörgen Persson LGTV Companion
