@@ -3,7 +3,7 @@ title: PostgreSQL Global Development Group PostgreSQL ODBC Driver
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 12/01/2026 11:36:56 AM
+last_modified_date: 12/01/2026 1:33:30 PM
 ---
 
 ## PostgreSQL Global Development Group PostgreSQL ODBC Driver
