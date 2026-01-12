@@ -3,7 +3,7 @@ title: ACLAP Video DownloadHelper CoApp
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 11/01/2026 1:25:19 PM
+last_modified_date: 12/01/2026 11:36:56 AM
 ---
 
 ## ACLAP Video DownloadHelper CoApp
@@ -12,7 +12,10 @@ last_modified_date: 11/01/2026 1:25:19 PM
 
 Evergreen app: `ACLAPVideoDownloadHelperCoApp`. Found **4** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 404 (Not Found).
+```
 
 | Version | Date      | Size     | Sha256 | Architecture | InstallerType | Type | URI                                                                                                                                                                                                            |
 | ------- | --------- | -------- | ------ | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -3,19 +3,21 @@ title: NSClient++
 layout: default
 nav_order: 2
 parent: N
-last_modified_date: 11/01/2026 1:25:19 PM
+last_modified_date: 12/01/2026 11:36:56 AM
 ---
 
 ## NSClient++
 
 [Source](https://nsclient.org)
 
-Evergreen app: `NSClient`. Found **3** installers.
+Evergreen app: `NSClient`. Found **5** installers.
 
 Last check: 🟢
 
-| Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                |
-| ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0.10.9  | 14/12/2025 | 49836032 | c99c4e8fc00ad0544fa5e06378b03c6c3453221150f3bfbf17402e94289464fc | x64          | Default       | msi  | [https://github.com/mickem/nscp/releases/download/0.10.9/NSCP-0.10.9-x64.msi](https://github.com/mickem/nscp/releases/download/0.10.9/NSCP-0.10.9-x64.msi)                         |
-| 0.10.9  | 14/12/2025 | 39677952 | d7c0c4a0ddc8c86e5b041e3573496f3d2303a3aecf55a779756c5cbd653d2564 | x86          | Default       | msi  | [https://github.com/mickem/nscp/releases/download/0.10.9/NSCP-0.10.9-Win32.msi](https://github.com/mickem/nscp/releases/download/0.10.9/NSCP-0.10.9-Win32.msi)                     |
-| 0.10.9  | 14/12/2025 | 61906944 | 1783b43252582f73fa922cb314ebee50d0fa36826662b15a3c359c43b7bbf5ee | x86          | Default       | msi  | [https://github.com/mickem/nscp/releases/download/0.10.9/NSCP-0.10.9-Win32-legacy-xp.msi](https://github.com/mickem/nscp/releases/download/0.10.9/NSCP-0.10.9-Win32-legacy-xp.msi) |
+| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                |
+| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0.11.6  | 11/1/2026 | 9050600  | b009ee5e31cef404db28bd1e17d05568b80a6e655145e219d3eeb07641a58a6d | x64          | Default       | exe  | [https://github.com/mickem/nscp/releases/download/0.11.6/check_nsclient-0.11.6-x64.exe](https://github.com/mickem/nscp/releases/download/0.11.6/check_nsclient-0.11.6-x64.exe)     |
+| 0.11.6  | 11/1/2026 | 7007208  | 2b11c416cd2c37b08a0929c84e493e606e157b65aa94b7d81feea30e633a268e | x86          | Default       | exe  | [https://github.com/mickem/nscp/releases/download/0.11.6/check_nsclient-0.11.6-Win32.exe](https://github.com/mickem/nscp/releases/download/0.11.6/check_nsclient-0.11.6-Win32.exe) |
+| 0.11.6  | 11/1/2026 | 52588544 | a4f7bbde55d5489d7e2e09e1143a8367955c46cf6e05303c6b4c9b0ddddc9f76 | x64          | Default       | msi  | [https://github.com/mickem/nscp/releases/download/0.11.6/NSCP-0.11.6-x64.msi](https://github.com/mickem/nscp/releases/download/0.11.6/NSCP-0.11.6-x64.msi)                         |
+| 0.11.6  | 11/1/2026 | 62160896 | 2dfaf0e5ea313ff30cf69b772bf3cc88db06bb13ff839bb2d01c5414b44eb351 | x86          | Default       | msi  | [https://github.com/mickem/nscp/releases/download/0.11.6/NSCP-0.11.6-Win32-legacy-xp.msi](https://github.com/mickem/nscp/releases/download/0.11.6/NSCP-0.11.6-Win32-legacy-xp.msi) |
+| 0.11.6  | 11/1/2026 | 42008576 | 747b7b8c18a51fe1253df368ea8d41336e97f3503e5af9f88e62df2f41f6baa3 | x86          | Default       | msi  | [https://github.com/mickem/nscp/releases/download/0.11.6/NSCP-0.11.6-Win32.msi](https://github.com/mickem/nscp/releases/download/0.11.6/NSCP-0.11.6-Win32.msi)                     |

@@ -3,7 +3,7 @@ title: Nevcairiel LAV Filters
 layout: default
 nav_order: 2
 parent: N
-last_modified_date: 11/01/2026 1:25:19 PM
+last_modified_date: 12/01/2026 11:36:56 AM
 ---
 
 ## Nevcairiel LAV Filters
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                            |
 | ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0.80    | 20/6/2025 | 16207008 | 497ee31a926d55bc3112e20a282894cf182b3ffb0a36190be708a650a665a9bf | x86          | Default       | exe  | [https://github.com/Nevcairiel/LAVFilters/releases/download/0.80/LAVFilters-0.80-Installer.exe](https://github.com/Nevcairiel/LAVFilters/releases/download/0.80/LAVFilters-0.80-Installer.exe) |
+| 0.81    | 12/1/2026 | 16166680 | c00ea85173739871d2957aad3b5e0a413cc7d070d5993d3b1eb150ae91b183b3 | x86          | Default       | exe  | [https://github.com/Nevcairiel/LAVFilters/releases/download/0.81/LAVFilters-0.81-Installer.exe](https://github.com/Nevcairiel/LAVFilters/releases/download/0.81/LAVFilters-0.81-Installer.exe) |

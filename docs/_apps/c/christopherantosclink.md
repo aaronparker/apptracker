@@ -3,7 +3,7 @@ title: Christopher Antos Clink
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: 11/01/2026 1:25:19 PM
+last_modified_date: 12/01/2026 11:36:56 AM
 ---
 
 ## Christopher Antos Clink
@@ -14,6 +14,6 @@ Evergreen app: `ChristopherAntosClink`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date       | Size    | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                      |
-| ------- | ---------- | ------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.9.7   | 28/12/2025 | 2744472 | 004e5b3ebbd9d6de4f6b6cbbb761a9289af80f190a4785971dab69a21b3d4814 | x86          | Default       | exe  | [https://github.com/chrisant996/clink/releases/download/v1.9.7/clink.1.9.7.b33c45_setup.exe](https://github.com/chrisant996/clink/releases/download/v1.9.7/clink.1.9.7.b33c45_setup.exe) |
+| Version | Date      | Size    | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                      |
+| ------- | --------- | ------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.9.8   | 12/1/2026 | 2799224 | bed206f53e21a6c53ac34c599e279480983ec02be8bcbfd48d744e6e6c0122f8 | x86          | Default       | exe  | [https://github.com/chrisant996/clink/releases/download/v1.9.8/clink.1.9.8.c53f59_setup.exe](https://github.com/chrisant996/clink/releases/download/v1.9.8/clink.1.9.8.c53f59_setup.exe) |
