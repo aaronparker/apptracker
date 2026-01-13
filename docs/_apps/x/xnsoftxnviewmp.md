@@ -3,7 +3,7 @@ title: XnSoft XnView MP
 layout: default
 nav_order: 2
 parent: X
-last_modified_date: 12/01/2026 1:33:30 PM
+last_modified_date: 13/01/2026 11:38:45 AM
 ---
 
 ## XnSoft XnView MP
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                  |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------- |
-| 1.9.8   | x64          | exe  | [https://download.xnview.com/XnViewMP-win-x64.exe](https://download.xnview.com/XnViewMP-win-x64.exe) |
-| 1.9.8   | x86          | exe  | [https://download.xnview.com/XnViewMP-win.exe](https://download.xnview.com/XnViewMP-win.exe)         |
+| 1.9.9   | x64          | exe  | [https://download.xnview.com/XnViewMP-win-x64.exe](https://download.xnview.com/XnViewMP-win-x64.exe) |
+| 1.9.9   | x86          | exe  | [https://download.xnview.com/XnViewMP-win.exe](https://download.xnview.com/XnViewMP-win.exe)         |

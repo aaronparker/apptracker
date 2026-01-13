@@ -3,7 +3,7 @@ title: Obsidian
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 12/01/2026 1:33:30 PM
+last_modified_date: 13/01/2026 11:38:45 AM
 ---
 
 ## Obsidian
@@ -14,6 +14,6 @@ Evergreen app: `Obsidian`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                            |
-| ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.10.6  | 25/11/2025 | 291796608 | cf5ecd9e9d1b703186e41d938c1fefe4e06c075699de7d48e64d4ca1740d38ce | x86          | Default       | exe  | [https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/Obsidian-1.10.6.exe](https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/Obsidian-1.10.6.exe) |
+| Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                            |
+| ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.11.4  | 12/1/2026 | 296492160 | 94ea213b7fa3fe0f26e5b3c3f8c7d1a43b1fc4e7dc3948dac67b805b976312cd | x86          | Default       | exe  | [https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.4/Obsidian-1.11.4.exe](https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.4/Obsidian-1.11.4.exe) |

@@ -3,7 +3,7 @@ title: Laurent Cozic Joplin
 layout: default
 nav_order: 2
 parent: L
-last_modified_date: 12/01/2026 1:33:30 PM
+last_modified_date: 13/01/2026 11:38:45 AM
 ---
 
 ## Laurent Cozic Joplin
@@ -14,7 +14,7 @@ Evergreen app: `LaurentCozicJoplin`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Date     | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                            |
-| ------- | -------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 3.4.12  | 9/9/2025 | 230085032 | e79957677b4530514470f39b770c32abb889a2d21c66d1b6282d49f31e9a4461 | x86          | Default       | exe  | [https://github.com/laurent22/joplin/releases/download/v3.4.12/Joplin-Setup-3.4.12.exe](https://github.com/laurent22/joplin/releases/download/v3.4.12/Joplin-Setup-3.4.12.exe) |
-| 3.4.12  | 9/9/2025 | 229855288 | 9456adf4089c1c14885549c67393c9f35a9741e68888200fb339f63aaa125f06 | x86          | Portable      | exe  | [https://github.com/laurent22/joplin/releases/download/v3.4.12/JoplinPortable.exe](https://github.com/laurent22/joplin/releases/download/v3.4.12/JoplinPortable.exe)           |
+| Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                            |
+| ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 3.5.11  | 10/1/2026 | 243292088 | 220a169f40bac301d05f5cb2b421b50b7d77af5fac4e979e22c3fcf5dd5f4161 | x86          | Default       | exe  | [https://github.com/laurent22/joplin/releases/download/v3.5.11/Joplin-Setup-3.5.11.exe](https://github.com/laurent22/joplin/releases/download/v3.5.11/Joplin-Setup-3.5.11.exe) |
+| 3.5.11  | 10/1/2026 | 243065624 | 4abd69e505c274e98fb94881e822203a7e6e898069f6961d8b30a68b23b374b5 | x86          | Portable      | exe  | [https://github.com/laurent22/joplin/releases/download/v3.5.11/JoplinPortable.exe](https://github.com/laurent22/joplin/releases/download/v3.5.11/JoplinPortable.exe)           |

@@ -3,7 +3,7 @@ title: Grafana Lab Grafana Alloy
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 12/01/2026 1:33:30 PM
+last_modified_date: 13/01/2026 11:38:45 AM
 ---
 
 ## Grafana Lab Grafana Alloy
