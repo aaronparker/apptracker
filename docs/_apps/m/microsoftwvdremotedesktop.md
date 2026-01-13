@@ -3,7 +3,7 @@ title: Microsoft Remote Desktop
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 13/01/2026 11:38:45 AM
+last_modified_date: 13/01/2026 1:30:53 PM
 ---
 
 ## Microsoft Remote Desktop
@@ -12,10 +12,7 @@ last_modified_date: 13/01/2026 11:38:45 AM
 
 Evergreen app: `MicrosoftWvdRemoteDesktop`. Found **9** installers.
 
-Last check: 🔴
-```
-You cannot call a method on a null-valued expression.
-```
+Last check: 🟢
 
 | Version    | Date       | Channel | MD5                              | Sha2                                                                                                                             | Architecture | URI                                                                                                                                                                                                                                                                  |
 | ---------- | ---------- | ------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
