@@ -2,12 +2,12 @@
   {
     "Version": "6.0.5",
     "Date": "28/11/2025",
-    "Size": 24394090,
-    "Sha256": "9b32a3f3f91dbff8bed00c9dbf441a94588a1e50aed784907ce80d97014021cf",
+    "Size": 24334336,
+    "Sha256": "1a1f358f5e6b25ffa70ebdc87622ac96dc99690fc25e43a1d7fd1127ab579235",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v6.0.5/GitExtensions-arm64-6.0.5.51-9be098b.msi"
+    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v6.0.5/GitExtensions-arm64-6.0.5.55-e6e95bf.msi"
   },
   {
     "Version": "6.0.5",
@@ -22,12 +22,12 @@
   {
     "Version": "6.0.5",
     "Date": "28/11/2025",
-    "Size": 17968425,
-    "Sha256": "861bbe4a5cf41f9d2913274e16cd03ee6e49a32c45bee04922cde5ef493e9fa4",
+    "Size": 18063209,
+    "Sha256": "27f28e67aa349039635dfaa47ea7866354d5c6deb879e9e8d58568262dba1209",
     "Architecture": "ARM64",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v6.0.5/GitExtensions-Portable-arm64-6.0.5.51-9be098b.zip"
+    "URI": "https://github.com/gitextensions/gitextensions/releases/download/v6.0.5/GitExtensions-Portable-arm64-6.0.5.55-e6e95bf.zip"
   },
   {
     "Version": "6.0.5",
