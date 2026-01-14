@@ -3,7 +3,7 @@ title: Eugene Pankov Tabby
 layout: default
 nav_order: 2
 parent: E
-last_modified_date: 13/01/2026 1:30:53 PM
+last_modified_date: 14/01/2026 11:39:01 AM
 ---
 
 ## Eugene Pankov Tabby
@@ -14,7 +14,7 @@ Evergreen app: `EugenePankovTabby`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                  |
-| ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1.0.229 | 11/11/2025 | 125613080 | 22eb190b62c28aeb61df90f5614da6540cb860530440b781c68603e87050ecd1 | ARM64        | Default       | exe  | [https://github.com/Eugeny/tabby/releases/download/v1.0.229/tabby-1.0.229-setup-arm64.exe](https://github.com/Eugeny/tabby/releases/download/v1.0.229/tabby-1.0.229-setup-arm64.exe) |
-| 1.0.229 | 11/11/2025 | 123800872 | 2b18c689f6c9c2770268d22878b77f3d53a8b30089921dcef663325b7da7dcd3 | x64          | Default       | exe  | [https://github.com/Eugeny/tabby/releases/download/v1.0.229/tabby-1.0.229-setup-x64.exe](https://github.com/Eugeny/tabby/releases/download/v1.0.229/tabby-1.0.229-setup-x64.exe)     |
+| Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                  |
+| ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1.0.230 | 13/1/2026 | 128911120 | cf93ef0104655d95e9dbfa3ba56057b1c561e7fe5bd760ef23845382df6768c4 | ARM64        | Default       | exe  | [https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-setup-arm64.exe](https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-setup-arm64.exe) |
+| 1.0.230 | 13/1/2026 | 127063968 | 375fec6f4572852678305acde9eb844e39ea343ff77cc8f55e53b0b087ac6fb8 | x64          | Default       | exe  | [https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-setup-x64.exe](https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-setup-x64.exe)     |

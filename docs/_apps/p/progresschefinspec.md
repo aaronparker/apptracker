@@ -3,7 +3,7 @@ title: Progress Chef InSpec
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 13/01/2026 1:30:53 PM
+last_modified_date: 14/01/2026 11:39:01 AM
 ---
 
 ## Progress Chef InSpec
@@ -27,4 +27,4 @@ Last check: 🟢
 | 5.24.1  | x64          | current | 2012r2   | 8a5a3fefb7aa61829baefe9c25cd8f49f791718112d39f784fa5722cc9ca3496 | [https://packages.chef.io/files/current/inspec/5.24.1/windows/11/inspec-5.24.1-1-x64.msi](https://packages.chef.io/files/current/inspec/5.24.1/windows/11/inspec-5.24.1-1-x64.msi)     |
 | 5.24.1  | x64          | current | 2016     | 8a5a3fefb7aa61829baefe9c25cd8f49f791718112d39f784fa5722cc9ca3496 | [https://packages.chef.io/files/current/inspec/5.24.1/windows/2016/inspec-5.24.1-1-x64.msi](https://packages.chef.io/files/current/inspec/5.24.1/windows/2016/inspec-5.24.1-1-x64.msi) |
 | 5.24.1  | x64          | current | 2019     | 8a5a3fefb7aa61829baefe9c25cd8f49f791718112d39f784fa5722cc9ca3496 | [https://packages.chef.io/files/current/inspec/5.24.1/windows/2019/inspec-5.24.1-1-x64.msi](https://packages.chef.io/files/current/inspec/5.24.1/windows/2019/inspec-5.24.1-1-x64.msi) |
-| 5.24.1  | x64          | current | 2022     | 8a5a3fefb7aa61829baefe9c25cd8f49f791718112d39f784fa5722cc9ca3496 | [https://packages.chef.io/files/current/inspec/5.24.1/windows/2019/inspec-5.24.1-1-x64.msi](https://packages.chef.io/files/current/inspec/5.24.1/windows/2019/inspec-5.24.1-1-x64.msi) |
+| 5.24.1  | x64          | current | 2022     | 8a5a3fefb7aa61829baefe9c25cd8f49f791718112d39f784fa5722cc9ca3496 | [https://packages.chef.io/files/current/inspec/5.24.1/windows/2022/inspec-5.24.1-1-x64.msi](https://packages.chef.io/files/current/inspec/5.24.1/windows/2022/inspec-5.24.1-1-x64.msi) |

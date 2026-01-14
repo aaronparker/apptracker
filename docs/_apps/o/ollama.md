@@ -3,7 +3,7 @@ title: Ollama
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 13/01/2026 1:30:53 PM
+last_modified_date: 14/01/2026 11:39:01 AM
 ---
 
 ## Ollama
@@ -14,6 +14,6 @@ Evergreen app: `Ollama`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date       | Size       | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                      |
-| ------- | ---------- | ---------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0.13.5  | 18/12/2025 | 1259721808 | 0d9f4bdb263c0f4a0657e57141771884dc4ad17051bb8d6e5a81dc44388a039f | x86          | Default       | exe  | [https://github.com/ollama/ollama/releases/download/v0.13.5/OllamaSetup.exe](https://github.com/ollama/ollama/releases/download/v0.13.5/OllamaSetup.exe) |
+| Version | Date      | Size       | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                      |
+| ------- | --------- | ---------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0.14.0  | 13/1/2026 | 1262004560 | ca752e0c9303b730eda730755374a319b9db4a33ea6a95b2ee5c306e489e0a02 | x86          | Default       | exe  | [https://github.com/ollama/ollama/releases/download/v0.14.0/OllamaSetup.exe](https://github.com/ollama/ollama/releases/download/v0.14.0/OllamaSetup.exe) |
