@@ -93,6 +93,6 @@
     "Channel": "current",
     "Platform": "2022",
     "Sha256": "8a5a3fefb7aa61829baefe9c25cd8f49f791718112d39f784fa5722cc9ca3496",
-    "URI": "https://packages.chef.io/files/current/inspec/5.24.1/windows/2019/inspec-5.24.1-1-x64.msi"
+    "URI": "https://packages.chef.io/files/current/inspec/5.24.1/windows/2022/inspec-5.24.1-1-x64.msi"
   }
 ]

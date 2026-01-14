@@ -1,7 +1,7 @@
 [
   {
     "Version": "5.11.0",
-    "Date": "12/1/2026",
+    "Date": "13/1/2026",
     "Size": 305453568,
     "Sha256": "294d4c3907137e789b16b15990bab64380eff5df7c7d9d0d06ec83966f36ffa0",
     "Architecture": "x64",
@@ -11,7 +11,7 @@
   },
   {
     "Version": "5.11.0",
-    "Date": "12/1/2026",
+    "Date": "13/1/2026",
     "Size": 341180416,
     "Sha256": "516c98b40fa49f2da4640b379641ac43e9ae4e72fe363f937b85b14ffe99272f",
     "Architecture": "x64",
