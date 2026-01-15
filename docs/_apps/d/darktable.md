@@ -3,7 +3,7 @@ title: The Darktable Project darktable
 layout: default
 nav_order: 2
 parent: D
-last_modified_date: 15/01/2026 11:37:04 AM
+last_modified_date: 15/01/2026 1:30:09 PM
 ---
 
 ## The Darktable Project darktable
