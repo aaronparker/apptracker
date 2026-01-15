@@ -1,12 +1,39 @@
 [
   {
-    "Version": "146.0.7633.0",
-    "StartDate": "2026-01-14T08:59:20.959059Z",
+    "Version": "146.0.7635.0",
+    "StartDate": "2026-01-15T09:30:57.729987Z",
     "EndDate": "N/A",
     "Channel": "Canary",
     "Architecture": "x64",
     "Type": "exe",
     "URI": "https://dl.google.com/update2/installers/chromesetup.exe"
+  },
+  {
+    "Version": "145.0.7632.5",
+    "StartDate": "2026-01-14T18:22:03.129863Z",
+    "EndDate": "N/A",
+    "Channel": "Beta",
+    "Architecture": "ARM64",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise_arm64.msi"
+  },
+  {
+    "Version": "145.0.7632.5",
+    "StartDate": "2026-01-14T18:22:03.129863Z",
+    "EndDate": "N/A",
+    "Channel": "Beta",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi"
+  },
+  {
+    "Version": "145.0.7632.5",
+    "StartDate": "2026-01-14T18:22:03.129863Z",
+    "EndDate": "N/A",
+    "Channel": "Beta",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
   },
   {
     "Version": "145.0.7620.3",
@@ -133,32 +160,5 @@
     "Architecture": "x86",
     "Type": "zip",
     "URI": "https://dl.google.com/dl/chrome/install/googlechromeenterprisebundle.zip"
-  },
-  {
-    "Version": "144.0.7559.59",
-    "StartDate": "2026-01-07T17:41:43.113607Z",
-    "EndDate": "N/A",
-    "Channel": "Beta",
-    "Architecture": "ARM64",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise_arm64.msi"
-  },
-  {
-    "Version": "144.0.7559.59",
-    "StartDate": "2026-01-07T17:41:43.113607Z",
-    "EndDate": "N/A",
-    "Channel": "Beta",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi"
-  },
-  {
-    "Version": "144.0.7559.59",
-    "StartDate": "2026-01-07T17:41:43.113607Z",
-    "EndDate": "N/A",
-    "Channel": "Beta",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
   }
 ]
