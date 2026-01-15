@@ -3,7 +3,7 @@ title: Microsoft FSLogix Apps
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 14/01/2026 1:30:51 PM
+last_modified_date: 15/01/2026 11:37:04 AM
 ---
 
 ## Microsoft FSLogix Apps
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Channel    | URI                                                                                                                                                                                              |
 | ------- | --------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 25.09   | 25/8/2025 | Production | [https://download.microsoft.com/download/8fc0f8ba-e928-4aa7-8b85-f6655b6a15ab/FSLogix_25.09.zip](https://download.microsoft.com/download/8fc0f8ba-e928-4aa7-8b85-f6655b6a15ab/FSLogix_25.09.zip) |
+| 26.01   | 12/1/2026 | Production | [https://download.microsoft.com/download/60d5e1c8-aacf-41c3-b215-2ca57876d064/FSLogix_26.01.zip](https://download.microsoft.com/download/60d5e1c8-aacf-41c3-b215-2ca57876d064/FSLogix_26.01.zip) |

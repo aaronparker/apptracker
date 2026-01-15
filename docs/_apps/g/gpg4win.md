@@ -3,7 +3,7 @@ title: Gpg4win
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 14/01/2026 1:30:51 PM
+last_modified_date: 15/01/2026 11:37:04 AM
 ---
 
 ## Gpg4win
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                        |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------ |
-| 4.4.1   | x86          | exe  | [https://files.gpg4win.org/gpg4win-4.4.1.exe](https://files.gpg4win.org/gpg4win-4.4.1.exe) |
+| 5.0.0   | x86          | exe  | [https://files.gpg4win.org/gpg4win-5.0.0.exe](https://files.gpg4win.org/gpg4win-5.0.0.exe) |

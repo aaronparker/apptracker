@@ -3,7 +3,7 @@ title: Anaconda
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 14/01/2026 1:30:51 PM
+last_modified_date: 15/01/2026 11:37:04 AM
 ---
 
 ## Anaconda
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Architecture | Date                | Size       | MD5                              | Sha256                                                           | URI                                                                                                                                                  |
 | ------- | ------------ | ------------------- | ---------- | -------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2025.12 | x64          | 12/09/2025 19:48:52 | 1199641816 | 6ed85f8f7bcd82c18a3bf9fe08706e67 | 09c8a69e7a717a963a9f251697473f4ea887878696c3ec4e7e454f5eabb75afe | [https://repo.anaconda.com/archive/Anaconda3-2025.12-1-Windows-x86_64.exe](https://repo.anaconda.com/archive/Anaconda3-2025.12-1-Windows-x86_64.exe) |
+| 2025.12 | x64          | 01/13/2026 17:06:18 | 1200681984 | 787a7e4b1fd170ad3472dab212d78b20 | 2e0b8e40ec7600793f116250f5c1775c866833bac32d184ad575ecc0d360a88f | [https://repo.anaconda.com/archive/Anaconda3-2025.12-2-Windows-x86_64.exe](https://repo.anaconda.com/archive/Anaconda3-2025.12-2-Windows-x86_64.exe) |

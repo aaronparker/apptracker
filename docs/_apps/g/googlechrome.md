@@ -3,7 +3,7 @@ title: Google Chrome Enterprise
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 14/01/2026 1:30:51 PM
+last_modified_date: 15/01/2026 11:37:04 AM
 ---
 
 ## Google Chrome Enterprise
@@ -16,7 +16,10 @@ Last check: 🟢
 
 | Version       | StartDate           | EndDate             | Channel  | Architecture | Type | URI                                                                                                                                                                                        |
 | ------------- | ------------------- | ------------------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 146.0.7633.0  | 01/14/2026 08:59:20 | N/A                 | Canary   | x64          | exe  | [https://dl.google.com/update2/installers/chromesetup.exe](https://dl.google.com/update2/installers/chromesetup.exe)                                                                       |
+| 146.0.7635.0  | 01/15/2026 09:30:57 | N/A                 | Canary   | x64          | exe  | [https://dl.google.com/update2/installers/chromesetup.exe](https://dl.google.com/update2/installers/chromesetup.exe)                                                                       |
+| 145.0.7632.5  | 01/14/2026 18:22:03 | N/A                 | Beta     | ARM64        | msi  | [https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise_arm64.msi](https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise_arm64.msi) |
+| 145.0.7632.5  | 01/14/2026 18:22:03 | N/A                 | Beta     | x64          | msi  | [https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi)         |
+| 145.0.7632.5  | 01/14/2026 18:22:03 | N/A                 | Beta     | x86          | msi  | [https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi](https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi)             |
 | 145.0.7620.3  | 01/09/2026 16:58:56 | 01/11/2026 07:06:03 | Dev      | x64          | msi  | [https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi)             |
 | 145.0.7620.3  | 01/09/2026 16:58:56 | 01/11/2026 07:06:03 | Dev      | x86          | msi  | [https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi](https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi)                 |
 | 144.0.7559.60 | 01/13/2026 21:22:02 | N/A                 | Extended | ARM64        | msi  | [https://dl.google.com/dl/chrome/install/extended/googlechromestandaloneenterprise_arm64.msi](https://dl.google.com/dl/chrome/install/extended/googlechromestandaloneenterprise_arm64.msi) |
@@ -31,6 +34,3 @@ Last check: 🟢
 | 144.0.7559.60 | 01/13/2026 21:22:02 | N/A                 | Stable   | x64          | zip  | [https://dl.google.com/dl/chrome/install/googlechromeenterprisebundle64.zip](https://dl.google.com/dl/chrome/install/googlechromeenterprisebundle64.zip)                                   |
 | 144.0.7559.60 | 01/13/2026 21:22:02 | N/A                 | Extended | x86          | zip  | [https://dl.google.com/dl/chrome/install/extended/googlechromeenterprisebundle.zip](https://dl.google.com/dl/chrome/install/extended/googlechromeenterprisebundle.zip)                     |
 | 144.0.7559.60 | 01/13/2026 21:22:02 | N/A                 | Stable   | x86          | zip  | [https://dl.google.com/dl/chrome/install/googlechromeenterprisebundle.zip](https://dl.google.com/dl/chrome/install/googlechromeenterprisebundle.zip)                                       |
-| 144.0.7559.59 | 01/07/2026 17:41:43 | N/A                 | Beta     | ARM64        | msi  | [https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise_arm64.msi](https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise_arm64.msi) |
-| 144.0.7559.59 | 01/07/2026 17:41:43 | N/A                 | Beta     | x64          | msi  | [https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi)         |
-| 144.0.7559.59 | 01/07/2026 17:41:43 | N/A                 | Beta     | x86          | msi  | [https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi](https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi)             |

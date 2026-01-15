@@ -3,7 +3,7 @@ title: LehrerOffice
 layout: default
 nav_order: 2
 parent: L
-last_modified_date: 14/01/2026 1:30:51 PM
+last_modified_date: 15/01/2026 11:37:04 AM
 ---
 
 ## LehrerOffice
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version  | Type | URI                                                                                                                            |
 | -------- | ---- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 2025.5.1 | Exe  | [https://cmi-bildung.ch/lo/dateien/easy/lo_desktop_windows.exe](https://cmi-bildung.ch/lo/dateien/easy/lo_desktop_windows.exe) |
+| 2025.5.2 | Exe  | [https://cmi-bildung.ch/lo/dateien/easy/lo_desktop_windows.exe](https://cmi-bildung.ch/lo/dateien/easy/lo_desktop_windows.exe) |

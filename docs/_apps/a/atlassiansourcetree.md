@@ -3,7 +3,7 @@ title: Atlassian Sourcetree
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 14/01/2026 1:30:51 PM
+last_modified_date: 15/01/2026 11:37:04 AM
 ---
 
 ## Atlassian Sourcetree
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Type | URI                                                                                                                                                                                                                        |
 | ------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.4.27  | exe  | [https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.27.exe](https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.27.exe)                     |
-| 3.4.27  | msi  | [https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourcetreeEnterpriseSetup_3.4.27.msi](https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourcetreeEnterpriseSetup_3.4.27.msi) |
+| 3.4.28  | exe  | [https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.28.exe](https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.28.exe)                     |
+| 3.4.28  | msi  | [https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourcetreeEnterpriseSetup_3.4.28.msi](https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourcetreeEnterpriseSetup_3.4.28.msi) |
