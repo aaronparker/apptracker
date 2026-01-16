@@ -1,32 +1,32 @@
 [
   {
-    "Version": "6.4.54",
-    "Date": "12/1/2026",
-    "Size": 21829065,
-    "Sha256": "bb0e8ba1d111acd5ce82249d289c8a21c747d9c1a8b4cb64e2821a314aac7781",
+    "Version": "6.4.55",
+    "Date": "15/1/2026",
+    "Size": 21828810,
+    "Sha256": "52b1e3ab6b6ab95ce5cfd771abc883d189c086f9f4cb3537506008e29f769649",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/praat/praat.github.io/releases/download/v6.4.54/praat6454_win-arm64.zip"
+    "URI": "https://github.com/praat/praat.github.io/releases/download/v6.4.55/praat6455_win-arm64.zip"
   },
   {
-    "Version": "6.4.54",
-    "Date": "12/1/2026",
-    "Size": 22995909,
-    "Sha256": "99f15522a374193163e211f6b276a618c56512bfde6ed1b4959e136a949f17e6",
+    "Version": "6.4.55",
+    "Date": "15/1/2026",
+    "Size": 22997328,
+    "Sha256": "d938d531df2ac837af03029e99820b1aa5416983991a8352eed08273e698098f",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/praat/praat.github.io/releases/download/v6.4.54/praat6454_win-intel64.zip"
+    "URI": "https://github.com/praat/praat.github.io/releases/download/v6.4.55/praat6455_win-intel64.zip"
   },
   {
-    "Version": "6.4.54",
-    "Date": "12/1/2026",
-    "Size": 23327559,
-    "Sha256": "2ea7cef3df957ae4dd62afd989d487e113ec1b9074dbf61dfdcf513e071a08f4",
+    "Version": "6.4.55",
+    "Date": "15/1/2026",
+    "Size": 23329109,
+    "Sha256": "ea2280887d7d790fe30d8dd801d1b20752147aa6d5c86ab0d3f6c23bfcb7a262",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/praat/praat.github.io/releases/download/v6.4.54/praat6454_win-intel32.zip"
+    "URI": "https://github.com/praat/praat.github.io/releases/download/v6.4.55/praat6455_win-intel32.zip"
   }
 ]

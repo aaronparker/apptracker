@@ -1,7 +1,7 @@
 [
   {
-    "Version": "146.0.7635.0",
-    "StartDate": "2026-01-15T09:30:57.729987Z",
+    "Version": "146.0.7637.0",
+    "StartDate": "2026-01-16T10:09:05.001889Z",
     "EndDate": "N/A",
     "Channel": "Canary",
     "Architecture": "x64",
@@ -56,7 +56,7 @@
   {
     "Version": "144.0.7559.60",
     "StartDate": "2026-01-13T21:22:02.246197Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-01-15T22:42:01.422812Z",
     "Channel": "Extended",
     "Architecture": "ARM64",
     "Type": "msi",
@@ -74,7 +74,7 @@
   {
     "Version": "144.0.7559.60",
     "StartDate": "2026-01-13T21:22:02.246197Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-01-15T22:42:01.422812Z",
     "Channel": "Extended",
     "Architecture": "x64",
     "Type": "msi",
@@ -92,7 +92,7 @@
   {
     "Version": "144.0.7559.60",
     "StartDate": "2026-01-13T21:22:02.246197Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-01-15T22:42:01.422812Z",
     "Channel": "Extended",
     "Architecture": "x86",
     "Type": "msi",
@@ -110,7 +110,7 @@
   {
     "Version": "144.0.7559.60",
     "StartDate": "2026-01-13T21:22:02.246197Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-01-15T22:42:01.422812Z",
     "Channel": "Extended",
     "Architecture": "ARM64",
     "Type": "zip",
@@ -128,7 +128,7 @@
   {
     "Version": "144.0.7559.60",
     "StartDate": "2026-01-13T21:22:02.246197Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-01-15T22:42:01.422812Z",
     "Channel": "Extended",
     "Architecture": "x64",
     "Type": "zip",
@@ -146,7 +146,7 @@
   {
     "Version": "144.0.7559.60",
     "StartDate": "2026-01-13T21:22:02.246197Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-01-15T22:42:01.422812Z",
     "Channel": "Extended",
     "Architecture": "x86",
     "Type": "zip",

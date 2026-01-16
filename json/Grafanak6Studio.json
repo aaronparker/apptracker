@@ -1,12 +1,12 @@
 [
   {
-    "Version": "1.9.0",
-    "Date": "25/11/2025",
-    "Size": 254789392,
-    "Sha256": "7ec3f8983f03d04074776421aa4cc534af22baa9e91a90c5613e3cee9671eadc",
+    "Version": "1.10.0",
+    "Date": "15/1/2026",
+    "Size": 197034768,
+    "Sha256": "bc396dea2ec44e6cb158bb1de17c1b5ce4c45c30b62c8f01e89ff52049b84d5e",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/grafana/k6-studio/releases/download/v1.9.0/k6.Studio-1.9.0.Setup.exe"
+    "URI": "https://github.com/grafana/k6-studio/releases/download/v1.10.0/k6.Studio-1.10.0.Setup.exe"
   }
 ]

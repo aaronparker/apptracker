@@ -1,12 +1,12 @@
 [
   {
-    "Version": "1.8.26",
-    "Date": "12/11/2025",
-    "Size": 129241088,
-    "Sha256": "b8af5a53ab726f9ae756fcfe417178665cf33e7536784e30d7eba47fd0010e5c",
+    "Version": "1.8.27",
+    "Date": "16/1/2026",
+    "Size": 129245184,
+    "Sha256": "4cf3c3a4551aab8eeffe79a86f195bd9658e886436fbb9fd1d7a51bc8e02ef70",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.8.26/quarto-1.8.26-win.msi"
+    "URI": "https://github.com/quarto-dev/quarto-cli/releases/download/v1.8.27/quarto-1.8.27-win.msi"
   }
 ]
