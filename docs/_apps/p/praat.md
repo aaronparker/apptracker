@@ -3,7 +3,7 @@ title: Praat
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 15/01/2026 1:30:09 PM
+last_modified_date: 16/01/2026 11:40:03 AM
 ---
 
 ## Praat
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                          |
 | ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 6.4.54  | 12/1/2026 | 21829065 | bb0e8ba1d111acd5ce82249d289c8a21c747d9c1a8b4cb64e2821a314aac7781 | ARM64        | Default       | zip  | [https://github.com/praat/praat.github.io/releases/download/v6.4.54/praat6454_win-arm64.zip](https://github.com/praat/praat.github.io/releases/download/v6.4.54/praat6454_win-arm64.zip)     |
-| 6.4.54  | 12/1/2026 | 22995909 | 99f15522a374193163e211f6b276a618c56512bfde6ed1b4959e136a949f17e6 | x64          | Default       | zip  | [https://github.com/praat/praat.github.io/releases/download/v6.4.54/praat6454_win-intel64.zip](https://github.com/praat/praat.github.io/releases/download/v6.4.54/praat6454_win-intel64.zip) |
-| 6.4.54  | 12/1/2026 | 23327559 | 2ea7cef3df957ae4dd62afd989d487e113ec1b9074dbf61dfdcf513e071a08f4 | x86          | Default       | zip  | [https://github.com/praat/praat.github.io/releases/download/v6.4.54/praat6454_win-intel32.zip](https://github.com/praat/praat.github.io/releases/download/v6.4.54/praat6454_win-intel32.zip) |
+| 6.4.55  | 15/1/2026 | 21828810 | 52b1e3ab6b6ab95ce5cfd771abc883d189c086f9f4cb3537506008e29f769649 | ARM64        | Default       | zip  | [https://github.com/praat/praat.github.io/releases/download/v6.4.55/praat6455_win-arm64.zip](https://github.com/praat/praat.github.io/releases/download/v6.4.55/praat6455_win-arm64.zip)     |
+| 6.4.55  | 15/1/2026 | 22997328 | d938d531df2ac837af03029e99820b1aa5416983991a8352eed08273e698098f | x64          | Default       | zip  | [https://github.com/praat/praat.github.io/releases/download/v6.4.55/praat6455_win-intel64.zip](https://github.com/praat/praat.github.io/releases/download/v6.4.55/praat6455_win-intel64.zip) |
+| 6.4.55  | 15/1/2026 | 23329109 | ea2280887d7d790fe30d8dd801d1b20752147aa6d5c86ab0d3f6c23bfcb7a262 | x86          | Default       | zip  | [https://github.com/praat/praat.github.io/releases/download/v6.4.55/praat6455_win-intel32.zip](https://github.com/praat/praat.github.io/releases/download/v6.4.55/praat6455_win-intel32.zip) |

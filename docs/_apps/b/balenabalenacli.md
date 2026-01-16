@@ -3,7 +3,7 @@ title: Balena balena CLI
 layout: default
 nav_order: 2
 parent: B
-last_modified_date: 15/01/2026 1:30:09 PM
+last_modified_date: 16/01/2026 11:40:03 AM
 ---
 
 ## Balena balena CLI
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                                  |
 | ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 23.2.23 | 15/1/2026 | 106865856 | 748d723355fd13ceb4dbb9bfe55ffbc03385c76a30e321077deff2bf74c713c4 | x64          | Default       | exe  | [https://github.com/balena-io/balena-cli/releases/download/v23.2.23/balena-cli-v23.2.23-windows-x64-installer.exe](https://github.com/balena-io/balena-cli/releases/download/v23.2.23/balena-cli-v23.2.23-windows-x64-installer.exe) |
+| 23.2.28 | 16/1/2026 | 106910608 | 94c5cb23362c47371697556f4f09866e0880920cda2083fdf9c1dbce490d0471 | x64          | Default       | exe  | [https://github.com/balena-io/balena-cli/releases/download/v23.2.28/balena-cli-v23.2.28-windows-x64-installer.exe](https://github.com/balena-io/balena-cli/releases/download/v23.2.28/balena-cli-v23.2.28-windows-x64-installer.exe) |
