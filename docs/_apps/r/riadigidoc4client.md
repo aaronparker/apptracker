@@ -3,7 +3,7 @@ title: RIA DigiDoc4 Client
 layout: default
 nav_order: 2
 parent: R
-last_modified_date: 17/01/2026 11:35:31 AM
+last_modified_date: 17/01/2026 1:24:59 PM
 ---
 
 ## RIA DigiDoc4 Client

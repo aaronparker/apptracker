@@ -3,7 +3,7 @@ title: BellSoft Liberica JDK 17 LTS
 layout: default
 nav_order: 2
 parent: B
-last_modified_date: 17/01/2026 11:35:31 AM
+last_modified_date: 17/01/2026 1:24:59 PM
 ---
 
 ## BellSoft Liberica JDK 17 LTS
