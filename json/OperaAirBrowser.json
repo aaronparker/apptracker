@@ -1,9 +1,9 @@
 [
   {
-    "Version": "125.0.5729.48",
+    "Version": "126.0.5750.38",
     "Channel": "Stable",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera_air/125.0.5729.48/win/Opera_Air_125.0.5729.48_Setup_x64.exe"
+    "URI": "https://get.geo.opera.com/pub/opera_air/126.0.5750.38/win/Opera_Air_126.0.5750.38_Setup_x64.exe"
   }
 ]

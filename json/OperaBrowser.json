@@ -1,44 +1,44 @@
 [
   {
-    "Version": "126.0.5750.11",
-    "Channel": "Beta",
-    "Architecture": "x64",
-    "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera-beta/126.0.5750.11/win/Opera_beta_126.0.5750.11_Setup_x64.exe"
-  },
-  {
-    "Version": "126.0.5750.11",
-    "Channel": "Beta",
-    "Architecture": "x86",
-    "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera-beta/126.0.5750.11/win/Opera_beta_126.0.5750.11_Setup.exe"
-  },
-  {
-    "Version": "126.0.5748.0",
+    "Version": "127.0.5776.0",
     "Channel": "Developer",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera-developer/126.0.5748.0/win/Opera_Developer_126.0.5748.0_Setup_x64.exe"
+    "URI": "https://get.geo.opera.com/pub/opera-developer/127.0.5776.0/win/Opera_Developer_127.0.5776.0_Setup_x64.exe"
   },
   {
-    "Version": "126.0.5748.0",
+    "Version": "127.0.5776.0",
     "Channel": "Developer",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera-developer/126.0.5748.0/win/Opera_Developer_126.0.5748.0_Setup.exe"
+    "URI": "https://get.geo.opera.com/pub/opera-developer/127.0.5776.0/win/Opera_Developer_127.0.5776.0_Setup.exe"
   },
   {
-    "Version": "125.0.5729.49",
+    "Version": "126.0.5750.43",
     "Channel": "Stable",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera/desktop/125.0.5729.49/win/Opera_125.0.5729.49_Setup_x64.exe"
+    "URI": "https://get.geo.opera.com/pub/opera/desktop/126.0.5750.43/win/Opera_126.0.5750.43_Setup_x64.exe"
   },
   {
-    "Version": "125.0.5729.49",
+    "Version": "126.0.5750.43",
     "Channel": "Stable",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://get.geo.opera.com/pub/opera/desktop/125.0.5729.49/win/Opera_125.0.5729.49_Setup.exe"
+    "URI": "https://get.geo.opera.com/pub/opera/desktop/126.0.5750.43/win/Opera_126.0.5750.43_Setup.exe"
+  },
+  {
+    "Version": "126.0.5750.30",
+    "Channel": "Beta",
+    "Architecture": "x64",
+    "Type": "exe",
+    "URI": "https://get.geo.opera.com/pub/opera-beta/126.0.5750.30/win/Opera_beta_126.0.5750.30_Setup_x64.exe"
+  },
+  {
+    "Version": "126.0.5750.30",
+    "Channel": "Beta",
+    "Architecture": "x86",
+    "Type": "exe",
+    "URI": "https://get.geo.opera.com/pub/opera-beta/126.0.5750.30/win/Opera_beta_126.0.5750.30_Setup.exe"
   }
 ]

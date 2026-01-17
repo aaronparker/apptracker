@@ -1,22 +1,22 @@
 [
   {
-    "Version": "5.5.3",
-    "Date": "24/12/2025",
-    "Size": 167437136,
-    "Sha256": "ea2586e4da471d3e6cee1d8977c05fc86b5fbc2dcfbf5285dd2b3b0585b88820",
+    "Version": "5.5.4",
+    "Date": "17/1/2026",
+    "Size": 167438968,
+    "Sha256": "656563f11390b9ce2e8957bb43b688f300a11d288fefdf8d0a149ad11818a189",
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.5.3/Beekeeper-Studio-5.5.3-portable.exe"
+    "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.5.4/Beekeeper-Studio-5.5.4-portable.exe"
   },
   {
-    "Version": "5.5.3",
-    "Date": "24/12/2025",
-    "Size": 167657776,
-    "Sha256": "9a6209f4ed90304544fd16e24b2ee58d24633fee5c87a45e16fb4630d122300f",
+    "Version": "5.5.4",
+    "Date": "17/1/2026",
+    "Size": 167659608,
+    "Sha256": "24281287705f4d1fa4678a241064e97e7c67543dd2f4b73d67a9113f1c7bb258",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.5.3/Beekeeper-Studio-Setup-5.5.3.exe"
+    "URI": "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.5.4/Beekeeper-Studio-Setup-5.5.4.exe"
   }
 ]
