@@ -3,7 +3,7 @@ title: Opera Air Browser
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 16/01/2026 1:29:01 PM
+last_modified_date: 17/01/2026 11:35:31 AM
 ---
 
 ## Opera Air Browser
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version       | Channel | Architecture | Type | URI                                                                                                                                                                                                |
 | ------------- | ------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 125.0.5729.48 | Stable  | x64          | exe  | [https://get.geo.opera.com/pub/opera_air/125.0.5729.48/win/Opera_Air_125.0.5729.48_Setup_x64.exe](https://get.geo.opera.com/pub/opera_air/125.0.5729.48/win/Opera_Air_125.0.5729.48_Setup_x64.exe) |
+| 126.0.5750.38 | Stable  | x64          | exe  | [https://get.geo.opera.com/pub/opera_air/126.0.5750.38/win/Opera_Air_126.0.5750.38_Setup_x64.exe](https://get.geo.opera.com/pub/opera_air/126.0.5750.38/win/Opera_Air_126.0.5750.38_Setup_x64.exe) |
