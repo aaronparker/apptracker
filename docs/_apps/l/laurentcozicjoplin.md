@@ -3,7 +3,7 @@ title: Laurent Cozic Joplin
 layout: default
 nav_order: 2
 parent: L
-last_modified_date: 17/01/2026 1:24:59 PM
+last_modified_date: 18/01/2026 11:36:26 AM
 ---
 
 ## Laurent Cozic Joplin
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                            |
 | ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 3.5.11  | 10/1/2026 | 243292088 | 220a169f40bac301d05f5cb2b421b50b7d77af5fac4e979e22c3fcf5dd5f4161 | x86          | Default       | exe  | [https://github.com/laurent22/joplin/releases/download/v3.5.11/Joplin-Setup-3.5.11.exe](https://github.com/laurent22/joplin/releases/download/v3.5.11/Joplin-Setup-3.5.11.exe) |
-| 3.5.11  | 10/1/2026 | 243065624 | 4abd69e505c274e98fb94881e822203a7e6e898069f6961d8b30a68b23b374b5 | x86          | Portable      | exe  | [https://github.com/laurent22/joplin/releases/download/v3.5.11/JoplinPortable.exe](https://github.com/laurent22/joplin/releases/download/v3.5.11/JoplinPortable.exe)           |
+| 3.5.12  | 17/1/2026 | 243315816 | 797cd5fdc2ad26090f9b8125c2a6503aa9ace7d9e0cf98fa63892af1b8ae8f57 | x86          | Default       | exe  | [https://github.com/laurent22/joplin/releases/download/v3.5.12/Joplin-Setup-3.5.12.exe](https://github.com/laurent22/joplin/releases/download/v3.5.12/Joplin-Setup-3.5.12.exe) |
+| 3.5.12  | 17/1/2026 | 243089352 | 37b1414f6a98edca9d6035af24e35c8b8c770f316676ebfb189b66894b8f61d0 | x86          | Portable      | exe  | [https://github.com/laurent22/joplin/releases/download/v3.5.12/JoplinPortable.exe](https://github.com/laurent22/joplin/releases/download/v3.5.12/JoplinPortable.exe)           |
