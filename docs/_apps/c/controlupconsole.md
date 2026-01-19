@@ -3,7 +3,7 @@ title: ControlUp Console
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: 19/01/2026 11:35:36 AM
+last_modified_date: 19/01/2026 1:32:45 PM
 ---
 
 ## ControlUp Console

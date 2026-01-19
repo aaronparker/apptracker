@@ -3,7 +3,7 @@ title: Bambulab Bambu Studio
 layout: default
 nav_order: 2
 parent: B
-last_modified_date: 19/01/2026 11:35:36 AM
+last_modified_date: 19/01/2026 1:32:45 PM
 ---
 
 ## Bambulab Bambu Studio
