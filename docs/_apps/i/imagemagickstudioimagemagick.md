@@ -3,7 +3,7 @@ title: ImageMagick Studio ImageMagick
 layout: default
 nav_order: 2
 parent: I
-last_modified_date: 18/01/2026 1:25:18 PM
+last_modified_date: 19/01/2026 11:35:36 AM
 ---
 
 ## ImageMagick Studio ImageMagick

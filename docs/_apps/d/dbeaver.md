@@ -3,7 +3,7 @@ title: dbeaver
 layout: default
 nav_order: 2
 parent: D
-last_modified_date: 18/01/2026 1:25:18 PM
+last_modified_date: 19/01/2026 11:35:36 AM
 ---
 
 ## dbeaver
@@ -14,7 +14,7 @@ Evergreen app: `dbeaver`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                |
-| ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 25.3.2  | 29/12/2025 | 109359464 | 3a7a38bba4b851b829760c7d2c13b1767d02d1bb7ace49a4df1b0d748697d326 | ARM64        | Default       | exe  | [https://github.com/dbeaver/dbeaver/releases/download/25.3.2/dbeaver-ce-25.3.2-aarch64-setup.exe](https://github.com/dbeaver/dbeaver/releases/download/25.3.2/dbeaver-ce-25.3.2-aarch64-setup.exe) |
-| 25.3.2  | 29/12/2025 | 115694344 | 1c7b7684477049b4dfc461822e0e2ed87d3f996484e2f1030478e129640a441f | x64          | Default       | exe  | [https://github.com/dbeaver/dbeaver/releases/download/25.3.2/dbeaver-ce-25.3.2-x86_64-setup.exe](https://github.com/dbeaver/dbeaver/releases/download/25.3.2/dbeaver-ce-25.3.2-x86_64-setup.exe)   |
+| Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                |
+| ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 25.3.3  | 14/1/2026 | 109470520 | c49d0a1d905962cd704357706d82965ca34eb616ba982c77eab08b4cc6bc7e60 | ARM64        | Default       | exe  | [https://github.com/dbeaver/dbeaver/releases/download/25.3.3/dbeaver-ce-25.3.3-aarch64-setup.exe](https://github.com/dbeaver/dbeaver/releases/download/25.3.3/dbeaver-ce-25.3.3-aarch64-setup.exe) |
+| 25.3.3  | 14/1/2026 | 115804800 | 0b713e66f5d66f81e167596f23879a87138086a47b5f8fa19340a7a81cd15a80 | x64          | Default       | exe  | [https://github.com/dbeaver/dbeaver/releases/download/25.3.3/dbeaver-ce-25.3.3-x86_64-setup.exe](https://github.com/dbeaver/dbeaver/releases/download/25.3.3/dbeaver-ce-25.3.3-x86_64-setup.exe)   |
