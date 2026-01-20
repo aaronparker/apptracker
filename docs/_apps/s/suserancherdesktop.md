@@ -3,7 +3,7 @@ title: SUSE Rancher Desktop
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: 19/01/2026 1:32:45 PM
+last_modified_date: 20/01/2026 11:37:14 AM
 ---
 
 ## SUSE Rancher Desktop
@@ -14,6 +14,6 @@ Evergreen app: `SUSERancherDesktop`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                            |
-| ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1.21.0  | 24/11/2025 | 698490880 | bd85ffe9afc7bef48b971ba573fc81e579a5adbd2cc7877b06ae95006cece15c | x86          | Default       | msi  | [https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.21.0/Rancher.Desktop.Setup.1.21.0.msi](https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.21.0/Rancher.Desktop.Setup.1.21.0.msi) |
+| Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                            |
+| ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1.22.0  | 16/1/2026 | 699854848 | c12ad093e2f30d92ebabac7fe4630e496cbfb6cdde9de6f87e9800aed7b82306 | x86          | Default       | msi  | [https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.22.0/Rancher.Desktop.Setup.1.22.0.msi](https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.22.0/Rancher.Desktop.Setup.1.22.0.msi) |
