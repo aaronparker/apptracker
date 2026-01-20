@@ -3,7 +3,7 @@ title: Rocket.Chat
 layout: default
 nav_order: 2
 parent: R
-last_modified_date: 20/01/2026 11:37:14 AM
+last_modified_date: 20/01/2026 1:32:56 PM
 ---
 
 ## Rocket.Chat
