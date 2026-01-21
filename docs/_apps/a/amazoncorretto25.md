@@ -3,7 +3,7 @@ title: Amazon Corretto 25
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 20/01/2026 1:32:56 PM
+last_modified_date: 21/01/2026 11:37:45 AM
 ---
 
 ## Amazon Corretto 25
@@ -14,7 +14,7 @@ Evergreen app: `AmazonCorretto25`. Found **2** installers.
 
 Last check: 🟢
 
-| Version    | Md5                              | Architecture | ImageType | Type | URI                                                                                                                                                                                                      |
-| ---------- | -------------------------------- | ------------ | --------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 25.0.1.8.1 | 724c6d882016d467c7b298f4a67de4b2 | x64          | JDK       | msi  | [https://corretto.aws/downloads/resources/25.0.1.8.1/amazon-corretto-25.0.1.8.1-windows-x64.msi](https://corretto.aws/downloads/resources/25.0.1.8.1/amazon-corretto-25.0.1.8.1-windows-x64.msi)         |
-| 25.0.1.8.1 | 301695995151aa0e95ed7ba96259d102 | x64          | JDK       | zip  | [https://corretto.aws/downloads/resources/25.0.1.8.1/amazon-corretto-25.0.1.8.1-windows-x64-jdk.zip](https://corretto.aws/downloads/resources/25.0.1.8.1/amazon-corretto-25.0.1.8.1-windows-x64-jdk.zip) |
+| Version     | Md5                              | Architecture | ImageType | Type | URI                                                                                                                                                                                                          |
+| ----------- | -------------------------------- | ------------ | --------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 25.0.2.10.1 | 9577a43930de43c6ca85356c62bcb8be | x64          | JDK       | msi  | [https://corretto.aws/downloads/resources/25.0.2.10.1/amazon-corretto-25.0.2.10.1-windows-x64.msi](https://corretto.aws/downloads/resources/25.0.2.10.1/amazon-corretto-25.0.2.10.1-windows-x64.msi)         |
+| 25.0.2.10.1 | f18fb925a02df1d629602b776259ab10 | x64          | JDK       | zip  | [https://corretto.aws/downloads/resources/25.0.2.10.1/amazon-corretto-25.0.2.10.1-windows-x64-jdk.zip](https://corretto.aws/downloads/resources/25.0.2.10.1/amazon-corretto-25.0.2.10.1-windows-x64-jdk.zip) |

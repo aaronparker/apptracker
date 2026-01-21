@@ -3,7 +3,7 @@ title: Obsidian
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 20/01/2026 1:32:56 PM
+last_modified_date: 21/01/2026 11:37:45 AM
 ---
 
 ## Obsidian
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                            |
 | ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.11.4  | 12/1/2026 | 296492160 | 94ea213b7fa3fe0f26e5b3c3f8c7d1a43b1fc4e7dc3948dac67b805b976312cd | x86          | Default       | exe  | [https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.4/Obsidian-1.11.4.exe](https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.4/Obsidian-1.11.4.exe) |
+| 1.11.5  | 20/1/2026 | 296495960 | 206941af785f78e212787faac5927d624a8a9f813f916803ecbfb8d28f2706c0 | x86          | Default       | exe  | [https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.5/Obsidian-1.11.5.exe](https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.5/Obsidian-1.11.5.exe) |

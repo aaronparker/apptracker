@@ -3,7 +3,7 @@ title: Docker Compose
 layout: default
 nav_order: 2
 parent: D
-last_modified_date: 20/01/2026 1:32:56 PM
+last_modified_date: 21/01/2026 11:37:45 AM
 ---
 
 ## Docker Compose
@@ -14,7 +14,7 @@ Evergreen app: `DockerCompose`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                            |
-| ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 5.0.1   | 18/12/2025 | 30172672 | 63aff6abc96d7b838aef2646e1003435bddd82774ff3e5ec2174a7c185a6d0c8 | ARM64        | Default       | exe  | [https://github.com/docker/compose/releases/download/v5.0.1/docker-compose-windows-aarch64.exe](https://github.com/docker/compose/releases/download/v5.0.1/docker-compose-windows-aarch64.exe) |
-| 5.0.1   | 18/12/2025 | 31983616 | 2ae341f9152b4d90f561f84b8f2e263d5b60e1613c6841c804447819290c4119 | x64          | Default       | exe  | [https://github.com/docker/compose/releases/download/v5.0.1/docker-compose-windows-x86_64.exe](https://github.com/docker/compose/releases/download/v5.0.1/docker-compose-windows-x86_64.exe)   |
+| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                            |
+| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 5.0.2   | 20/1/2026 | 30200320 | 275cbbdebb053bac7a87808cff75a24db6e3c6b069eb76715b7a63cfd9fbb07e | ARM64        | Default       | exe  | [https://github.com/docker/compose/releases/download/v5.0.2/docker-compose-windows-aarch64.exe](https://github.com/docker/compose/releases/download/v5.0.2/docker-compose-windows-aarch64.exe) |
+| 5.0.2   | 20/1/2026 | 32014848 | e6281c7b906eafe8f39114e735f11fc276d8cce2cba93a54911ca15337ba6c49 | x64          | Default       | exe  | [https://github.com/docker/compose/releases/download/v5.0.2/docker-compose-windows-x86_64.exe](https://github.com/docker/compose/releases/download/v5.0.2/docker-compose-windows-x86_64.exe)   |

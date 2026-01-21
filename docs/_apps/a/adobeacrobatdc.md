@@ -3,7 +3,7 @@ title: Adobe Acrobat DC updates
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 20/01/2026 1:32:56 PM
+last_modified_date: 21/01/2026 11:37:45 AM
 ---
 
 ## Adobe Acrobat DC updates
@@ -16,9 +16,9 @@ Last check: 🟢
 
 | Version      | Type      | Architecture | URI                                                                                                                                                                                                                      |
 | ------------ | --------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 25.001.20997 | Acrobat   | x64          | [https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120997/AcrobatDCx64Upd2500120997.msp](https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120997/AcrobatDCx64Upd2500120997.msp)         |
-| 25.001.20997 | Acrobat   | x86          | [https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120997/AcrobatDCUpd2500120997.msp](https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120997/AcrobatDCUpd2500120997.msp)               |
-| 25.001.20997 | Reader    | x64          | [https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120997/AcroRdrDCx64Upd2500120997.msp](https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120997/AcroRdrDCx64Upd2500120997.msp)         |
-| 25.001.20997 | Reader    | x86          | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120997/AcroRdrDCUpd2500120997.msp](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120997/AcroRdrDCUpd2500120997.msp)                 |
-| 25.001.20997 | ReaderMUI | x64          | [https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120997/AcroRdrDCx64Upd2500120997_MUI.msp](https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120997/AcroRdrDCx64Upd2500120997_MUI.msp) |
-| 25.001.20997 | ReaderMUI | x86          | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120997/AcroRdrDCUpd2500120997_MUI.msp](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2500120997/AcroRdrDCUpd2500120997_MUI.msp)         |
+| 25.001.21111 | Acrobat   | x64          | [https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500121111/AcrobatDCx64Upd2500121111.msp](https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500121111/AcrobatDCx64Upd2500121111.msp)         |
+| 25.001.21111 | Acrobat   | x86          | [https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500121111/AcrobatDCUpd2500121111.msp](https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500121111/AcrobatDCUpd2500121111.msp)               |
+| 25.001.21111 | Reader    | x64          | [https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500121111/AcroRdrDCx64Upd2500121111.msp](https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500121111/AcroRdrDCx64Upd2500121111.msp)         |
+| 25.001.21111 | Reader    | x86          | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2500121111/AcroRdrDCUpd2500121111.msp](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2500121111/AcroRdrDCUpd2500121111.msp)                 |
+| 25.001.21111 | ReaderMUI | x64          | [https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500121111/AcroRdrDCx64Upd2500121111_MUI.msp](https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500121111/AcroRdrDCx64Upd2500121111_MUI.msp) |
+| 25.001.21111 | ReaderMUI | x86          | [https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2500121111/AcroRdrDCUpd2500121111_MUI.msp](https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2500121111/AcroRdrDCUpd2500121111_MUI.msp)         |

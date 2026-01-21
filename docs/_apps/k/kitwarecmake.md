@@ -3,7 +3,7 @@ title: Kitware CMake
 layout: default
 nav_order: 2
 parent: K
-last_modified_date: 20/01/2026 1:32:56 PM
+last_modified_date: 21/01/2026 11:37:45 AM
 ---
 
 ## Kitware CMake
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                  |
 | ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 4.2.1   | 8/12/2025 | 35258368 | d0bd6d1ea054aba45781d28ec4e4bc64e902a44c723d43dfd5ddd0d169b17417 | ARM64        | Default       | msi  | [https://github.com/Kitware/CMake/releases/download/v4.2.1/cmake-4.2.1-windows-arm64.msi](https://github.com/Kitware/CMake/releases/download/v4.2.1/cmake-4.2.1-windows-arm64.msi)   |
-| 4.2.1   | 8/12/2025 | 36073472 | bd13c641e2492e06f105c62cf7e4b58c54c0f0042577cecb2470ab30c4144155 | x64          | Default       | msi  | [https://github.com/Kitware/CMake/releases/download/v4.2.1/cmake-4.2.1-windows-x86_64.msi](https://github.com/Kitware/CMake/releases/download/v4.2.1/cmake-4.2.1-windows-x86_64.msi) |
-| 4.2.1   | 8/12/2025 | 33853440 | 27407844b603d0249440777270f4d0bc3961542866918c5a8772009363d08a2f | x86          | Default       | msi  | [https://github.com/Kitware/CMake/releases/download/v4.2.1/cmake-4.2.1-windows-i386.msi](https://github.com/Kitware/CMake/releases/download/v4.2.1/cmake-4.2.1-windows-i386.msi)     |
+| 4.2.2   | 20/1/2026 | 35254272 | 9209f3c433eb90d16533a005e45fe07a0baf449474957d2072c500f2be51b054 | ARM64        | Default       | msi  | [https://github.com/Kitware/CMake/releases/download/v4.2.2/cmake-4.2.2-windows-arm64.msi](https://github.com/Kitware/CMake/releases/download/v4.2.2/cmake-4.2.2-windows-arm64.msi)   |
+| 4.2.2   | 20/1/2026 | 36392960 | 5f021b6735dfcedc38a05ec56853683e0e94867d2ab5e021501c26e701ce0b52 | x64          | Default       | msi  | [https://github.com/Kitware/CMake/releases/download/v4.2.2/cmake-4.2.2-windows-x86_64.msi](https://github.com/Kitware/CMake/releases/download/v4.2.2/cmake-4.2.2-windows-x86_64.msi) |
+| 4.2.2   | 20/1/2026 | 33980416 | d3b686f1a113cfff553bdf44b65c8101bdd185b773fc578c40d36dfbaf3f9aa2 | x86          | Default       | msi  | [https://github.com/Kitware/CMake/releases/download/v4.2.2/cmake-4.2.2-windows-i386.msi](https://github.com/Kitware/CMake/releases/download/v4.2.2/cmake-4.2.2-windows-i386.msi)     |

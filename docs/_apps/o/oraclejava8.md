@@ -3,7 +3,7 @@ title: Oracle Java 8
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 20/01/2026 1:32:56 PM
+last_modified_date: 21/01/2026 11:37:45 AM
 ---
 
 ## Oracle Java 8
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version       | Architecture | Type | URI                                                                                                                                                                                                                                                                                    |
 | ------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.8.0_471-b09 | x64          | exe  | [https://javadl.oracle.com/webapps/download/GetFile/1.8.0_471-b09/99a6cb9582554a09bd4ac60f73f9b8e6/windows-i586/jre-8u471-windows-x64.exe](https://javadl.oracle.com/webapps/download/GetFile/1.8.0_471-b09/99a6cb9582554a09bd4ac60f73f9b8e6/windows-i586/jre-8u471-windows-x64.exe)   |
-| 1.8.0_471-b09 | x86          | exe  | [https://javadl.oracle.com/webapps/download/GetFile/1.8.0_471-b09/99a6cb9582554a09bd4ac60f73f9b8e6/windows-i586/jre-8u471-windows-i586.exe](https://javadl.oracle.com/webapps/download/GetFile/1.8.0_471-b09/99a6cb9582554a09bd4ac60f73f9b8e6/windows-i586/jre-8u471-windows-i586.exe) |
+| 1.8.0_481-b10 | x64          | exe  | [https://javadl.oracle.com/webapps/download/GetFile/1.8.0_481-b10/0d06828d282343ea81775b28020a7cd3/windows-i586/jre-8u481-windows-x64.exe](https://javadl.oracle.com/webapps/download/GetFile/1.8.0_481-b10/0d06828d282343ea81775b28020a7cd3/windows-i586/jre-8u481-windows-x64.exe)   |
+| 1.8.0_481-b10 | x86          | exe  | [https://javadl.oracle.com/webapps/download/GetFile/1.8.0_481-b10/0d06828d282343ea81775b28020a7cd3/windows-i586/jre-8u481-windows-i586.exe](https://javadl.oracle.com/webapps/download/GetFile/1.8.0_481-b10/0d06828d282343ea81775b28020a7cd3/windows-i586/jre-8u481-windows-i586.exe) |

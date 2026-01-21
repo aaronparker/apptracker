@@ -3,7 +3,7 @@ title: Canva Affinity
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: 20/01/2026 1:32:56 PM
+last_modified_date: 21/01/2026 11:37:45 AM
 ---
 
 ## Canva Affinity
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version    | Architecture | Type | URI                                                                                                                |
 | ---------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------ |
-| 3.0.2.3912 | ARM64        | exe  | [https://downloads.affinity.studio/Affinity%20arm64.exe](https://downloads.affinity.studio/Affinity%20arm64.exe)   |
-| 3.0.2.3912 | x64          | exe  | [https://downloads.affinity.studio/Affinity%20x64.exe](https://downloads.affinity.studio/Affinity%20x64.exe)       |
-| 3.0.2.3912 | ARM64        | msix | [https://downloads.affinity.studio/Affinity%20arm64.msix](https://downloads.affinity.studio/Affinity%20arm64.msix) |
-| 3.0.2.3912 | x64          | msix | [https://downloads.affinity.studio/Affinity%20x64.msix](https://downloads.affinity.studio/Affinity%20x64.msix)     |
+| 3.0.3.4027 | ARM64        | exe  | [https://downloads.affinity.studio/Affinity%20arm64.exe](https://downloads.affinity.studio/Affinity%20arm64.exe)   |
+| 3.0.3.4027 | x64          | exe  | [https://downloads.affinity.studio/Affinity%20x64.exe](https://downloads.affinity.studio/Affinity%20x64.exe)       |
+| 3.0.3.4027 | ARM64        | msix | [https://downloads.affinity.studio/Affinity%20arm64.msix](https://downloads.affinity.studio/Affinity%20arm64.msix) |
+| 3.0.3.4027 | x64          | msix | [https://downloads.affinity.studio/Affinity%20x64.msix](https://downloads.affinity.studio/Affinity%20x64.msix)     |
