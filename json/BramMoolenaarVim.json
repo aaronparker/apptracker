@@ -1,32 +1,32 @@
 [
   {
-    "Version": "9.1.2098",
-    "Date": "19/1/2026",
-    "Size": 10943182,
-    "Sha256": "69d9603c349c2961a9f9a58418e603d21efedd94960400a476ca07d85221e61c",
+    "Version": "9.1.2101",
+    "Date": "20/1/2026",
+    "Size": 10943322,
+    "Sha256": "8d05d5fb0ef2b09378c01e5ae82464e131b98f4817830021c15d496e884c3200",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/vim/vim-win32-installer/releases/download/v9.1.2098/gvim_9.1.2098_arm64.exe"
+    "URI": "https://github.com/vim/vim-win32-installer/releases/download/v9.1.2101/gvim_9.1.2101_arm64.exe"
   },
   {
-    "Version": "9.1.2098",
-    "Date": "19/1/2026",
-    "Size": 11522850,
-    "Sha256": "291542e6e57def8ea7d92a3b7b672f8d912beeda88ecf7a719a9d2ed41c5cab8",
+    "Version": "9.1.2101",
+    "Date": "20/1/2026",
+    "Size": 11529988,
+    "Sha256": "d1d62d71c3725bc016cac6d4672267f8dd17426610a80cfe98c9b9f2afbace23",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/vim/vim-win32-installer/releases/download/v9.1.2098/gvim_9.1.2098_x64.exe"
+    "URI": "https://github.com/vim/vim-win32-installer/releases/download/v9.1.2101/gvim_9.1.2101_x64.exe"
   },
   {
-    "Version": "9.1.2098",
-    "Date": "19/1/2026",
-    "Size": 11039474,
-    "Sha256": "a8227024e7ce54aea80883abeedc3ad3cae18a2809f50bc881abf7db5bd64c10",
+    "Version": "9.1.2101",
+    "Date": "20/1/2026",
+    "Size": 11038215,
+    "Sha256": "b9282891643408e42b030795bddf7c707e12407ffa974769fce535e038fa7f38",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/vim/vim-win32-installer/releases/download/v9.1.2098/gvim_9.1.2098_x86.exe"
+    "URI": "https://github.com/vim/vim-win32-installer/releases/download/v9.1.2101/gvim_9.1.2101_x86.exe"
   }
 ]

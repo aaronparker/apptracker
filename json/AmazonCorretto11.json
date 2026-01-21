@@ -1,34 +1,34 @@
 [
   {
-    "Version": "11.0.29.7.1",
-    "Md5": "86566e8b7dc8081454b34a14c6e7a745",
+    "Version": "11.0.30.7.1",
+    "Md5": "2fac8cf86759dc2ccf03e3a5551480e3",
     "Architecture": "x64",
     "ImageType": "JDK",
     "Type": "msi",
-    "URI": "https://corretto.aws/downloads/resources/11.0.29.7.1/amazon-corretto-11.0.29.7.1-windows-x64.msi"
+    "URI": "https://corretto.aws/downloads/resources/11.0.30.7.1/amazon-corretto-11.0.30.7.1-windows-x64.msi"
   },
   {
-    "Version": "11.0.29.7.1",
-    "Md5": "ac5a9ce54553f6061f0b2ea34e3af585",
+    "Version": "11.0.30.7.1",
+    "Md5": "1251e6089815ef1c4e8640dc1354c4e2",
     "Architecture": "x86",
     "ImageType": "JDK",
     "Type": "msi",
-    "URI": "https://corretto.aws/downloads/resources/11.0.29.7.1/amazon-corretto-11.0.29.7.1-windows-x86.msi"
+    "URI": "https://corretto.aws/downloads/resources/11.0.30.7.1/amazon-corretto-11.0.30.7.1-windows-x86.msi"
   },
   {
-    "Version": "11.0.29.7.1",
-    "Md5": "6d066b23e1c20bc5d2b6aabee4a0d870",
+    "Version": "11.0.30.7.1",
+    "Md5": "e2c40870fc62a7cb11e88d74bffc7720",
     "Architecture": "x64",
     "ImageType": "JDK",
     "Type": "zip",
-    "URI": "https://corretto.aws/downloads/resources/11.0.29.7.1/amazon-corretto-11.0.29.7.1-windows-x64-jdk.zip"
+    "URI": "https://corretto.aws/downloads/resources/11.0.30.7.1/amazon-corretto-11.0.30.7.1-windows-x64-jdk.zip"
   },
   {
-    "Version": "11.0.29.7.1",
-    "Md5": "8394c3d6f7c261438ab5b85dac2d79d9",
+    "Version": "11.0.30.7.1",
+    "Md5": "e12ee51bc8b06397a55a890dfe1bbb6b",
     "Architecture": "x86",
     "ImageType": "JDK",
     "Type": "zip",
-    "URI": "https://corretto.aws/downloads/resources/11.0.29.7.1/amazon-corretto-11.0.29.7.1-windows-x86-jdk.zip"
+    "URI": "https://corretto.aws/downloads/resources/11.0.30.7.1/amazon-corretto-11.0.30.7.1-windows-x86-jdk.zip"
   }
 ]

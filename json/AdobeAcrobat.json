@@ -1,57 +1,57 @@
 [
   {
-    "Version": "25.001.21078",
+    "Version": "25.001.21111",
     "Type": "Update",
     "Product": "Reader",
     "Track": "DC",
     "Language": "Multi",
     "Architecture": "x64",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500121078/AcroRdrDCx64Upd2500121078_MUI.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500121111/AcroRdrDCx64Upd2500121111_MUI.msp"
   },
   {
-    "Version": "25.001.21078",
+    "Version": "25.001.21111",
     "Type": "Update",
     "Product": "Acrobat",
     "Track": "DC",
     "Language": "Neutral",
     "Architecture": "x64",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500121078/AcrobatDCx64Upd2500121078.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500121111/AcrobatDCx64Upd2500121111.msp"
   },
   {
-    "Version": "25.001.21078",
+    "Version": "25.001.21111",
     "Type": "Update",
     "Product": "Reader",
     "Track": "DC",
     "Language": "Neutral",
     "Architecture": "x64",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500121078/AcroRdrDCx64Upd2500121078.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500121111/AcroRdrDCx64Upd2500121111.msp"
   },
   {
-    "Version": "25.001.21078",
+    "Version": "25.001.21111",
     "Type": "Update",
     "Product": "Reader",
     "Track": "DC",
     "Language": "Multi",
     "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2500121078/AcroRdrDCUpd2500121078_MUI.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2500121111/AcroRdrDCUpd2500121111_MUI.msp"
   },
   {
-    "Version": "25.001.21078",
+    "Version": "25.001.21111",
     "Type": "Update",
     "Product": "Acrobat",
     "Track": "DC",
     "Language": "Neutral",
     "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500121078/AcrobatDCUpd2500121078.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500121111/AcrobatDCUpd2500121111.msp"
   },
   {
-    "Version": "25.001.21078",
+    "Version": "25.001.21111",
     "Type": "Update",
     "Product": "Reader",
     "Track": "DC",
     "Language": "Neutral",
     "Architecture": "x86",
-    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2500121078/AcroRdrDCUpd2500121078.msp"
+    "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2500121111/AcroRdrDCUpd2500121111.msp"
   },
   {
     "Version": "20.005.30838",

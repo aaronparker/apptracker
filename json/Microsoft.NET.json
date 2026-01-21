@@ -130,64 +130,64 @@
     "URI": "https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/10.0.2/dotnet-hosting-10.0.2-win.exe"
   },
   {
-    "Version": "9.0.309",
+    "Version": "9.0.310",
     "Channel": "9.0",
     "Support": "active",
     "Installer": "sdk",
     "Architecture": "ARM64",
-    "Sha512": "6b83cc490e8a3eaa8d014d6750078d5c9c00383a3714e4c6f6d9c0d2c6800ad72e65258ad77db94e474c7449b86174b1f7c4ce4158e1841fd1fe5bd5c5c89a09",
+    "Sha512": "0c5d143c73616c8e3efc67c380d7027e1145f071fe005bd173f1901d49cab87d7f161925d1b8559e421e5b4c6e83205acf623e1aa7eca1b8adcea1a1ab62fec7",
     "Type": "exe",
-    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.309/dotnet-sdk-9.0.309-win-arm64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.310/dotnet-sdk-9.0.310-win-arm64.exe"
   },
   {
-    "Version": "9.0.309",
+    "Version": "9.0.310",
     "Channel": "STS",
     "Support": "active",
     "Installer": "sdk",
     "Architecture": "ARM64",
-    "Sha512": "6b83cc490e8a3eaa8d014d6750078d5c9c00383a3714e4c6f6d9c0d2c6800ad72e65258ad77db94e474c7449b86174b1f7c4ce4158e1841fd1fe5bd5c5c89a09",
+    "Sha512": "0c5d143c73616c8e3efc67c380d7027e1145f071fe005bd173f1901d49cab87d7f161925d1b8559e421e5b4c6e83205acf623e1aa7eca1b8adcea1a1ab62fec7",
     "Type": "exe",
-    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.309/dotnet-sdk-9.0.309-win-arm64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.310/dotnet-sdk-9.0.310-win-arm64.exe"
   },
   {
-    "Version": "9.0.309",
+    "Version": "9.0.310",
     "Channel": "9.0",
     "Support": "active",
     "Installer": "sdk",
     "Architecture": "x64",
-    "Sha512": "26e570f2b1a7e130d27b7e43d36a4a4510b06db7c773517c21ed7592b0d82677a73f67e4bbc27778e5004c3452223ddabe0e1b23850a0824db9904663f9e5393",
+    "Sha512": "efad586f78e0b93a8e92904c99f6b371a5c7f0bf91881671def1e07b5a1ac0f5d43c1bac7610bd0623e6855ac8047c765f1710d402228c73445fafb50dcf2d6f",
     "Type": "exe",
-    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.309/dotnet-sdk-9.0.309-win-x64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.310/dotnet-sdk-9.0.310-win-x64.exe"
   },
   {
-    "Version": "9.0.309",
+    "Version": "9.0.310",
     "Channel": "STS",
     "Support": "active",
     "Installer": "sdk",
     "Architecture": "x64",
-    "Sha512": "26e570f2b1a7e130d27b7e43d36a4a4510b06db7c773517c21ed7592b0d82677a73f67e4bbc27778e5004c3452223ddabe0e1b23850a0824db9904663f9e5393",
+    "Sha512": "efad586f78e0b93a8e92904c99f6b371a5c7f0bf91881671def1e07b5a1ac0f5d43c1bac7610bd0623e6855ac8047c765f1710d402228c73445fafb50dcf2d6f",
     "Type": "exe",
-    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.309/dotnet-sdk-9.0.309-win-x64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.310/dotnet-sdk-9.0.310-win-x64.exe"
   },
   {
-    "Version": "9.0.309",
+    "Version": "9.0.310",
     "Channel": "9.0",
     "Support": "active",
     "Installer": "sdk",
     "Architecture": "x86",
-    "Sha512": "326e82a0f1c59b984de64772ce477fc1ddc9a0fab8926fa971865d97253b91e428b3d5274657bbb22d85d0e61f2b5e8ede75707eac0dd182e8ead1936717fc74",
+    "Sha512": "5c3223e80f294a940da265f923ac7799ea289f55dcb55b06210749713f44f65b107f946ac6e2eb5d7a82f8d44eead79999a186b8ff25e56037e34022ffa9d05a",
     "Type": "exe",
-    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.309/dotnet-sdk-9.0.309-win-x86.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.310/dotnet-sdk-9.0.310-win-x86.exe"
   },
   {
-    "Version": "9.0.309",
+    "Version": "9.0.310",
     "Channel": "STS",
     "Support": "active",
     "Installer": "sdk",
     "Architecture": "x86",
-    "Sha512": "326e82a0f1c59b984de64772ce477fc1ddc9a0fab8926fa971865d97253b91e428b3d5274657bbb22d85d0e61f2b5e8ede75707eac0dd182e8ead1936717fc74",
+    "Sha512": "5c3223e80f294a940da265f923ac7799ea289f55dcb55b06210749713f44f65b107f946ac6e2eb5d7a82f8d44eead79999a186b8ff25e56037e34022ffa9d05a",
     "Type": "exe",
-    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.309/dotnet-sdk-9.0.309-win-x86.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.310/dotnet-sdk-9.0.310-win-x86.exe"
   },
   {
     "Version": "9.0.12",
