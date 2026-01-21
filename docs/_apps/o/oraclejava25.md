@@ -3,7 +3,7 @@ title: Oracle Java 25
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 21/01/2026 11:37:45 AM
+last_modified_date: 21/01/2026 1:32:21 PM
 ---
 
 ## Oracle Java 25
@@ -14,8 +14,8 @@ Evergreen app: `OracleJava25`. Found **3** installers.
 
 Last check: 🟢
 
-| Version | FullVersion | Date       | Sha256                                                           | Type | URI                                                                                                                                            |
-| ------- | ----------- | ---------- | ---------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 25.0.1  | 25.0.1+8    | 21/10/2025 | cbf33944084df578ff1db86fc7746eb15e49a42bd069f75620bd602450b67b82 | exe  | [https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.exe](https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.exe) |
-| 25.0.1  | 25.0.1+8    | 21/10/2025 | d4c9d1fe46a457c933f49a3a22080c75e77f67160ff01af5dd35730857a22139 | msi  | [https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.msi](https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.msi) |
-| 25.0.1  | 25.0.1+8    | 21/10/2025 | 814530b8ae9aca4843b6f70cf14dac1d43a88e220847d3b91323e854d79cee88 | zip  | [https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.zip](https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.zip) |
+| Version | FullVersion | Date      | Sha256                                                           | Type | URI                                                                                                                                            |
+| ------- | ----------- | --------- | ---------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 25.0.2  | 25.0.2+10   | 20/1/2026 | b19782bf958afaeafb88482e859e3ce330aa2d9eeca64cd32e80b7b0743a9f7e | exe  | [https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.exe](https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.exe) |
+| 25.0.2  | 25.0.2+10   | 20/1/2026 | 03dce75d871ddf5029bdedbcd09787e8bac63f48872e03ad870176c72c44cecd | msi  | [https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.msi](https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.msi) |
+| 25.0.2  | 25.0.2+10   | 20/1/2026 | 56fbc625835eaa4e96942e9d8df38ffdf6009e0062620aaf9a8b647a5cd8ec7a | zip  | [https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.zip](https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.zip) |
