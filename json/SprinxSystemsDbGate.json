@@ -1,72 +1,72 @@
 [
   {
-    "Version": "6.8.2",
-    "Date": "29/12/2025",
-    "Size": 132619696,
-    "Sha256": "92b5b44ce00a211e0b8577a4c30759e652280536357aed641e2173cf32447e9e",
+    "Version": "7.0.0",
+    "Date": "22/1/2026",
+    "Size": 133073408,
+    "Sha256": "e9dc56d9cc6113b02fa133127cc59049617083003ebdb31411a99545857c0549",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/dbgate/dbgate/releases/download/v6.8.2/dbgate-6.8.2-win_arm64.exe"
+    "URI": "https://github.com/dbgate/dbgate/releases/download/v7.0.0/dbgate-7.0.0-win_arm64.exe"
   },
   {
-    "Version": "6.8.2",
-    "Date": "29/12/2025",
-    "Size": 132619696,
-    "Sha256": "92b5b44ce00a211e0b8577a4c30759e652280536357aed641e2173cf32447e9e",
+    "Version": "7.0.0",
+    "Date": "22/1/2026",
+    "Size": 133073408,
+    "Sha256": "e9dc56d9cc6113b02fa133127cc59049617083003ebdb31411a99545857c0549",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/dbgate/dbgate/releases/download/v6.8.2/dbgate-windows-latest-arm64.exe"
+    "URI": "https://github.com/dbgate/dbgate/releases/download/v7.0.0/dbgate-windows-latest-arm64.exe"
   },
   {
-    "Version": "6.8.2",
-    "Date": "29/12/2025",
-    "Size": 131122448,
-    "Sha256": "436c79cb7817ee69b0a9fee7db505e57204a07d9f56c8f8b9733fb59d0ab493d",
+    "Version": "7.0.0",
+    "Date": "22/1/2026",
+    "Size": 131572968,
+    "Sha256": "19a2f8f1490368bbead27de71a001648cb40a3b628e6664b2f76681d9834e481",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/dbgate/dbgate/releases/download/v6.8.2/dbgate-6.8.2-win_x64.exe"
+    "URI": "https://github.com/dbgate/dbgate/releases/download/v7.0.0/dbgate-7.0.0-win_x64.exe"
   },
   {
-    "Version": "6.8.2",
-    "Date": "29/12/2025",
-    "Size": 145091152,
-    "Sha256": "079b8e0846171368219241f46baf3633ef91bcbcff68a10a215c5c6822fd2124",
+    "Version": "7.0.0",
+    "Date": "22/1/2026",
+    "Size": 145550000,
+    "Sha256": "bfc4844fe5e98c95fe48a9b91ea7654cb6df615d42f1588eec993a3010b64442",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/dbgate/dbgate/releases/download/v6.8.2/dbgate-premium-6.8.2-win_x64.exe"
+    "URI": "https://github.com/dbgate/dbgate/releases/download/v7.0.0/dbgate-premium-7.0.0-win_x64.exe"
   },
   {
-    "Version": "6.8.2",
-    "Date": "29/12/2025",
-    "Size": 262944608,
-    "Sha256": "8b7cbf16e23f9045d0b97b5a52263196bac0588e2ad7c3f9324447f22cac4b71",
+    "Version": "7.0.0",
+    "Date": "22/1/2026",
+    "Size": 263847960,
+    "Sha256": "cc2d206cd416153a3b91dc32a4a93455936fbeec812c9131a97fb497bb9045d4",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/dbgate/dbgate/releases/download/v6.8.2/dbgate-6.8.2-win.exe"
+    "URI": "https://github.com/dbgate/dbgate/releases/download/v7.0.0/dbgate-7.0.0-win.exe"
   },
   {
-    "Version": "6.8.2",
-    "Date": "29/12/2025",
-    "Size": 262944608,
-    "Sha256": "8b7cbf16e23f9045d0b97b5a52263196bac0588e2ad7c3f9324447f22cac4b71",
+    "Version": "7.0.0",
+    "Date": "22/1/2026",
+    "Size": 263847960,
+    "Sha256": "cc2d206cd416153a3b91dc32a4a93455936fbeec812c9131a97fb497bb9045d4",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/dbgate/dbgate/releases/download/v6.8.2/dbgate-latest.exe"
+    "URI": "https://github.com/dbgate/dbgate/releases/download/v7.0.0/dbgate-latest.exe"
   },
   {
-    "Version": "6.8.2",
-    "Date": "29/12/2025",
-    "Size": 145091152,
-    "Sha256": "079b8e0846171368219241f46baf3633ef91bcbcff68a10a215c5c6822fd2124",
+    "Version": "7.0.0",
+    "Date": "22/1/2026",
+    "Size": 145550000,
+    "Sha256": "bfc4844fe5e98c95fe48a9b91ea7654cb6df615d42f1588eec993a3010b64442",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/dbgate/dbgate/releases/download/v6.8.2/dbgate-premium-latest.exe"
+    "URI": "https://github.com/dbgate/dbgate/releases/download/v7.0.0/dbgate-premium-latest.exe"
   }
 ]

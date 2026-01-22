@@ -1,8 +1,8 @@
 [
   {
-    "Version": "8.0.44",
+    "Version": "8.0.46",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://cdn.mysql.com/Downloads/MySQLGUITools/mysql-workbench-community-8.0.44-winx64.msi"
+    "URI": "https://cdn.mysql.com/Downloads/MySQLGUITools/mysql-workbench-community-8.0.46-winx64.msi"
   }
 ]
