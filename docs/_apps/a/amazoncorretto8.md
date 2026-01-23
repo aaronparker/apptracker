@@ -3,7 +3,7 @@ title: Amazon Corretto 8
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 22/01/2026 1:32:43 PM
+last_modified_date: 23/01/2026 11:37:49 AM
 ---
 
 ## Amazon Corretto 8

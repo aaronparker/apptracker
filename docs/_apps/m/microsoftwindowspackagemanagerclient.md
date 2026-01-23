@@ -3,7 +3,7 @@ title: Microsoft Windows Package Manager Client
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 22/01/2026 1:32:43 PM
+last_modified_date: 23/01/2026 11:37:49 AM
 ---
 
 ## Microsoft Windows Package Manager Client
@@ -14,6 +14,6 @@ Evergreen app: `MicrosoftWindowsPackageManagerClient`. Found **1** installer.
 
 Last check: 🟢
 
-| Version  | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type       | URI                                                                                                                                                                                                                                                      |
-| -------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.12.440 | 10/11/2025 | 215464159 | 425b5c844497732ba136817732c5edc0d281725ce58a23bdc9dbd388d2a24bdd | x86          | Default       | msixbundle | [https://github.com/microsoft/winget-cli/releases/download/v1.12.440/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle](https://github.com/microsoft/winget-cli/releases/download/v1.12.440/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle) |
+| Version  | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type       | URI                                                                                                                                                                                                                                                      |
+| -------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.12.460 | 15/1/2026 | 215474308 | d40a71061b719667c75d87e4c74ee123964b0df624748e9f4bc66b58d5c92e24 | x86          | Default       | msixbundle | [https://github.com/microsoft/winget-cli/releases/download/v1.12.460/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle](https://github.com/microsoft/winget-cli/releases/download/v1.12.460/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle) |

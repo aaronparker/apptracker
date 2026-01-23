@@ -3,7 +3,7 @@ title: Yubico YubiKey Manager CLI
 layout: default
 nav_order: 2
 parent: Y
-last_modified_date: 22/01/2026 1:32:43 PM
+last_modified_date: 23/01/2026 11:37:49 AM
 ---
 
 ## Yubico YubiKey Manager CLI
@@ -14,6 +14,6 @@ Evergreen app: `YuibicoYubiKeyManagerCLI`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date     | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                    |
-| ------- | -------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 5.8.0   | 3/9/2025 | 20316160 | 06ebed6369d1a897b9131f4e25044d13cab3dbe4206eafb826d56d94fcd50da9 | x64          | Default       | msi  | [https://github.com/Yubico/yubikey-manager/releases/download/5.8.0/yubikey-manager-5.8.0-win64.msi](https://github.com/Yubico/yubikey-manager/releases/download/5.8.0/yubikey-manager-5.8.0-win64.msi) |
+| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                    |
+| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 5.9.0   | 22/1/2026 | 21979136 | 83ade485cb15c8f210c8fc1c382cfc0972069fd1e2c912aa17275484030b0b5b | x64          | Default       | msi  | [https://github.com/Yubico/yubikey-manager/releases/download/5.9.0/yubikey-manager-5.9.0-win64.msi](https://github.com/Yubico/yubikey-manager/releases/download/5.9.0/yubikey-manager-5.9.0-win64.msi) |

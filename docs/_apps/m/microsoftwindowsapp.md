@@ -3,7 +3,7 @@ title: Microsoft Windows App
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 22/01/2026 1:32:43 PM
+last_modified_date: 23/01/2026 11:37:49 AM
 ---
 
 ## Microsoft Windows App
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version   | Architecture | Filename                                | URI                                                                                                                                                                                                                                                                            |
 | --------- | ------------ | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2.0.916.0 | ARM64        | WindowsApp_arm64_Release_2.0.916.0.msix | [https://res.cdn.office.net/remote-desktop-windows-client/379b60de-35ca-4243-9e8f-8195fe8c8bd2/WindowsApp_arm64_Release_2.0.916.0.msix](https://res.cdn.office.net/remote-desktop-windows-client/379b60de-35ca-4243-9e8f-8195fe8c8bd2/WindowsApp_arm64_Release_2.0.916.0.msix) |
-| 2.0.916.0 | x64          | WindowsApp_x64_Release_2.0.916.0.msix   | [https://res.cdn.office.net/remote-desktop-windows-client/ad9359fb-fb23-4b81-a3d0-1e1ff47ba25f/WindowsApp_x64_Release_2.0.916.0.msix](https://res.cdn.office.net/remote-desktop-windows-client/ad9359fb-fb23-4b81-a3d0-1e1ff47ba25f/WindowsApp_x64_Release_2.0.916.0.msix)     |
-| 2.0.916.0 | x86          | WindowsApp_x86_Release_2.0.916.0.msix   | [https://res.cdn.office.net/remote-desktop-windows-client/79222211-e97c-4c49-9ef7-523c676c8031/WindowsApp_x86_Release_2.0.916.0.msix](https://res.cdn.office.net/remote-desktop-windows-client/79222211-e97c-4c49-9ef7-523c676c8031/WindowsApp_x86_Release_2.0.916.0.msix)     |
+| 2.0.918.0 | ARM64        | WindowsApp_arm64_Release_2.0.918.0.msix | [https://res.cdn.office.net/remote-desktop-windows-client/55d65f8c-4201-47c8-9a0d-5bb5b96b60de/WindowsApp_arm64_Release_2.0.918.0.msix](https://res.cdn.office.net/remote-desktop-windows-client/55d65f8c-4201-47c8-9a0d-5bb5b96b60de/WindowsApp_arm64_Release_2.0.918.0.msix) |
+| 2.0.918.0 | x64          | WindowsApp_x64_Release_2.0.918.0.msix   | [https://res.cdn.office.net/remote-desktop-windows-client/306d5f5b-003e-4d90-8f34-155a70c90473/WindowsApp_x64_Release_2.0.918.0.msix](https://res.cdn.office.net/remote-desktop-windows-client/306d5f5b-003e-4d90-8f34-155a70c90473/WindowsApp_x64_Release_2.0.918.0.msix)     |
+| 2.0.918.0 | x86          | WindowsApp_x86_Release_2.0.918.0.msix   | [https://res.cdn.office.net/remote-desktop-windows-client/69bb862d-829b-4fb2-bc30-3964de916c92/WindowsApp_x86_Release_2.0.918.0.msix](https://res.cdn.office.net/remote-desktop-windows-client/69bb862d-829b-4fb2-bc30-3964de916c92/WindowsApp_x86_Release_2.0.918.0.msix)     |

@@ -3,7 +3,7 @@ title: Zotero
 layout: default
 nav_order: 2
 parent: Z
-last_modified_date: 22/01/2026 1:32:43 PM
+last_modified_date: 23/01/2026 11:37:49 AM
 ---
 
 ## Zotero
@@ -14,11 +14,11 @@ Evergreen app: `Zotero`. Found **6** installers.
 
 Last check: 🟢
 
-| Version | Architecture | Type | URI                                                                                                                                                                |
-| ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 7.0.32  | ARM64        | exe  | [https://download.zotero.org/client/release/7.0.32/Zotero-7.0.32_arm64_setup.exe](https://download.zotero.org/client/release/7.0.32/Zotero-7.0.32_arm64_setup.exe) |
-| 7.0.32  | x64          | exe  | [https://download.zotero.org/client/release/7.0.32/Zotero-7.0.32_x64_setup.exe](https://download.zotero.org/client/release/7.0.32/Zotero-7.0.32_x64_setup.exe)     |
-| 7.0.32  | x86          | exe  | [https://download.zotero.org/client/release/7.0.32/Zotero-7.0.32_win32_setup.exe](https://download.zotero.org/client/release/7.0.32/Zotero-7.0.32_win32_setup.exe) |
-| 7.0.32  | ARM64        | zip  | [https://download.zotero.org/client/release/7.0.32/Zotero-7.0.32_win-arm64.zip](https://download.zotero.org/client/release/7.0.32/Zotero-7.0.32_win-arm64.zip)     |
-| 7.0.32  | x64          | zip  | [https://download.zotero.org/client/release/7.0.32/Zotero-7.0.32_win-x64.zip](https://download.zotero.org/client/release/7.0.32/Zotero-7.0.32_win-x64.zip)         |
-| 7.0.32  | x86          | zip  | [https://download.zotero.org/client/release/7.0.32/Zotero-7.0.32_win32.zip](https://download.zotero.org/client/release/7.0.32/Zotero-7.0.32_win32.zip)             |
+| Version | Architecture | Type | URI                                                                                                                                                    |
+| ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 8.0     | ARM64        | exe  | [https://download.zotero.org/client/release/8.0/Zotero-8.0_arm64_setup.exe](https://download.zotero.org/client/release/8.0/Zotero-8.0_arm64_setup.exe) |
+| 8.0     | x64          | exe  | [https://download.zotero.org/client/release/8.0/Zotero-8.0_x64_setup.exe](https://download.zotero.org/client/release/8.0/Zotero-8.0_x64_setup.exe)     |
+| 8.0     | x86          | exe  | [https://download.zotero.org/client/release/8.0/Zotero-8.0_win32_setup.exe](https://download.zotero.org/client/release/8.0/Zotero-8.0_win32_setup.exe) |
+| 8.0     | ARM64        | zip  | [https://download.zotero.org/client/release/8.0/Zotero-8.0_win-arm64.zip](https://download.zotero.org/client/release/8.0/Zotero-8.0_win-arm64.zip)     |
+| 8.0     | x64          | zip  | [https://download.zotero.org/client/release/8.0/Zotero-8.0_win-x64.zip](https://download.zotero.org/client/release/8.0/Zotero-8.0_win-x64.zip)         |
+| 8.0     | x86          | zip  | [https://download.zotero.org/client/release/8.0/Zotero-8.0_win32.zip](https://download.zotero.org/client/release/8.0/Zotero-8.0_win32.zip)             |
