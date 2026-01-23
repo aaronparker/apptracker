@@ -3,7 +3,7 @@ title: sqlitestudio.pl SQLiteStudio
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: 23/01/2026 11:37:49 AM
+last_modified_date: 23/01/2026 1:31:38 PM
 ---
 
 ## sqlitestudio.pl SQLiteStudio
