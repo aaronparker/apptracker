@@ -1,12 +1,12 @@
 [
   {
-    "Version": "4.0.5",
-    "Date": "19/1/2026",
-    "Size": 233164800,
-    "Sha256": "3934c805ffcbea7792f09ba16889fd85888c2defb9b6322551721c0d6a45ce2d",
+    "Version": "4.0.6",
+    "Date": "22/1/2026",
+    "Size": 233271296,
+    "Sha256": "db0debe38b9f893527f9e510afa575261a3e1be39f7d3f54ffa556f5dd8af9de",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/nextcloud-releases/desktop/releases/download/v4.0.5/Nextcloud-4.0.5-x64.msi"
+    "URI": "https://github.com/nextcloud-releases/desktop/releases/download/v4.0.6/Nextcloud-4.0.6-x64.msi"
   }
 ]

@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2.9.4",
-    "Date": "29/9/2025",
-    "Size": 37271816,
-    "Sha256": "2fb6c08236675439ac2825702653308de9ae2dcbd5be483c518af6b8bb0cf3b6",
+    "Version": "2.9.5",
+    "Date": "23/1/2026",
+    "Size": 37826464,
+    "Sha256": "72217d065cc824c5f1c72c3a2ddc217f901951ff292dfcdd09cc38f814a28f30",
     "Architecture": "x64",
     "InstallerType": "Minimal",
     "Type": "exe",
-    "URI": "https://github.com/MiniZinc/MiniZincIDE/releases/download/2.9.4/MiniZincIDE-2.9.4-bundled-setup-win64.exe"
+    "URI": "https://github.com/MiniZinc/MiniZincIDE/releases/download/2.9.5/MiniZincIDE-2.9.5-bundled-setup-win64.exe"
   }
 ]
