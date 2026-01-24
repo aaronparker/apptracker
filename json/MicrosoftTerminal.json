@@ -1,62 +1,62 @@
 [
   {
-    "Version": "1.23.13503.0",
-    "Date": "17/12/2025",
-    "Size": 23199511,
-    "Sha256": "11c4f64907ac16fda90c9bcae9b8e7584866f4cab0a64c163c5236365be34e72",
+    "Version": "1.23.20211.0",
+    "Date": "23/1/2026",
+    "Size": 21732492,
+    "Sha256": "a5b4b6bd5375227945396529d0023167942b5ed0b9e9516004b30e3648c21e52",
     "Architecture": "x86",
     "InstallerType": "Minimal",
     "Type": "msixbundle",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.23.13503.0/Microsoft.WindowsTerminal_1.23.13503.0_8wekyb3d8bbwe.msixbundle"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.23.20211.0/Microsoft.WindowsTerminal_1.23.20211.0_8wekyb3d8bbwe.msixbundle"
   },
   {
-    "Version": "1.23.13503.0",
-    "Date": "17/12/2025",
-    "Size": 11975181,
-    "Sha256": "17b133b5f45376e31e048defd92126f3eb829b7279ded62e3e5ebf622c85326c",
+    "Version": "1.23.20211.0",
+    "Date": "23/1/2026",
+    "Size": 11447525,
+    "Sha256": "22104751156d177632e9d11f2c3a93128c69c6507408ce97cefc837c22b4736c",
     "Architecture": "ARM64",
     "InstallerType": "Minimal",
     "Type": "zip",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.23.13503.0/Microsoft.WindowsTerminal_1.23.13503.0_arm64.zip"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.23.20211.0/Microsoft.WindowsTerminal_1.23.20211.0_arm64.zip"
   },
   {
-    "Version": "1.23.13503.0",
-    "Date": "17/12/2025",
-    "Size": 11752941,
-    "Sha256": "920b92d1cddc3a02fc6ba720b1f270cffae18eb114016c331835834917553c63",
+    "Version": "1.23.20211.0",
+    "Date": "23/1/2026",
+    "Size": 11354184,
+    "Sha256": "83efe4572599479e9df38317a7be7feb1e2e86430432fc8d84f76df19de6cd11",
     "Architecture": "x64",
     "InstallerType": "Minimal",
     "Type": "zip",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.23.13503.0/Microsoft.WindowsTerminal_1.23.13503.0_x64.zip"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.23.20211.0/Microsoft.WindowsTerminal_1.23.20211.0_x64.zip"
   },
   {
-    "Version": "1.23.13503.0",
-    "Date": "17/12/2025",
+    "Version": "1.23.20211.0",
+    "Date": "23/1/2026",
     "Size": 2541,
-    "Sha256": "85aa245a4dc7180cdcc09e784647a3edeb398688b7c78e596ee5e2f0ee6d34ed",
+    "Sha256": "3689c0f1209b57a026b98bd4f805293218dd4a74999f7303307a2f9600349844",
     "Architecture": "x86",
     "InstallerType": "Minimal",
     "Type": "zip",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.23.13503.0/GroupPolicyTemplates_1.23.13503.0.zip"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.23.20211.0/GroupPolicyTemplates_1.23.20211.0.zip"
   },
   {
-    "Version": "1.23.13503.0",
-    "Date": "17/12/2025",
-    "Size": 42248358,
-    "Sha256": "55d34cb5c7c3a310fa8e2a3e593537e7aee5e11e70b4d5a846b76f82d07cce8b",
+    "Version": "1.23.20211.0",
+    "Date": "23/1/2026",
+    "Size": 40819416,
+    "Sha256": "69a0f72bcb477468acdacee983e06bf15b2b6c0f225be39d5cb6fa250ee21ad6",
     "Architecture": "x86",
     "InstallerType": "Minimal",
     "Type": "zip",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.23.13503.0/Microsoft.WindowsTerminal_1.23.13503.0_8wekyb3d8bbwe.msixbundle_Windows10_PreinstallKit.zip"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.23.20211.0/Microsoft.WindowsTerminal_1.23.20211.0_8wekyb3d8bbwe.msixbundle_Windows10_PreinstallKit.zip"
   },
   {
-    "Version": "1.23.13503.0",
-    "Date": "17/12/2025",
-    "Size": 10903804,
-    "Sha256": "3368ef3ee1985a7270edd1f898286bd6a770a773d3c5c525296cb86bc12b4d03",
+    "Version": "1.23.20211.0",
+    "Date": "23/1/2026",
+    "Size": 10459694,
+    "Sha256": "590d7454806048368f1e69e048b6a042f21d7fa654977dbb64dc5fce047d817b",
     "Architecture": "x86",
     "InstallerType": "Minimal",
     "Type": "zip",
-    "URI": "https://github.com/microsoft/terminal/releases/download/v1.23.13503.0/Microsoft.WindowsTerminal_1.23.13503.0_x86.zip"
+    "URI": "https://github.com/microsoft/terminal/releases/download/v1.23.20211.0/Microsoft.WindowsTerminal_1.23.20211.0_x86.zip"
   }
 ]

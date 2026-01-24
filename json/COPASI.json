@@ -1,12 +1,12 @@
 [
   {
-    "Version": "4.45",
-    "Date": "28/3/2025",
-    "Size": 63918239,
-    "Sha256": null,
+    "Version": "4.46",
+    "Date": "14/1/2026",
+    "Size": 55435752,
+    "Sha256": "4dcee41664866f9034294914c6611ecffecc36ab6c9a4d3ce416d89cfb528766",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/copasi/COPASI/releases/download/Build-298/COPASI-4.45.298-Windows.exe"
+    "URI": "https://github.com/copasi/COPASI/releases/download/Build-300/COPASI-4.46.300-Windows.exe"
   }
 ]
