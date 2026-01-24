@@ -3,7 +3,7 @@ title: Proton Authenticator
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 23/01/2026 1:31:38 PM
+last_modified_date: 24/01/2026 11:37:12 AM
 ---
 
 ## Proton Authenticator
