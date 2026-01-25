@@ -1,299 +1,299 @@
 [
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 5304320,
+    "Date": "15/12/2025",
+    "Size": 8622080,
     "Language": "Chinese (Simplified)",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/fe03554e-5869-4db3-afd7-b31d85673e7b/arm64/2052/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/7dc6d73d-475b-40ce-ba59-9e5eaee3ac71/arm64/2052/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 5308416,
+    "Date": "15/12/2025",
+    "Size": 8626176,
     "Language": "Chinese (Traditional)",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/8a8d6e08-134c-473b-bcc6-98a5b70aded2/arm64/1028/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/fb12b0de-5ff6-4944-aab9-ccad7706e071/arm64/1028/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 5300224,
+    "Date": "15/12/2025",
+    "Size": 8667136,
     "Language": "English",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/9552391b-a627-4f7e-afd3-08418036709f/arm64/1033/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/0fb52de8-75e7-43fe-9ab9-07a066670d21/arm64/1033/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 5353472,
+    "Date": "15/12/2025",
+    "Size": 8671232,
     "Language": "French",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/1edd702b-2678-40e9-b2b8-83496291637b/arm64/1036/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/08ec7823-1be0-4e61-935d-c2ea92ac89ad/arm64/1036/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 5345280,
+    "Date": "15/12/2025",
+    "Size": 8667136,
     "Language": "German",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/f985adff-8053-4d45-a5cf-508e231ebdf0/arm64/1031/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/2e8bb242-663f-48fc-93ec-710c46dbb893/arm64/1031/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 5349376,
+    "Date": "15/12/2025",
+    "Size": 8663040,
     "Language": "Italian",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/eb461731-b512-450c-afad-62e60c057b24/arm64/1040/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/8148178a-4726-43f4-8e26-eec9dd5e4ac7/arm64/1040/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 5361664,
+    "Date": "15/12/2025",
+    "Size": 8687616,
     "Language": "Japanese",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/f760042d-0c76-4f33-9ef1-47942fab44fb/arm64/1041/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/a3724750-5e27-49f1-b43f-dec6317c2924/arm64/1041/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 5341184,
+    "Date": "15/12/2025",
+    "Size": 8667136,
     "Language": "Korean",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2632e4a5-3b96-4fbd-b73c-f377e29cd952/arm64/1042/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/f0d78542-37b1-4162-98f1-e8ef3e73ae5f/arm64/1042/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 5332992,
+    "Date": "15/12/2025",
+    "Size": 8654848,
     "Language": "Portuguese (Brazil)",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/9bb989b5-e90c-4ab7-ad46-5df8740f4525/arm64/1046/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/41582a65-2f19-4cd8-89ff-090e480a5f74/arm64/1046/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 5365760,
+    "Date": "15/12/2025",
+    "Size": 8687616,
     "Language": "Russian",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/dbe505cd-b530-4146-9ad8-76543eddea71/arm64/1049/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/7b6c8b7c-5fde-47a3-af71-de31cbc717a2/arm64/1049/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 5345280,
+    "Date": "15/12/2025",
+    "Size": 8667136,
     "Language": "Spanish",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/c73a3b54-5d93-4d6c-8795-b780879a13a8/arm64/3082/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/fc7f71b1-73c0-4c1c-a4d9-289359c0f72d/arm64/3082/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 7000064,
+    "Date": "15/12/2025",
+    "Size": 7168000,
     "Language": "Chinese (Simplified)",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/10fad764-099a-4164-a424-1a2f1928f87f/amd64/2052/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/2c8c0798-9e50-4f44-94a1-96b760237c20/amd64/2052/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 7000064,
+    "Date": "15/12/2025",
+    "Size": 7172096,
     "Language": "Chinese (Traditional)",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/3c1df0ac-2d9a-4d64-942f-d613521aace6/amd64/1028/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/0295ff5f-0a52-4079-96cf-bfb7dfdac0cd/amd64/1028/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 7081984,
+    "Date": "15/12/2025",
+    "Size": 7254016,
     "Language": "English",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/48a8e0c3-556b-4012-ba65-fcea935447f2/amd64/1033/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/8d6e3acc-bf5b-41fe-ad51-a9ad406a780f/amd64/1033/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 7041024,
+    "Date": "15/12/2025",
+    "Size": 7217152,
     "Language": "French",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/19667870-02e5-4184-8b4d-2bb9c9005c2d/amd64/1036/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/9ab16e3a-0c3f-4c7e-b719-4b7a122198dd/amd64/1036/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 7036928,
+    "Date": "15/12/2025",
+    "Size": 7208960,
     "Language": "German",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/ff46ec7a-bf2e-4574-87f7-1842a7e0b0cf/amd64/1031/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/cbf3237b-b687-45d3-b74f-2a38ee4ff505/amd64/1031/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 7032832,
+    "Date": "15/12/2025",
+    "Size": 7200768,
     "Language": "Italian",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/e43da731-3e2f-4209-9c78-571e5352a8e6/amd64/1040/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/459b567b-4da8-4c3f-a270-d1bc7da82f96/amd64/1040/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 7053312,
+    "Date": "15/12/2025",
+    "Size": 7221248,
     "Language": "Japanese",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/59f4bb49-32d4-4f32-b1a5-6a39a779281a/amd64/1041/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/b7612bb7-2f62-4bd8-80f1-7d6492b95aed/amd64/1041/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 7036928,
+    "Date": "15/12/2025",
+    "Size": 3833856,
     "Language": "Korean",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/467dca57-4e48-4bc1-8c4f-cf4174e7f677/amd64/1042/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/b3cd6c1e-6421-4acc-b69c-df662b744e84/x86/1042/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 7024640,
+    "Date": "15/12/2025",
+    "Size": 7208960,
+    "Language": "Korean",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/c6d9847a-b22c-4fb0-9f7e-baa0702dd59b/amd64/1042/msodbcsql.msi"
+  },
+  {
+    "Version": "Unknown",
+    "Date": "15/12/2025",
+    "Size": 7200768,
     "Language": "Portuguese (Brazil)",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/ab350d6a-0ae3-49b5-9396-3e473fe3e979/amd64/1046/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/231693fb-27c3-489f-a386-e854f621a181/amd64/1046/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 7061504,
+    "Date": "15/12/2025",
+    "Size": 7229440,
     "Language": "Russian",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/cc0741f1-e84d-4e1e-b771-1940e03a21a4/amd64/1049/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/f6f6fd47-49b6-4de2-a9b2-c95d72c7e6c8/amd64/1049/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 7036928,
+    "Date": "15/12/2025",
+    "Size": 7208960,
     "Language": "Spanish",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/0192e447-bf76-4007-b2d3-0563e035be66/amd64/3082/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/13fb7cd1-7d37-4c3a-a64b-0967dc868512/amd64/3082/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 3690496,
+    "Date": "15/12/2025",
+    "Size": 3796992,
     "Language": "Chinese (Simplified)",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/9a44a9c4-55b8-4a1f-8d1d-9c69737ac845/x86/2052/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/d2ef6f94-21af-4268-89ee-d02a56720f89/x86/2052/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 3690496,
+    "Date": "15/12/2025",
+    "Size": 3801088,
     "Language": "Chinese (Traditional)",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/bd7e06b9-49fa-43de-9f5e-81b28bcfe7d5/x86/1028/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/9ce6be59-00dd-4bac-86f6-5f2ce559409b/x86/1028/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 3674112,
+    "Date": "15/12/2025",
+    "Size": 3780608,
     "Language": "English",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/59456ebd-9171-4892-b700-100555c1bbb2/x86/1033/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/0b5dc48e-815a-4366-a13d-8a41faf223c1/x86/1033/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 3735552,
+    "Date": "15/12/2025",
+    "Size": 3850240,
     "Language": "French",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/a8e313b5-d645-4710-b86d-b773e6cfbd24/x86/1036/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/914b0d95-f327-4939-b31c-b5c1c1c9708e/x86/1036/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 3731456,
+    "Date": "15/12/2025",
+    "Size": 3837952,
     "Language": "German",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/62bbddbf-b0ce-4569-a093-ce63cff2721f/x86/1031/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/70f05381-adac-4c1a-9025-4960cbce6d2d/x86/1031/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 3723264,
+    "Date": "15/12/2025",
+    "Size": 3833856,
     "Language": "Italian",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/b4af0663-6acb-42ef-9f8a-e64808ca5d6f/x86/1040/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/0dce06d5-8144-4e4c-a69e-6ba2fda98c4b/x86/1040/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 3743744,
+    "Date": "15/12/2025",
+    "Size": 3854336,
     "Language": "Japanese",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/340f7d25-5af4-4c07-aaae-86816ea0b9f5/x86/1041/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/709f97db-e1fa-4db0-8849-28fa847929a9/x86/1041/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 3723264,
-    "Language": "Korean",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://download.microsoft.com/download/62a2c1c4-3c52-44d5-b038-253f0e084b8a/x86/1042/msodbcsql.msi"
-  },
-  {
-    "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 3719168,
+    "Date": "15/12/2025",
+    "Size": 3829760,
     "Language": "Portuguese (Brazil)",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/4c47d4a2-9f51-48d5-96d4-8f0820108726/x86/1046/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/ed20cf8a-1a25-4c99-8ad2-c9290e821d46/x86/1046/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 3747840,
+    "Date": "15/12/2025",
+    "Size": 3858432,
     "Language": "Russian",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/64b074ab-f4a1-4d02-8766-09e89b1d3c21/x86/1049/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/d2c3a350-d63a-4aa9-a904-d60fa562116b/x86/1049/msodbcsql.msi"
   },
   {
     "Version": "Unknown",
-    "Date": "22/9/2025",
-    "Size": 3723264,
+    "Date": "15/12/2025",
+    "Size": 3837952,
     "Language": "Spanish",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/61c83407-055b-4524-afbb-4b93469dce13/x86/3082/msodbcsql.msi"
+    "URI": "https://download.microsoft.com/download/e9631b62-f6f0-4d9b-b86e-99e640a0e206/x86/3082/msodbcsql.msi"
   }
 ]

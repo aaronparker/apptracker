@@ -1,10 +1,10 @@
 [
   {
-    "Version": "3.0.6",
-    "Revision": 1,
-    "Date": "7/10/2025",
+    "Version": "3.0.8",
+    "Revision": "0",
+    "Date": "24/1/2026",
     "Channel": "Stable",
-    "Sha256": "1521ae318ff176d3d428279d52ff5abdf328ddf8644b48de75684e55e1057167",
-    "URI": "https://cofractal-ewr.mm.fcix.net/gimp/gimp/v3.0/windows/gimp-3.0.6-setup-1.exe"
+    "Sha256": "6cda0c1283ab3bc84c687fb3cf0896e61760a213ff9fb496a5a2851c040927c8",
+    "URI": "https://volico.mm.fcix.net/gimp/gimp/v3.0/windows/gimp-3.0.8-setup.exe"
   }
 ]
