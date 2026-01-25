@@ -3,7 +3,7 @@ title: Appium Developers Appium Inspector
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 24/01/2026 1:25:33 PM
+last_modified_date: 25/01/2026 11:36:17 AM
 ---
 
 ## Appium Developers Appium Inspector
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version  | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                              |
 | -------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2026.1.2 | 11/1/2026 | 135585160 | 0a5064cb74d8acea24a98159d318d93839d5eec3fffc5133fb3cdd8e0f234d56 | ARM64        | Default       | exe  | [https://github.com/appium/appium-inspector/releases/download/v2026.1.2/Appium-Inspector-2026.1.2-win-arm64.exe](https://github.com/appium/appium-inspector/releases/download/v2026.1.2/Appium-Inspector-2026.1.2-win-arm64.exe) |
-| 2026.1.2 | 11/1/2026 | 133276784 | eccf3138f8512ce564262c058e0c99feb237c5062326d347c3ef05122410e5ad | x64          | Default       | exe  | [https://github.com/appium/appium-inspector/releases/download/v2026.1.2/Appium-Inspector-2026.1.2-win-x64.exe](https://github.com/appium/appium-inspector/releases/download/v2026.1.2/Appium-Inspector-2026.1.2-win-x64.exe)     |
-| 2026.1.2 | 11/1/2026 | 268209096 | 1f26034bd520e8bd0c8622e5d3eb040ca3c27d39c40174f7c7775fe5637f1f16 | x86          | Default       | exe  | [https://github.com/appium/appium-inspector/releases/download/v2026.1.2/Appium-Inspector-2026.1.2-win.exe](https://github.com/appium/appium-inspector/releases/download/v2026.1.2/Appium-Inspector-2026.1.2-win.exe)             |
+| 2026.1.3 | 24/1/2026 | 125181728 | 7bbf7d630d85d0f53698ce7b30c0628a7beedd612d2241e8a4fc09d4c2115ded | ARM64        | Default       | exe  | [https://github.com/appium/appium-inspector/releases/download/v2026.1.3/Appium-Inspector-2026.1.3-win-arm64.exe](https://github.com/appium/appium-inspector/releases/download/v2026.1.3/Appium-Inspector-2026.1.3-win-arm64.exe) |
+| 2026.1.3 | 24/1/2026 | 122527728 | fc05e2ebda97db5bff371015d2c7bd5890b924067e334c07524f50cbfaf82bcd | x64          | Default       | exe  | [https://github.com/appium/appium-inspector/releases/download/v2026.1.3/Appium-Inspector-2026.1.3-win-x64.exe](https://github.com/appium/appium-inspector/releases/download/v2026.1.3/Appium-Inspector-2026.1.3-win-x64.exe)     |
+| 2026.1.3 | 24/1/2026 | 247056592 | 5f2501fdbd992e4e1fe987009e7b380b3b75d55dba718f80060fb0021dc35f98 | x86          | Default       | exe  | [https://github.com/appium/appium-inspector/releases/download/v2026.1.3/Appium-Inspector-2026.1.3-win.exe](https://github.com/appium/appium-inspector/releases/download/v2026.1.3/Appium-Inspector-2026.1.3-win.exe)             |

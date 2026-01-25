@@ -3,7 +3,7 @@ title: Microsoft Azure Pipelines Agent
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 24/01/2026 1:25:33 PM
+last_modified_date: 25/01/2026 11:36:17 AM
 ---
 
 ## Microsoft Azure Pipelines Agent

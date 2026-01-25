@@ -3,7 +3,7 @@ title: NSClient++
 layout: default
 nav_order: 2
 parent: N
-last_modified_date: 24/01/2026 1:25:33 PM
+last_modified_date: 25/01/2026 11:36:17 AM
 ---
 
 ## NSClient++
@@ -16,8 +16,8 @@ Last check: 🟢
 
 | Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                |
 | ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0.11.7  | 13/1/2026 | 9050600  | 23d4a048159096003481f1eca770b53519d81527c88923cdb13d9b21cb012f3f | x64          | Default       | exe  | [https://github.com/mickem/nscp/releases/download/0.11.7/check_nsclient-0.11.7-x64.exe](https://github.com/mickem/nscp/releases/download/0.11.7/check_nsclient-0.11.7-x64.exe)     |
-| 0.11.7  | 13/1/2026 | 7007208  | 7e71401c59aaffff6cb628e0cadb19d6fb9ae1f6c019cbda05db67b6086d47e6 | x86          | Default       | exe  | [https://github.com/mickem/nscp/releases/download/0.11.7/check_nsclient-0.11.7-Win32.exe](https://github.com/mickem/nscp/releases/download/0.11.7/check_nsclient-0.11.7-Win32.exe) |
-| 0.11.7  | 13/1/2026 | 52625408 | 55246fc63b132b67bbeb4027ec24087f3f385c81f69f7188c509c327d488cb8f | x64          | Default       | msi  | [https://github.com/mickem/nscp/releases/download/0.11.7/NSCP-0.11.7-x64.msi](https://github.com/mickem/nscp/releases/download/0.11.7/NSCP-0.11.7-x64.msi)                         |
-| 0.11.7  | 13/1/2026 | 62185472 | f166f31a2ce129d7d8b8510afd6d2d4757f996bd8a5706af5189f74ada2be8db | x86          | Default       | msi  | [https://github.com/mickem/nscp/releases/download/0.11.7/NSCP-0.11.7-Win32-legacy-xp.msi](https://github.com/mickem/nscp/releases/download/0.11.7/NSCP-0.11.7-Win32-legacy-xp.msi) |
-| 0.11.7  | 13/1/2026 | 42037248 | 7ec6d63f86e0d3f6548643ed90da84bcccbeae3f477b3d54e3d0757bff0cd4bd | x86          | Default       | msi  | [https://github.com/mickem/nscp/releases/download/0.11.7/NSCP-0.11.7-Win32.msi](https://github.com/mickem/nscp/releases/download/0.11.7/NSCP-0.11.7-Win32.msi)                     |
+| 0.11.8  | 24/1/2026 | 8919016  | 93c4f0dbfbf312a121eb8dad5355acbbdebbdcf67332114ae030068ec42db06f | x64          | Default       | exe  | [https://github.com/mickem/nscp/releases/download/0.11.8/check_nsclient-0.11.8-x64.exe](https://github.com/mickem/nscp/releases/download/0.11.8/check_nsclient-0.11.8-x64.exe)     |
+| 0.11.8  | 24/1/2026 | 6940648  | 96950d455c3312969f4b3f9231e8d5bfcd6cd6f5aa1212ab83641d60ede506a6 | x86          | Default       | exe  | [https://github.com/mickem/nscp/releases/download/0.11.8/check_nsclient-0.11.8-Win32.exe](https://github.com/mickem/nscp/releases/download/0.11.8/check_nsclient-0.11.8-Win32.exe) |
+| 0.11.8  | 24/1/2026 | 54329344 | 7586b43dc18dc7e99a744d62c7b3f464f2bb3059a048dbb1584048530111ca65 | x64          | Default       | msi  | [https://github.com/mickem/nscp/releases/download/0.11.8/NSCP-0.11.8-x64.msi](https://github.com/mickem/nscp/releases/download/0.11.8/NSCP-0.11.8-x64.msi)                         |
+| 0.11.8  | 24/1/2026 | 63995904 | 430876cb770bcc348915ac170253c8f56815c8e5d60cda39b9014a7d39a35923 | x86          | Default       | msi  | [https://github.com/mickem/nscp/releases/download/0.11.8/NSCP-0.11.8-Win32-legacy-xp.msi](https://github.com/mickem/nscp/releases/download/0.11.8/NSCP-0.11.8-Win32-legacy-xp.msi) |
+| 0.11.8  | 24/1/2026 | 43737088 | 15f9893e09ac395c8aee3a78b3a2307ecf3e64ee61f1a32754311413ca3f90f7 | x86          | Default       | msi  | [https://github.com/mickem/nscp/releases/download/0.11.8/NSCP-0.11.8-Win32.msi](https://github.com/mickem/nscp/releases/download/0.11.8/NSCP-0.11.8-Win32.msi)                     |
