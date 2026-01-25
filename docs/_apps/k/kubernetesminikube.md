@@ -3,7 +3,7 @@ title: Kubernetes Minikube
 layout: default
 nav_order: 2
 parent: K
-last_modified_date: 25/01/2026 11:36:17 AM
+last_modified_date: 25/01/2026 1:25:49 PM
 ---
 
 ## Kubernetes Minikube
