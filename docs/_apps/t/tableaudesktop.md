@@ -3,7 +3,7 @@ title: Tableau Desktop
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: 25/01/2026 1:25:49 PM
+last_modified_date: 26/01/2026 11:35:44 AM
 ---
 
 ## Tableau Desktop

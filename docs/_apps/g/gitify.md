@@ -3,7 +3,7 @@ title: Gitify Team Gitify
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 25/01/2026 1:25:49 PM
+last_modified_date: 26/01/2026 11:35:44 AM
 ---
 
 ## Gitify Team Gitify
@@ -14,6 +14,6 @@ Evergreen app: `Gitify`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date     | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                              |
-| ------- | -------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 6.15.0  | 9/1/2026 | 90465099 | 4522ae9a373f4bb897bd470e365c2ac1e9a07541643dabfe3a9f841be3c6d26d | x86          | Default       | exe  | [https://github.com/gitify-app/gitify/releases/download/v6.15.0/Gitify-Setup-6.15.0.exe](https://github.com/gitify-app/gitify/releases/download/v6.15.0/Gitify-Setup-6.15.0.exe) |
+| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                              |
+| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 6.16.0  | 25/1/2026 | 90935712 | 5a913f6139c16f58a20592479fd37297b0dd85748e18c30c5eadbd8149ce273e | x86          | Default       | exe  | [https://github.com/gitify-app/gitify/releases/download/v6.16.0/Gitify-Setup-6.16.0.exe](https://github.com/gitify-app/gitify/releases/download/v6.16.0/Gitify-Setup-6.16.0.exe) |
