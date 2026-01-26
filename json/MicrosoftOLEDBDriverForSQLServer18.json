@@ -1,200 +1,200 @@
 [
   {
-    "Version": "18.7.2.0",
-    "Date": "10/2/2025",
-    "Size": 7233536,
+    "Version": "18.7.5",
+    "Date": "9/5/2025",
+    "Size": 7163904,
     "Language": "Chinese (Simplified)",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/zh-CN/18.7.2.0/x64/msoledbsql.msi"
+    "URI": "https://download.microsoft.com/download/c7061a67-50b1-4499-a1a0-0f4608543271/amd64/2052/msoledbsql.msi"
   },
   {
-    "Version": "18.7.2.0",
-    "Date": "10/2/2025",
+    "Version": "18.7.5",
+    "Date": "9/5/2025",
+    "Size": 7168000,
+    "Language": "Chinese (Traditional)",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/71e8ccf7-ca20-4206-b2b6-cb55293d559f/amd64/1028/msoledbsql.msi"
+  },
+  {
+    "Version": "18.7.5",
+    "Date": "9/5/2025",
+    "Size": 7122944,
+    "Language": "English",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/532f9283-eea4-460d-ac1c-3a3bd7c16f8c/amd64/1033/msoledbsql.msi"
+  },
+  {
+    "Version": "18.7.5",
+    "Date": "9/5/2025",
+    "Size": 7225344,
+    "Language": "French",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/fed39c15-cee8-44aa-bdca-f80c8edec333/amd64/1036/msoledbsql.msi"
+  },
+  {
+    "Version": "18.7.5",
+    "Date": "9/5/2025",
+    "Size": 7213056,
+    "Language": "German",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/10c9670b-2e19-4732-ae11-8a07cafc3140/amd64/1031/msoledbsql.msi"
+  },
+  {
+    "Version": "18.7.5",
+    "Date": "9/5/2025",
+    "Size": 7213056,
+    "Language": "Italian",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/a8cc12cc-452e-456f-af69-438f972ba890/amd64/1040/msoledbsql.msi"
+  },
+  {
+    "Version": "18.7.5",
+    "Date": "9/5/2025",
+    "Size": 7225344,
+    "Language": "Japanese",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/c74e78eb-216e-4649-99d4-9d5ea84605e3/amd64/1041/msoledbsql.msi"
+  },
+  {
+    "Version": "18.7.5",
+    "Date": "9/5/2025",
+    "Size": 7204864,
+    "Language": "Korean",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/447d458e-139f-47e2-b16a-2a51fa23de42/amd64/1042/msoledbsql.msi"
+  },
+  {
+    "Version": "18.7.5",
+    "Date": "9/5/2025",
+    "Size": 7204864,
+    "Language": "Portuguese (Brazil)",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://download.microsoft.com/download/829a0ed7-4744-4c73-a3ed-b38956798a8d/amd64/1046/msoledbsql.msi"
+  },
+  {
+    "Version": "18.7.5",
+    "Date": "9/5/2025",
     "Size": 7237632,
-    "Language": "Chinese (Traditional)",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/zh-TW/18.7.2.0/x64/msoledbsql.msi"
-  },
-  {
-    "Version": "18.7.2.0",
-    "Date": "10/2/2025",
-    "Size": 7188480,
-    "Language": "English",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/en-US/18.7.2.0/x64/msoledbsql.msi"
-  },
-  {
-    "Version": "18.7.2.0",
-    "Date": "10/2/2025",
-    "Size": 7290880,
-    "Language": "French",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/fr-FR/18.7.2.0/x64/msoledbsql.msi"
-  },
-  {
-    "Version": "18.7.2.0",
-    "Date": "10/2/2025",
-    "Size": 7286784,
-    "Language": "German",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/de-DE/18.7.2.0/x64/msoledbsql.msi"
-  },
-  {
-    "Version": "18.7.2.0",
-    "Date": "10/2/2025",
-    "Size": 7278592,
-    "Language": "Italian",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/it-IT/18.7.2.0/x64/msoledbsql.msi"
-  },
-  {
-    "Version": "18.7.2.0",
-    "Date": "10/2/2025",
-    "Size": 7294976,
-    "Language": "Japanese",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/ja-JP/18.7.2.0/x64/msoledbsql.msi"
-  },
-  {
-    "Version": "18.7.2.0",
-    "Date": "10/2/2025",
-    "Size": 7270400,
-    "Language": "Korean",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/ko-KR/18.7.2.0/x64/msoledbsql.msi"
-  },
-  {
-    "Version": "18.7.2.0",
-    "Date": "10/2/2025",
-    "Size": 7270400,
-    "Language": "Portuguese (Brazil)",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/pt-BR/18.7.2.0/x64/msoledbsql.msi"
-  },
-  {
-    "Version": "18.7.2.0",
-    "Date": "10/2/2025",
-    "Size": 7307264,
     "Language": "Russian",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/ru-RU/18.7.2.0/x64/msoledbsql.msi"
+    "URI": "https://download.microsoft.com/download/3c0b8d5b-31ee-4697-9a31-6e8d286dc95c/amd64/1049/msoledbsql.msi"
   },
   {
-    "Version": "18.7.2.0",
-    "Date": "10/2/2025",
-    "Size": 7278592,
+    "Version": "18.7.5",
+    "Date": "9/5/2025",
+    "Size": 7208960,
     "Language": "Spanish",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/es-ES/18.7.2.0/x64/msoledbsql.msi"
+    "URI": "https://download.microsoft.com/download/4cac46bf-d03c-42dc-aa8f-1df152b290ef/amd64/3082/msoledbsql.msi"
   },
   {
-    "Version": "18.7.2.0",
-    "Date": "10/2/2025",
-    "Size": 3903488,
+    "Version": "18.7.5",
+    "Date": "9/5/2025",
+    "Size": 3866624,
     "Language": "Chinese (Simplified)",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/zh-CN/18.7.2.0/x86/msoledbsql.msi"
+    "URI": "https://download.microsoft.com/download/f499dd49-732a-46e8-a86e-535e1a7f39e2/x86/2052/msoledbsql.msi"
   },
   {
-    "Version": "18.7.2.0",
-    "Date": "10/2/2025",
-    "Size": 3907584,
+    "Version": "18.7.5",
+    "Date": "9/5/2025",
+    "Size": 3870720,
     "Language": "Chinese (Traditional)",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/zh-TW/18.7.2.0/x86/msoledbsql.msi"
+    "URI": "https://download.microsoft.com/download/046a40fe-57a6-4a88-9c37-b43120d94cdb/x86/1028/msoledbsql.msi"
   },
   {
-    "Version": "18.7.2.0",
-    "Date": "10/2/2025",
-    "Size": 3891200,
+    "Version": "18.7.5",
+    "Date": "9/5/2025",
+    "Size": 3858432,
     "Language": "English",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/en-US/18.7.2.0/x86/msoledbsql.msi"
+    "URI": "https://download.microsoft.com/download/648122b5-0ca2-4335-8369-670d921f81ca/x86/1033/msoledbsql.msi"
   },
   {
-    "Version": "18.7.2.0",
-    "Date": "10/2/2025",
-    "Size": 3952640,
+    "Version": "18.7.5",
+    "Date": "9/5/2025",
+    "Size": 3919872,
     "Language": "French",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/fr-FR/18.7.2.0/x86/msoledbsql.msi"
+    "URI": "https://download.microsoft.com/download/5465f33a-201c-483d-86e2-9d9daa8d1ae3/x86/1036/msoledbsql.msi"
   },
   {
-    "Version": "18.7.2.0",
-    "Date": "10/2/2025",
-    "Size": 3944448,
+    "Version": "18.7.5",
+    "Date": "9/5/2025",
+    "Size": 3907584,
     "Language": "German",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/de-DE/18.7.2.0/x86/msoledbsql.msi"
+    "URI": "https://download.microsoft.com/download/c1eb3da6-cc0b-480f-99f2-0647d0c7a22d/x86/1031/msoledbsql.msi"
   },
   {
-    "Version": "18.7.2.0",
-    "Date": "10/2/2025",
-    "Size": 3940352,
+    "Version": "18.7.5",
+    "Date": "9/5/2025",
+    "Size": 3903488,
     "Language": "Italian",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/it-IT/18.7.2.0/x86/msoledbsql.msi"
+    "URI": "https://download.microsoft.com/download/79252702-e4c0-40d1-9ccc-d6e40a35e674/x86/1040/msoledbsql.msi"
   },
   {
-    "Version": "18.7.2.0",
-    "Date": "10/2/2025",
-    "Size": 3960832,
+    "Version": "18.7.5",
+    "Date": "9/5/2025",
+    "Size": 3923968,
     "Language": "Japanese",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/ja-JP/18.7.2.0/x86/msoledbsql.msi"
+    "URI": "https://download.microsoft.com/download/34d0b2eb-e5d1-4471-8295-b690e7d2c6dd/x86/1041/msoledbsql.msi"
   },
   {
-    "Version": "18.7.2.0",
-    "Date": "10/2/2025",
-    "Size": 3936256,
+    "Version": "18.7.5",
+    "Date": "9/5/2025",
+    "Size": 3903488,
     "Language": "Korean",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/ko-KR/18.7.2.0/x86/msoledbsql.msi"
+    "URI": "https://download.microsoft.com/download/391fb39e-b52a-4373-9003-064b413bf393/x86/1042/msoledbsql.msi"
   },
   {
-    "Version": "18.7.2.0",
-    "Date": "10/2/2025",
-    "Size": 3936256,
+    "Version": "18.7.5",
+    "Date": "9/5/2025",
+    "Size": 3899392,
     "Language": "Portuguese (Brazil)",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/pt-BR/18.7.2.0/x86/msoledbsql.msi"
+    "URI": "https://download.microsoft.com/download/5546448d-ccf6-4256-8024-a22d66806e8e/x86/1046/msoledbsql.msi"
   },
   {
-    "Version": "18.7.2.0",
-    "Date": "10/2/2025",
-    "Size": 3964928,
+    "Version": "18.7.5",
+    "Date": "9/5/2025",
+    "Size": 3932160,
     "Language": "Russian",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/ru-RU/18.7.2.0/x86/msoledbsql.msi"
+    "URI": "https://download.microsoft.com/download/305b5cf5-c074-4dab-ab95-16b7f279e866/x86/1049/msoledbsql.msi"
   },
   {
-    "Version": "18.7.2.0",
-    "Date": "10/2/2025",
-    "Size": 3944448,
+    "Version": "18.7.5",
+    "Date": "9/5/2025",
+    "Size": 3907584,
     "Language": "Spanish",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.microsoft.com/download/2/6/1/2613c841-cf12-4ba3-b0f8-50dcc195faa4/es-ES/18.7.2.0/x86/msoledbsql.msi"
+    "URI": "https://download.microsoft.com/download/c9d7f8a2-aa7c-49ef-982f-682a5e97dd98/x86/3082/msoledbsql.msi"
   }
 ]
