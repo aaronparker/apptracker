@@ -3,7 +3,7 @@ title: Toggl Desktop
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: 27/01/2026 11:37:15 AM
+last_modified_date: 27/01/2026 1:33:07 PM
 ---
 
 ## Toggl Desktop
