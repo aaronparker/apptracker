@@ -54,11 +54,11 @@
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   },
   {
-    "Version": "16.0.10417.20083",
+    "Version": "16.0.10417.20095",
     "ReleaseVersion": "1808",
     "Channel": "PerpetualVL2019",
     "Name": "Office 2019 Perpetual Enterprise",
-    "Date": "2026-01-13T14:29:56",
+    "Date": "2026-01-26T20:21:53",
     "EOSDate": "2026-02-10T00:00:00",
     "URI": "https://officecdn.microsoft.com/pr/wsus/setup.exe"
   }
