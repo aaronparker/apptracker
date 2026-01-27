@@ -3,7 +3,7 @@ title: Elgato Stream Deck
 layout: default
 nav_order: 2
 parent: E
-last_modified_date: 26/01/2026 1:32:22 PM
+last_modified_date: 27/01/2026 11:37:15 AM
 ---
 
 ## Elgato Stream Deck
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                      |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 7.2.0   | x86          | msi  | [https://edge.elgato.com/egc/windows/sd/Stream_Deck_7.2.0.22454.msi](https://edge.elgato.com/egc/windows/sd/Stream_Deck_7.2.0.22454.msi) |
+| 7.2.1   | x86          | msi  | [https://edge.elgato.com/egc/windows/sd/Stream_Deck_7.2.1.22472.msi](https://edge.elgato.com/egc/windows/sd/Stream_Deck_7.2.1.22472.msi) |

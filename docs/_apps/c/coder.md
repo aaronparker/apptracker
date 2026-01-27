@@ -3,7 +3,7 @@ title: Coder Technologies Coder
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: 26/01/2026 1:32:22 PM
+last_modified_date: 27/01/2026 11:37:15 AM
 ---
 
 ## Coder Technologies Coder
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                    |
 | ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2.28.7  | 21/1/2026 | 130052040 | f743f09877733efbd3c4e3fde64dbd5a3a2a04f1424267c7a132f92b516e620e | x64          | Default       | exe  | [https://github.com/coder/coder/releases/download/v2.28.7/coder_2.28.7_windows_amd64_installer.exe](https://github.com/coder/coder/releases/download/v2.28.7/coder_2.28.7_windows_amd64_installer.exe) |
+| 2.28.8  | 26/1/2026 | 130070592 | c8971f64cb35fd46f23b70587b4dc102485ce853d613cfef169ba134c97f3270 | x64          | Default       | exe  | [https://github.com/coder/coder/releases/download/v2.28.8/coder_2.28.8_windows_amd64_installer.exe](https://github.com/coder/coder/releases/download/v2.28.8/coder_2.28.8_windows_amd64_installer.exe) |
