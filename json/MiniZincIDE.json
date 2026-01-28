@@ -2,8 +2,8 @@
   {
     "Version": "2.9.5",
     "Date": "23/1/2026",
-    "Size": 37826464,
-    "Sha256": "72217d065cc824c5f1c72c3a2ddc217f901951ff292dfcdd09cc38f814a28f30",
+    "Size": 37831904,
+    "Sha256": "a4f475b042b6d23132fbef1dbcd673933483b0054ce60630afc39d45f076ed96",
     "Architecture": "x64",
     "InstallerType": "Minimal",
     "Type": "exe",

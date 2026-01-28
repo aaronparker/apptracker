@@ -93,7 +93,7 @@
     "Version": "8.9.1",
     "Date": "26/1/2026",
     "Size": 7335936,
-    "Sha256": "50f0c17f8d38897f909ab065c95b4f154588cdf3116ce08610aa989f9778d120",
+    "Sha256": "e800e62c4eae095d47259111e953c618f09fe69fa4584db63ea220e095900c0a",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
