@@ -3,7 +3,7 @@ title: QGIS
 layout: default
 nav_order: 2
 parent: Q
-last_modified_date: 27/01/2026 1:33:07 PM
+last_modified_date: 28/01/2026 11:37:54 AM
 ---
 
 ## QGIS
@@ -14,7 +14,7 @@ Evergreen app: `QGIS`. Found **2** installers.
 
 Last check: 🟢
 
-| Version   | Channel | Date       | URI                                                                                                                                      |
-| --------- | ------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.44.6-1  | latest  | 19/12/2025 | [https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.44.6-1.msi](https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.44.6-1.msi)   |
-| 3.40.14-1 | ltr     | 19/12/2025 | [https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.40.14-1.msi](https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.40.14-1.msi) |
+| Version   | Channel | Date      | URI                                                                                                                                      |
+| --------- | ------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 3.44.7-1  | latest  | 16/1/2026 | [https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.44.7-1.msi](https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.44.7-1.msi)   |
+| 3.40.15-1 | ltr     | 16/1/2026 | [https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.40.15-1.msi](https://download.osgeo.org/qgis/windows/QGIS-OSGeo4W-3.40.15-1.msi) |

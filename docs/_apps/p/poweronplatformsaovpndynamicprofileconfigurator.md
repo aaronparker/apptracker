@@ -3,7 +3,7 @@ title: PowerON Platforms AOVPN Dynamic Profile Configurator
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 27/01/2026 1:33:07 PM
+last_modified_date: 28/01/2026 11:37:54 AM
 ---
 
 ## PowerON Platforms AOVPN Dynamic Profile Configurator
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Size    | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                              |
 | ------- | --------- | ------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 5.2.2   | 30/9/2025 | 1245184 | fcf9264c72916450ae66891d680c3fa5c762efbf668a5f02f87571c7e344006f | x86          | Default       | msi  | [https://github.com/ld0614/DPC/releases/download/v5.2.2/DPC.msi](https://github.com/ld0614/DPC/releases/download/v5.2.2/DPC.msi) |
+| 5.3.0   | 27/1/2026 | 1249280 | 7fcf299fec5db50342f7918b41b827b2d585eec311e92d2990c2c0f659f6ba21 | x86          | Default       | msi  | [https://github.com/ld0614/DPC/releases/download/v5.3.0/DPC.msi](https://github.com/ld0614/DPC/releases/download/v5.3.0/DPC.msi) |

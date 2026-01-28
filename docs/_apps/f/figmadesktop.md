@@ -3,7 +3,7 @@ title: Figma Desktop
 layout: default
 nav_order: 2
 parent: F
-last_modified_date: 27/01/2026 1:33:07 PM
+last_modified_date: 28/01/2026 11:37:54 AM
 ---
 
 ## Figma Desktop
@@ -14,6 +14,6 @@ Evergreen app: `FigmaDesktop`. Found **1** installer.
 
 Last check: 🟢
 
-| Version  | Date                            | URI                                                                                                  |
-| -------- | ------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 125.11.6 | Thu, 18 Dec 2025 15:01:17 -0500 | [https://desktop.figma.com/win/Figma-125.11.6.msi](https://desktop.figma.com/win/Figma-125.11.6.msi) |
+| Version | Date                            | URI                                                                                                |
+| ------- | ------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 126.0.4 | Tue, 27 Jan 2026 15:07:45 -0800 | [https://desktop.figma.com/win/Figma-126.0.4.msi](https://desktop.figma.com/win/Figma-126.0.4.msi) |

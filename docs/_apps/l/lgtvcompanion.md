@@ -3,7 +3,7 @@ title: Jörgen Persson LGTV Companion
 layout: default
 nav_order: 2
 parent: L
-last_modified_date: 27/01/2026 1:33:07 PM
+last_modified_date: 28/01/2026 11:37:54 AM
 ---
 
 ## Jörgen Persson LGTV Companion
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date      | Size    | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                        |
 | ------- | --------- | ------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 5.0.5   | 18/8/2025 | 8966144 | 0421bc0336a62eff80f1c9e64fcb4c017197a071dd9cb90ddc931b2f9c208687 | ARM64        | Default       | msi  | [https://github.com/JPersson77/LGTVCompanion/releases/download/v5.0.5/LGTV.Companion.Setup.ARM64.msi](https://github.com/JPersson77/LGTVCompanion/releases/download/v5.0.5/LGTV.Companion.Setup.ARM64.msi) |
-| 5.0.5   | 18/8/2025 | 8175616 | 95658b9410b2b0056ece924dc248b2f8df75b9f58175d46cf436e74385a8d67a | x64          | Default       | msi  | [https://github.com/JPersson77/LGTVCompanion/releases/download/v5.0.5/LGTV.Companion.Setup.x64.msi](https://github.com/JPersson77/LGTVCompanion/releases/download/v5.0.5/LGTV.Companion.Setup.x64.msi)     |
+| 5.1.0   | 27/1/2026 | 9383936 | 933043857804ca4d5946ea308d01ae4990ab76b6c928ede5f21955fe0de11273 | ARM64        | Default       | msi  | [https://github.com/JPersson77/LGTVCompanion/releases/download/v5.1.0/LGTV.Companion.Setup.ARM64.msi](https://github.com/JPersson77/LGTVCompanion/releases/download/v5.1.0/LGTV.Companion.Setup.ARM64.msi) |
+| 5.1.0   | 27/1/2026 | 8536064 | b590a8ee7734bc622326f199d7307331e14b83c8b6bb0e93f99e4980fbb42933 | x64          | Default       | msi  | [https://github.com/JPersson77/LGTVCompanion/releases/download/v5.1.0/LGTV.Companion.Setup.x64.msi](https://github.com/JPersson77/LGTVCompanion/releases/download/v5.1.0/LGTV.Companion.Setup.x64.msi)     |
