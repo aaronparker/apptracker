@@ -2,8 +2,8 @@
   {
     "Version": "4R406",
     "Date": "27/11/2025",
-    "Size": 164461056,
-    "Sha256": "39f64a9a7c68acfe943d121baa849de666c7bc75a0411ed67817ea92b8da6d24",
+    "Size": 164576256,
+    "Sha256": "9f0b02206d06e26b3307caad3fa7fdc1e8932a4781b7ba392966946277e1d9aa",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
