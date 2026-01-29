@@ -3,7 +3,7 @@ title: Oracle Java 20
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 29/01/2026 11:42:15 AM
+last_modified_date: 29/01/2026 1:39:00 PM
 ---
 
 ## Oracle Java 20
