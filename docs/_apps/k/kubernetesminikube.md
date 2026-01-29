@@ -3,7 +3,7 @@ title: Kubernetes Minikube
 layout: default
 nav_order: 2
 parent: K
-last_modified_date: 28/01/2026 1:33:54 PM
+last_modified_date: 29/01/2026 11:42:15 AM
 ---
 
 ## Kubernetes Minikube
@@ -14,7 +14,7 @@ Evergreen app: `KubernetesMinikube`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Date     | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                        |
-| ------- | -------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1.37.0  | 9/9/2025 | 140558336 | 4cd2ecacf064319e0c38768d40ef698d7d9bf3e2fa1b4a9016293034cac04d9c | x64          | Minimal       | exe  | [https://github.com/kubernetes/minikube/releases/download/v1.37.0/minikube-windows-amd64.exe](https://github.com/kubernetes/minikube/releases/download/v1.37.0/minikube-windows-amd64.exe) |
-| 1.37.0  | 9/9/2025 | 53713599  | 60f28cb53794c4cf572fa4e13240e3fe6ab987e9129387ac9a81e13c5494135b | x86          | Minimal       | exe  | [https://github.com/kubernetes/minikube/releases/download/v1.37.0/minikube-installer.exe](https://github.com/kubernetes/minikube/releases/download/v1.37.0/minikube-installer.exe)         |
+| Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                        |
+| ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1.38.0  | 29/1/2026 | 136238080 | 52bd096dec2eb407735b14302fbce59891ada55c8451935939f31303ef1bb394 | x64          | Minimal       | exe  | [https://github.com/kubernetes/minikube/releases/download/v1.38.0/minikube-windows-amd64.exe](https://github.com/kubernetes/minikube/releases/download/v1.38.0/minikube-windows-amd64.exe) |
+| 1.38.0  | 29/1/2026 | 50871807  | a66bec3cc81a7563f3ddce9f46da67a714a520d5f7556a24223fe8d33c143697 | x86          | Minimal       | exe  | [https://github.com/kubernetes/minikube/releases/download/v1.38.0/minikube-installer.exe](https://github.com/kubernetes/minikube/releases/download/v1.38.0/minikube-installer.exe)         |

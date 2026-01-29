@@ -3,7 +3,7 @@ title: MusicBrainz MusicBrainz Picard
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 28/01/2026 1:33:54 PM
+last_modified_date: 29/01/2026 11:42:15 AM
 ---
 
 ## MusicBrainz MusicBrainz Picard

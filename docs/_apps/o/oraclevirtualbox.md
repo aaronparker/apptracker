@@ -3,7 +3,7 @@ title: Oracle VirtualBox
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 28/01/2026 1:33:54 PM
+last_modified_date: 29/01/2026 11:42:15 AM
 ---
 
 ## Oracle VirtualBox
@@ -16,9 +16,9 @@ Last check: 🟢
 
 | Version   | Channel | Type | URI                                                                                                                                                                                  |
 | --------- | ------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 7.2.4     | LATEST  | exe  | [https://download.virtualbox.org/virtualbox/7.2.4/VirtualBox-7.2.4-170995-Win.exe](https://download.virtualbox.org/virtualbox/7.2.4/VirtualBox-7.2.4-170995-Win.exe)                 |
-| 7.2.4     | STABLE  | exe  | [https://download.virtualbox.org/virtualbox/7.2.4/VirtualBox-7.2.4-170995-Win.exe](https://download.virtualbox.org/virtualbox/7.2.4/VirtualBox-7.2.4-170995-Win.exe)                 |
-| 7.2.4     | LATEST  | iso  | [https://download.virtualbox.org/virtualbox/7.2.4/VBoxGuestAdditions_7.2.4.iso](https://download.virtualbox.org/virtualbox/7.2.4/VBoxGuestAdditions_7.2.4.iso)                       |
-| 7.2.4     | STABLE  | iso  | [https://download.virtualbox.org/virtualbox/7.2.4/VBoxGuestAdditions_7.2.4.iso](https://download.virtualbox.org/virtualbox/7.2.4/VBoxGuestAdditions_7.2.4.iso)                       |
+| 7.2.6     | LATEST  | exe  | [https://download.virtualbox.org/virtualbox/7.2.6/VirtualBox-7.2.6-172322-Win.exe](https://download.virtualbox.org/virtualbox/7.2.6/VirtualBox-7.2.6-172322-Win.exe)                 |
+| 7.2.6     | STABLE  | exe  | [https://download.virtualbox.org/virtualbox/7.2.6/VirtualBox-7.2.6-172322-Win.exe](https://download.virtualbox.org/virtualbox/7.2.6/VirtualBox-7.2.6-172322-Win.exe)                 |
+| 7.2.6     | LATEST  | iso  | [https://download.virtualbox.org/virtualbox/7.2.6/VBoxGuestAdditions_7.2.6.iso](https://download.virtualbox.org/virtualbox/7.2.6/VBoxGuestAdditions_7.2.6.iso)                       |
+| 7.2.6     | STABLE  | iso  | [https://download.virtualbox.org/virtualbox/7.2.6/VBoxGuestAdditions_7.2.6.iso](https://download.virtualbox.org/virtualbox/7.2.6/VBoxGuestAdditions_7.2.6.iso)                       |
 | 7.2.0_RC1 | BETA    | exe  | [https://download.virtualbox.org/virtualbox/7.2.0_RC1/VirtualBox-7.2.0_RC1-169963-Win.exe](https://download.virtualbox.org/virtualbox/7.2.0_RC1/VirtualBox-7.2.0_RC1-169963-Win.exe) |
 | 7.2.0_RC1 | BETA    | iso  | [https://download.virtualbox.org/virtualbox/7.2.0_RC1/VBoxGuestAdditions_7.2.0_RC1.iso](https://download.virtualbox.org/virtualbox/7.2.0_RC1/VBoxGuestAdditions_7.2.0_RC1.iso)       |
