@@ -1,18 +1,18 @@
 [
   {
-    "Version": "25.32.17.0",
+    "Version": "25.32.21.0",
     "JavaVersion": "25.0.2+10",
     "ImageType": "JRE",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu25.32.17-ca-jre25.0.2-win_x64.msi"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu25.32.21-ca-fx-jre25.0.2-win_x64.msi"
   },
   {
-    "Version": "25.32.17.0",
+    "Version": "25.32.21.0",
     "JavaVersion": "25.0.2+10",
     "ImageType": "JDK",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://cdn.azul.com/zulu/bin/zulu25.32.17-ca-jdk25.0.2-win_x64.msi"
+    "URI": "https://cdn.azul.com/zulu/bin/zulu25.32.21-ca-fx-jdk25.0.2-win_x64.msi"
   }
 ]

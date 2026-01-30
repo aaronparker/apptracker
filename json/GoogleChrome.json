@@ -1,7 +1,7 @@
 [
   {
-    "Version": "146.0.7657.0",
-    "StartDate": "2026-01-29T10:34:39.172288Z",
+    "Version": "146.0.7659.0",
+    "StartDate": "2026-01-30T10:36:50.790061Z",
     "EndDate": "N/A",
     "Channel": "Canary",
     "Architecture": "x64",
@@ -9,18 +9,18 @@
     "URI": "https://dl.google.com/update2/installers/chromesetup.exe"
   },
   {
-    "Version": "146.0.7647.4",
-    "StartDate": "2026-01-22T19:22:56.453333Z",
-    "EndDate": "2026-01-24T09:27:20.942172Z",
+    "Version": "146.0.7655.3",
+    "StartDate": "2026-01-29T18:56:07.076865Z",
+    "EndDate": "N/A",
     "Channel": "Dev",
     "Architecture": "x64",
     "Type": "msi",
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
   },
   {
-    "Version": "146.0.7647.4",
-    "StartDate": "2026-01-22T19:22:56.453333Z",
-    "EndDate": "2026-01-24T09:27:20.942172Z",
+    "Version": "146.0.7655.3",
+    "StartDate": "2026-01-29T18:56:07.076865Z",
+    "EndDate": "N/A",
     "Channel": "Dev",
     "Architecture": "x86",
     "Type": "msi",
@@ -110,7 +110,7 @@
   {
     "Version": "144.0.7559.110",
     "StartDate": "2026-01-27T20:34:53.254827Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-01-29T19:52:36.565746Z",
     "Channel": "Extended",
     "Architecture": "ARM64",
     "Type": "msi",
@@ -119,7 +119,7 @@
   {
     "Version": "144.0.7559.110",
     "StartDate": "2026-01-27T20:34:53.254827Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-01-29T19:52:36.565746Z",
     "Channel": "Extended",
     "Architecture": "x64",
     "Type": "msi",
@@ -128,7 +128,7 @@
   {
     "Version": "144.0.7559.110",
     "StartDate": "2026-01-27T20:34:53.254827Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-01-29T19:52:36.565746Z",
     "Channel": "Extended",
     "Architecture": "x86",
     "Type": "msi",
@@ -137,7 +137,7 @@
   {
     "Version": "144.0.7559.110",
     "StartDate": "2026-01-27T20:34:53.254827Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-01-29T19:52:36.565746Z",
     "Channel": "Extended",
     "Architecture": "ARM64",
     "Type": "zip",
@@ -146,7 +146,7 @@
   {
     "Version": "144.0.7559.110",
     "StartDate": "2026-01-27T20:34:53.254827Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-01-29T19:52:36.565746Z",
     "Channel": "Extended",
     "Architecture": "x64",
     "Type": "zip",
@@ -155,7 +155,7 @@
   {
     "Version": "144.0.7559.110",
     "StartDate": "2026-01-27T20:34:53.254827Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-01-29T19:52:36.565746Z",
     "Channel": "Extended",
     "Architecture": "x86",
     "Type": "zip",
