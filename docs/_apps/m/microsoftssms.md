@@ -3,7 +3,7 @@ title: Microsoft SQL Server Management Studio 22
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 29/01/2026 1:39:00 PM
+last_modified_date: 30/01/2026 11:40:54 AM
 ---
 
 ## Microsoft SQL Server Management Studio 22

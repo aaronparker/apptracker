@@ -3,7 +3,7 @@ title: AWS CLI
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 29/01/2026 1:39:00 PM
+last_modified_date: 30/01/2026 11:40:54 AM
 ---
 
 ## AWS CLI
@@ -14,6 +14,6 @@ Evergreen app: `AWSCLI`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Type | URI                                                                                                  |
-| ------- | ---- | ---------------------------------------------------------------------------------------------------- |
-| 2.33.9  | msi  | [https://awscli.amazonaws.com/AWSCLIV2-2.33.9.msi](https://awscli.amazonaws.com/AWSCLIV2-2.33.9.msi) |
+| Version | Type | URI                                                                                                    |
+| ------- | ---- | ------------------------------------------------------------------------------------------------------ |
+| 2.33.11 | msi  | [https://awscli.amazonaws.com/AWSCLIV2-2.33.11.msi](https://awscli.amazonaws.com/AWSCLIV2-2.33.11.msi) |

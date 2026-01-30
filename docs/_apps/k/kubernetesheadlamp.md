@@ -3,7 +3,7 @@ title: Kubernetes Headlamp
 layout: default
 nav_order: 2
 parent: K
-last_modified_date: 29/01/2026 1:39:00 PM
+last_modified_date: 30/01/2026 11:40:54 AM
 ---
 
 ## Kubernetes Headlamp

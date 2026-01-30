@@ -3,7 +3,7 @@ title: JetBrains DataSpell
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 29/01/2026 1:39:00 PM
+last_modified_date: 30/01/2026 11:40:54 AM
 ---
 
 ## JetBrains DataSpell
@@ -14,6 +14,6 @@ Evergreen app: `JetBrainsDataSpell`. Found **1** installer.
 
 Last check: 🟢
 
-| Version  | Build         | Edition   | Sha256                                                              | Date       | Size      | Type | URI                                                                                                                          |
-| -------- | ------------- | --------- | ------------------------------------------------------------------- | ---------- | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 2025.3.1 | 253.29346.157 | DataSpell | https://download.jetbrains.com/python/dataspell-2025.3.1.exe.sha256 | 22/12/2025 | 941881344 | exe  | [https://download.jetbrains.com/python/dataspell-2025.3.1.exe](https://download.jetbrains.com/python/dataspell-2025.3.1.exe) |
+| Version  | Build         | Edition   | Sha256                                                              | Date      | Size      | Type | URI                                                                                                                          |
+| -------- | ------------- | --------- | ------------------------------------------------------------------- | --------- | --------- | ---- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 2025.3.2 | 253.30387.154 | DataSpell | https://download.jetbrains.com/python/dataspell-2025.3.2.exe.sha256 | 29/1/2026 | 942946368 | exe  | [https://download.jetbrains.com/python/dataspell-2025.3.2.exe](https://download.jetbrains.com/python/dataspell-2025.3.2.exe) |
