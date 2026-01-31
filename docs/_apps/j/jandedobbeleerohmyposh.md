@@ -3,7 +3,7 @@ title: Jan De Dobbeleer Oh My Posh
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 31/01/2026 11:35:58 AM
+last_modified_date: 31/01/2026 1:31:17 PM
 ---
 
 ## Jan De Dobbeleer Oh My Posh

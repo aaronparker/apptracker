@@ -3,7 +3,7 @@ title: ControlUp Monitor Server
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: 31/01/2026 11:35:58 AM
+last_modified_date: 31/01/2026 1:31:16 PM
 ---
 
 ## ControlUp Monitor Server
