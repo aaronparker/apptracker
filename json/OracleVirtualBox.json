@@ -7,9 +7,21 @@
   },
   {
     "Version": "7.2.6",
+    "Channel": "LATEST",
+    "Type": "exe",
+    "URI": "https://download.virtualbox.org/virtualbox/7.2.6/VirtualBox-7.2.6a-172322-Win.exe"
+  },
+  {
+    "Version": "7.2.6",
     "Channel": "STABLE",
     "Type": "exe",
     "URI": "https://download.virtualbox.org/virtualbox/7.2.6/VirtualBox-7.2.6-172322-Win.exe"
+  },
+  {
+    "Version": "7.2.6",
+    "Channel": "STABLE",
+    "Type": "exe",
+    "URI": "https://download.virtualbox.org/virtualbox/7.2.6/VirtualBox-7.2.6a-172322-Win.exe"
   },
   {
     "Version": "7.2.6",

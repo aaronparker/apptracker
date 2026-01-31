@@ -1,7 +1,7 @@
 [
   {
-    "Version": "146.0.7659.0",
-    "StartDate": "2026-01-30T10:36:50.790061Z",
+    "Version": "146.0.7661.0",
+    "StartDate": "2026-01-31T10:38:39.602442Z",
     "EndDate": "N/A",
     "Channel": "Canary",
     "Architecture": "x64",
@@ -11,7 +11,7 @@
   {
     "Version": "146.0.7655.3",
     "StartDate": "2026-01-29T18:56:07.076865Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-01-31T09:05:47.55144Z",
     "Channel": "Dev",
     "Architecture": "x64",
     "Type": "msi",
@@ -20,7 +20,7 @@
   {
     "Version": "146.0.7655.3",
     "StartDate": "2026-01-29T18:56:07.076865Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-01-31T09:05:47.55144Z",
     "Channel": "Dev",
     "Architecture": "x86",
     "Type": "msi",

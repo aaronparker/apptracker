@@ -1,42 +1,42 @@
 [
   {
-    "Version": "4.11",
-    "Date": "2/10/2025",
-    "Size": 5129576,
-    "Sha256": "d826e054400c2801ff36baa2a46684ee5e133b5267e4b6a97b02bab337152018",
+    "Version": "4.12",
+    "Date": "30/1/2026",
+    "Size": 5131624,
+    "Sha256": "039690f1408eeedcccd60cd5c42b648a2dd691990f5a1d91528d34ec27d19180",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.11/rufus-4.11_arm64.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.12/rufus-4.12_arm64.exe"
   },
   {
-    "Version": "4.11",
-    "Date": "2/10/2025",
-    "Size": 1936744,
-    "Sha256": "abbf04d50a44a9612c027fc8072f6da67f5bcda2b826f1f852c9c24d7a1fcdff",
+    "Version": "4.12",
+    "Date": "30/1/2026",
+    "Size": 1944424,
+    "Sha256": "c19e9aea0e944dcd36bcde3d5bebb60772de4afd844c6ae7cb7f5c5ad5742ae0",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.11/rufus-4.11.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.12/rufus-4.12.exe"
   },
   {
-    "Version": "4.11",
-    "Date": "2/10/2025",
-    "Size": 1936744,
-    "Sha256": "abbf04d50a44a9612c027fc8072f6da67f5bcda2b826f1f852c9c24d7a1fcdff",
+    "Version": "4.12",
+    "Date": "30/1/2026",
+    "Size": 1944424,
+    "Sha256": "c19e9aea0e944dcd36bcde3d5bebb60772de4afd844c6ae7cb7f5c5ad5742ae0",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.11/rufus-4.11p.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.12/rufus-4.12p.exe"
   },
   {
-    "Version": "4.11",
-    "Date": "2/10/2025",
-    "Size": 1885544,
-    "Sha256": "da70b5a684b643798eb20b720bf362e01ab6987ec47bd99a12f6e2d950a446bf",
+    "Version": "4.12",
+    "Date": "30/1/2026",
+    "Size": 1892712,
+    "Sha256": "ea003a94ecd3b96117f57657b899bbe03c29740d5ea0f2c636cd651b292bc32d",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/pbatard/rufus/releases/download/v4.11/rufus-4.11_x86.exe"
+    "URI": "https://github.com/pbatard/rufus/releases/download/v4.12/rufus-4.12_x86.exe"
   }
 ]

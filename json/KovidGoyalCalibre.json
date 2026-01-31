@@ -1,22 +1,22 @@
 [
   {
-    "Version": "9.0.0",
-    "Date": "30/1/2026",
-    "Size": 200401160,
-    "Sha256": "d9c3875ec22ee32b73ce9bb4c92a003b1790fe7b5800f7553e81d24c74a6dfd3",
+    "Version": "9.1.0",
+    "Date": "31/1/2026",
+    "Size": 200429832,
+    "Sha256": "9e0bee5856c2caa4cd01671a2b482df26469c41e184f07e005cbd9fdf8ed4c8a",
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/kovidgoyal/calibre/releases/download/v9.0.0/calibre-portable-installer-9.0.0.exe"
+    "URI": "https://github.com/kovidgoyal/calibre/releases/download/v9.1.0/calibre-portable-installer-9.1.0.exe"
   },
   {
-    "Version": "9.0.0",
-    "Date": "30/1/2026",
-    "Size": 221401088,
-    "Sha256": "af7c10ceb1558fbc686bf72894e10903e31851306bbf7052113b0a887299bbaf",
+    "Version": "9.1.0",
+    "Date": "31/1/2026",
+    "Size": 221396992,
+    "Sha256": "7bef9101b1398a07274742e4cfb3aa7a7bfd60049c00641c6fa4610ec931b017",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/kovidgoyal/calibre/releases/download/v9.0.0/calibre-64bit-9.0.0.msi"
+    "URI": "https://github.com/kovidgoyal/calibre/releases/download/v9.1.0/calibre-64bit-9.1.0.msi"
   }
 ]
