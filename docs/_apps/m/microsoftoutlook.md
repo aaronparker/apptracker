@@ -3,7 +3,7 @@ title: Microsoft Outlook
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 30/01/2026 1:37:39 PM
+last_modified_date: 31/01/2026 11:35:58 AM
 ---
 
 ## Microsoft Outlook
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version        | Date      | Size     | Language | Architecture | Type | URI                                                                                                                                                                                                                              |
 | -------------- | --------- | -------- | -------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.2026.114.100 | 14/1/2026 | 26909479 | Neutral  | ARM64        | msix | [https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2026.114.100/Microsoft.OutlookForWindows_arm64.msix](https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2026.114.100/Microsoft.OutlookForWindows_arm64.msix) |
-| 1.2026.114.100 | 14/1/2026 | 22772258 | Neutral  | x64          | msix | [https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2026.114.100/Microsoft.OutlookForWindows_x64.msix](https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2026.114.100/Microsoft.OutlookForWindows_x64.msix)     |
-| 1.2026.114.100 | 14/1/2026 | 21413905 | Neutral  | x86          | msix | [https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2026.114.100/Microsoft.OutlookForWindows_x86.msix](https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2026.114.100/Microsoft.OutlookForWindows_x86.msix)     |
+| 1.2026.120.300 | 21/1/2026 | 26908410 | Neutral  | ARM64        | msix | [https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2026.120.300/Microsoft.OutlookForWindows_arm64.msix](https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2026.120.300/Microsoft.OutlookForWindows_arm64.msix) |
+| 1.2026.120.300 | 21/1/2026 | 22773118 | Neutral  | x64          | msix | [https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2026.120.300/Microsoft.OutlookForWindows_x64.msix](https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2026.120.300/Microsoft.OutlookForWindows_x64.msix)     |
+| 1.2026.120.300 | 21/1/2026 | 21416488 | Neutral  | x86          | msix | [https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2026.120.300/Microsoft.OutlookForWindows_x86.msix](https://res.cdn.office.net/nativehost/5mttl/installer/v2/1.2026.120.300/Microsoft.OutlookForWindows_x86.msix)     |
