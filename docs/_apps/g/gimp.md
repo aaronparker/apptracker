@@ -3,7 +3,7 @@ title: GIMP
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 31/01/2026 1:31:16 PM
+last_modified_date: 01/02/2026 11:36:31 AM
 ---
 
 ## GIMP
@@ -14,6 +14,6 @@ Evergreen app: `Gimp`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Revision | Date      | Channel | Sha256                                                           | URI                                                                                                                                                                      |
-| ------- | -------- | --------- | ------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 3.0.8   | 1        | 30/1/2026 | Stable  | fa3553e9659d50acebe580828114d53920f73977777a1468749446f391cd3a6a | [https://mirrors.ocf.berkeley.edu/gimp/pub/gimp/v3.0/windows/gimp-3.0.8-setup-1.exe](https://mirrors.ocf.berkeley.edu/gimp/pub/gimp/v3.0/windows/gimp-3.0.8-setup-1.exe) |
+| Version | Revision | Date      | Channel | Sha256                                                           | URI                                                                                                                                                |
+| ------- | -------- | --------- | ------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3.0.8   | 1        | 30/1/2026 | Stable  | fa3553e9659d50acebe580828114d53920f73977777a1468749446f391cd3a6a | [https://ziply.mm.fcix.net/gimp/gimp/v3.0/windows/gimp-3.0.8-setup-1.exe](https://ziply.mm.fcix.net/gimp/gimp/v3.0/windows/gimp-3.0.8-setup-1.exe) |

@@ -3,7 +3,7 @@ title: Grafana Labs Grafana k6
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 31/01/2026 1:31:16 PM
+last_modified_date: 01/02/2026 11:36:31 AM
 ---
 
 ## Grafana Labs Grafana k6

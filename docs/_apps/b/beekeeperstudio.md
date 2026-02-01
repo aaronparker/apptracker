@@ -3,7 +3,7 @@ title: Beekeeper Studio
 layout: default
 nav_order: 2
 parent: B
-last_modified_date: 31/01/2026 1:31:16 PM
+last_modified_date: 01/02/2026 11:36:31 AM
 ---
 
 ## Beekeeper Studio
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                                    |
 | ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 5.5.5   | 19/1/2026 | 167441904 | e674b5b5535a30d4cc7a8c42e8dce496e963d4521c2a63b3b2c841558ecef269 | x86          | Portable      | exe  | [https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.5.5/Beekeeper-Studio-5.5.5-portable.exe](https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.5.5/Beekeeper-Studio-5.5.5-portable.exe) |
-| 5.5.5   | 19/1/2026 | 167662640 | 9269902ef033d5afcff9306196da1ac647d2540c7b457b5645dad99a3156db6f | x86          | Default       | exe  | [https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.5.5/Beekeeper-Studio-Setup-5.5.5.exe](https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.5.5/Beekeeper-Studio-Setup-5.5.5.exe)       |
+| 5.5.6   | 31/1/2026 | 167442368 | 0c997d54ed3f12bb521b0a70269d2a89f13f0eeb5c61695c765ce1d9b43ed20e | x86          | Portable      | exe  | [https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.5.6/Beekeeper-Studio-5.5.6-portable.exe](https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.5.6/Beekeeper-Studio-5.5.6-portable.exe) |
+| 5.5.6   | 31/1/2026 | 167663000 | e3d7ff3a401fcfdea82c755cc26f55c0e99c5027f085367c3fd77adcdf18b50a | x86          | Default       | exe  | [https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.5.6/Beekeeper-Studio-Setup-5.5.6.exe](https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.5.6/Beekeeper-Studio-Setup-5.5.6.exe)       |

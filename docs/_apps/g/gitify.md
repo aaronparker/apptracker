@@ -3,7 +3,7 @@ title: Gitify Team Gitify
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 31/01/2026 1:31:16 PM
+last_modified_date: 01/02/2026 11:36:31 AM
 ---
 
 ## Gitify Team Gitify
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                              |
 | ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 6.16.1  | 26/1/2026 | 90935656 | eeaf7e1cad69450759cc095a267ef13b52d810b0f514e1b922bdb74d4bb55967 | x86          | Default       | exe  | [https://github.com/gitify-app/gitify/releases/download/v6.16.1/Gitify-Setup-6.16.1.exe](https://github.com/gitify-app/gitify/releases/download/v6.16.1/Gitify-Setup-6.16.1.exe) |
+| 6.17.0  | 31/1/2026 | 90907768 | 4c5b338307cae203fa6e44e55448464bdf8ee3c4d3572cb86f9dc83afeaaf6d1 | x86          | Default       | exe  | [https://github.com/gitify-app/gitify/releases/download/v6.17.0/Gitify-Setup-6.17.0.exe](https://github.com/gitify-app/gitify/releases/download/v6.17.0/Gitify-Setup-6.17.0.exe) |

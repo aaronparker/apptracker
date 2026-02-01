@@ -3,7 +3,7 @@ title: Mestrelab Mnova
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 31/01/2026 1:31:17 PM
+last_modified_date: 01/02/2026 11:36:31 AM
 ---
 
 ## Mestrelab Mnova
@@ -12,7 +12,10 @@ last_modified_date: 31/01/2026 1:31:17 PM
 
 Evergreen app: `MestrelabMnova`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. (mestrelab.com:80)
+```
 
 | Version | Revision | Architecture | URI                                                                                                                                                          |
 | ------- | -------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

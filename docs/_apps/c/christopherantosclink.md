@@ -3,7 +3,7 @@ title: Christopher Antos Clink
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: 31/01/2026 1:31:16 PM
+last_modified_date: 01/02/2026 11:36:31 AM
 ---
 
 ## Christopher Antos Clink
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Size    | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                          |
 | ------- | --------- | ------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.9.10  | 24/1/2026 | 2801312 | 1167ed75f52ea1accb0e60643a5eac2de4050e9d512f8aa2b7fe61a7146b6e52 | x86          | Default       | exe  | [https://github.com/chrisant996/clink/releases/download/v1.9.10/clink.1.9.10.ea4ea5_setup.exe](https://github.com/chrisant996/clink/releases/download/v1.9.10/clink.1.9.10.ea4ea5_setup.exe) |
+| 1.9.11  | 30/1/2026 | 2801120 | 73e1daea0644b175bf69273773e80df369ff5ea927d9c8a985dc9f72d1efccd1 | x86          | Default       | exe  | [https://github.com/chrisant996/clink/releases/download/v1.9.11/clink.1.9.11.760de7_setup.exe](https://github.com/chrisant996/clink/releases/download/v1.9.11/clink.1.9.11.760de7_setup.exe) |
