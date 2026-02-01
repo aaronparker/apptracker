@@ -1,12 +1,12 @@
 [
   {
-    "Version": "1.12.1",
-    "Date": "11/6/2025",
-    "Size": 44683264,
-    "Sha256": "ae817d97290fd3400bd410b9f1b937343d077c3492a18c51c59c26202f081c5d",
+    "Version": "1.13.0",
+    "Date": "1/2/2026",
+    "Size": 62694912,
+    "Sha256": "743ad5fc43b9eddaa4bd1c98678c06cf1d3576905751d1570d1a38ef9a9fcc0e",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/pdfarranger/pdfarranger/releases/download/1.12.1/pdfarranger-1.12.1-windows-installer.msi"
+    "URI": "https://github.com/pdfarranger/pdfarranger/releases/download/1.13.0/pdfarranger-1.13.0-windows-installer.msi"
   }
 ]

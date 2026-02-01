@@ -1,22 +1,22 @@
 [
   {
-    "Version": "25.12.31",
-    "Date": "31/12/2025",
-    "Size": 107066632,
-    "Sha256": "d6dc0177e35809c17ff4282285d25d3562f2ee739cbd2b54f351942cd28f8356",
+    "Version": "26.1.30",
+    "Date": "30/1/2026",
+    "Size": 107183056,
+    "Sha256": "eb19e82ac9e00f61a0be81ee1f8a0584ca1038036b282adb375d3bd02c5295e2",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/mltframework/shotcut/releases/download/v25.12.31/shotcut-win_ARM-25.12.31.exe"
+    "URI": "https://github.com/mltframework/shotcut/releases/download/v26.1.30/shotcut-win_ARM-26.1.30.exe"
   },
   {
-    "Version": "25.12.31",
-    "Date": "31/12/2025",
-    "Size": 140468752,
-    "Sha256": "69d3dfc93c5a226f539a7fa90d8ec74b8d4230657f7d4f97e15830be57f951c3",
+    "Version": "26.1.30",
+    "Date": "30/1/2026",
+    "Size": 143472768,
+    "Sha256": "cff8c26fded1de97bf2c780547e89926e00cc0ec548180ce007fb178bd54b925",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/mltframework/shotcut/releases/download/v25.12.31/shotcut-win64-25.12.31.exe"
+    "URI": "https://github.com/mltframework/shotcut/releases/download/v26.1.30/shotcut-win64-26.1.30.exe"
   }
 ]
