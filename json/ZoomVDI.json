@@ -12,7 +12,7 @@
     "Version": "Latest",
     "Platform": "Universal",
     "Installer": "Admin",
-    "Size": 137955840,
+    "Size": 138178048,
     "Type": "msi",
     "Architecture": "x64",
     "URI": "https://cdn.zoom.us/prod/vdi/x64/ZoomVDIUniversalPluginx64.msi"
@@ -30,7 +30,7 @@
     "Version": "Latest",
     "Platform": "VDIClient",
     "Installer": "Admin",
-    "Size": 173831168,
+    "Size": 174043136,
     "Type": "msi",
     "Architecture": "x64",
     "URI": "https://cdn.zoom.us/prod/vdi/x64/ZoomInstallerVDI.msi"
