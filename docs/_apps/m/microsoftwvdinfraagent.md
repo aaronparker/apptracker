@@ -3,7 +3,7 @@ title: Microsoft Azure Virtual Desktop Agent
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 02/02/2026 11:41:49 AM
+last_modified_date: 02/02/2026 1:40:06 PM
 ---
 
 ## Microsoft Azure Virtual Desktop Agent

@@ -3,7 +3,7 @@ title: jrsoftware InnoSetup
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 02/02/2026 11:41:49 AM
+last_modified_date: 02/02/2026 1:40:06 PM
 ---
 
 ## jrsoftware InnoSetup
@@ -12,10 +12,7 @@ last_modified_date: 02/02/2026 11:41:49 AM
 
 Evergreen app: `jrsoftwareInnoSetup`. Found **1** installer.
 
-Last check: 🔴
-```
-You cannot call a method on a null-valued expression.
-```
+Last check: 🟢
 
 | Version | URI                                                                                                            |
 | ------- | -------------------------------------------------------------------------------------------------------------- |
