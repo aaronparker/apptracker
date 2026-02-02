@@ -3,7 +3,7 @@ title: Octopus Tentacle
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 01/02/2026 1:31:42 PM
+last_modified_date: 02/02/2026 11:41:49 AM
 ---
 
 ## Octopus Tentacle
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version  | Architecture | URI                                                                                                                                                          |
 | -------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 8.3.3541 | x64          | [https://download.octopusdeploy.com/octopus/Octopus.Tentacle.8.3.3541-x64.msi](https://download.octopusdeploy.com/octopus/Octopus.Tentacle.8.3.3541-x64.msi) |
-| 8.3.3541 | x86          | [https://download.octopusdeploy.com/octopus/Octopus.Tentacle.8.3.3541.msi](https://download.octopusdeploy.com/octopus/Octopus.Tentacle.8.3.3541.msi)         |
+| 9.0.3596 | x64          | [https://download.octopusdeploy.com/octopus/Octopus.Tentacle.9.0.3596-x64.msi](https://download.octopusdeploy.com/octopus/Octopus.Tentacle.9.0.3596-x64.msi) |
+| 9.0.3596 | x86          | [https://download.octopusdeploy.com/octopus/Octopus.Tentacle.9.0.3596.msi](https://download.octopusdeploy.com/octopus/Octopus.Tentacle.9.0.3596.msi)         |
