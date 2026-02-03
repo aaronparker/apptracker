@@ -3,7 +3,7 @@ title: Wasmer
 layout: default
 nav_order: 2
 parent: W
-last_modified_date: 02/02/2026 1:40:06 PM
+last_modified_date: 03/02/2026 11:41:19 AM
 ---
 
 ## Wasmer
@@ -14,6 +14,6 @@ Evergreen app: `Wasmer`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                              |
-| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 7.0.0   | 28/1/2026 | 52242561 | 04bab63d5453d54056f84b76faa3028290174b5dcbf680b3a5dab35039262fbf | x86          | Default       | exe  | [https://github.com/wasmerio/wasmer/releases/download/v7.0.0/wasmer-windows.exe](https://github.com/wasmerio/wasmer/releases/download/v7.0.0/wasmer-windows.exe) |
+| Version | Date     | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                              |
+| ------- | -------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 7.0.1   | 2/2/2026 | 52021280 | 6b800ea49f8b610facc6f8330dc94d0d95ea7aeebb10e35077efad4528fc192c | x86          | Default       | exe  | [https://github.com/wasmerio/wasmer/releases/download/v7.0.1/wasmer-windows.exe](https://github.com/wasmerio/wasmer/releases/download/v7.0.1/wasmer-windows.exe) |

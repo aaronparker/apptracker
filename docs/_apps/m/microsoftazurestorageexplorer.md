@@ -3,7 +3,7 @@ title: Microsoft Azure Storage Explorer
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 02/02/2026 1:40:06 PM
+last_modified_date: 03/02/2026 11:41:19 AM
 ---
 
 ## Microsoft Azure Storage Explorer
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                            |
 | ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1.40.2  | 27/10/2025 | 153859528 | 594f215283d7aa9268da0e661d549505583e2629ce5f790294ec8edca3904ac5 | ARM64        | Default       | exe  | [https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.40.2/StorageExplorer-windows-arm64.exe](https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.40.2/StorageExplorer-windows-arm64.exe) |
-| 1.40.2  | 27/10/2025 | 160744048 | fc44425058cafca14c542e2bf4d21f21865bfce6f413bd6d5173a8f07f08769f | x64          | Default       | exe  | [https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.40.2/StorageExplorer-windows-x64.exe](https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.40.2/StorageExplorer-windows-x64.exe)     |
+| 1.41.0  | 11/11/2025 | 160817704 | 3bc2988dff9791b92769e05673dd415d681ca2dce705ae44063977ad3449f298 | ARM64        | Default       | exe  | [https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.41.0/StorageExplorer-windows-arm64.exe](https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.41.0/StorageExplorer-windows-arm64.exe) |
+| 1.41.0  | 11/11/2025 | 167589568 | 380e09264282cb0b1c84f2d13bfbbebd6d48d66f522414ecedaa544e8cf5003f | x64          | Default       | exe  | [https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.41.0/StorageExplorer-windows-x64.exe](https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.41.0/StorageExplorer-windows-x64.exe)     |

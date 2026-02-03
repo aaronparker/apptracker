@@ -3,7 +3,7 @@ title: Tower
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: 02/02/2026 1:40:06 PM
+last_modified_date: 03/02/2026 11:41:19 AM
 ---
 
 ## Tower
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version  | Channel | sha1                                     | Type | URI                                                                                                                                                    |
 | -------- | ------- | ---------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 11.0.543 | beta    | 229BABF36B3109AE4164EA5ED3A879C9976D898E | exe  | [https://www.git-tower.com/apps/tower3-win/543-d6e9f379/Tower-11.0.543.exe](https://www.git-tower.com/apps/tower3-win/543-d6e9f379/Tower-11.0.543.exe) |
-| 11.0.543 | stable  | 229BABF36B3109AE4164EA5ED3A879C9976D898E | exe  | [https://www.git-tower.com/apps/tower3-win/543-d6e9f379/Tower-11.0.543.exe](https://www.git-tower.com/apps/tower3-win/543-d6e9f379/Tower-11.0.543.exe) |
-| 11.0.543 | beta    | 715E61BFE7F57B5AF58F2AD8896A228A0FD81FDC | msi  | [https://www.git-tower.com/apps/tower3-win/543-d6e9f379/Tower-11.0.543.msi](https://www.git-tower.com/apps/tower3-win/543-d6e9f379/Tower-11.0.543.msi) |
-| 11.0.543 | stable  | 715E61BFE7F57B5AF58F2AD8896A228A0FD81FDC | msi  | [https://www.git-tower.com/apps/tower3-win/543-d6e9f379/Tower-11.0.543.msi](https://www.git-tower.com/apps/tower3-win/543-d6e9f379/Tower-11.0.543.msi) |
+| 11.0.545 | beta    | 26DBDA7B31A96FB5F7E16C4C67E058053EE46FA4 | exe  | [https://www.git-tower.com/apps/tower3-win/545-dff9ec3a/Tower-11.0.545.exe](https://www.git-tower.com/apps/tower3-win/545-dff9ec3a/Tower-11.0.545.exe) |
+| 11.0.545 | stable  | 26DBDA7B31A96FB5F7E16C4C67E058053EE46FA4 | exe  | [https://www.git-tower.com/apps/tower3-win/545-dff9ec3a/Tower-11.0.545.exe](https://www.git-tower.com/apps/tower3-win/545-dff9ec3a/Tower-11.0.545.exe) |
+| 11.0.545 | beta    | 09FB0733DF0F0999C8624AA43D3CB4DF208D7587 | msi  | [https://www.git-tower.com/apps/tower3-win/545-dff9ec3a/Tower-11.0.545.msi](https://www.git-tower.com/apps/tower3-win/545-dff9ec3a/Tower-11.0.545.msi) |
+| 11.0.545 | stable  | 09FB0733DF0F0999C8624AA43D3CB4DF208D7587 | msi  | [https://www.git-tower.com/apps/tower3-win/545-dff9ec3a/Tower-11.0.545.msi](https://www.git-tower.com/apps/tower3-win/545-dff9ec3a/Tower-11.0.545.msi) |

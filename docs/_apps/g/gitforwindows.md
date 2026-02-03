@@ -3,7 +3,7 @@ title: Git for Windows
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 02/02/2026 1:40:06 PM
+last_modified_date: 03/02/2026 11:41:19 AM
 ---
 
 ## Git for Windows
@@ -14,9 +14,9 @@ Evergreen app: `GitForWindows`. Found **4** installers.
 
 Last check: 🟢
 
-| Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                        |
-| ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.52.0  | 17/11/2025 | 64253208 | ac77636c9240da04aa9306dd6cb99d0e6283a506d6f4ea01df5ab5630408f24e | ARM64        | Default       | exe  | [https://github.com/git-for-windows/git/releases/download/v2.52.0.windows.1/Git-2.52.0-arm64.exe](https://github.com/git-for-windows/git/releases/download/v2.52.0.windows.1/Git-2.52.0-arm64.exe)                         |
-| 2.52.0  | 17/11/2025 | 60333704 | bdc2884b321152225498fadc97cad68c244e047310ea686e4fe18ad7257e5b72 | ARM64        | Portable      | exe  | [https://github.com/git-for-windows/git/releases/download/v2.52.0.windows.1/PortableGit-2.52.0-arm64.7z.exe](https://github.com/git-for-windows/git/releases/download/v2.52.0.windows.1/PortableGit-2.52.0-arm64.7z.exe)   |
-| 2.52.0  | 17/11/2025 | 66292520 | d8de7a3152266c8bb13577eab850ea1df6dccf8c2aa48be5b4a1c58b7190d62c | x64          | Default       | exe  | [https://github.com/git-for-windows/git/releases/download/v2.52.0.windows.1/Git-2.52.0-64-bit.exe](https://github.com/git-for-windows/git/releases/download/v2.52.0.windows.1/Git-2.52.0-64-bit.exe)                       |
-| 2.52.0  | 17/11/2025 | 60238232 | 1dc4046dcfb138f62aa04a46b5529adc8abed5033b2af29bb60b66872a836cf8 | x64          | Portable      | exe  | [https://github.com/git-for-windows/git/releases/download/v2.52.0.windows.1/PortableGit-2.52.0-64-bit.7z.exe](https://github.com/git-for-windows/git/releases/download/v2.52.0.windows.1/PortableGit-2.52.0-64-bit.7z.exe) |
+| Version | Date     | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                        |
+| ------- | -------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2.53.0  | 2/2/2026 | 62846512 | 8eb369bd00582699da1b9afff4e99dc92e8ce984200b424e8b058d79152eb61d | ARM64        | Default       | exe  | [https://github.com/git-for-windows/git/releases/download/v2.53.0.windows.1/Git-2.53.0-arm64.exe](https://github.com/git-for-windows/git/releases/download/v2.53.0.windows.1/Git-2.53.0-arm64.exe)                         |
+| 2.53.0  | 2/2/2026 | 59049328 | dc59b7383104d57110e370638854cc1b1fd50de0fa6d293dc941f35094594298 | ARM64        | Portable      | exe  | [https://github.com/git-for-windows/git/releases/download/v2.53.0.windows.1/PortableGit-2.53.0-arm64.7z.exe](https://github.com/git-for-windows/git/releases/download/v2.53.0.windows.1/PortableGit-2.53.0-arm64.7z.exe)   |
+| 2.53.0  | 2/2/2026 | 64573288 | 3b4e1b127dbebea2931f2ae9dfafa0c2343a488a1222009debfe78d5d335e6a9 | x64          | Default       | exe  | [https://github.com/git-for-windows/git/releases/download/v2.53.0.windows.1/Git-2.53.0-64-bit.exe](https://github.com/git-for-windows/git/releases/download/v2.53.0.windows.1/Git-2.53.0-64-bit.exe)                       |
+| 2.53.0  | 2/2/2026 | 58256920 | 08713a710ec91ac90de1c09f861289a3b103175f098676e5e664c04dd6c6bf23 | x64          | Portable      | exe  | [https://github.com/git-for-windows/git/releases/download/v2.53.0.windows.1/PortableGit-2.53.0-64-bit.7z.exe](https://github.com/git-for-windows/git/releases/download/v2.53.0.windows.1/PortableGit-2.53.0-64-bit.7z.exe) |

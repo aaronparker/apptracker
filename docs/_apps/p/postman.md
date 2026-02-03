@@ -3,7 +3,7 @@ title: Postman
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 02/02/2026 1:40:06 PM
+last_modified_date: 03/02/2026 11:41:19 AM
 ---
 
 ## Postman
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Size      | Hash                                     | Date                | Architecture | Filename                      | URI                                                                                                              |
 | ------- | --------- | ---------------------------------------- | ------------------- | ------------ | ----------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 11.82.6 | 148751488 | E27349BB37B5F1407EF7E1C6C8E0C01BAF3C0AE0 | 01/30/2026 13:30:16 | x64          | Postman v11.82.6 (x64).exe    | [https://dl.pstmn.io/download/version/11.82.6/windows64](https://dl.pstmn.io/download/version/11.82.6/windows64) |
+| 11.83.1 | 148750976 | 941D6B2B14EDFB41C368FE89A7042F02E0AF9C0B | 02/02/2026 20:09:16 | x64          | Postman v11.83.1 (x64).exe    | [https://dl.pstmn.io/download/version/11.83.1/windows64](https://dl.pstmn.io/download/version/11.83.1/windows64) |
 | 9.4.1   | 145287528 | F5C42DB12DFE7537FCCF1F363F1A883797F8C466 | 12/10/2021 19:02:30 | x86          | Postman-win32-9.4.1-Setup.exe | [https://dl.pstmn.io/download/version/9.4.1/windows32](https://dl.pstmn.io/download/version/9.4.1/windows32)     |

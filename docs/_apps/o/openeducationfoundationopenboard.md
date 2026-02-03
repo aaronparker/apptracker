@@ -3,7 +3,7 @@ title: Open Education Foundation OpenBoard
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 02/02/2026 1:40:06 PM
+last_modified_date: 03/02/2026 11:41:19 AM
 ---
 
 ## Open Education Foundation OpenBoard
@@ -14,6 +14,6 @@ Evergreen app: `OpenEducationFoundationOpenBoard`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                    |
-| ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1.7.4   | 22/1/2026 | 205252429 | 0bc056963bf4d9e6a2add60101a863fb9d337a768bd433ef1460776b6de70d5e | x86          | Default       | exe  | [https://github.com/OpenBoard-org/OpenBoard/releases/download/v1.7.4/OpenBoard_Installer_1.7.4.exe](https://github.com/OpenBoard-org/OpenBoard/releases/download/v1.7.4/OpenBoard_Installer_1.7.4.exe) |
+| Version | Date     | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                    |
+| ------- | -------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1.7.5   | 2/2/2026 | 205236660 | 8806ab55b3e8c7ab88c6bea739c63ff544b33a47b5e5806deb4989c1831fd691 | x86          | Default       | exe  | [https://github.com/OpenBoard-org/OpenBoard/releases/download/v1.7.5/OpenBoard_Installer_1.7.5.exe](https://github.com/OpenBoard-org/OpenBoard/releases/download/v1.7.5/OpenBoard_Installer_1.7.5.exe) |
