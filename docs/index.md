@@ -8,7 +8,7 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 12 hours. Last generated: `Wednesday 04/02/2026 11:46 +00:00 Etc/UTC`.
+> Updates are posted every 12 hours. Last generated: `Wednesday 04/02/2026 13:43 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
@@ -24,7 +24,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | 1Password CLI                                                     | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/1/1passwordcli/)                                    |
 | 7-Zip                                                             | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/7/7zip/)                                            |
 | 7-Zip ZS                                                          | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/7/7zipzs/)                                          |
-| acaudwell Gource                                                  | `Unknown`    | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/a/acaudwellgource/)                                 |
+| acaudwell Gource                                                  | `Unknown`    | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/acaudwellgource/)                                 |
 | ACLAP Video DownloadHelper CoApp                                  | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/aclapvideodownloadhelpercoapp/)                   |
 | ActiveState Open Komodo IDE                                       | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/activestateopenkomodoide/)                        |
 | Adobe Acrobat updates                                             | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobeacrobat/)                                    |
@@ -34,14 +34,14 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Adobe Brackets                                                    | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobebrackets/)                                   |
 | Adobe Connect meeting application                                 | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobeconnect/)                                    |
 | Adobe Digital Editions                                            | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adobedigitaleditions/)                            |
-| Adoptium Temurin 11                                               | `2026-02-04` | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin11/)                               |
-| Adoptium Temurin 16                                               | `2026-02-04` | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin16/)                               |
-| Adoptium Temurin 17                                               | `2026-02-04` | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin17/)                               |
-| Adoptium Temurin 18                                               | `2026-02-04` | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin18/)                               |
+| Adoptium Temurin 11                                               | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin11/)                               |
+| Adoptium Temurin 16                                               | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin16/)                               |
+| Adoptium Temurin 17                                               | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin17/)                               |
+| Adoptium Temurin 18                                               | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin18/)                               |
 | Adoptium Temurin 19                                               | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin19/)                               |
 | Adoptium Temurin 20                                               | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin20/)                               |
 | Adoptium Temurin 21                                               | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin21/)                               |
-| Adoptium Temurin 22                                               | `2026-02-04` | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin22/)                               |
+| Adoptium Temurin 22                                               | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin22/)                               |
 | Adoptium Temurin 25                                               | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin25/)                               |
 | Adoptium Temurin 8                                                | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/adoptiumtemurin8/)                                |
 | Advanced Installer                                                | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/advancedinstaller/)                               |
@@ -65,7 +65,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Anaconda                                                          | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/anaconda/)                                        |
 | Analog Devices LTspice                                            | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/analogdevicesltspice/)                            |
 | angryziber Angry IP Scanner                                       | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/angryziberangryipscanner/)                        |
-| Anki                                                              | `2026-02-04` | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/a/anki/)                                            |
+| Anki                                                              | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/anki/)                                            |
 | Ansgar Becker HeidiSQL                                            | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/ansgarbeckerheidisql/)                            |
 | Antmicro Renode                                                   | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/antmicrorenode/)                                  |
 | Anton Filimonov klogg                                             | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/antonfilimonovklogg/)                             |
@@ -80,7 +80,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | AutoHotkey Foundation AutoHotkey                                  | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/autohotkey/)                                      |
 | AutoIt Scripting Language                                         | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/autoit/)                                          |
 | Automattic Simplenote                                             | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/automatticsimplenote/)                            |
-| AWS AppStream 2.0 Client                                          | `2026-02-04` | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/a/awsappstreamclient/)                              |
+| AWS AppStream 2.0 Client                                          | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/awsappstreamclient/)                              |
 | AWS CLI                                                           | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/awscli/)                                          |
 | AWS SAM CLI                                                       | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/awssamcli/)                                       |
 | AWS Session Manager Plugin                                        | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/awssmp/)                                          |
@@ -471,7 +471,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Rizonesoft Notepad3                                               | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/rizonesoftnotepad3/)                              |
 | Rob Caelers Workrave                                              | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/robcaelersworkrave/)                              |
 | Rocket.Chat                                                       | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/rocketchat/)                                      |
-| Rony Shapiro Password Safe                                        | `Unknown`    | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/r/ronyshapiropasswordsafe/)                         |
+| Rony Shapiro Password Safe                                        | `Unknown`    | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/ronyshapiropasswordsafe/)                         |
 | RStudio Quarto CLI                                                | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/rstudioquartocli/)                                |
 | RustDesk Client                                                   | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/r/rustdeskclient/)                                  |
 | SaeraSoft Caesium Image Compressor                                | `2026-02-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/saerasoftcaesiumimagecompressor/)                 |
