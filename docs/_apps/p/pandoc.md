@@ -3,7 +3,7 @@ title: Pandoc
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 03/02/2026 1:40:28 PM
+last_modified_date: 04/02/2026 11:43:41 AM
 ---
 
 ## Pandoc
@@ -14,6 +14,6 @@ Evergreen app: `Pandoc`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                            |
-| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 3.8.3   | 1/12/2025 | 41472000 | 06cb0b14ac918890453a7c3021e300413cfd83b4bd7ef0fceb5207c2241a2db9 | x64          | Default       | msi  | [https://github.com/jgm/pandoc/releases/download/3.8.3/pandoc-3.8.3-windows-x86_64.msi](https://github.com/jgm/pandoc/releases/download/3.8.3/pandoc-3.8.3-windows-x86_64.msi) |
+| Version | Date     | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                    |
+| ------- | -------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3.9     | 3/2/2026 | 41172992 | bc6a2666e5b5f3c487266ec008634cf85733a01556b6781f17fdee639d26aa97 | x64          | Default       | msi  | [https://github.com/jgm/pandoc/releases/download/3.9/pandoc-3.9-windows-x86_64.msi](https://github.com/jgm/pandoc/releases/download/3.9/pandoc-3.9-windows-x86_64.msi) |

@@ -3,7 +3,7 @@ title: Microsoft Azure Virtual Desktop Agent
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 03/02/2026 1:40:28 PM
+last_modified_date: 04/02/2026 11:43:41 AM
 ---
 
 ## Microsoft Azure Virtual Desktop Agent
@@ -14,6 +14,6 @@ Evergreen app: `MicrosoftWvdInfraAgent`. Found **1** installer.
 
 Last check: 🟢
 
-| Version       | Date                                 | Architecture | URI                                                                                                                                                                                                                                                                                                      |
-| ------------- | ------------------------------------ | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.0.12684.400 | Thursday, 30 October 2025 6:55:44 pm | x64          | [https://res.cdn.office.net/s01-remote-desktop-agent/1931a259-7c79-4b57-96d1-bd0f69a3a950/Microsoft.RDInfra.RDAgent.Installer-x64-1.0.12684.400.msi](https://res.cdn.office.net/s01-remote-desktop-agent/1931a259-7c79-4b57-96d1-bd0f69a3a950/Microsoft.RDInfra.RDAgent.Installer-x64-1.0.12684.400.msi) |
+| Version       | Date                                | Architecture | URI                                                                                                                                                                                                                                                                                                      |
+| ------------- | ----------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.0.13229.200 | Tuesday, 3 February 2026 5:02:08 pm | x64          | [https://res.cdn.office.net/s01-remote-desktop-agent/e61a8d03-ea52-4735-a587-5344ed2c9352/Microsoft.RDInfra.RDAgent.Installer-x64-1.0.13229.200.msi](https://res.cdn.office.net/s01-remote-desktop-agent/e61a8d03-ea52-4735-a587-5344ed2c9352/Microsoft.RDInfra.RDAgent.Installer-x64-1.0.13229.200.msi) |

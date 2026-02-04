@@ -3,7 +3,7 @@ title: Adoptium Temurin 11
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 03/02/2026 1:40:28 PM
+last_modified_date: 04/02/2026 11:43:41 AM
 ---
 
 ## Adoptium Temurin 11
@@ -12,7 +12,10 @@ last_modified_date: 03/02/2026 1:40:28 PM
 
 Evergreen app: `AdoptiumTemurin11`. Found **4** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 504 (Gateway Time-out).
+```
 
 | Version   | Date                | ImageType | Checksum                                                         | Size      | Architecture | Type | URI                                                                                                                                                                                                                                                                          |
 | --------- | ------------------- | --------- | ---------------------------------------------------------------- | --------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
