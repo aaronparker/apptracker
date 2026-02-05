@@ -3,7 +3,7 @@ title: Npcap
 layout: default
 nav_order: 2
 parent: N
-last_modified_date: 04/02/2026 1:40:33 PM
+last_modified_date: 05/02/2026 11:40:44 AM
 ---
 
 ## Npcap
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Type | URI                                                                            |
 | ------- | ---- | ------------------------------------------------------------------------------ |
-| 1.86    | exe  | [https://npcap.com/dist/npcap-1.86.exe](https://npcap.com/dist/npcap-1.86.exe) |
+| 1.87    | exe  | [https://npcap.com/dist/npcap-1.87.exe](https://npcap.com/dist/npcap-1.87.exe) |

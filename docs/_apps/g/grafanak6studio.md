@@ -3,7 +3,7 @@ title: Grafana Labs Grafana k6 Studio
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 04/02/2026 1:40:33 PM
+last_modified_date: 05/02/2026 11:40:44 AM
 ---
 
 ## Grafana Labs Grafana k6 Studio
@@ -14,6 +14,6 @@ Evergreen app: `Grafanak6Studio`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                    |
-| ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.10.0  | 15/1/2026 | 197034768 | bc396dea2ec44e6cb158bb1de17c1b5ce4c45c30b62c8f01e89ff52049b84d5e | x86          | Default       | exe  | [https://github.com/grafana/k6-studio/releases/download/v1.10.0/k6.Studio-1.10.0.Setup.exe](https://github.com/grafana/k6-studio/releases/download/v1.10.0/k6.Studio-1.10.0.Setup.exe) |
+| Version | Date     | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                    |
+| ------- | -------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.11.0  | 4/2/2026 | 199215376 | d7ab6d4498987ccb9cf39db898c41a6f43494f8c23c4e47d760007d54461be0d | x86          | Default       | exe  | [https://github.com/grafana/k6-studio/releases/download/v1.11.0/k6.Studio-1.11.0.Setup.exe](https://github.com/grafana/k6-studio/releases/download/v1.11.0/k6.Studio-1.11.0.Setup.exe) |

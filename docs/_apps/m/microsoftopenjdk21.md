@@ -3,7 +3,7 @@ title: Microsoft OpenJDK 21
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 04/02/2026 1:40:33 PM
+last_modified_date: 05/02/2026 11:40:44 AM
 ---
 
 ## Microsoft OpenJDK 21
@@ -14,8 +14,8 @@ Evergreen app: `MicrosoftOpenJDK21`. Found **3** installers.
 
 Last check: 🟢
 
-| Version   | Date                | ImageType | Architecture | Type | URI                                                                                                                                                                                                                                                                                                                                              |
-| --------- | ------------------- | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 21.0.9+10 | 12/24/2025 12:00:00 | jdk       | x64          | exe  | [https://download.visualstudio.microsoft.com/download/pr/bfd926a4-a450-48d0-bf8b-2ea6a92f3d7d/3da53aa12fde1f5415f911cadc396eff/microsoft-jdk-21.0.9-windows-x64.exe](https://download.visualstudio.microsoft.com/download/pr/bfd926a4-a450-48d0-bf8b-2ea6a92f3d7d/3da53aa12fde1f5415f911cadc396eff/microsoft-jdk-21.0.9-windows-x64.exe)         |
-| 21.0.9+10 | 12/24/2025 12:00:00 | jdk       | ARM64        | msi  | [https://download.visualstudio.microsoft.com/download/pr/a6fe1a24-970a-4b1e-bd72-37ef49a602a9/b5a698bfc90fb95341d194fd0d371d2a/microsoft-jdk-21.0.9-windows-aarch64.msi](https://download.visualstudio.microsoft.com/download/pr/a6fe1a24-970a-4b1e-bd72-37ef49a602a9/b5a698bfc90fb95341d194fd0d371d2a/microsoft-jdk-21.0.9-windows-aarch64.msi) |
-| 21.0.9+10 | 12/24/2025 12:00:00 | jdk       | x64          | msi  | [https://download.visualstudio.microsoft.com/download/pr/3df3ed5a-aaa3-4400-bff5-6644f29a36f7/963e19b1cffc34159099a197854369d5/microsoft-jdk-21.0.9-windows-x64.msi](https://download.visualstudio.microsoft.com/download/pr/3df3ed5a-aaa3-4400-bff5-6644f29a36f7/963e19b1cffc34159099a197854369d5/microsoft-jdk-21.0.9-windows-x64.msi)         |
+| Version   | Date                | ImageType | Architecture | Type | URI                                                                                                                                                                                                                                                                                                                                                |
+| --------- | ------------------- | --------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 21.0.10+7 | 02/04/2026 15:00:00 | jdk       | x64          | exe  | [https://download.visualstudio.microsoft.com/download/pr/262b1f43-5901-420c-ad51-a18ff32d87dd/2c31e9168ead18978ae7c78c6e1aef48/microsoft-jdk-21.0.10-windows-x64.exe](https://download.visualstudio.microsoft.com/download/pr/262b1f43-5901-420c-ad51-a18ff32d87dd/2c31e9168ead18978ae7c78c6e1aef48/microsoft-jdk-21.0.10-windows-x64.exe)         |
+| 21.0.10+7 | 02/04/2026 15:00:00 | jdk       | ARM64        | msi  | [https://download.visualstudio.microsoft.com/download/pr/b1c476b4-1777-4496-a49f-2323a2465262/633145862d2bac869b32e79218c2c5f9/microsoft-jdk-21.0.10-windows-aarch64.msi](https://download.visualstudio.microsoft.com/download/pr/b1c476b4-1777-4496-a49f-2323a2465262/633145862d2bac869b32e79218c2c5f9/microsoft-jdk-21.0.10-windows-aarch64.msi) |
+| 21.0.10+7 | 02/04/2026 15:00:00 | jdk       | x64          | msi  | [https://download.visualstudio.microsoft.com/download/pr/b1c476b4-1777-4496-a49f-2323a2465262/352ff7bdac51ca6f13b4f6574956ceeb/microsoft-jdk-21.0.10-windows-x64.msi](https://download.visualstudio.microsoft.com/download/pr/b1c476b4-1777-4496-a49f-2323a2465262/352ff7bdac51ca6f13b4f6574956ceeb/microsoft-jdk-21.0.10-windows-x64.msi)         |

@@ -3,7 +3,7 @@ title: Jitsi Team Jitsi Meet
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 04/02/2026 1:40:33 PM
+last_modified_date: 05/02/2026 11:40:44 AM
 ---
 
 ## Jitsi Team Jitsi Meet
@@ -14,6 +14,6 @@ Evergreen app: `JitsiMeet`. Found **1** installer.
 
 Last check: 🟢
 
-| Version   | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                  |
-| --------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2025.10.0 | 4/10/2025 | 261027439 | 1ae9c39c0177d504c88b9021762f5a9e719240538f8fdfdf4e67c22bbcc17803 | x86          | Default       | exe  | [https://github.com/jitsi/jitsi-meet-electron/releases/download/v2025.10.0/jitsi-meet.exe](https://github.com/jitsi/jitsi-meet-electron/releases/download/v2025.10.0/jitsi-meet.exe) |
+| Version  | Date     | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                |
+| -------- | -------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026.1.0 | 3/2/2026 | 280479926 | 9fbc189343a3ae135fdeb92407f6ec92a286e3cb545661e3ac14ba42fcc692c0 | x86          | Default       | exe  | [https://github.com/jitsi/jitsi-meet-electron/releases/download/v2026.1.0/jitsi-meet.exe](https://github.com/jitsi/jitsi-meet-electron/releases/download/v2026.1.0/jitsi-meet.exe) |

@@ -3,19 +3,23 @@ title: Microsoft Edge for Business
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 04/02/2026 1:40:33 PM
+last_modified_date: 05/02/2026 11:40:44 AM
 ---
 
 ## Microsoft Edge for Business
 
 [Source](https://www.microsoft.com/edge/business/download)
 
-Evergreen app: `MicrosoftEdgeForBusiness`. Found **120** installers.
+Evergreen app: `MicrosoftEdgeForBusiness`. Found **124** installers.
 
 Last check: 🟢
 
 | Version        | Date                | Channel    | Expiry              | SHA256                                                           | Size   | Architecture | Type | URI                                                                                                                                                                                                                                                                                                                    |
 | -------------- | ------------------- | ---------- | ------------------- | ---------------------------------------------------------------- | ------ | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 146.0.3829.2   | 02/04/2026 21:10:00 | Policy     | 05/04/2026 21:10:00 | 4B26F5EBA199F9841F59B70F517AFBA546EA8D8FA909D7451D5FABB7A4D3D09B | 16.59  | any          | cab  | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/63d99eca-7ecb-4a89-86e5-ccb3c789cc04/MicrosoftEdgePolicyTemplates.cab](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/63d99eca-7ecb-4a89-86e5-ccb3c789cc04/MicrosoftEdgePolicyTemplates.cab)                     |
+| 146.0.3829.2   | 02/04/2026 20:23:00 | Dev        | 05/04/2026 20:23:00 | ED5AE51743208EEFAE8C1980ADA7226CF1E0B42CAF6D7A38C9A7954834C87831 | 192.96 | arm64        | msi  | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5b34f58c-8eed-45a2-b7ae-1428d0b6f5e6/MicrosoftEdgeDevEnterpriseARM64.msi](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5b34f58c-8eed-45a2-b7ae-1428d0b6f5e6/MicrosoftEdgeDevEnterpriseARM64.msi)               |
+| 146.0.3829.2   | 02/04/2026 20:44:00 | Dev        | 05/04/2026 20:44:00 | AB334949D7506829B9C950BF31D8197D676214F704932C85B09F50D4BA06C344 | 185.68 | x64          | msi  | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/375e4886-d883-466d-a457-c787ebfe665b/MicrosoftEdgeDevEnterpriseX64.msi](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/375e4886-d883-466d-a457-c787ebfe665b/MicrosoftEdgeDevEnterpriseX64.msi)                   |
+| 146.0.3829.2   | 02/04/2026 20:43:00 | Dev        | 05/04/2026 20:43:00 | 31924F0FEE3CAFE35E1A85646AFEB6E19372021C25FB2FCB75BCFA37ECC298A4 | 164.02 | x86          | msi  | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9ca8f926-ead6-474e-b928-1f52f3756bb9/MicrosoftEdgeDevEnterpriseX86.msi](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9ca8f926-ead6-474e-b928-1f52f3756bb9/MicrosoftEdgeDevEnterpriseX86.msi)                   |
 | 146.0.3818.0   | 01/27/2026 23:37:00 | Policy     | 04/27/2026 23:37:00 | D7D9DABFA6E9209AA94E15C2F7C21B4210F57254C7A3794A8B94C7773CF77BF1 | 16.6   | any          | cab  | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/74ba7d3f-ad23-4ac3-849e-9cd88ee60064/MicrosoftEdgePolicyTemplates.cab](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/74ba7d3f-ad23-4ac3-849e-9cd88ee60064/MicrosoftEdgePolicyTemplates.cab)                     |
 | 146.0.3818.0   | 01/27/2026 23:17:00 | Dev        | 04/27/2026 23:17:00 | 1BF1D5465E468BF19F74ABFB3882FFEE97B8FB22F736DA409474D48F5209238C | 191.27 | arm64        | msi  | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8c6372e2-74cd-470a-b0e7-a2452e27e670/MicrosoftEdgeDevEnterpriseARM64.msi](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8c6372e2-74cd-470a-b0e7-a2452e27e670/MicrosoftEdgeDevEnterpriseARM64.msi)               |
 | 146.0.3818.0   | 01/27/2026 23:24:00 | Dev        | 04/27/2026 23:24:00 | DB53BC9A90F2DB5BF48C6764C359758F02919B896585F51CE642E2FEB59B0B63 | 183.14 | x64          | msi  | [https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/262cc258-83b0-4b5a-9e1b-87d0b5e98c8d/MicrosoftEdgeDevEnterpriseX64.msi](https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/262cc258-83b0-4b5a-9e1b-87d0b5e98c8d/MicrosoftEdgeDevEnterpriseX64.msi)                   |
