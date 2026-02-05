@@ -1,26 +1,26 @@
 [
   {
-    "Version": "21.0.9+10",
-    "Date": "2025-12-24T12:00:00Z",
+    "Version": "21.0.10+7",
+    "Date": "2026-02-04T15:00:00Z",
     "ImageType": "jdk",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/bfd926a4-a450-48d0-bf8b-2ea6a92f3d7d/3da53aa12fde1f5415f911cadc396eff/microsoft-jdk-21.0.9-windows-x64.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/262b1f43-5901-420c-ad51-a18ff32d87dd/2c31e9168ead18978ae7c78c6e1aef48/microsoft-jdk-21.0.10-windows-x64.exe"
   },
   {
-    "Version": "21.0.9+10",
-    "Date": "2025-12-24T12:00:00Z",
+    "Version": "21.0.10+7",
+    "Date": "2026-02-04T15:00:00Z",
     "ImageType": "jdk",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/a6fe1a24-970a-4b1e-bd72-37ef49a602a9/b5a698bfc90fb95341d194fd0d371d2a/microsoft-jdk-21.0.9-windows-aarch64.msi"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/b1c476b4-1777-4496-a49f-2323a2465262/633145862d2bac869b32e79218c2c5f9/microsoft-jdk-21.0.10-windows-aarch64.msi"
   },
   {
-    "Version": "21.0.9+10",
-    "Date": "2025-12-24T12:00:00Z",
+    "Version": "21.0.10+7",
+    "Date": "2026-02-04T15:00:00Z",
     "ImageType": "jdk",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/3df3ed5a-aaa3-4400-bff5-6644f29a36f7/963e19b1cffc34159099a197854369d5/microsoft-jdk-21.0.9-windows-x64.msi"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/b1c476b4-1777-4496-a49f-2323a2465262/352ff7bdac51ca6f13b4f6574956ceeb/microsoft-jdk-21.0.10-windows-x64.msi"
   }
 ]
