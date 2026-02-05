@@ -3,7 +3,7 @@ title: Connection Experience Indicator
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: 05/02/2026 11:40:44 AM
+last_modified_date: 05/02/2026 1:42:32 PM
 ---
 
 ## Connection Experience Indicator
