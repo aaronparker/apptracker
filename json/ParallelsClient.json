@@ -1,38 +1,38 @@
 [
   {
-    "Version": "20.2.26020",
+    "Version": "21.0.26296",
     "Architecture": "ARM64",
     "Type": "exe",
-    "URI": "https://download.parallels.com/ras/v20/20.2.2.26020/RASClient_Basic-ARM64-20.2.26020.exe"
+    "URI": "https://download.parallels.com/ras/v21/21.0.1.26296/RASClient_Basic-ARM64-21.0.26296.exe"
   },
   {
-    "Version": "20.2.26020",
+    "Version": "21.0.26296",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://download.parallels.com/ras/v20/20.2.2.26020/RASClient_Basic-x64-20.2.26020.exe"
+    "URI": "https://download.parallels.com/ras/v21/21.0.1.26296/RASClient_Basic-x64-21.0.26296.exe"
   },
   {
-    "Version": "20.2.26020",
+    "Version": "21.0.26296",
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://download.parallels.com/ras/v20/20.2.2.26020/RASClient_Basic-20.2.26020.exe"
+    "URI": "https://download.parallels.com/ras/v21/21.0.1.26296/RASClient_Basic-21.0.26296.exe"
   },
   {
-    "Version": "20.2.26020",
+    "Version": "21.0.26296",
     "Architecture": "ARM64",
     "Type": "msi",
-    "URI": "https://download.parallels.com/ras/v20/20.2.2.26020/RASClient-ARM64-20.2.26020.msi"
+    "URI": "https://download.parallels.com/ras/v21/21.0.1.26296/RASClient-ARM64-21.0.26296.msi"
   },
   {
-    "Version": "20.2.26020",
+    "Version": "21.0.26296",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://download.parallels.com/ras/v20/20.2.2.26020/RASClient-x64-20.2.26020.msi"
+    "URI": "https://download.parallels.com/ras/v21/21.0.1.26296/RASClient-x64-21.0.26296.msi"
   },
   {
-    "Version": "20.2.26020",
+    "Version": "21.0.26296",
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://download.parallels.com/ras/v20/20.2.2.26020/RASClient-20.2.26020.msi"
+    "URI": "https://download.parallels.com/ras/v21/21.0.1.26296/RASClient-21.0.26296.msi"
   }
 ]

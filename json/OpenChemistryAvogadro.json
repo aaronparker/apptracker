@@ -1,12 +1,12 @@
 [
   {
-    "Version": "1.102.1",
-    "Date": "27/10/2025",
-    "Size": 111730880,
-    "Sha256": "3b355a0a7536333c7db9fbc15650b3bd8031b7e7aa0e7eda16f509bc5cb4464e",
+    "Version": "1.103.0",
+    "Date": "6/2/2026",
+    "Size": 119233192,
+    "Sha256": "b4688d8261a4730417183941310b394980225efcca9a241cd1cd99452129caf7",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/OpenChemistry/avogadrolibs/releases/download/1.102.1/Avogadro2-1.102.1-win64.exe"
+    "URI": "https://github.com/OpenChemistry/avogadrolibs/releases/download/1.103.0/Avogadro2-1.103.0-win64.exe"
   }
 ]
