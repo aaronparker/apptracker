@@ -3,7 +3,7 @@ title: AWS AppStream 2.0 Client
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 06/02/2026 11:40:36 AM
+last_modified_date: 06/02/2026 1:40:08 PM
 ---
 
 ## AWS AppStream 2.0 Client
@@ -12,10 +12,7 @@ last_modified_date: 06/02/2026 11:40:36 AM
 
 Evergreen app: `AWSAppStreamClient`. Found **1** installer.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 404 (Not Found).
-```
+Last check: 🟢
 
 | Version  | Date                          | Type | URI                                                                                                                                                                                              |
 | -------- | ----------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
