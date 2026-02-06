@@ -3,7 +3,7 @@ title: Hoppscotch Limited Hoppscotch
 layout: default
 nav_order: 2
 parent: H
-last_modified_date: 05/02/2026 1:42:32 PM
+last_modified_date: 06/02/2026 11:40:36 AM
 ---
 
 ## Hoppscotch Limited Hoppscotch
@@ -14,7 +14,7 @@ Evergreen app: `Hoppscotch`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Date     | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                      |
-| ------- | -------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 26.1.0  | 6/1/2026 | 44638208 | cd94bf6e62c1c33e21f41101cc1f4ba5ebb0515e3948b4b3693965666542ef8f | x64          | Default       | msi  | [https://github.com/hoppscotch/releases/releases/download/v26.1.0-0/Hoppscotch_SelfHost_win_x64.msi](https://github.com/hoppscotch/releases/releases/download/v26.1.0-0/Hoppscotch_SelfHost_win_x64.msi) |
-| 26.1.0  | 6/1/2026 | 45694976 | fb6423f4b8133c450fe6aacad21c74cdf69dc26c7091ee76ddc3ba69eb7d8bb1 | x64          | Default       | msi  | [https://github.com/hoppscotch/releases/releases/download/v26.1.0-0/Hoppscotch_win_x64.msi](https://github.com/hoppscotch/releases/releases/download/v26.1.0-0/Hoppscotch_win_x64.msi)                   |
+| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                      |
+| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 26.1.1  | 28/1/2026 | 44658688 | b52055e8c68ada89b26062f94123192d2047abb85aaeeed180c4257518cd3fb1 | x64          | Default       | msi  | [https://github.com/hoppscotch/releases/releases/download/v26.1.1-0/Hoppscotch_SelfHost_win_x64.msi](https://github.com/hoppscotch/releases/releases/download/v26.1.1-0/Hoppscotch_SelfHost_win_x64.msi) |
+| 26.1.1  | 28/1/2026 | 45711360 | 39d80d28e52745f7a60fba7f927a342f1a9381d1ee04504dcae489e074be6127 | x64          | Default       | msi  | [https://github.com/hoppscotch/releases/releases/download/v26.1.1-0/Hoppscotch_win_x64.msi](https://github.com/hoppscotch/releases/releases/download/v26.1.1-0/Hoppscotch_win_x64.msi)                   |

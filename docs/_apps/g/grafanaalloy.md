@@ -3,7 +3,7 @@ title: Grafana Lab Grafana Alloy
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 05/02/2026 1:42:32 PM
+last_modified_date: 06/02/2026 11:40:36 AM
 ---
 
 ## Grafana Lab Grafana Alloy
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version | Date     | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                  |
 | ------- | -------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.12.2  | 8/1/2026 | 93832152 | 43125426840d1952f8cad60373bfb867cfd17b3d858a955350d9901ed57e1a0c | x64          | Default       | exe  | [https://github.com/grafana/alloy/releases/download/v1.12.2/alloy-installer-windows-amd64.exe](https://github.com/grafana/alloy/releases/download/v1.12.2/alloy-installer-windows-amd64.exe)         |
-| 1.12.2  | 8/1/2026 | 88515014 | 8e8b48959c347e6c24003b67298154c42e2353ad6fac35dd149377f198e4e156 | x64          | Default       | zip  | [https://github.com/grafana/alloy/releases/download/v1.12.2/alloy-freebsd-amd64.zip](https://github.com/grafana/alloy/releases/download/v1.12.2/alloy-freebsd-amd64.zip)                             |
-| 1.12.2  | 8/1/2026 | 91332673 | 0fa7ebb90bc7a5fb18300a95ff4c7fd7f26f75b3b3280e081f4b35dc6fe3b190 | x64          | Default       | zip  | [https://github.com/grafana/alloy/releases/download/v1.12.2/alloy-installer-windows-amd64.exe.zip](https://github.com/grafana/alloy/releases/download/v1.12.2/alloy-installer-windows-amd64.exe.zip) |
-| 1.12.2  | 8/1/2026 | 93128343 | 6703672c17308e64c5ae8d17dce5169738c3c228dee45063f74123152ce3b27c | x64          | Default       | zip  | [https://github.com/grafana/alloy/releases/download/v1.12.2/alloy-windows-amd64.exe.zip](https://github.com/grafana/alloy/releases/download/v1.12.2/alloy-windows-amd64.exe.zip)                     |
+| 1.13.0  | 5/2/2026 | 95639512 | 9eba79188833b074bb293b3c80ff6c545b2e1b1e2d98741fd6991485d38e6d31 | x64          | Default       | exe  | [https://github.com/grafana/alloy/releases/download/v1.13.0/alloy-installer-windows-amd64.exe](https://github.com/grafana/alloy/releases/download/v1.13.0/alloy-installer-windows-amd64.exe)         |
+| 1.13.0  | 5/2/2026 | 89314758 | cacfbcbbdbfb85cfb086c368f5192397e5cf94a19ed1a8060c0dc05d10550c73 | x64          | Default       | zip  | [https://github.com/grafana/alloy/releases/download/v1.13.0/alloy-freebsd-amd64.zip](https://github.com/grafana/alloy/releases/download/v1.13.0/alloy-freebsd-amd64.zip)                             |
+| 1.13.0  | 5/2/2026 | 93147330 | 4814170bba3f762314097598bec1d80e39235628a2956f9450bd9bece66888e1 | x64          | Default       | zip  | [https://github.com/grafana/alloy/releases/download/v1.13.0/alloy-installer-windows-amd64.exe.zip](https://github.com/grafana/alloy/releases/download/v1.13.0/alloy-installer-windows-amd64.exe.zip) |
+| 1.13.0  | 5/2/2026 | 94957933 | 475b712faf65c0508b577ca806c1b0255fd0bf6e02ee87ea2013715fde38311d | x64          | Default       | zip  | [https://github.com/grafana/alloy/releases/download/v1.13.0/alloy-windows-amd64.exe.zip](https://github.com/grafana/alloy/releases/download/v1.13.0/alloy-windows-amd64.exe.zip)                     |

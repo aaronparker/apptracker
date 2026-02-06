@@ -3,7 +3,7 @@ title: Obsidian
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 05/02/2026 1:42:32 PM
+last_modified_date: 06/02/2026 11:40:36 AM
 ---
 
 ## Obsidian
@@ -14,6 +14,6 @@ Evergreen app: `Obsidian`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                            |
-| ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.11.5  | 20/1/2026 | 296495960 | 206941af785f78e212787faac5927d624a8a9f813f916803ecbfb8d28f2706c0 | x86          | Default       | exe  | [https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.5/Obsidian-1.11.5.exe](https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.5/Obsidian-1.11.5.exe) |
+| Version | Date     | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                            |
+| ------- | -------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.11.7  | 5/2/2026 | 296595328 | b29fd8812282bc44e8782f3ed00c13bc54ef8a4039c1d86b2d3559311e77b895 | x86          | Default       | exe  | [https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.7/Obsidian-1.11.7.exe](https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.7/Obsidian-1.11.7.exe) |

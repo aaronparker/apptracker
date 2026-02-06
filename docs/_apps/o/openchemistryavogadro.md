@@ -3,7 +3,7 @@ title: Open Chemistry Avogadro
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 05/02/2026 1:42:32 PM
+last_modified_date: 06/02/2026 11:40:36 AM
 ---
 
 ## Open Chemistry Avogadro
@@ -14,6 +14,6 @@ Evergreen app: `OpenChemistryAvogadro`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                        |
-| ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.102.1 | 27/10/2025 | 111730880 | 3b355a0a7536333c7db9fbc15650b3bd8031b7e7aa0e7eda16f509bc5cb4464e | x64          | Default       | exe  | [https://github.com/OpenChemistry/avogadrolibs/releases/download/1.102.1/Avogadro2-1.102.1-win64.exe](https://github.com/OpenChemistry/avogadrolibs/releases/download/1.102.1/Avogadro2-1.102.1-win64.exe) |
+| Version | Date     | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                        |
+| ------- | -------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.103.0 | 6/2/2026 | 119233192 | b4688d8261a4730417183941310b394980225efcca9a241cd1cd99452129caf7 | x64          | Default       | exe  | [https://github.com/OpenChemistry/avogadrolibs/releases/download/1.103.0/Avogadro2-1.103.0-win64.exe](https://github.com/OpenChemistry/avogadrolibs/releases/download/1.103.0/Avogadro2-1.103.0-win64.exe) |

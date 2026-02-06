@@ -3,7 +3,7 @@ title: Kubernetes Headlamp
 layout: default
 nav_order: 2
 parent: K
-last_modified_date: 05/02/2026 1:42:32 PM
+last_modified_date: 06/02/2026 11:40:36 AM
 ---
 
 ## Kubernetes Headlamp
@@ -14,6 +14,6 @@ Evergreen app: `KubernetesHeadlamp`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                    |
-| ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 0.39.0  | 17/12/2025 | 124864595 | 680d829d15a3226dfce7f17650f44d3325654581bcc753bc4747cca3cc57e246 | x64          | Default       | exe  | [https://github.com/kubernetes-sigs/headlamp/releases/download/v0.39.0/Headlamp-0.39.0-win-x64.exe](https://github.com/kubernetes-sigs/headlamp/releases/download/v0.39.0/Headlamp-0.39.0-win-x64.exe) |
+| Version | Date     | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                    |
+| ------- | -------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0.40.0  | 5/2/2026 | 124263216 | df348dd856fa9c52cd6c38a556224989dd2fc4d836eb70f56176594ce425e2d1 | x64          | Default       | exe  | [https://github.com/kubernetes-sigs/headlamp/releases/download/v0.40.0/Headlamp-0.40.0-win-x64.exe](https://github.com/kubernetes-sigs/headlamp/releases/download/v0.40.0/Headlamp-0.40.0-win-x64.exe) |

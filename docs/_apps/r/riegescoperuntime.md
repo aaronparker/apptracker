@@ -3,7 +3,7 @@ title: Riege Scope Runtime
 layout: default
 nav_order: 2
 parent: R
-last_modified_date: 05/02/2026 1:42:32 PM
+last_modified_date: 06/02/2026 11:40:36 AM
 ---
 
 ## Riege Scope Runtime
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                            |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 17.14.1 | x64          | exe  | [https://getscope.riege.com/live/Scope_Runtime_windows-x64_17_14_1.exe](https://getscope.riege.com/live/Scope_Runtime_windows-x64_17_14_1.exe) |
+| 17.15.0 | x64          | exe  | [https://getscope.riege.com/live/Scope_Runtime_windows-x64_17_15_0.exe](https://getscope.riege.com/live/Scope_Runtime_windows-x64_17_15_0.exe) |
