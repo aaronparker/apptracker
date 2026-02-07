@@ -3,7 +3,7 @@ title: Adobe Acrobat Reader DC
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 07/02/2026 11:41:01 AM
+last_modified_date: 07/02/2026 1:31:51 PM
 ---
 
 ## Adobe Acrobat Reader DC
