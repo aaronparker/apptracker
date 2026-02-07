@@ -1,35 +1,35 @@
 [
   {
-    "Version": "146.0.7672.0",
-    "Revision": "1580510",
+    "Version": "146.0.7674.0",
+    "Revision": "1581249",
     "Channel": "Canary",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/146.0.7672.0/win64/chromedriver-win64.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/146.0.7674.0/win64/chromedriver-win64.zip"
   },
   {
-    "Version": "146.0.7672.0",
-    "Revision": "1580510",
+    "Version": "146.0.7674.0",
+    "Revision": "1581249",
     "Channel": "Canary",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/146.0.7672.0/win32/chromedriver-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/146.0.7674.0/win32/chromedriver-win32.zip"
   },
   {
-    "Version": "146.0.7655.0",
-    "Revision": "1575635",
+    "Version": "146.0.7670.2",
+    "Revision": "1579812",
     "Channel": "Dev",
     "Architecture": "x64",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/146.0.7655.0/win64/chromedriver-win64.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/146.0.7670.2/win64/chromedriver-win64.zip"
   },
   {
-    "Version": "146.0.7655.0",
-    "Revision": "1575635",
+    "Version": "146.0.7670.2",
+    "Revision": "1579812",
     "Channel": "Dev",
     "Architecture": "x86",
     "Type": "zip",
-    "URI": "https://storage.googleapis.com/chrome-for-testing-public/146.0.7655.0/win32/chromedriver-win32.zip"
+    "URI": "https://storage.googleapis.com/chrome-for-testing-public/146.0.7670.2/win32/chromedriver-win32.zip"
   },
   {
     "Version": "145.0.7632.46",

@@ -1,12 +1,12 @@
 [
   {
-    "Version": "3.2.1",
-    "Date": "7/10/2025",
-    "Size": 42683752,
-    "Sha256": "7171a097c1a2a181c0a92bbef87918800ca047f68ebf866a5744df557e3befda",
+    "Version": "3.3",
+    "Date": "6/2/2026",
+    "Size": 42887736,
+    "Sha256": "29882a078de6cc9c12da97be4eab42299c1206c6a78ba77bbd89377c45d7d89d",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/TurboVNC/turbovnc/releases/download/3.2.1/TurboVNC-3.2.1.exe"
+    "URI": "https://github.com/TurboVNC/turbovnc/releases/download/3.3/TurboVNC-3.3.exe"
   }
 ]

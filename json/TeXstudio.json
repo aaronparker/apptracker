@@ -1,22 +1,22 @@
 [
   {
-    "Version": "4.9.1",
-    "Date": "15/12/2025",
-    "Size": 137985240,
-    "Sha256": "dd68f2c8f90ce8a676ceb4b1b2325e9f91a8b50be3ef81d715f10370e7611316",
+    "Version": "4.9.2",
+    "Date": "7/2/2026",
+    "Size": 138101992,
+    "Sha256": "1f9a31a41e5a6ad9a976f61865e5370186a9047bf1fd338f39c597e6b40b2e62",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/texstudio-org/texstudio/releases/download/4.9.1/texstudio-4.9.1-win-arm-qt6-signed.exe"
+    "URI": "https://github.com/texstudio-org/texstudio/releases/download/4.9.2/texstudio-4.9.2-win-arm-qt6-signed.exe"
   },
   {
-    "Version": "4.9.1",
-    "Date": "15/12/2025",
-    "Size": 144373728,
-    "Sha256": "d2f2c381746f8593f05d6057e90631383c637987affb48039c61de79cf78c702",
+    "Version": "4.9.2",
+    "Date": "7/2/2026",
+    "Size": 144495624,
+    "Sha256": "a38b25ca93a0d76188bec3e636c6e790de3d678da759c58e499e6594951914a6",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/texstudio-org/texstudio/releases/download/4.9.1/texstudio-4.9.1-win-qt6-signed.exe"
+    "URI": "https://github.com/texstudio-org/texstudio/releases/download/4.9.2/texstudio-4.9.2-win-qt6-signed.exe"
   }
 ]

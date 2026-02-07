@@ -1,22 +1,22 @@
 [
   {
-    "Version": "10.8.0",
-    "Date": "6/12/2025",
-    "Size": 11338002,
-    "Sha256": "e9e50bfa974462d4de2107a483caccfed48de1f785b50a3324094256beb092ae",
+    "Version": "10.9.0",
+    "Date": "31/12/2025",
+    "Size": 11347158,
+    "Sha256": "9d1ca23a412a5d15542062822548132a5ac38a60eb2d57b4b5ebff59ed6262a0",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/peazip/PeaZip/releases/download/10.8.0/peazip-10.8.0.WIN64.exe"
+    "URI": "https://github.com/peazip/PeaZip/releases/download/10.9.0/peazip-10.9.0.WIN64.exe"
   },
   {
-    "Version": "10.8.0",
-    "Date": "6/12/2025",
-    "Size": 8499583,
-    "Sha256": "538e4489ae19fea87e52c4167bd91d1af618da6394e475a8f03a5d3feff86aa4",
+    "Version": "10.9.0",
+    "Date": "31/12/2025",
+    "Size": 8512554,
+    "Sha256": "23bb4c7c5295f78d9eddfe26636b9c18576b2d38bc5c417935f5da34ee839242",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/peazip/PeaZip/releases/download/10.8.0/peazip-10.8.0.WINDOWS.exe"
+    "URI": "https://github.com/peazip/PeaZip/releases/download/10.9.0/peazip-10.9.0.WINDOWS.exe"
   }
 ]
