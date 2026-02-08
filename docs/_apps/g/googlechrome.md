@@ -3,7 +3,7 @@ title: Google Chrome Enterprise
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 07/02/2026 1:31:51 PM
+last_modified_date: 08/02/2026 11:36:38 AM
 ---
 
 ## Google Chrome Enterprise
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version        | StartDate           | EndDate             | Channel  | Architecture | Type | URI                                                                                                                                                                                        |
 | -------------- | ------------------- | ------------------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 146.0.7674.0   | 02/07/2026 10:22:13 | N/A                 | Canary   | x64          | exe  | [https://dl.google.com/update2/installers/chromesetup.exe](https://dl.google.com/update2/installers/chromesetup.exe)                                                                       |
+| 146.0.7676.0   | 02/08/2026 10:15:53 | N/A                 | Canary   | x64          | exe  | [https://dl.google.com/update2/installers/chromesetup.exe](https://dl.google.com/update2/installers/chromesetup.exe)                                                                       |
 | 146.0.7670.2   | 02/06/2026 17:33:37 | N/A                 | Dev      | x64          | msi  | [https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi](https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi)             |
 | 146.0.7670.2   | 02/06/2026 17:33:37 | N/A                 | Dev      | x86          | msi  | [https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi](https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi)                 |
 | 145.0.7632.46  | 02/04/2026 18:10:36 | N/A                 | Stable   | ARM64        | msi  | [https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise_arm64.msi](https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise_arm64.msi)                   |

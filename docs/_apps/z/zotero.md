@@ -3,7 +3,7 @@ title: Zotero
 layout: default
 nav_order: 2
 parent: Z
-last_modified_date: 07/02/2026 1:31:51 PM
+last_modified_date: 08/02/2026 11:36:38 AM
 ---
 
 ## Zotero
@@ -16,9 +16,9 @@ Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                                            |
 | ------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 8.0.2   | ARM64        | exe  | [https://download.zotero.org/client/release/8.0.2/Zotero-8.0.2_arm64_setup.exe](https://download.zotero.org/client/release/8.0.2/Zotero-8.0.2_arm64_setup.exe) |
-| 8.0.2   | x64          | exe  | [https://download.zotero.org/client/release/8.0.2/Zotero-8.0.2_x64_setup.exe](https://download.zotero.org/client/release/8.0.2/Zotero-8.0.2_x64_setup.exe)     |
-| 8.0.2   | x86          | exe  | [https://download.zotero.org/client/release/8.0.2/Zotero-8.0.2_win32_setup.exe](https://download.zotero.org/client/release/8.0.2/Zotero-8.0.2_win32_setup.exe) |
-| 8.0.2   | ARM64        | zip  | [https://download.zotero.org/client/release/8.0.2/Zotero-8.0.2_win-arm64.zip](https://download.zotero.org/client/release/8.0.2/Zotero-8.0.2_win-arm64.zip)     |
-| 8.0.2   | x64          | zip  | [https://download.zotero.org/client/release/8.0.2/Zotero-8.0.2_win-x64.zip](https://download.zotero.org/client/release/8.0.2/Zotero-8.0.2_win-x64.zip)         |
-| 8.0.2   | x86          | zip  | [https://download.zotero.org/client/release/8.0.2/Zotero-8.0.2_win32.zip](https://download.zotero.org/client/release/8.0.2/Zotero-8.0.2_win32.zip)             |
+| 8.0.3   | ARM64        | exe  | [https://download.zotero.org/client/release/8.0.3/Zotero-8.0.3_arm64_setup.exe](https://download.zotero.org/client/release/8.0.3/Zotero-8.0.3_arm64_setup.exe) |
+| 8.0.3   | x64          | exe  | [https://download.zotero.org/client/release/8.0.3/Zotero-8.0.3_x64_setup.exe](https://download.zotero.org/client/release/8.0.3/Zotero-8.0.3_x64_setup.exe)     |
+| 8.0.3   | x86          | exe  | [https://download.zotero.org/client/release/8.0.3/Zotero-8.0.3_win32_setup.exe](https://download.zotero.org/client/release/8.0.3/Zotero-8.0.3_win32_setup.exe) |
+| 8.0.3   | ARM64        | zip  | [https://download.zotero.org/client/release/8.0.3/Zotero-8.0.3_win-arm64.zip](https://download.zotero.org/client/release/8.0.3/Zotero-8.0.3_win-arm64.zip)     |
+| 8.0.3   | x64          | zip  | [https://download.zotero.org/client/release/8.0.3/Zotero-8.0.3_win-x64.zip](https://download.zotero.org/client/release/8.0.3/Zotero-8.0.3_win-x64.zip)         |
+| 8.0.3   | x86          | zip  | [https://download.zotero.org/client/release/8.0.3/Zotero-8.0.3_win32.zip](https://download.zotero.org/client/release/8.0.3/Zotero-8.0.3_win32.zip)             |
