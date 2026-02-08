@@ -3,7 +3,7 @@ title: Microsoft OLE DB Driver for SQL Server 18
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 08/02/2026 11:36:38 AM
+last_modified_date: 08/02/2026 1:32:04 PM
 ---
 
 ## Microsoft OLE DB Driver for SQL Server 18
@@ -12,10 +12,7 @@ last_modified_date: 08/02/2026 11:36:38 AM
 
 Evergreen app: `MicrosoftOLEDBDriverForSQLServer18`. Found **22** installers.
 
-Last check: 🔴
-```
-You cannot call a method on a null-valued expression.
-```
+Last check: 🟢
 
 | Version | Date     | Size    | Language              | Architecture | Type | URI                                                                                                                                                                                                              |
 | ------- | -------- | ------- | --------------------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
