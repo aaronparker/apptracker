@@ -1,22 +1,12 @@
 [
   {
-    "Version": "3.0.5",
-    "Date": "24/4/2025",
-    "Size": 18593016,
-    "Sha256": "74de3c7fe8655e9de47a3fd39472a44b088b1bac9c37abc7e728905674e1cee0",
-    "Architecture": "ARM64",
-    "InstallerType": "Default",
-    "Type": "exe",
-    "URI": "https://github.com/thewh1teagle/vibe/releases/download/v3.0.5/vibe_3.0.5_arm64-setup.exe"
-  },
-  {
-    "Version": "3.0.5",
-    "Date": "24/4/2025",
-    "Size": 25214128,
-    "Sha256": null,
+    "Version": "3.0.6",
+    "Date": "7/2/2026",
+    "Size": 41435640,
+    "Sha256": "9b02c431aacb473006485b0c4464d2d04c8a42bbf562288f5ac8019617edc852",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/thewh1teagle/vibe/releases/download/v3.0.5/vibe_3.0.5_x64-setup.exe"
+    "URI": "https://github.com/thewh1teagle/vibe/releases/download/v3.0.6/vibe_3.0.6_x64-setup.exe"
   }
 ]

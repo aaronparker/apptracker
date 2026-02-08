@@ -1,10 +1,10 @@
 [
   {
     "Version": "3.0.8",
-    "Revision": 1,
-    "Date": "30/1/2026",
+    "Revision": 2,
+    "Date": "7/2/2026",
     "Channel": "Stable",
-    "Sha256": "fa3553e9659d50acebe580828114d53920f73977777a1468749446f391cd3a6a",
-    "URI": "https://forksystems.mm.fcix.net/gimp/gimp/v3.0/windows/gimp-3.0.8-setup-1.exe"
+    "Sha256": "3e4ff5845126a026e22302ab0aeecb0a79caff495f7675e254e1da4878cd3d72",
+    "URI": "https://abqix.mm.fcix.net/gimp/gimp/v3.0/windows/gimp-3.0.8-setup-2.exe"
   }
 ]
