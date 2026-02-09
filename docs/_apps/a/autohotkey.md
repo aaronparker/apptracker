@@ -3,7 +3,7 @@ title: AutoHotkey Foundation AutoHotkey
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 08/02/2026 1:32:04 PM
+last_modified_date: 09/02/2026 11:46:15 AM
 ---
 
 ## AutoHotkey Foundation AutoHotkey
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date     | Size    | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                              |
 | ------- | -------- | ------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2.0.20  | 8/2/2026 | 3046400 | 7f70bac4dba20aa55c12e59a7bbdec748601af864d47c3ee892635216b76f89e | x86          | Default       | exe  | [https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.20/AutoHotkey_2.0.20_setup.exe](https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.20/AutoHotkey_2.0.20_setup.exe) |
+| 2.0.21  | 9/2/2026 | 3046912 | ca4247b757ab19dbf7a4ba5cfab69b0ebca60fb4f46e73389e5b9ea9a1cd7c7b | x86          | Default       | exe  | [https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.21/AutoHotkey_2.0.21_setup.exe](https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.21/AutoHotkey_2.0.21_setup.exe) |

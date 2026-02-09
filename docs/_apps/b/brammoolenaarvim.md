@@ -3,7 +3,7 @@ title: Bram Moolenaar Vim
 layout: default
 nav_order: 2
 parent: B
-last_modified_date: 08/02/2026 1:32:04 PM
+last_modified_date: 09/02/2026 11:46:15 AM
 ---
 
 ## Bram Moolenaar Vim
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version  | Date     | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                              |
 | -------- | -------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 9.1.2140 | 7/2/2026 | 11066439 | 1f7f67d77dee8c569a11388e6a1a38089dceed060fc1f1d6d5592a4095035e36 | ARM64        | Default       | exe  | [https://github.com/vim/vim-win32-installer/releases/download/v9.1.2140/gvim_9.1.2140_arm64.exe](https://github.com/vim/vim-win32-installer/releases/download/v9.1.2140/gvim_9.1.2140_arm64.exe) |
-| 9.1.2140 | 7/2/2026 | 11639419 | 332354fe5951761ec834cf7e9de94a5bd263648a039a32408ab52c41c831afbd | x64          | Default       | exe  | [https://github.com/vim/vim-win32-installer/releases/download/v9.1.2140/gvim_9.1.2140_x64.exe](https://github.com/vim/vim-win32-installer/releases/download/v9.1.2140/gvim_9.1.2140_x64.exe)     |
-| 9.1.2140 | 7/2/2026 | 11155531 | 946069c6d4e847eb5081540990c2c804ffffb6dc965100cda4571e8abf5b3e6a | x86          | Default       | exe  | [https://github.com/vim/vim-win32-installer/releases/download/v9.1.2140/gvim_9.1.2140_x86.exe](https://github.com/vim/vim-win32-installer/releases/download/v9.1.2140/gvim_9.1.2140_x86.exe)     |
+| 9.1.2141 | 8/2/2026 | 11077506 | efcdeb5e2288b49746ce3793159bd3222718bb724b3ff524473f8cb82acef527 | ARM64        | Default       | exe  | [https://github.com/vim/vim-win32-installer/releases/download/v9.1.2141/gvim_9.1.2141_arm64.exe](https://github.com/vim/vim-win32-installer/releases/download/v9.1.2141/gvim_9.1.2141_arm64.exe) |
+| 9.1.2141 | 8/2/2026 | 11656956 | 91d11c029aac63173630c9eeab9889ae72a07650268297433eb34a05f5bdb481 | x64          | Default       | exe  | [https://github.com/vim/vim-win32-installer/releases/download/v9.1.2141/gvim_9.1.2141_x64.exe](https://github.com/vim/vim-win32-installer/releases/download/v9.1.2141/gvim_9.1.2141_x64.exe)     |
+| 9.1.2141 | 8/2/2026 | 11172410 | 77b263c55bad44043233ab0a6973a5cc238400acdf7cc5e8891f8a337757f686 | x86          | Default       | exe  | [https://github.com/vim/vim-win32-installer/releases/download/v9.1.2141/gvim_9.1.2141_x86.exe](https://github.com/vim/vim-win32-installer/releases/download/v9.1.2141/gvim_9.1.2141_x86.exe)     |
