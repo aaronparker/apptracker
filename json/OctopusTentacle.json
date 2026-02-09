@@ -1,12 +1,12 @@
 [
   {
-    "Version": "9.0.3596",
+    "Version": "9.1.3608",
     "Architecture": "x64",
-    "URI": "https://download.octopusdeploy.com/octopus/Octopus.Tentacle.9.0.3596-x64.msi"
+    "URI": "https://download.octopusdeploy.com/octopus/Octopus.Tentacle.9.1.3608-x64.msi"
   },
   {
-    "Version": "9.0.3596",
+    "Version": "9.1.3608",
     "Architecture": "x86",
-    "URI": "https://download.octopusdeploy.com/octopus/Octopus.Tentacle.9.0.3596.msi"
+    "URI": "https://download.octopusdeploy.com/octopus/Octopus.Tentacle.9.1.3608.msi"
   }
 ]
