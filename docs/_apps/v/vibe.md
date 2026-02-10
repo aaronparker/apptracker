@@ -3,7 +3,7 @@ title: Vibe
 layout: default
 nav_order: 2
 parent: V
-last_modified_date: 09/02/2026 1:47:43 PM
+last_modified_date: 10/02/2026 11:49:09 AM
 ---
 
 ## Vibe
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date     | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                              |
 | ------- | -------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.0.8   | 8/2/2026 | 46448152 | 15323f293c350182d35aa99f607d67716c2766d4f3e9dfccb4ac5aa8c47bd567 | x64          | Default       | exe  | [https://github.com/thewh1teagle/vibe/releases/download/v3.0.8/vibe_3.0.8_x64-setup.exe](https://github.com/thewh1teagle/vibe/releases/download/v3.0.8/vibe_3.0.8_x64-setup.exe) |
+| 3.0.9   | 9/2/2026 | 46473256 | 2d9f7c8411bc778d924419b29435f5ac4d8dcbd81962b34dc382491f8913ea07 | x64          | Default       | exe  | [https://github.com/thewh1teagle/vibe/releases/download/v3.0.9/vibe_3.0.9_x64-setup.exe](https://github.com/thewh1teagle/vibe/releases/download/v3.0.9/vibe_3.0.9_x64-setup.exe) |
