@@ -3,7 +3,7 @@ title: Octopus Deploy Server
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 10/02/2026 11:49:09 AM
+last_modified_date: 10/02/2026 1:50:05 PM
 ---
 
 ## Octopus Deploy Server
@@ -12,10 +12,7 @@ last_modified_date: 10/02/2026 11:49:09 AM
 
 Evergreen app: `OctopusDeployServer`. Found **1** installer.
 
-Last check: 🔴
-```
-Output from last run on PowerShell Core was null.
-```
+Last check: 🟢
 
 | Version      | Date     | URI                                                                                                                                                |
 | ------------ | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
