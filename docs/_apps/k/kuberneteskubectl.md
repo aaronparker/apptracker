@@ -3,7 +3,7 @@ title: Kubernetes Kubectl
 layout: default
 nav_order: 2
 parent: K
-last_modified_date: 11/02/2026 11:47:52 AM
+last_modified_date: 11/02/2026 1:48:24 PM
 ---
 
 ## Kubernetes Kubectl
@@ -12,10 +12,7 @@ last_modified_date: 11/02/2026 11:47:52 AM
 
 Evergreen app: `KubernetesKubectl`. Found **3** installers.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 503 (Timed out while waiting).
-```
+Last check: 🟢
 
 | Version | Architecture | Platform | URI                                                                                                                                |
 | ------- | ------------ | -------- | ---------------------------------------------------------------------------------------------------------------------------------- |

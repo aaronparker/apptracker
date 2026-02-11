@@ -3,7 +3,7 @@ title: Pritunl OpenVPN Client
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 11/02/2026 11:47:52 AM
+last_modified_date: 11/02/2026 1:48:24 PM
 ---
 
 ## Pritunl OpenVPN Client

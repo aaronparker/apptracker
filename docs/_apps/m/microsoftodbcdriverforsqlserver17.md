@@ -3,7 +3,7 @@ title: Microsoft ODBC Driver for SQL Server 17.x
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 11/02/2026 11:47:52 AM
+last_modified_date: 11/02/2026 1:48:24 PM
 ---
 
 ## Microsoft ODBC Driver for SQL Server 17.x
@@ -12,10 +12,7 @@ last_modified_date: 11/02/2026 11:47:52 AM
 
 Evergreen app: `MicrosoftODBCDriverForSQLServer17`. Found **22** installers.
 
-Last check: 🔴
-```
-You cannot call a method on a null-valued expression.
-```
+Last check: 🟢
 
 | Version   | Date     | Size    | Language              | Architecture | Type | URI                                                                                                                                                                                                                                          |
 | --------- | -------- | ------- | --------------------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
