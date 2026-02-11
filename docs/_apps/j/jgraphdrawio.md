@@ -3,7 +3,7 @@ title: JGraph draw.io (diagrams.net)
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 10/02/2026 1:50:05 PM
+last_modified_date: 11/02/2026 11:47:52 AM
 ---
 
 ## JGraph draw.io (diagrams.net)

@@ -3,7 +3,7 @@ title: Vibe
 layout: default
 nav_order: 2
 parent: V
-last_modified_date: 10/02/2026 1:50:05 PM
+last_modified_date: 11/02/2026 11:47:52 AM
 ---
 
 ## Vibe
@@ -14,6 +14,6 @@ Evergreen app: `Vibe`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date     | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                              |
-| ------- | -------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.0.9   | 9/2/2026 | 46473256 | 2d9f7c8411bc778d924419b29435f5ac4d8dcbd81962b34dc382491f8913ea07 | x64          | Default       | exe  | [https://github.com/thewh1teagle/vibe/releases/download/v3.0.9/vibe_3.0.9_x64-setup.exe](https://github.com/thewh1teagle/vibe/releases/download/v3.0.9/vibe_3.0.9_x64-setup.exe) |
+| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                  |
+| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 3.0.11  | 11/2/2026 | 46498288 | 0691d713cceddacc2a2c776af9b628b37d9ca699d2d586535590e4d6b40accb7 | x64          | Default       | exe  | [https://github.com/thewh1teagle/vibe/releases/download/v3.0.11/vibe_3.0.11_x64-setup.exe](https://github.com/thewh1teagle/vibe/releases/download/v3.0.11/vibe_3.0.11_x64-setup.exe) |
