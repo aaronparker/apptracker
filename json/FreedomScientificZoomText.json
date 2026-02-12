@@ -1,14 +1,14 @@
 [
   {
-    "Version": "2026.2512.27",
-    "Date": "1/12/2025",
+    "Version": "2026.2602.13",
+    "Date": "1/2/2026",
     "Architecture": "ARM64",
-    "URI": "https://software.vfo.digital/ZoomText/2026/2026.2512.27.400/20D920B3-4834-4FF5-9877-C5E144FA2617/ZT2026.2512.27.400-Offline-ARM64.exe"
+    "URI": "https://software.vfo.digital/ZoomText/2026/2026.2602.13.400/CA2690F6-CA7D-403F-B040-E7B1F2A6E227/ZT2026.2602.13.400-Offline-ARM64.exe"
   },
   {
-    "Version": "2026.2512.27",
-    "Date": "1/12/2025",
+    "Version": "2026.2602.13",
+    "Date": "1/2/2026",
     "Architecture": "x64",
-    "URI": "https://software.vfo.digital/ZoomText/2026/2026.2512.27.400/20D920B3-4834-4FF5-9877-C5E144FA2617/ZT2026.2512.27.400-Offline-x64.exe"
+    "URI": "https://software.vfo.digital/ZoomText/2026/2026.2602.13.400/CA2690F6-CA7D-403F-B040-E7B1F2A6E227/ZT2026.2602.13.400-Offline-x64.exe"
   }
 ]
