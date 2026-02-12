@@ -3,7 +3,7 @@ title: Kubernetes Kubectl
 layout: default
 nav_order: 2
 parent: K
-last_modified_date: 11/02/2026 1:48:24 PM
+last_modified_date: 12/02/2026 11:46:44 AM
 ---
 
 ## Kubernetes Kubectl
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version | Architecture | Platform | URI                                                                                                                                |
 | ------- | ------------ | -------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 1.35.0  | arm64        | Windows  | [https://dl.k8s.io/release/v1.35.0/bin/windows/arm64/kubectl.exe](https://dl.k8s.io/release/v1.35.0/bin/windows/arm64/kubectl.exe) |
-| 1.35.0  | x64          | Windows  | [https://dl.k8s.io/release/v1.35.0/bin/windows/amd64/kubectl.exe](https://dl.k8s.io/release/v1.35.0/bin/windows/amd64/kubectl.exe) |
-| 1.35.0  | x86          | Windows  | [https://dl.k8s.io/release/v1.35.0/bin/windows/386/kubectl.exe](https://dl.k8s.io/release/v1.35.0/bin/windows/386/kubectl.exe)     |
+| 1.35.1  | arm64        | Windows  | [https://dl.k8s.io/release/v1.35.1/bin/windows/arm64/kubectl.exe](https://dl.k8s.io/release/v1.35.1/bin/windows/arm64/kubectl.exe) |
+| 1.35.1  | x64          | Windows  | [https://dl.k8s.io/release/v1.35.1/bin/windows/amd64/kubectl.exe](https://dl.k8s.io/release/v1.35.1/bin/windows/amd64/kubectl.exe) |
+| 1.35.1  | x86          | Windows  | [https://dl.k8s.io/release/v1.35.1/bin/windows/386/kubectl.exe](https://dl.k8s.io/release/v1.35.1/bin/windows/386/kubectl.exe)     |

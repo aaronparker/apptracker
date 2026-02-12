@@ -3,7 +3,7 @@ title: dnGrep
 layout: default
 nav_order: 2
 parent: D
-last_modified_date: 11/02/2026 1:48:24 PM
+last_modified_date: 12/02/2026 11:46:44 AM
 ---
 
 ## dnGrep
@@ -14,9 +14,9 @@ Evergreen app: `dnGrep`. Found **4** installers.
 
 Last check: 🟢
 
-| Version  | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                          |
-| -------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.6.95.0 | 13/1/2026 | 79699968 | 2cae376abc5ef99a63a0d6234fc42379c80e292cfc5905a935546821ef8ae9fe | x64          | Default       | msi  | [https://github.com/dnGrep/dnGrep/releases/download/v4.6.95.0/dnGREP.4.6.95.x64.msi](https://github.com/dnGrep/dnGrep/releases/download/v4.6.95.0/dnGREP.4.6.95.x64.msi)     |
-| 4.6.95.0 | 13/1/2026 | 73383936 | 0d3f43e07bd3feecc0eb1c360097990d92c5a8fcce0ffcdf0901ac8ebbb0d250 | x86          | Default       | msi  | [https://github.com/dnGrep/dnGrep/releases/download/v4.6.95.0/dnGREP.4.6.95.x86.msi](https://github.com/dnGrep/dnGrep/releases/download/v4.6.95.0/dnGREP.4.6.95.x86.msi)     |
-| 4.6.95.0 | 13/1/2026 | 81004715 | d7a8304a11fc5aa479376ff96bc7164014628f5efaa57462fa75644499d014d6 | x64          | Default       | zip  | [https://github.com/dnGrep/dnGrep/releases/download/v4.6.95.0/dnGrep.4.6.95.0.x64.zip](https://github.com/dnGrep/dnGrep/releases/download/v4.6.95.0/dnGrep.4.6.95.0.x64.zip) |
-| 4.6.95.0 | 13/1/2026 | 74434351 | 4701fbe600c4f99ee6e3cf02deaa3cf7c5caf44264151ac7f6c7e1e16ea22772 | x86          | Default       | zip  | [https://github.com/dnGrep/dnGrep/releases/download/v4.6.95.0/dnGrep.4.6.95.0.x86.zip](https://github.com/dnGrep/dnGrep/releases/download/v4.6.95.0/dnGrep.4.6.95.0.x86.zip) |
+| Version   | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                              |
+| --------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 4.6.110.0 | 11/2/2026 | 79699968 | 687d3f3f4a7bd567bcbf5c1a12a5f09b6d3fc2764d33a7e38c4a55c5dfb00213 | x64          | Default       | msi  | [https://github.com/dnGrep/dnGrep/releases/download/v4.6.110.0/dnGREP.4.6.110.x64.msi](https://github.com/dnGrep/dnGrep/releases/download/v4.6.110.0/dnGREP.4.6.110.x64.msi)     |
+| 4.6.110.0 | 11/2/2026 | 73392128 | 032860b25c6519f09eae0017456226e066615c69548335ef9546e14484a42614 | x86          | Default       | msi  | [https://github.com/dnGrep/dnGrep/releases/download/v4.6.110.0/dnGREP.4.6.110.x86.msi](https://github.com/dnGrep/dnGrep/releases/download/v4.6.110.0/dnGREP.4.6.110.x86.msi)     |
+| 4.6.110.0 | 11/2/2026 | 81026370 | 9b406940c0cc5e0d9207852a3d2aebd94b884f6e6204ae0f1320356388a995aa | x64          | Default       | zip  | [https://github.com/dnGrep/dnGrep/releases/download/v4.6.110.0/dnGrep.4.6.110.0.x64.zip](https://github.com/dnGrep/dnGrep/releases/download/v4.6.110.0/dnGrep.4.6.110.0.x64.zip) |
+| 4.6.110.0 | 11/2/2026 | 74457499 | c96833a4e0379682fdfd94fa3712b344fe42ffe24a08950ca375d672b57779e5 | x86          | Default       | zip  | [https://github.com/dnGrep/dnGrep/releases/download/v4.6.110.0/dnGrep.4.6.110.0.x86.zip](https://github.com/dnGrep/dnGrep/releases/download/v4.6.110.0/dnGrep.4.6.110.0.x86.zip) |

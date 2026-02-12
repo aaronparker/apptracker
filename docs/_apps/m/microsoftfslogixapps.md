@@ -3,7 +3,7 @@ title: Microsoft FSLogix Apps
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 11/02/2026 1:48:24 PM
+last_modified_date: 12/02/2026 11:46:44 AM
 ---
 
 ## Microsoft FSLogix Apps
@@ -14,6 +14,6 @@ Evergreen app: `MicrosoftFSLogixApps`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date      | Channel    | URI                                                                                                                                                                                              |
-| ------- | --------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 26.01   | 12/1/2026 | Production | [https://download.microsoft.com/download/60d5e1c8-aacf-41c3-b215-2ca57876d064/FSLogix_26.01.zip](https://download.microsoft.com/download/60d5e1c8-aacf-41c3-b215-2ca57876d064/FSLogix_26.01.zip) |
+| Version | Date     | Channel    | URI                                                                                                                                                                                                      |
+| ------- | -------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 26.01   | 4/2/2026 | Production | [https://download.microsoft.com/download/e9eed5b4-83ff-4b93-bf87-765509e6fd85/FSLogix_26.01_CU1.zip](https://download.microsoft.com/download/e9eed5b4-83ff-4b93-bf87-765509e6fd85/FSLogix_26.01_CU1.zip) |

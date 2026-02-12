@@ -3,7 +3,7 @@ title: Signal for Windows
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: 11/02/2026 1:48:24 PM
+last_modified_date: 12/02/2026 11:46:44 AM
 ---
 
 ## Signal for Windows
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | URI                                                                                                                                  |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 7.88.0  | [https://updates.signal.org/desktop/signal-desktop-win-7.88.0.exe](https://updates.signal.org/desktop/signal-desktop-win-7.88.0.exe) |
+| 7.89.0  | [https://updates.signal.org/desktop/signal-desktop-win-7.89.0.exe](https://updates.signal.org/desktop/signal-desktop-win-7.89.0.exe) |

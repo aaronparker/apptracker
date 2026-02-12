@@ -3,7 +3,7 @@ title: Plex Media ServerDesktop
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 11/02/2026 1:48:24 PM
+last_modified_date: 12/02/2026 11:46:44 AM
 ---
 
 ## Plex Media ServerDesktop
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version                | Architecture | Checksum                                 | URI                                                                                                                                                                                                                                                                  |
 | ---------------------- | ------------ | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.42.2.10156-f737b826c | x64          | 81c93e049a6bff37ce1d5b3b6bf27f04a10bb3d4 | [https://downloads.plex.tv/plex-media-server-new/1.42.2.10156-f737b826c/windows/PlexMediaServer-1.42.2.10156-f737b826c-x86_64.exe](https://downloads.plex.tv/plex-media-server-new/1.42.2.10156-f737b826c/windows/PlexMediaServer-1.42.2.10156-f737b826c-x86_64.exe) |
-| 1.42.2.10156-f737b826c | x86          | 662ea69bf818170f4421d715efad7021b82386ff | [https://downloads.plex.tv/plex-media-server-new/1.42.2.10156-f737b826c/windows/PlexMediaServer-1.42.2.10156-f737b826c-x86.exe](https://downloads.plex.tv/plex-media-server-new/1.42.2.10156-f737b826c/windows/PlexMediaServer-1.42.2.10156-f737b826c-x86.exe)       |
+| 1.43.0.10492-121068a07 | x64          | 5aa7274b2ab6174426468663fc54757abcae8093 | [https://downloads.plex.tv/plex-media-server-new/1.43.0.10492-121068a07/windows/PlexMediaServer-1.43.0.10492-121068a07-x86_64.exe](https://downloads.plex.tv/plex-media-server-new/1.43.0.10492-121068a07/windows/PlexMediaServer-1.43.0.10492-121068a07-x86_64.exe) |
+| 1.43.0.10492-121068a07 | x86          | 5d8ae1bce974196f53fa4e1917e02e3d3ead6571 | [https://downloads.plex.tv/plex-media-server-new/1.43.0.10492-121068a07/windows/PlexMediaServer-1.43.0.10492-121068a07-x86.exe](https://downloads.plex.tv/plex-media-server-new/1.43.0.10492-121068a07/windows/PlexMediaServer-1.43.0.10492-121068a07-x86.exe)       |
