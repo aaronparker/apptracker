@@ -136,7 +136,7 @@ liquid:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-# footer_content: 'Evergreen App Tracker v2.0.1. A project by <a href="https://twitter.com/stealthpuppy">@stealthpuppy</a>. Copyright &copy; 2025 Aaron Parker.'
+# footer_content: 'Evergreen App Tracker v2.0.1. A project by <a href="https://twitter.com/stealthpuppy">@stealthpuppy</a>. Copyright &copy; 2026 Aaron Parker.'
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
