@@ -3,7 +3,7 @@ title: TeamViewer
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: 13/02/2026 11:38:48 AM
+last_modified_date: 13/02/2026 1:40:46 PM
 ---
 
 ## TeamViewer
@@ -12,10 +12,7 @@ last_modified_date: 13/02/2026 11:38:48 AM
 
 Evergreen app: `TeamViewer`. Found **1** installer.
 
-Last check: 🔴
-```
-You cannot call a method on a null-valued expression.
-```
+Last check: 🟢
 
 | Version | URI                                                                                                                |
 | ------- | ------------------------------------------------------------------------------------------------------------------ |
