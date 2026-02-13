@@ -3,7 +3,7 @@ title: Splunk ACS CLI
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: 12/02/2026 1:46:03 PM
+last_modified_date: 13/02/2026 11:38:48 AM
 ---
 
 ## Splunk ACS CLI
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Size    | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                        |
 | ------- | --------- | ------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.20.2  | 15/9/2022 | 6777169 | 7776247f1f415a30ceba30ad95f5b55322f556c6f65bdab1058338b1f118aacd | x64          | Default       | exe  | [https://github.com/splunk/acs-cli/releases/download/v2.20.2/acs_v2.20.2_windows_amd64_installer.exe](https://github.com/splunk/acs-cli/releases/download/v2.20.2/acs_v2.20.2_windows_amd64_installer.exe) |
+| 2.21.0  | 15/9/2022 | 6554015 | 46dddc99e2026693e1f7f3744a8cfc9f1aed0dc11624af423e9088176cf0d325 | x64          | Default       | exe  | [https://github.com/splunk/acs-cli/releases/download/v2.21.0/acs_v2.21.0_windows_amd64_installer.exe](https://github.com/splunk/acs-cli/releases/download/v2.21.0/acs_v2.21.0_windows_amd64_installer.exe) |

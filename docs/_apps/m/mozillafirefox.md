@@ -3,14 +3,14 @@ title: Mozilla Firefox
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 12/02/2026 1:46:03 PM
+last_modified_date: 13/02/2026 11:38:48 AM
 ---
 
 ## Mozilla Firefox
 
 [Source](https://www.mozilla.org/en-US/firefox/new/)
 
-Evergreen app: `MozillaFirefox`. Found **3127** installers.
+Evergreen app: `MozillaFirefox`. Found **3128** installers.
 
 Last check: 🟢
 
@@ -1419,6 +1419,7 @@ Last check: 🟢
 | 140.7.0  | Extended Support      | en-US    | x86          | msix | Firefox Setup 140.7.0esr.msix | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.0esr/win32/multi/Firefox%20Setup%20140.7.0esr.msix](https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.0esr/win32/multi/Firefox%20Setup%20140.7.0esr.msix)                 |
 | 140.7.0  | Extended Support      | eo       | x86          | msix | Firefox Setup 140.7.0esr.msix | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.0esr/win32/multi/Firefox%20Setup%20140.7.0esr.msix](https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.0esr/win32/multi/Firefox%20Setup%20140.7.0esr.msix)                 |
 | 140.7.0  | Extended Support      | es-AR    | x86          | msix | Firefox Setup 140.7.0esr.msix | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.0esr/win32/multi/Firefox%20Setup%20140.7.0esr.msix](https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.0esr/win32/multi/Firefox%20Setup%20140.7.0esr.msix)                 |
+| 140.7.0  | Extended Support      | es-CL    | x86          | msix | Firefox Setup 140.7.0esr.msix | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.0esr/win32/multi/Firefox%20Setup%20140.7.0esr.msix](https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.0esr/win32/multi/Firefox%20Setup%20140.7.0esr.msix)                 |
 | 140.7.0  | Extended Support      | es-ES    | x86          | msix | Firefox Setup 140.7.0esr.msix | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.0esr/win32/multi/Firefox%20Setup%20140.7.0esr.msix](https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.0esr/win32/multi/Firefox%20Setup%20140.7.0esr.msix)                 |
 | 140.7.0  | Extended Support      | es-MX    | x86          | msix | Firefox Setup 140.7.0esr.msix | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.0esr/win32/multi/Firefox%20Setup%20140.7.0esr.msix](https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.0esr/win32/multi/Firefox%20Setup%20140.7.0esr.msix)                 |
 | 140.7.0  | Extended Support      | et       | x86          | msix | Firefox Setup 140.7.0esr.msix | [https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.0esr/win32/multi/Firefox%20Setup%20140.7.0esr.msix](https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.7.0esr/win32/multi/Firefox%20Setup%20140.7.0esr.msix)                 |

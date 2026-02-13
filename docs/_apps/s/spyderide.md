@@ -3,7 +3,7 @@ title: Spyder Project Contributors Spyder IDE
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: 12/02/2026 1:46:03 PM
+last_modified_date: 13/02/2026 11:38:48 AM
 ---
 
 ## Spyder Project Contributors Spyder IDE
@@ -14,6 +14,6 @@ Evergreen app: `SpyderIDE`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                |
-| ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 6.1.2   | 17/12/2025 | 531916015 | e682b501cb26be8ddd08dcf8e1374c54ebbdf91e32557337629e43f3e5440cf6 | x64          | Default       | exe  | [https://github.com/spyder-ide/spyder/releases/download/v6.1.2/Spyder-Windows-x86_64.exe](https://github.com/spyder-ide/spyder/releases/download/v6.1.2/Spyder-Windows-x86_64.exe) |
+| Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                |
+| ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 6.1.3   | 12/2/2026 | 544202509 | ea6bebb450540869c22ccdb330a754e5e246d613036edac6deca2470ae682757 | x64          | Default       | exe  | [https://github.com/spyder-ide/spyder/releases/download/v6.1.3/Spyder-Windows-x86_64.exe](https://github.com/spyder-ide/spyder/releases/download/v6.1.3/Spyder-Windows-x86_64.exe) |

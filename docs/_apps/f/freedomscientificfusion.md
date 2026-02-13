@@ -3,7 +3,7 @@ title: Freedom Scientific Fusion
 layout: default
 nav_order: 2
 parent: F
-last_modified_date: 12/02/2026 1:46:03 PM
+last_modified_date: 13/02/2026 11:38:48 AM
 ---
 
 ## Freedom Scientific Fusion

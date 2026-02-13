@@ -3,7 +3,7 @@ title: FxSound LLC FxSound
 layout: default
 nav_order: 2
 parent: F
-last_modified_date: 12/02/2026 1:46:03 PM
+last_modified_date: 13/02/2026 11:38:48 AM
 ---
 
 ## FxSound LLC FxSound
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                  |
 | ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1.2.5.0 | 27/12/2025 | 67804432 | a9d9208da252eede64d2296a18bce92d163a7cfc612524ab512d0d652318139e | ARM64        | Default       | exe  | [https://github.com/fxsound2/fxsound-app/releases/download/latest/fxsound_setup.arm64.exe](https://github.com/fxsound2/fxsound-app/releases/download/latest/fxsound_setup.arm64.exe) |
-| 1.2.5.0 | 27/12/2025 | 72516400 | e8c4f557f0b69e19e51fa9519fe34bf2e6eecdae8b95e94a1108cbeb51973a51 | x86          | Default       | exe  | [https://github.com/fxsound2/fxsound-app/releases/download/latest/fxsound_setup.exe](https://github.com/fxsound2/fxsound-app/releases/download/latest/fxsound_setup.exe)             |
+| 1.2.6.0 | 26/12/2025 | 67786088 | afa7698db7d6d811af5f0c849541a59bf0f6d0ce07c55a09f9dd9be881f29785 | ARM64        | Default       | exe  | [https://github.com/fxsound2/fxsound-app/releases/download/latest/fxsound_setup.arm64.exe](https://github.com/fxsound2/fxsound-app/releases/download/latest/fxsound_setup.arm64.exe) |
+| 1.2.6.0 | 26/12/2025 | 72514648 | d97f1d58d36a1cc5748749b12c691c537342c0a3ccdce125e6cefefb1287e2e1 | x86          | Default       | exe  | [https://github.com/fxsound2/fxsound-app/releases/download/latest/fxsound_setup.exe](https://github.com/fxsound2/fxsound-app/releases/download/latest/fxsound_setup.exe)             |

@@ -3,7 +3,7 @@ title: 7-Zip
 layout: default
 nav_order: 2
 parent: 7
-last_modified_date: 12/02/2026 1:46:03 PM
+last_modified_date: 13/02/2026 11:38:48 AM
 ---
 
 ## 7-Zip
@@ -14,12 +14,12 @@ Evergreen app: `7zip`. Found **7** installers.
 
 Last check: 🟢
 
-| Version | Date     | Size    | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                            |
-| ------- | -------- | ------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 25.01   | 3/8/2025 | 1658315 | c14b51d97ff644c49dcfc83ab000537ba806ebc7003359d7afc362e2af83f890 | ARM64        | Default       | exe  | [https://github.com/ip7z/7zip/releases/download/25.01/7z2501-arm.exe](https://github.com/ip7z/7zip/releases/download/25.01/7z2501-arm.exe)     |
-| 25.01   | 3/8/2025 | 1588203 | 6365c7c44e217b9c1009e065daf9f9aa37454e64315b4aaa263f7f8f060755dc | ARM64        | Default       | exe  | [https://github.com/ip7z/7zip/releases/download/25.01/7z2501-arm64.exe](https://github.com/ip7z/7zip/releases/download/25.01/7z2501-arm64.exe) |
-| 25.01   | 3/8/2025 | 1643509 | 78afa2a1c773caf3cf7edf62f857d2a8a5da55fb0fff5da416074c0d28b2b55f | x64          | Default       | exe  | [https://github.com/ip7z/7zip/releases/download/25.01/7z2501-x64.exe](https://github.com/ip7z/7zip/releases/download/25.01/7z2501-x64.exe)     |
-| 25.01   | 3/8/2025 | 1354330 | b96831eec5928384f0543d6b57c1f802952a0f2668e662882c0a785a2b52fb3b | x86          | Default       | exe  | [https://github.com/ip7z/7zip/releases/download/25.01/7z2501.exe](https://github.com/ip7z/7zip/releases/download/25.01/7z2501.exe)             |
-| 25.01   | 3/8/2025 | 601088  | 27cbe3d5804ad09e90bbcaa916da0d5c3b0be9462d0e0fb6cb54be5ed9030875 | x86          | Default       | exe  | [https://github.com/ip7z/7zip/releases/download/25.01/7zr.exe](https://github.com/ip7z/7zip/releases/download/25.01/7zr.exe)                   |
-| 25.01   | 3/8/2025 | 1996800 | e7eb0b7ed5efa4e087b7b17f191797f7af5b7f442d1290c66f3a21777005ef57 | x64          | Default       | msi  | [https://github.com/ip7z/7zip/releases/download/25.01/7z2501-x64.msi](https://github.com/ip7z/7zip/releases/download/25.01/7z2501-x64.msi)     |
-| 25.01   | 3/8/2025 | 1563648 | dce9e456ace76b969fe0fe4d228bf096662c11d2376d99a9210f6364428a94c4 | x86          | Default       | msi  | [https://github.com/ip7z/7zip/releases/download/25.01/7z2501.msi](https://github.com/ip7z/7zip/releases/download/25.01/7z2501.msi)             |
+| Version | Date      | Size    | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                            |
+| ------- | --------- | ------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 26.00   | 12/2/2026 | 1659567 | 50f0a6887cd63bcd95f62d648d58e878ae583c6497d02f20a7078c1e061f229d | ARM64        | Default       | exe  | [https://github.com/ip7z/7zip/releases/download/26.00/7z2600-arm.exe](https://github.com/ip7z/7zip/releases/download/26.00/7z2600-arm.exe)     |
+| 26.00   | 12/2/2026 | 1588342 | 92fac666911336f3bbf3d99fdc48ec36fe20ac7a4200556936e61a8076ae6493 | ARM64        | Default       | exe  | [https://github.com/ip7z/7zip/releases/download/26.00/7z2600-arm64.exe](https://github.com/ip7z/7zip/releases/download/26.00/7z2600-arm64.exe) |
+| 26.00   | 12/2/2026 | 1655627 | 6fe18d5b3080e39678cabfa6cef12cfb25086377389b803a36a3c43236a8a82c | x64          | Default       | exe  | [https://github.com/ip7z/7zip/releases/download/26.00/7z2600-x64.exe](https://github.com/ip7z/7zip/releases/download/26.00/7z2600-x64.exe)     |
+| 26.00   | 12/2/2026 | 1355804 | d605eb609aa67796dca7cfe26d7e28792090bb8048302d6e05ede16e8e33145c | x86          | Default       | exe  | [https://github.com/ip7z/7zip/releases/download/26.00/7z2600.exe](https://github.com/ip7z/7zip/releases/download/26.00/7z2600.exe)             |
+| 26.00   | 12/2/2026 | 601088  | 4bec0bc59836a890a11568b58bd12a3e7b23a683557340562da211b6088058ba | x86          | Default       | exe  | [https://github.com/ip7z/7zip/releases/download/26.00/7zr.exe](https://github.com/ip7z/7zip/releases/download/26.00/7zr.exe)                   |
+| 26.00   | 12/2/2026 | 1999872 | c388d0444871ca11b21237001af158cfddad7e137851795e5b65cee69b518495 | x64          | Default       | msi  | [https://github.com/ip7z/7zip/releases/download/26.00/7z2600-x64.msi](https://github.com/ip7z/7zip/releases/download/26.00/7z2600-x64.msi)     |
+| 26.00   | 12/2/2026 | 1566720 | 53b4f99a2471678020a326fd1d5c888616f5d6c84b00d5db7da30357755c74c3 | x86          | Default       | msi  | [https://github.com/ip7z/7zip/releases/download/26.00/7z2600.msi](https://github.com/ip7z/7zip/releases/download/26.00/7z2600.msi)             |

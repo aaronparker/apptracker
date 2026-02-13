@@ -3,7 +3,7 @@ title: Podman
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 12/02/2026 1:46:03 PM
+last_modified_date: 13/02/2026 11:38:48 AM
 ---
 
 ## Podman
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                  |
 | ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 5.7.1   | 9/12/2025 | 25332264 | ad919e28a23e8bc8eb43c09dcc8f1b6da3840189257430ff5a429b3859779de6 | ARM64        | Default       | exe  | [https://github.com/containers/podman/releases/download/v5.7.1/podman-installer-windows-arm64.exe](https://github.com/containers/podman/releases/download/v5.7.1/podman-installer-windows-arm64.exe) |
-| 5.7.1   | 9/12/2025 | 27247032 | 2663b94183d36d21a3958e03580bc2dd174ffaa9ae6dc567d40429b7a5da17cc | x64          | Default       | exe  | [https://github.com/containers/podman/releases/download/v5.7.1/podman-installer-windows-amd64.exe](https://github.com/containers/podman/releases/download/v5.7.1/podman-installer-windows-amd64.exe) |
-| 5.7.1   | 9/12/2025 | 27247032 | 2663b94183d36d21a3958e03580bc2dd174ffaa9ae6dc567d40429b7a5da17cc | x86          | Default       | exe  | [https://github.com/containers/podman/releases/download/v5.7.1/podman-5.7.1-setup.exe](https://github.com/containers/podman/releases/download/v5.7.1/podman-5.7.1-setup.exe)                         |
+| 5.8.0   | 12/2/2026 | 26020152 | af673a39dc9f7cc3a7e9dd589f113b237fba33a6243a472ebd5569112ce761c3 | ARM64        | Default       | exe  | [https://github.com/containers/podman/releases/download/v5.8.0/podman-installer-windows-arm64.exe](https://github.com/containers/podman/releases/download/v5.8.0/podman-installer-windows-arm64.exe) |
+| 5.8.0   | 12/2/2026 | 28082760 | 5dbe4cdc7669a995ea546fcbf6a10f9bcaab7888d5fef0b1b39f91085f753cb9 | x64          | Default       | exe  | [https://github.com/containers/podman/releases/download/v5.8.0/podman-installer-windows-amd64.exe](https://github.com/containers/podman/releases/download/v5.8.0/podman-installer-windows-amd64.exe) |
+| 5.8.0   | 12/2/2026 | 28082760 | 5dbe4cdc7669a995ea546fcbf6a10f9bcaab7888d5fef0b1b39f91085f753cb9 | x86          | Default       | exe  | [https://github.com/containers/podman/releases/download/v5.8.0/podman-5.8.0-setup.exe](https://github.com/containers/podman/releases/download/v5.8.0/podman-5.8.0-setup.exe)                         |
