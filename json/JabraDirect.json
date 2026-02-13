@@ -1,9 +1,9 @@
 [
   {
-    "Version": "6.26.32801",
+    "Version": "6.27.03702",
     "Architecture": "x64",
     "Type": "exe",
-    "Sha256": "675912AACC8C90877619CACE8B1CCE30E2000ADC3BF123E7A06E015C7D1F8F84",
+    "Sha256": "DE4F270C85AFC0F873D20A76AEE036F2CF3FA1596FD73643D61E3023F7FA4C84",
     "URI": "https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.exe"
   }
 ]
