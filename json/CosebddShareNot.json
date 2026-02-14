@@ -1,12 +1,12 @@
 [
   {
-    "Version": "19.0.2",
-    "Date": "28/1/2026",
-    "Size": 60786691,
-    "Sha256": "aba7e90c1cf954b140e55f7bdd351d8a843bda407bc3d754d3d8259d71a4c3be",
+    "Version": "19.0.2.1",
+    "Date": "13/2/2026",
+    "Size": 109902110,
+    "Sha256": "07a9c30b29f086ba401395c308282a238482a48bdf7878795b3e64937bfeb98b",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Cosebdd/ShareNot/releases/download/v19.0.2/ShareNot-19.0.2-setup.exe"
+    "URI": "https://github.com/Cosebdd/ShareNot/releases/download/v19.0.2.1/ShareNot-19.0.2.1-setup.exe"
   }
 ]

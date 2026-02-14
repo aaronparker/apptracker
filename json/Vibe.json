@@ -2,8 +2,8 @@
   {
     "Version": "3.0.12",
     "Date": "12/2/2026",
-    "Size": 46615344,
-    "Sha256": "7007c7244b6c52a246fd7c37156753bd2cdc902fe96ca46bac27cd993d82b7a6",
+    "Size": 46615304,
+    "Sha256": "807cf68277067a3376b74ccc79f97d0d190769d953b5d00c0abf76ee17ca1f00",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
