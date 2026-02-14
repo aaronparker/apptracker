@@ -3,7 +3,7 @@ title: GDevelop Team GDevelop
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 13/02/2026 1:40:46 PM
+last_modified_date: 14/02/2026 11:36:02 AM
 ---
 
 ## GDevelop Team GDevelop
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                  |
 | ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 5.6.256 | 12/2/2026 | 149217792 | 82d5255a535febf72596d17bd755df9fc7a6d68bf0b98f188d97f2baf19defd9 | x86          | Default       | exe  | [https://github.com/4ian/GDevelop/releases/download/v5.6.256/GDevelop-5-Setup-5.6.256.exe](https://github.com/4ian/GDevelop/releases/download/v5.6.256/GDevelop-5-Setup-5.6.256.exe) |
+| 5.6.257 | 13/2/2026 | 149318592 | 692d02df14292fe9e47dbb994bedd13fa05792fa2ed8d3965c2ab728991866ed | x86          | Default       | exe  | [https://github.com/4ian/GDevelop/releases/download/v5.6.257/GDevelop-5-Setup-5.6.257.exe](https://github.com/4ian/GDevelop/releases/download/v5.6.257/GDevelop-5-Setup-5.6.257.exe) |

@@ -3,7 +3,7 @@ title: Python
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 13/02/2026 1:40:46 PM
+last_modified_date: 14/02/2026 11:36:02 AM
 ---
 
 ## Python
@@ -12,7 +12,10 @@ last_modified_date: 13/02/2026 1:40:46 PM
 
 Evergreen app: `Python`. Found **6** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 429 (Unknown Error).
+```
 
 | Version | Release | Python | Date      | Md5                              | Size     | Architecture | Type | URI                                                                                                                                        |
 | ------- | ------- | ------ | --------- | -------------------------------- | -------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------ |
