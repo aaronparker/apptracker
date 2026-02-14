@@ -3,7 +3,7 @@ title: Spyder Project Contributors Spyder IDE
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: 14/02/2026 11:36:02 AM
+last_modified_date: 14/02/2026 1:31:57 PM
 ---
 
 ## Spyder Project Contributors Spyder IDE
