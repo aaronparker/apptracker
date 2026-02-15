@@ -3,7 +3,7 @@ title: PSF Python
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 15/02/2026 11:37:57 AM
+last_modified_date: 15/02/2026 1:32:40 PM
 ---
 
 ## PSF Python
@@ -12,10 +12,7 @@ last_modified_date: 15/02/2026 11:37:57 AM
 
 Evergreen app: `PSFPython`. Found **6** installers.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 429 (Unknown Error).
-```
+Last check: 🟢
 
 | Version | Python | md5                              | Size     | Date      | Type | Architecture | URI                                                                                                                                        |
 | ------- | ------ | -------------------------------- | -------- | --------- | ---- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
