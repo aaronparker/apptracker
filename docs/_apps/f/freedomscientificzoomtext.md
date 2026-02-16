@@ -3,7 +3,7 @@ title: Freedom Scientific ZoomText
 layout: default
 nav_order: 2
 parent: F
-last_modified_date: 15/02/2026 1:32:40 PM
+last_modified_date: 16/02/2026 11:50:12 AM
 ---
 
 ## Freedom Scientific ZoomText
