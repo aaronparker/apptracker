@@ -1,12 +1,12 @@
 [
   {
-    "Version": "1.17.1",
+    "Version": "1.18.0",
     "Date": "25/1/2023",
-    "Size": 186820464,
-    "Sha256": "87ca3d3237e3a86b083335cf3400408cb29f9e910c5750e925714ac880252d60",
+    "Size": 179444552,
+    "Sha256": "34fee272b3cbf39d5b3acaba9fe264a96f958d6cef582be706ffe98301a15e68",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/responsively-org/responsively-app-releases/releases/download/v1.17.1/ResponsivelyApp-Setup-1.17.1.exe"
+    "URI": "https://github.com/responsively-org/responsively-app-releases/releases/download/v1.18.0/ResponsivelyApp-Setup-1.18.0.exe"
   }
 ]
