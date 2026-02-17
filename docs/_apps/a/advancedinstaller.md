@@ -3,7 +3,7 @@ title: Advanced Installer
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 16/02/2026 1:42:50 PM
+last_modified_date: 17/02/2026 11:43:55 AM
 ---
 
 ## Advanced Installer
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Size      | Sha256                                                           | Type | URI                                                                                                                          |
 | ------- | --------- | ---------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 23.4    | 316724224 | 83C84A16C1977D11876EF2B59165A93D619362B1A5D9F0336286F1FD3CDAA6CB | msi  | [https://www.advancedinstaller.com/downloads/23.4/advinst.msi](https://www.advancedinstaller.com/downloads/23.4/advinst.msi) |
+| 23.4    | 316724224 | 83C84A16C1977D11876EF2B59165A93D619362B1A5D9F0336286F1FD3CDAA6CB | msi  | [https://cdn.advancedinstaller.com/downloads/23.4/advinst.msi](https://cdn.advancedinstaller.com/downloads/23.4/advinst.msi) |

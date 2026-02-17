@@ -3,7 +3,7 @@ title: Octopus Deploy Server
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 16/02/2026 1:42:50 PM
+last_modified_date: 17/02/2026 11:43:55 AM
 ---
 
 ## Octopus Deploy Server
@@ -14,6 +14,6 @@ Evergreen app: `OctopusDeployServer`. Found **1** installer.
 
 Last check: 🟢
 
-| Version      | Date     | URI                                                                                                                                                |
-| ------------ | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2025.4.10395 | 4/2/2026 | [https://download.octopusdeploy.com/octopus/Octopus.2025.4.10395-x64.msi](https://download.octopusdeploy.com/octopus/Octopus.2025.4.10395-x64.msi) |
+| Version      | Date      | URI                                                                                                                                                |
+| ------------ | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2025.4.10425 | 17/2/2026 | [https://download.octopusdeploy.com/octopus/Octopus.2025.4.10425-x64.msi](https://download.octopusdeploy.com/octopus/Octopus.2025.4.10425-x64.msi) |

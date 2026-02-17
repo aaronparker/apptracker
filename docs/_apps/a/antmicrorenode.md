@@ -3,7 +3,7 @@ title: Antmicro Renode
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 16/02/2026 1:42:50 PM
+last_modified_date: 17/02/2026 11:43:55 AM
 ---
 
 ## Antmicro Renode
@@ -14,6 +14,6 @@ Evergreen app: `AntmicroRenode`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date     | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                          |
-| ------- | -------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1.16.0  | 2/8/2025 | 28602780 | cb72ddc91b74831a74fea758449d60bea670a20750e01079e535c7857e0f4c9b | x86          | Default       | msi  | [https://github.com/renode/renode/releases/download/v1.16.0/renode_1.16.0.msi](https://github.com/renode/renode/releases/download/v1.16.0/renode_1.16.0.msi) |
+| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                      |
+| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1.16.1  | 16/2/2026 | 81328949 | 40fef8edd5a4f2b01c545bc24578a26835110f833d45f9f48c34347f39ebb390 | x86          | Default       | exe  | [https://github.com/renode/renode/releases/download/v1.16.1/renode-1.16.1.setup.exe](https://github.com/renode/renode/releases/download/v1.16.1/renode-1.16.1.setup.exe) |

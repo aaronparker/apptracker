@@ -3,7 +3,7 @@ title: Bruno Software Bruno
 layout: default
 nav_order: 2
 parent: B
-last_modified_date: 16/02/2026 1:42:50 PM
+last_modified_date: 17/02/2026 11:43:55 AM
 ---
 
 ## Bruno Software Bruno
@@ -14,9 +14,9 @@ Evergreen app: `BrunoSoftwareBruno`. Found **4** installers.
 
 Last check: 🟢
 
-| Version | Date     | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                          |
-| ------- | -------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.0.2   | 7/1/2026 | 117464704 | 695286e25d208e7b1a9c7fbb1e4ba693eae409b7a36f988df6402b751712c3e4 | ARM64        | Default       | exe  | [https://github.com/usebruno/bruno/releases/download/v3.0.2/bruno_3.0.2_arm64_win.exe](https://github.com/usebruno/bruno/releases/download/v3.0.2/bruno_3.0.2_arm64_win.exe) |
-| 3.0.2   | 7/1/2026 | 115655680 | 9520156b5d187b8ba896ec9b4a5153cc912be26f18efce898518a852899af246 | x64          | Default       | exe  | [https://github.com/usebruno/bruno/releases/download/v3.0.2/bruno_3.0.2_x64_win.exe](https://github.com/usebruno/bruno/releases/download/v3.0.2/bruno_3.0.2_x64_win.exe)     |
-| 3.0.2   | 7/1/2026 | 124006400 | 224c80c2ef2990e0162924333965c898578fb472e7670312e5099c050c8ff6a8 | ARM64        | Default       | msi  | [https://github.com/usebruno/bruno/releases/download/v3.0.2/bruno_3.0.2_arm64_win.msi](https://github.com/usebruno/bruno/releases/download/v3.0.2/bruno_3.0.2_arm64_win.msi) |
-| 3.0.2   | 7/1/2026 | 127762432 | 6fe2265aec496f93cc53ec6bcf3750da9d790b5daa809b2814e94fc90ca647cb | x64          | Default       | msi  | [https://github.com/usebruno/bruno/releases/download/v3.0.2/bruno_3.0.2_x64_win.msi](https://github.com/usebruno/bruno/releases/download/v3.0.2/bruno_3.0.2_x64_win.msi)     |
+| Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                          |
+| ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3.1.0   | 13/2/2026 | 116692264 | e63f6830bb4c8729137cffd7548a839013a5eb71d609340c6bdf17e2b8682807 | ARM64        | Default       | exe  | [https://github.com/usebruno/bruno/releases/download/v3.1.0/bruno_3.1.0_arm64_win.exe](https://github.com/usebruno/bruno/releases/download/v3.1.0/bruno_3.1.0_arm64_win.exe) |
+| 3.1.0   | 13/2/2026 | 114904128 | 5c67bca7187edb9ddc25d4b16872f9a3b3da13cf2f3b6051d68aba0b49422e0b | x64          | Default       | exe  | [https://github.com/usebruno/bruno/releases/download/v3.1.0/bruno_3.1.0_x64_win.exe](https://github.com/usebruno/bruno/releases/download/v3.1.0/bruno_3.1.0_x64_win.exe)     |
+| 3.1.0   | 13/2/2026 | 123465728 | 9aa1164b969b41a8230bbfba8f42f9a0cd0ba31777adcb3c6578562b80448346 | ARM64        | Default       | msi  | [https://github.com/usebruno/bruno/releases/download/v3.1.0/bruno_3.1.0_arm64_win.msi](https://github.com/usebruno/bruno/releases/download/v3.1.0/bruno_3.1.0_arm64_win.msi) |
+| 3.1.0   | 13/2/2026 | 127275008 | 4a1a78006b6c5905fdfaf5f5482f9cc54107072e9189df2b2833def9fa576b6b | x64          | Default       | msi  | [https://github.com/usebruno/bruno/releases/download/v3.1.0/bruno_3.1.0_x64_win.msi](https://github.com/usebruno/bruno/releases/download/v3.1.0/bruno_3.1.0_x64_win.msi)     |
