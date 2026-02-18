@@ -3,7 +3,7 @@ title: Bruno Software Bruno
 layout: default
 nav_order: 2
 parent: B
-last_modified_date: 17/02/2026 1:42:24 PM
+last_modified_date: 18/02/2026 11:42:11 AM
 ---
 
 ## Bruno Software Bruno
@@ -16,7 +16,7 @@ Last check: 🟢
 
 | Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                          |
 | ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.1.0   | 13/2/2026 | 116692264 | e63f6830bb4c8729137cffd7548a839013a5eb71d609340c6bdf17e2b8682807 | ARM64        | Default       | exe  | [https://github.com/usebruno/bruno/releases/download/v3.1.0/bruno_3.1.0_arm64_win.exe](https://github.com/usebruno/bruno/releases/download/v3.1.0/bruno_3.1.0_arm64_win.exe) |
-| 3.1.0   | 13/2/2026 | 114904128 | 5c67bca7187edb9ddc25d4b16872f9a3b3da13cf2f3b6051d68aba0b49422e0b | x64          | Default       | exe  | [https://github.com/usebruno/bruno/releases/download/v3.1.0/bruno_3.1.0_x64_win.exe](https://github.com/usebruno/bruno/releases/download/v3.1.0/bruno_3.1.0_x64_win.exe)     |
-| 3.1.0   | 13/2/2026 | 123465728 | 9aa1164b969b41a8230bbfba8f42f9a0cd0ba31777adcb3c6578562b80448346 | ARM64        | Default       | msi  | [https://github.com/usebruno/bruno/releases/download/v3.1.0/bruno_3.1.0_arm64_win.msi](https://github.com/usebruno/bruno/releases/download/v3.1.0/bruno_3.1.0_arm64_win.msi) |
-| 3.1.0   | 13/2/2026 | 127275008 | 4a1a78006b6c5905fdfaf5f5482f9cc54107072e9189df2b2833def9fa576b6b | x64          | Default       | msi  | [https://github.com/usebruno/bruno/releases/download/v3.1.0/bruno_3.1.0_x64_win.msi](https://github.com/usebruno/bruno/releases/download/v3.1.0/bruno_3.1.0_x64_win.msi)     |
+| 3.1.1   | 17/2/2026 | 116688976 | 9b25603fcd2a396885d9d2ba60d4a96518a36b9bc2ed8454e96bb4444d2ebf28 | ARM64        | Default       | exe  | [https://github.com/usebruno/bruno/releases/download/v3.1.1/bruno_3.1.1_arm64_win.exe](https://github.com/usebruno/bruno/releases/download/v3.1.1/bruno_3.1.1_arm64_win.exe) |
+| 3.1.1   | 17/2/2026 | 114909600 | 26186247b493a6531b5d45ec575ba5a1a2cd3e677bc9ec3b391fd37b79abf252 | x64          | Default       | exe  | [https://github.com/usebruno/bruno/releases/download/v3.1.1/bruno_3.1.1_x64_win.exe](https://github.com/usebruno/bruno/releases/download/v3.1.1/bruno_3.1.1_x64_win.exe)     |
+| 3.1.1   | 17/2/2026 | 123486208 | b76dde758094730b36e2c979d89556023dabb3773a907b441fa58369fc6b8c41 | ARM64        | Default       | msi  | [https://github.com/usebruno/bruno/releases/download/v3.1.1/bruno_3.1.1_arm64_win.msi](https://github.com/usebruno/bruno/releases/download/v3.1.1/bruno_3.1.1_arm64_win.msi) |
+| 3.1.1   | 17/2/2026 | 127287296 | 17f1f350fa2165b2ce9f9a399344b9afe74157f7ffcc0e30d82af4f69515e11b | x64          | Default       | msi  | [https://github.com/usebruno/bruno/releases/download/v3.1.1/bruno_3.1.1_x64_win.msi](https://github.com/usebruno/bruno/releases/download/v3.1.1/bruno_3.1.1_x64_win.msi)     |

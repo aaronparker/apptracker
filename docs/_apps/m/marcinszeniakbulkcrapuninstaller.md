@@ -3,7 +3,7 @@ title: Marcin Szeniak Bulk Crap Uninstaller
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 17/02/2026 1:42:24 PM
+last_modified_date: 18/02/2026 11:42:11 AM
 ---
 
 ## Marcin Szeniak Bulk Crap Uninstaller

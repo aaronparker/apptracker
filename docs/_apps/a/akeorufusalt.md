@@ -3,7 +3,7 @@ title: Akeo Rufus (alternate method)
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 17/02/2026 1:42:24 PM
+last_modified_date: 18/02/2026 11:42:11 AM
 ---
 
 ## Akeo Rufus (alternate method)
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version   | Type | Architecture | URI                                                                                                                                                            |
 | --------- | ---- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.12.2314 | exe  | ARM64        | [https://github.com/pbatard/rufus/releases/download/v4.12/rufus-4.12_arm64.exe](https://github.com/pbatard/rufus/releases/download/v4.12/rufus-4.12_arm64.exe) |
-| 4.12.2314 | exe  | x64          | [https://github.com/pbatard/rufus/releases/download/v4.12/rufus-4.12_x86.exe](https://github.com/pbatard/rufus/releases/download/v4.12/rufus-4.12_x86.exe)     |
-| 4.12.2314 | exe  | x86          | [https://github.com/pbatard/rufus/releases/download/v4.12/rufus-4.12_arm64.exe](https://github.com/pbatard/rufus/releases/download/v4.12/rufus-4.12_arm64.exe) |
+| 4.13.2316 | exe  | ARM64        | [https://github.com/pbatard/rufus/releases/download/v4.13/rufus-4.13_arm64.exe](https://github.com/pbatard/rufus/releases/download/v4.13/rufus-4.13_arm64.exe) |
+| 4.13.2316 | exe  | x64          | [https://github.com/pbatard/rufus/releases/download/v4.13/rufus-4.13_x86.exe](https://github.com/pbatard/rufus/releases/download/v4.13/rufus-4.13_x86.exe)     |
+| 4.13.2316 | exe  | x86          | [https://github.com/pbatard/rufus/releases/download/v4.13/rufus-4.13_arm64.exe](https://github.com/pbatard/rufus/releases/download/v4.13/rufus-4.13_arm64.exe) |
