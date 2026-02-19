@@ -3,7 +3,7 @@ title: MSIX Hero
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 18/02/2026 1:43:48 PM
+last_modified_date: 19/02/2026 11:43:02 AM
 ---
 
 ## MSIX Hero
@@ -12,7 +12,10 @@ last_modified_date: 18/02/2026 1:43:48 PM
 
 Evergreen app: `MSIXHero`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Cannot validate argument on parameter 'DateTime'. The argument is null or empty. Provide an argument that is not null or empty, and then try the command again.
+```
 
 | Version | Date                | URI                                                                                        |
 | ------- | ------------------- | ------------------------------------------------------------------------------------------ |

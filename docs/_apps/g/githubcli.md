@@ -3,7 +3,7 @@ title: GitHub CLI
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 18/02/2026 1:43:48 PM
+last_modified_date: 19/02/2026 11:43:02 AM
 ---
 
 ## GitHub CLI
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                  |
 | ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.86.0  | 21/1/2026 | 12664832 | afcb03aa71931f9429f182d8f1bc94e43165b53e88e047d10af311c4bcd78914 | ARM64        | Default       | msi  | [https://github.com/cli/cli/releases/download/v2.86.0/gh_2.86.0_windows_arm64.msi](https://github.com/cli/cli/releases/download/v2.86.0/gh_2.86.0_windows_arm64.msi) |
-| 2.86.0  | 21/1/2026 | 14082048 | 9816f1ae2d0206bf8d37f3488daa0bae7985101225db9aec959ad8e41144820f | x64          | Default       | msi  | [https://github.com/cli/cli/releases/download/v2.86.0/gh_2.86.0_windows_amd64.msi](https://github.com/cli/cli/releases/download/v2.86.0/gh_2.86.0_windows_amd64.msi) |
-| 2.86.0  | 21/1/2026 | 13463552 | 7256b2cf88a841b02be25ce06686362b3d7fed4a14e1f5d07c0e297a010a1a81 | x86          | Default       | msi  | [https://github.com/cli/cli/releases/download/v2.86.0/gh_2.86.0_windows_386.msi](https://github.com/cli/cli/releases/download/v2.86.0/gh_2.86.0_windows_386.msi)     |
+| 2.87.0  | 18/2/2026 | 12763136 | 9bdaa536d337bc6e1d520e85fef6f9a938de0a1c00f3f7d837f0edf8b24c844a | ARM64        | Default       | msi  | [https://github.com/cli/cli/releases/download/v2.87.0/gh_2.87.0_windows_arm64.msi](https://github.com/cli/cli/releases/download/v2.87.0/gh_2.87.0_windows_arm64.msi) |
+| 2.87.0  | 18/2/2026 | 14180352 | dbd2e799515e70af0dc14e1b176c3919a77d06f9cc9ecfabd6be87f7a09e0ccf | x64          | Default       | msi  | [https://github.com/cli/cli/releases/download/v2.87.0/gh_2.87.0_windows_amd64.msi](https://github.com/cli/cli/releases/download/v2.87.0/gh_2.87.0_windows_amd64.msi) |
+| 2.87.0  | 18/2/2026 | 13557760 | 1d1e3c016a3f470e36bc2f955a0ece103d8b6e27f2e997c728dc334dc3431a56 | x86          | Default       | msi  | [https://github.com/cli/cli/releases/download/v2.87.0/gh_2.87.0_windows_386.msi](https://github.com/cli/cli/releases/download/v2.87.0/gh_2.87.0_windows_386.msi)     |
