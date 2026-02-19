@@ -3,7 +3,7 @@ title: Kubernetes Kubectl
 layout: default
 nav_order: 2
 parent: K
-last_modified_date: 19/02/2026 11:43:02 AM
+last_modified_date: 19/02/2026 1:44:40 PM
 ---
 
 ## Kubernetes Kubectl
@@ -12,10 +12,7 @@ last_modified_date: 19/02/2026 11:43:02 AM
 
 Evergreen app: `KubernetesKubectl`. Found **3** installers.
 
-Last check: 🔴
-```
-No such host is known. (cdn.dl.k8s.io:443)
-```
+Last check: 🟢
 
 | Version | Architecture | Platform | URI                                                                                                                                |
 | ------- | ------------ | -------- | ---------------------------------------------------------------------------------------------------------------------------------- |
