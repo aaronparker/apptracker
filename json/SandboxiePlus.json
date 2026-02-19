@@ -1,32 +1,32 @@
 [
   {
-    "Version": "1.17.1",
-    "Date": "16/2/2026",
-    "Size": 21906680,
-    "Sha256": "63a15373b233caa04d9796c3a40447f9898bf69e8e0226d041995a57f6396721",
+    "Version": "1.17.2",
+    "Date": "18/2/2026",
+    "Size": 21913656,
+    "Sha256": "bde888614c737f2c6274ee53200ad1bd4834a796318bceb19a3f147f5e4b888d",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.17.1/Sandboxie-Plus-ARM64-v1.17.1.exe"
+    "URI": "https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.17.2/Sandboxie-Plus-ARM64-v1.17.2.exe"
   },
   {
-    "Version": "1.17.1",
-    "Date": "16/2/2026",
-    "Size": 3102560,
-    "Sha256": "f18b2ef7e60fc640c962ab17d226fa31edc8df1492ab6515adbeb7cf1708fdc9",
+    "Version": "1.17.2",
+    "Date": "18/2/2026",
+    "Size": 3103192,
+    "Sha256": "0ef862686f61b84572397188da4f6755093f30c51155e3925f8ef1e6abc07ae1",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.17.1/Sandboxie-Classic-x64-v5.72.1.exe"
+    "URI": "https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.17.2/Sandboxie-Classic-x64-v5.72.2.exe"
   },
   {
-    "Version": "1.17.1",
-    "Date": "16/2/2026",
-    "Size": 24316936,
-    "Sha256": "62fd54e5f124a706d0a0339b9848110f368cff0309ed8fb484529120af220a14",
+    "Version": "1.17.2",
+    "Date": "18/2/2026",
+    "Size": 24320720,
+    "Sha256": "b7ab56c83f9f56f712d4e9ca57f5ac5a93ab11147805d0ab11f11b97d835908d",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.17.1/Sandboxie-Plus-x64-v1.17.1.exe"
+    "URI": "https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.17.2/Sandboxie-Plus-x64-v1.17.2.exe"
   }
 ]
