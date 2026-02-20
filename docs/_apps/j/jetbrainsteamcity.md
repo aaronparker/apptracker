@@ -3,7 +3,7 @@ title: JetBrains TeamCity
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 19/02/2026 1:44:40 PM
+last_modified_date: 20/02/2026 11:38:51 AM
 ---
 
 ## JetBrains TeamCity
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version   | Build  | Edition  | Sha256                                                                | Date      | Size       | Type | URI                                                                                                                              |
 | --------- | ------ | -------- | --------------------------------------------------------------------- | --------- | ---------- | ---- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 2025.11.2 | 208045 | TeamCity | https://download.jetbrains.com/teamcity/TeamCity-2025.11.2.exe.sha256 | 19/1/2026 | 1483355496 | exe  | [https://download.jetbrains.com/teamcity/TeamCity-2025.11.2.exe](https://download.jetbrains.com/teamcity/TeamCity-2025.11.2.exe) |
+| 2025.11.3 | 208117 | TeamCity | https://download.jetbrains.com/teamcity/TeamCity-2025.11.3.exe.sha256 | 19/2/2026 | 1480968768 | exe  | [https://download.jetbrains.com/teamcity/TeamCity-2025.11.3.exe](https://download.jetbrains.com/teamcity/TeamCity-2025.11.3.exe) |
