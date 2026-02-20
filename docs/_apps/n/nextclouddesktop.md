@@ -3,7 +3,7 @@ title: Nextcloud Desktop
 layout: default
 nav_order: 2
 parent: N
-last_modified_date: 20/02/2026 11:38:51 AM
+last_modified_date: 20/02/2026 1:39:24 PM
 ---
 
 ## Nextcloud Desktop
