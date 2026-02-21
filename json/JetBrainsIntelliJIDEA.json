@@ -1,13 +1,13 @@
 [
   {
-    "Version": "2025.3.2",
-    "Build": "253.30387.90",
+    "Version": "2025.3.3",
+    "Build": "253.31033.145",
     "Edition": "IntelliJ IDEA Ultimate",
-    "Sha256": "https://download.jetbrains.com/idea/idea-2025.3.2.exe.sha256",
-    "Date": "22/1/2026",
-    "Size": 1108513952,
+    "Sha256": "https://download.jetbrains.com/idea/idea-2025.3.3.exe.sha256",
+    "Date": "20/2/2026",
+    "Size": 1110449664,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/idea/idea-2025.3.2.exe"
+    "URI": "https://download.jetbrains.com/idea/idea-2025.3.3.exe"
   },
   {
     "Version": "2025.2.6.1",

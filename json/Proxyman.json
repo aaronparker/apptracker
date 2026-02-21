@@ -1,10 +1,10 @@
 [
   {
-    "Version": "3.8.0",
-    "Date": "9/2/2026",
-    "Size": 114620360,
+    "Version": "3.9.0",
+    "Date": "21/2/2026",
+    "Size": 114624136,
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://assets.proxyman.com/windows/3.8.0/build/Proxyman%20Setup%203.8.0.exe"
+    "URI": "https://assets.proxyman.com/windows/3.9.0/build/Proxyman%20Setup%203.9.0.exe"
   }
 ]
