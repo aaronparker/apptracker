@@ -23,8 +23,8 @@ jobs:
             git config --global core.safecrlf false
             git pull origin main
 
-        - name: Query changed JSON files via GitHub API
-          id: changed-files
+        - name: List files
+          id: files
           shell: pwsh
           run: |
-            Get-ChildItem -Path "${{ github.workspace }}/json" -Filter "*.json" -File | Select-Object -ExpandProperty Name, CreationTime, LastWriteTime, LastAccessTime
+            Get-ChildItem -Path "${{ github.workspace }}/json" -Filter "*.json" -File | Select-Object -Property Name, CreationTime, LastWriteTime, LastAccessTime
