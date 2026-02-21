@@ -11,10 +11,7 @@ param(
     [System.String] $OutputPath = "./docs/_apps",
 
     [ValidateNotNullOrEmpty()]
-    [System.String] $IndexFile = "./docs/index.md",
-
-    [ValidateNotNullOrEmpty()]
-    [System.String[]] $ChangedFiles
+    [System.String] $IndexFile = "./docs/index.md"
 )
 
 $DefaultLayout = @"
@@ -70,9 +67,7 @@ if ($GitHubToken) {
     $GitHubHeaders.Authorization = "Bearer $GitHubToken"
 }
 
-$RemoteCommitDateLookup = @{}
-
-function Get-RemoteFileLastCommitDate {
+function Get-RemoteJsonFiles {
     param(
         [Parameter(Mandatory = $true)]
         [System.String] $Owner,
@@ -81,55 +76,125 @@ function Get-RemoteFileLastCommitDate {
         [System.String] $Repo,
 
         [Parameter(Mandatory = $true)]
-        [System.String] $Path,
+        [System.String[]] $LocalJsonPaths,
 
         [Parameter(Mandatory = $true)]
         [hashtable] $Headers
     )
 
-    if ($RemoteCommitDateLookup.ContainsKey($Path)) {
-        return $RemoteCommitDateLookup[$Path]
+    if (-not $Headers.ContainsKey("Authorization")) {
+        Write-Host "No GitHub token found. Unable to query remote json file commit dates in a single request." -ForegroundColor "Yellow"
+        return @()
     }
 
     try {
-        $CommitsApi = "https://api.github.com/repos/$Owner/$Repo/commits?path=$([System.Uri]::EscapeDataString($Path))&per_page=1"
-        $CommitResponse = Invoke-RestMethod -Uri $CommitsApi -Headers $Headers -Method "Get" -ErrorAction "Stop"
-        if ($CommitResponse -and $CommitResponse.Count -gt 0) {
-            $CommitDate = ([DateTime]$CommitResponse[0].commit.committer.date).ToLocalTime()
-            $RemoteCommitDateLookup[$Path] = $CommitDate
-            return $CommitDate
+        $AliasLookup = @{}
+        $AliasByPath = @{}
+        $HistoryQueries = New-Object System.Collections.Generic.List[string]
+        for ($Index = 0; $Index -lt $LocalJsonPaths.Count; $Index++) {
+            $Alias = "f$Index"
+            $Path = $LocalJsonPaths[$Index].Replace("\", "/")
+            $EscapedPath = $Path.Replace('"', '\"')
+            $AliasLookup[$Alias] = $Path
+            $AliasByPath[$Path] = $Alias
+            $HistoryQueries.Add(('{0}: history(first: 1, path: "{1}") {{ nodes {{ committedDate }} }}' -f $Alias, $EscapedPath))
+        }
+
+        $Query = @"
+query {
+    repository(owner: "$Owner", name: "$Repo") {
+        jsonTree: object(expression: "HEAD:json") {
+            ... on Tree {
+                entries {
+                    name
+                    type
+                }
+            }
+        }
+        defaultBranchRef {
+            target {
+                ... on Commit {
+$($HistoryQueries -join "`n")
+                }
+            }
         }
     }
+}
+"@
+
+        $GraphQlHeaders = @{}
+        foreach ($Header in $Headers.GetEnumerator()) {
+            $GraphQlHeaders[$Header.Key] = $Header.Value
+        }
+
+        $RequestBody = @{ query = $Query } | ConvertTo-Json -Depth 20
+        $Response = Invoke-RestMethod -Uri "https://api.github.com/graphql" -Method "Post" -Headers $GraphQlHeaders -ContentType "application/json" -Body $RequestBody -ErrorAction "Stop"
+
+        $RepositoryData = $Response.data.repository
+        $CommitTarget = $RepositoryData.defaultBranchRef.target
+        $RemoteJsonFiles = @()
+
+        foreach ($Entry in $RepositoryData.jsonTree.entries) {
+            if ($Entry.type -ne "blob" -or $Entry.name -notlike "*.json") {
+                continue
+            }
+
+            $RemotePath = "json/$($Entry.name)"
+            $MatchAlias = if ($AliasByPath.ContainsKey($RemotePath)) { $AliasByPath[$RemotePath] } else { $null }
+            $CommitDate = $null
+            if ($MatchAlias) {
+                $HistoryNode = $CommitTarget.$MatchAlias
+                if ($HistoryNode -and $HistoryNode.nodes -and $HistoryNode.nodes.Count -gt 0) {
+                    $CommitDate = ([DateTime]$HistoryNode.nodes[0].committedDate).ToLocalTime()
+                }
+            }
+
+            $RemoteJsonFiles += [PSCustomObject]@{
+                Name             = $Entry.name
+                Path             = $RemotePath
+                LastModifiedDate = $CommitDate
+            }
+        }
+
+        return $RemoteJsonFiles
+    }
     catch {
-        Write-Host "Unable to query remote commit date for $Path. $($_.Exception.Message)" -ForegroundColor "Yellow"
+        Write-Host "Unable to query remote json files from GitHub. $($_.Exception.Message)" -ForegroundColor "Yellow"
     }
 
-    $RemoteCommitDateLookup[$Path] = $null
-    return $null
+    return @()
 }
 
 #region Update the list of supported apps in index.md, sorted alphabetically
 $UniqueAppsCount = 0
 
-# Get update information - prefer ChangedFiles parameter over LastUpdateFile
-if ($ChangedFiles) {
-    Write-Host "Using provided changed files list: $($ChangedFiles.Count) files" -ForegroundColor "Yellow"
-    # Create a hashtable for quick lookup of changed files with their timestamps
-    $UpdatedFilesLookup = @{}
-    foreach ($File in $ChangedFiles) {
-        $FileName = [System.IO.Path]::GetFileName($File)
-        $FullPath = Join-Path -Path $JsonPath -ChildPath $FileName
-        if (Test-Path -Path $FullPath) {
-            $UpdatedFilesLookup[$FileName] = (Get-Item -Path $FullPath).LastWriteTime
-        }
-    }
-}
-
 # Remove the _apps folder, so that we get clean content
 Remove-Item -Path $OutputPath -Recurse -Force -ErrorAction "Continue"
 New-Item -Path $OutputPath -ItemType "Directory" -ErrorAction "SilentlyContinue"
 
-foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*.json"))) {
+$JsonFiles = Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*.json")
+$LocalJsonRelativePaths = $JsonFiles | ForEach-Object {
+    [System.IO.Path]::GetRelativePath($RepositoryRoot, $_.FullName).Replace("\", "/")
+}
+
+$RemoteJsonFiles = if ($GitHubOwner -and $GitHubRepo) {
+    Get-RemoteJsonFiles -Owner $GitHubOwner -Repo $GitHubRepo -LocalJsonPaths $LocalJsonRelativePaths -Headers $GitHubHeaders
+}
+else {
+    @()
+}
+
+$RemoteJsonLookup = @{}
+foreach ($RemoteFile in $RemoteJsonFiles) {
+    $RemoteJsonLookup[$RemoteFile.Path] = $RemoteFile
+}
+
+$RemoteJsonByName = @{}
+foreach ($RemoteFile in $RemoteJsonFiles) {
+    $RemoteJsonByName[$RemoteFile.Name] = $RemoteFile
+}
+
+foreach ($File in $JsonFiles) {
 
     # Creates a new directory for a report and generates an index file inside the directory
     # The index file is named "index.md" and its content is based on the first letter of the file name.
@@ -137,34 +202,21 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*
     New-Item -Path $ChildPath -ItemType "Directory" -ErrorAction "SilentlyContinue" | Out-Null
     Set-Content -Path (Join-Path -Path $ChildPath -ChildPath "index.md") -Value ($AppIndex -replace "#ParentTitle", $File.Name.Substring(0, 1).ToUpper()) -Force -Encoding "Utf8" -NoNewline
 
-    # Check if this file was in the changed files list
-    $FileWasChanged = if ($ChangedFiles) {
-        $ChangedFiles -contains $File.Name -or $ChangedFiles -contains "json/$($File.Name)"
-    }
-    else {
-        $true  # If no ChangedFiles provided, process all files
-    }
-
-    # Skip if file wasn't changed and we have a ChangedFiles list
-    if ($ChangedFiles -and -not $FileWasChanged) {
-        Write-Host "Skipping $($File.Name) - not in changed files list" -ForegroundColor "Gray"
-        continue
-    }
-
     # Output the file being processed
     Write-Host "Processing $($File.FullName)" -ForegroundColor "Green"
 
     # Get the Evergreen app object
     $App = Find-EvergreenApp | Where-Object { $_.Name -eq $File.BaseName }
 
-    # Determine last modified date from the latest remote commit for this file
+    # Determine last modified date from the matched remote json file entry
     $RemoteFilePath = [System.IO.Path]::GetRelativePath($RepositoryRoot, $File.FullName).Replace("\", "/")
-    $RemoteCommitDate = if ($GitHubOwner -and $GitHubRepo) {
-        Get-RemoteFileLastCommitDate -Owner $GitHubOwner -Repo $GitHubRepo -Path $RemoteFilePath -Headers $GitHubHeaders
+    $RemoteJsonFile = if ($RemoteJsonLookup.ContainsKey($RemoteFilePath)) {
+        $RemoteJsonLookup[$RemoteFilePath]
     }
     else {
         $null
     }
+    $RemoteCommitDate = if ($RemoteJsonFile) { $RemoteJsonFile.LastModifiedDate } else { $null }
     $LastModifiedDate = if ($RemoteCommitDate) {
         $RemoteCommitDate.ToString("dd/MM/yyyy h:mm:ss tt")
     }
@@ -238,22 +290,18 @@ $SupportedApps = Find-EvergreenApp | ForEach-Object { $_.Link = "[view]($("https
     $Name = $_.Name
     $JsonFileName = "$Name.json"
     
-    # Get last update time - prefer UpdatedFilesLookup over LastUpdates
-    $LastUpdateTime = if ($UpdatedFilesLookup -and $UpdatedFilesLookup.ContainsKey($JsonFileName)) {
-        $UpdatedFilesLookup[$JsonFileName].ToString("yyyy-MM-dd")
-    }
-    elseif ($LastUpdates) {
-        ($LastUpdates | Where-Object { $_.Name -eq $JsonFileName } | Select-Object -ExpandProperty "LastWriteTime" -First 1) -split " " | Select-Object -First 1
+    # Get last update time from the matched remote json file metadata
+    $RemoteJson = if ($RemoteJsonByName.ContainsKey($JsonFileName)) {
+        $RemoteJsonByName[$JsonFileName]
     }
     else {
-        # Fallback to file system timestamp
-        $JsonFile = [System.IO.Path]::Combine($JsonPath, $JsonFileName)
-        if (Test-Path -Path $JsonFile) {
-            (Get-Item -Path $JsonFile).LastWriteTime.ToString("yyyy-MM-dd HH:mm:ss")
-        }
-        else {
-            "Unknown"
-        }
+        $null
+    }
+    $LastUpdateTime = if ($RemoteJson -and $RemoteJson.LastModifiedDate) {
+        $RemoteJson.LastModifiedDate.ToString("yyyy-MM-dd")
+    }
+    else {
+        "Unknown"
     }
     
     [PSCustomObject] @{
