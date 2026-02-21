@@ -27,4 +27,6 @@ jobs:
           id: files
           shell: pwsh
           run: |
-            Get-ChildItem -Path "${{ github.workspace }}/json" -Filter "*.json" -File | Select-Object -Property Name, CreationTime, LastWriteTime, LastAccessTime
+            Get-ChildItem -Path "${{ github.workspace }}/json" -Filter "*.json" -File | `
+              Select-Object -Property Name, CreationTime, LastWriteTime, LastAccessTime | `
+              Format-List
