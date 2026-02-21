@@ -3,7 +3,7 @@ title: WinSCP
 layout: default
 nav_order: 2
 parent: W
-last_modified_date: 20/02/2026 1:39:24 PM
+last_modified_date: 20/11/2025 11:33:05 AM
 ---
 
 ## WinSCP

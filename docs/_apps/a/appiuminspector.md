@@ -3,7 +3,7 @@ title: Appium Developers Appium Inspector
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 20/02/2026 1:39:24 PM
+last_modified_date: 25/01/2026 11:35:16 AM
 ---
 
 ## Appium Developers Appium Inspector

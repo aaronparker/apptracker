@@ -3,7 +3,7 @@ title: Adoptium Temurin 22
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 20/02/2026 1:39:24 PM
+last_modified_date: 25/11/2024 12:20:45 PM
 ---
 
 ## Adoptium Temurin 22

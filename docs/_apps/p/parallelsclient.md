@@ -3,7 +3,7 @@ title: Parallels Client
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 20/02/2026 1:39:24 PM
+last_modified_date: 06/02/2026 11:38:59 AM
 ---
 
 ## Parallels Client

@@ -3,7 +3,7 @@ title: TU Wien nomacs
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: 20/02/2026 1:39:24 PM
+last_modified_date: 29/12/2025 11:33:42 AM
 ---
 
 ## TU Wien nomacs

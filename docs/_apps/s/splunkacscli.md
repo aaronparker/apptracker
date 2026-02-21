@@ -3,7 +3,7 @@ title: Splunk ACS CLI
 layout: default
 nav_order: 2
 parent: S
-last_modified_date: 20/02/2026 1:39:24 PM
+last_modified_date: 13/02/2026 11:37:07 AM
 ---
 
 ## Splunk ACS CLI

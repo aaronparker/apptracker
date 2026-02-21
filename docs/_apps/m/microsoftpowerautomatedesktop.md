@@ -3,7 +3,7 @@ title: Microsoft Power Automate Desktop
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 20/02/2026 1:39:24 PM
+last_modified_date: 16/10/2025 10:59:22 PM
 ---
 
 ## Microsoft Power Automate Desktop

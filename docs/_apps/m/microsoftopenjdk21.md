@@ -3,7 +3,7 @@ title: Microsoft OpenJDK 21
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 20/02/2026 1:39:24 PM
+last_modified_date: 05/02/2026 11:39:00 AM
 ---
 
 ## Microsoft OpenJDK 21

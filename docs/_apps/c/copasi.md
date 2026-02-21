@@ -3,7 +3,7 @@ title: copasi.org COPASI
 layout: default
 nav_order: 2
 parent: C
-last_modified_date: 20/02/2026 1:39:24 PM
+last_modified_date: 24/01/2026 11:35:45 AM
 ---
 
 ## copasi.org COPASI

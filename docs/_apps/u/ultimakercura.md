@@ -3,7 +3,7 @@ title: UltiMaker Cura
 layout: default
 nav_order: 2
 parent: U
-last_modified_date: 20/02/2026 1:39:24 PM
+last_modified_date: 14/01/2026 11:37:28 AM
 ---
 
 ## UltiMaker Cura

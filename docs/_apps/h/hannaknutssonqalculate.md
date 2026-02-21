@@ -3,7 +3,7 @@ title: Hanna Knutsson Qalculate!
 layout: default
 nav_order: 2
 parent: H
-last_modified_date: 20/02/2026 1:39:24 PM
+last_modified_date: 22/01/2026 11:35:33 AM
 ---
 
 ## Hanna Knutsson Qalculate!

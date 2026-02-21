@@ -3,7 +3,7 @@ title: Mattermost Desktop
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 20/02/2026 1:39:24 PM
+last_modified_date: 21/01/2026 11:35:54 AM
 ---
 
 ## Mattermost Desktop

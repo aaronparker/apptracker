@@ -3,7 +3,7 @@ title: RStudio Quarto CLI
 layout: default
 nav_order: 2
 parent: R
-last_modified_date: 20/02/2026 1:39:24 PM
+last_modified_date: 16/01/2026 11:38:52 AM
 ---
 
 ## RStudio Quarto CLI
