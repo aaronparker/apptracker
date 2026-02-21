@@ -41,6 +41,73 @@ has_children: true
 Import-Module -Name "Evergreen" -Force
 Import-Module -Name "MarkdownPS" -Force
 
+# Resolve GitHub repository metadata for remote commit date lookups
+$GitHubOwner = $null
+$GitHubRepo = $null
+$RepositoryRoot = (& git rev-parse --show-toplevel 2>$null)
+if (-not $RepositoryRoot) {
+    $RepositoryRoot = (Get-Location).Path
+}
+
+if ($env:GITHUB_REPOSITORY -match "^(?<owner>[^/]+)/(?<repo>[^/]+)$") {
+    $GitHubOwner = $Matches.owner
+    $GitHubRepo = $Matches.repo
+}
+else {
+    $RemoteOriginUrl = (& git config --get remote.origin.url 2>$null)
+    if ($RemoteOriginUrl -match "github\.com[/:](?<owner>[^/]+)/(?<repo>[^/.]+)(\.git)?$") {
+        $GitHubOwner = $Matches.owner
+        $GitHubRepo = $Matches.repo
+    }
+}
+
+$GitHubHeaders = @{
+    Accept       = "application/vnd.github+json"
+    "User-Agent" = "apptracker-report-script"
+}
+$GitHubToken = if ($env:GITHUB_TOKEN) { $env:GITHUB_TOKEN } elseif ($env:GH_TOKEN) { $env:GH_TOKEN } else { $null }
+if ($GitHubToken) {
+    $GitHubHeaders.Authorization = "Bearer $GitHubToken"
+}
+
+$RemoteCommitDateLookup = @{}
+
+function Get-RemoteFileLastCommitDate {
+    param(
+        [Parameter(Mandatory = $true)]
+        [System.String] $Owner,
+
+        [Parameter(Mandatory = $true)]
+        [System.String] $Repo,
+
+        [Parameter(Mandatory = $true)]
+        [System.String] $Path,
+
+        [Parameter(Mandatory = $true)]
+        [hashtable] $Headers
+    )
+
+    if ($RemoteCommitDateLookup.ContainsKey($Path)) {
+        return $RemoteCommitDateLookup[$Path]
+    }
+
+    try {
+        $CommitsApi = "https://api.github.com/repos/$Owner/$Repo/commits?path=$([System.Uri]::EscapeDataString($Path))&per_page=1"
+        $CommitResponse = Invoke-RestMethod -Uri $CommitsApi -Headers $Headers -Method "Get" -ErrorAction "Stop"
+        if ($CommitResponse -and $CommitResponse.Count -gt 0) {
+            $CommitDate = ([DateTime]$CommitResponse[0].commit.committer.date).ToLocalTime()
+            $RemoteCommitDateLookup[$Path] = $CommitDate
+            return $CommitDate
+        }
+    }
+    catch {
+        Write-Host "Unable to query remote commit date for $Path. $($_.Exception.Message)" -ForegroundColor "Yellow"
+    }
+
+    $RemoteCommitDateLookup[$Path] = $null
+    return $null
+}
+
 #region Update the list of supported apps in index.md, sorted alphabetically
 $UniqueAppsCount = 0
 
@@ -90,8 +157,23 @@ foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*
     # Get the Evergreen app object
     $App = Find-EvergreenApp | Where-Object { $_.Name -eq $File.BaseName }
 
+    # Determine last modified date from the latest remote commit for this file
+    $RemoteFilePath = [System.IO.Path]::GetRelativePath($RepositoryRoot, $File.FullName).Replace("\", "/")
+    $RemoteCommitDate = if ($GitHubOwner -and $GitHubRepo) {
+        Get-RemoteFileLastCommitDate -Owner $GitHubOwner -Repo $GitHubRepo -Path $RemoteFilePath -Headers $GitHubHeaders
+    }
+    else {
+        $null
+    }
+    $LastModifiedDate = if ($RemoteCommitDate) {
+        $RemoteCommitDate.ToString("dd/MM/yyyy h:mm:ss tt")
+    }
+    else {
+        (Get-Date).ToString("dd/MM/yyyy h:mm:ss tt")
+    }
+
     # Update front matter
-    $Markdown = ($DefaultLayout -replace "#Title", $App.Application -replace "#Date", $($File.LastWriteTime.ToString("dd/MM/yyyy h:mm:ss tt"))) -replace "#ParentTitle", $File.Name.Substring(0, 1).ToUpper()
+    $Markdown = ($DefaultLayout -replace "#Title", $App.Application -replace "#Date", $LastModifiedDate) -replace "#ParentTitle", $File.Name.Substring(0, 1).ToUpper()
 
     # Get details of the app from the saved JSON; Update the count of unique apps
     $AppObject = Get-Content -Path $File.FullName | ConvertFrom-Json
