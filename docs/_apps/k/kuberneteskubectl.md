@@ -12,10 +12,7 @@ last_modified_date: 12/02/2026 11:45:13 AM
 
 Evergreen app: `KubernetesKubectl`. Found **3** installers.
 
-Last check: 🔴
-```
-No such host is known. (cdn.dl.k8s.io:443)
-```
+Last check: 🟢
 
 | Version | Architecture | Platform | URI                                                                                                                                |
 | ------- | ------------ | -------- | ---------------------------------------------------------------------------------------------------------------------------------- |
