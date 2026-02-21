@@ -3,7 +3,7 @@ title: Kovid Goyal Calibre
 layout: default
 nav_order: 2
 parent: K
-last_modified_date: 20/02/2026 11:37:17 AM
+last_modified_date: 21/02/2026 11:36:16 AM
 ---
 
 ## Kovid Goyal Calibre
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                        |
 | ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 9.3.0   | 20/2/2026 | 200372488 | 0184ce616b0396d0a7810b77c257674a86af0f6d6ccdb8ace7d1b642af4d9bc6 | x86          | Portable      | exe  | [https://github.com/kovidgoyal/calibre/releases/download/v9.3.0/calibre-portable-installer-9.3.0.exe](https://github.com/kovidgoyal/calibre/releases/download/v9.3.0/calibre-portable-installer-9.3.0.exe) |
-| 9.3.0   | 20/2/2026 | 221392896 | 71f3c658e2badcc6c6e0e835b776a0db018ab954568e4515c8bcf78a523416cd | x64          | Default       | msi  | [https://github.com/kovidgoyal/calibre/releases/download/v9.3.0/calibre-64bit-9.3.0.msi](https://github.com/kovidgoyal/calibre/releases/download/v9.3.0/calibre-64bit-9.3.0.msi)                           |
+| 9.3.1   | 21/2/2026 | 200442120 | 0d8ada097dc5f8927ded7747e1f92de3728aea38382b8c282b8768098f892393 | x86          | Portable      | exe  | [https://github.com/kovidgoyal/calibre/releases/download/v9.3.1/calibre-portable-installer-9.3.1.exe](https://github.com/kovidgoyal/calibre/releases/download/v9.3.1/calibre-portable-installer-9.3.1.exe) |
+| 9.3.1   | 21/2/2026 | 221401088 | f5d967ed123cdc24a802600bdbcf64b0d2e14379f2d6d46351df2b2b5206713c | x64          | Default       | msi  | [https://github.com/kovidgoyal/calibre/releases/download/v9.3.1/calibre-64bit-9.3.1.msi](https://github.com/kovidgoyal/calibre/releases/download/v9.3.1/calibre-64bit-9.3.1.msi)                           |

@@ -3,7 +3,7 @@ title: Hendrik Erz Zettlr
 layout: default
 nav_order: 2
 parent: H
-last_modified_date: 28/01/2026 11:36:07 AM
+last_modified_date: 21/02/2026 11:36:16 AM
 ---
 
 ## Hendrik Erz Zettlr
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                              |
 | ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.1.1   | 27/1/2026 | 140237008 | d57e84eb10d3bcc38e2c2e5d5aa034f2791326f5a2b95eee5709bdcf80e99855 | x64          | Default       | exe  | [https://github.com/Zettlr/Zettlr/releases/download/v4.1.1/Zettlr-4.1.1-x64.exe](https://github.com/Zettlr/Zettlr/releases/download/v4.1.1/Zettlr-4.1.1-x64.exe) |
+| 4.2.0   | 21/2/2026 | 140264120 | dcdcb86753270053d526d7cee029ed77d281961472f0b5726ac4211bf0613f27 | x64          | Default       | exe  | [https://github.com/Zettlr/Zettlr/releases/download/v4.2.0/Zettlr-4.2.0-x64.exe](https://github.com/Zettlr/Zettlr/releases/download/v4.2.0/Zettlr-4.2.0-x64.exe) |
