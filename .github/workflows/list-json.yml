@@ -1,0 +1,30 @@
+name: 'List JSON files'
+
+# Environment variables
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+on:
+  workflow_dispatch:
+
+jobs:
+  list-json-files:
+      runs-on: ubuntu-latest
+
+      steps:
+        - uses: actions/checkout@v6
+          with:
+            ref: main
+            token: ${{ secrets.PAT }}
+
+        - name: Git pull
+          shell: pwsh
+          run: |
+            git config --global core.safecrlf false
+            git pull origin main
+
+        - name: Query changed JSON files via GitHub API
+          id: changed-files
+          shell: pwsh
+          run: |
+            Get-ChildItem -Path "${{ github.workspace }}/json" -Filter "*.json" -File | Select-Object -ExpandProperty Name, CreationTime, LastWriteTime, LastAccessTime
