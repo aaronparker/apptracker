@@ -3,7 +3,7 @@ title: NETworkManager
 layout: default
 nav_order: 2
 parent: N
-last_modified_date: 19/10/2025 11:26:46 AM
+last_modified_date: 22/02/2026 11:30:36 PM
 ---
 
 ## NETworkManager
@@ -14,6 +14,6 @@ Evergreen app: `NETworkManager`. Found **1** installer.
 
 Last check: 🟢
 
-| Version      | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                                        |
-| ------------ | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2025.10.18.0 | 18/10/2025 | 24457216 | 9f139041f24829b44183a800642cc00cc615dcfc0069227696dfaa8a308c6cf7 | x86          | Default       | msi  | [https://github.com/BornToBeRoot/NETworkManager/releases/download/2025.10.18.0/NETworkManager_2025.10.18.0_Setup.msi](https://github.com/BornToBeRoot/NETworkManager/releases/download/2025.10.18.0/NETworkManager_2025.10.18.0_Setup.msi) |
+| Version     | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                                    |
+| ----------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026.2.22.0 | 22/2/2026 | 22646784 | ad3a107d76b9391c88c4427717f243c64309f4d66fea9775aab75c1cd51a2d4e | x86          | Default       | msi  | [https://github.com/BornToBeRoot/NETworkManager/releases/download/2026.2.22.0/NETworkManager_2026.2.22.0_Setup.msi](https://github.com/BornToBeRoot/NETworkManager/releases/download/2026.2.22.0/NETworkManager_2026.2.22.0_Setup.msi) |
