@@ -6,8 +6,10 @@ env:
 
 # Controls when the action will run.
 on:
-  schedule:
-    - cron: "15 11 * * *"
+  workflow_run:
+    workflows: ['Update self-hosted']
+  # schedule:
+  #   - cron: "15 11 * * *"
   workflow_dispatch:
 
 jobs:

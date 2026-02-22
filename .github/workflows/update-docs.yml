@@ -8,7 +8,7 @@ env:
 # Controls when the action will run. 
 on:
   workflow_run:
-    workflows: ['Update apps', 'Update self-hosted']
+    workflows: ['Update apps']
     types:
       - completed
   workflow_dispatch:
