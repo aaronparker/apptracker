@@ -8,13 +8,14 @@ env:
 on:
   workflow_run:
     workflows: ['Update self-hosted']
-  # schedule:
-  #   - cron: "15 11 * * *"
+    types:
+      - completed
   workflow_dispatch:
 
 jobs:
   update-pwsh:
     runs-on: windows-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || (github.event.workflow_run && github.event.workflow_run.conclusion == 'success') }}
 
     steps:
       - uses: actions/checkout@v6
