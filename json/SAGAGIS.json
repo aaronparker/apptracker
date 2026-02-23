@@ -1,11 +1,11 @@
 [
   {
-    "Version": "9.11.1",
+    "Version": "9.11.2",
     "Architecture": "x86",
     "Type": "exe",
-    "Size": "57795660",
-    "Md5": "84d9372ebaa563d71d5684db4956f21e",
-    "FileName": "saga-9.11.1_msw_setup.exe",
-    "URI": "https://ixpeering.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.11.1/saga-9.11.1_msw_setup.exe?viasf=1"
+    "Size": "57802719",
+    "Md5": "00c39264af8ec8409a6fbc2edad8f926",
+    "FileName": "saga-9.11.2_msw_setup.exe",
+    "URI": "https://ixpeering.dl.sourceforge.net/project/saga-gis/SAGA%20-%209/SAGA%20-%209.11.2/saga-9.11.2_msw_setup.exe?viasf=1"
   }
 ]
