@@ -1,14 +1,14 @@
 [
   {
-    "Version": "25.2",
-    "Release": "25.2",
+    "Version": "26.0",
+    "Release": "26.0",
     "Python": 100,
-    "Date": "5/12/2025",
-    "Md5": "A67D5338A56904698AC205C3D84BDC9A",
-    "Size": 9891840,
+    "Date": "23/2/2026",
+    "Md5": "DEF982EE6964BF78869F2BC0ADAB066D",
+    "Size": 9994240,
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://www.python.org/ftp/python/pymanager/python-manager-25.2.msi"
+    "URI": "https://www.python.org/ftp/python/pymanager/python-manager-26.0.msi"
   },
   {
     "Version": "3.14.3",
