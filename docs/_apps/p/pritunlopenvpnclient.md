@@ -12,7 +12,10 @@ last_modified_date: 09/12/2025 4:41:44 AM
 
 Evergreen app: `PritunlOpenVPNClient`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 301 (Moved Permanently).
+```
 
 | Version     | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                          |
 | ----------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

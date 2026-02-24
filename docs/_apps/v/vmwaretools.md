@@ -12,7 +12,10 @@ last_modified_date: 25/01/2026 11:35:16 AM
 
 Evergreen app: `VMwareTools`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 404 (Not Found).
+```
 
 | Version | Architecture | URI                                                                                                                                                                                                                      |
 | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
