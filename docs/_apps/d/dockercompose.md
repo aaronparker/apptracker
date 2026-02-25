@@ -3,7 +3,7 @@ title: Docker Compose
 layout: default
 nav_order: 2
 parent: D
-last_modified_date: 21/01/2026 11:35:54 AM
+last_modified_date: 25/02/2026 11:29:48 AM
 ---
 
 ## Docker Compose
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                            |
 | ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 5.0.2   | 20/1/2026 | 30200320 | 275cbbdebb053bac7a87808cff75a24db6e3c6b069eb76715b7a63cfd9fbb07e | ARM64        | Default       | exe  | [https://github.com/docker/compose/releases/download/v5.0.2/docker-compose-windows-aarch64.exe](https://github.com/docker/compose/releases/download/v5.0.2/docker-compose-windows-aarch64.exe) |
-| 5.0.2   | 20/1/2026 | 32014848 | e6281c7b906eafe8f39114e735f11fc276d8cce2cba93a54911ca15337ba6c49 | x64          | Default       | exe  | [https://github.com/docker/compose/releases/download/v5.0.2/docker-compose-windows-x86_64.exe](https://github.com/docker/compose/releases/download/v5.0.2/docker-compose-windows-x86_64.exe)   |
+| 5.1.0   | 24/2/2026 | 30088704 | 3f3dd613a410f7060f3cb806f8a35602b27b8c6b62548e87cb20bd27b765b2ea | ARM64        | Default       | exe  | [https://github.com/docker/compose/releases/download/v5.1.0/docker-compose-windows-aarch64.exe](https://github.com/docker/compose/releases/download/v5.1.0/docker-compose-windows-aarch64.exe) |
+| 5.1.0   | 24/2/2026 | 32310272 | ee84e42b93c501cb0aa2caa84d76b5f30ca6fb92f070e289fc37be7332c5822a | x64          | Default       | exe  | [https://github.com/docker/compose/releases/download/v5.1.0/docker-compose-windows-x86_64.exe](https://github.com/docker/compose/releases/download/v5.1.0/docker-compose-windows-x86_64.exe)   |

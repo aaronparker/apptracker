@@ -3,7 +3,7 @@ title: Flow Launcher Team Flow Launcher
 layout: default
 nav_order: 2
 parent: F
-last_modified_date: 09/12/2025 4:41:44 AM
+last_modified_date: 25/02/2026 11:29:48 AM
 ---
 
 ## Flow Launcher Team Flow Launcher
@@ -14,6 +14,6 @@ Evergreen app: `FlowLauncher`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date       | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                |
-| ------- | ---------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.0.3   | 20/11/2025 | 96856576 | 1095597b0ef946027c2faff1750fb736ab7abdaa811a5b9081a17b38ce46999e | x86          | Default       | exe  | [https://github.com/Flow-Launcher/Flow.Launcher/releases/download/v2.0.3/Flow-Launcher-Setup.exe](https://github.com/Flow-Launcher/Flow.Launcher/releases/download/v2.0.3/Flow-Launcher-Setup.exe) |
+| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                |
+| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2.1.0   | 24/2/2026 | 99870720 | 02ef6900b778b1debc9458a2ee8739c9eae0d43e748ebe0179e3749eab0f5630 | x86          | Default       | exe  | [https://github.com/Flow-Launcher/Flow.Launcher/releases/download/v2.1.0/Flow-Launcher-Setup.exe](https://github.com/Flow-Launcher/Flow.Launcher/releases/download/v2.1.0/Flow-Launcher-Setup.exe) |
