@@ -1,12 +1,12 @@
 [
   {
-    "Version": "1.7.5",
-    "Date": "2/2/2026",
-    "Size": 205236660,
-    "Sha256": "8806ab55b3e8c7ab88c6bea739c63ff544b33a47b5e5806deb4989c1831fd691",
+    "Version": "1.7.6",
+    "Date": "25/2/2026",
+    "Size": 205209383,
+    "Sha256": "3d0e3f2c60c9b8c0b9adcaab1cae0e622880e7e04382f61fd952f2ce4beec99c",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/OpenBoard-org/OpenBoard/releases/download/v1.7.5/OpenBoard_Installer_1.7.5.exe"
+    "URI": "https://github.com/OpenBoard-org/OpenBoard/releases/download/v1.7.6/OpenBoard_Installer_1.7.6.exe"
   }
 ]

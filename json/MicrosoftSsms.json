@@ -1,8 +1,8 @@
 [
   {
     "Version": "22.3.0",
-    "Date": "6/2/2026",
+    "Date": "20/2/2026",
     "Type": "exe",
-    "URI": "https://download.visualstudio.microsoft.com/download/pr/50e56d52-cb9f-4891-880e-59ab5de5c80d/4627c205d11769e7d4acc67b2b69363ca02dcc6caa051e7dae65e1cfc40de961/vs_SSMS.exe"
+    "URI": "https://download.visualstudio.microsoft.com/download/pr/2b23517b-e100-42e1-a560-063af6edc4ec/11afc06e10a3e19ec60f9ca7b768ed68b9a74d8fcff5f6acac275127ba60c965/vs_SSMS.exe"
   }
 ]

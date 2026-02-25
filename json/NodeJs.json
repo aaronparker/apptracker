@@ -1,72 +1,72 @@
 [
   {
-    "Version": "25.6.1",
+    "Version": "25.7.0",
     "Architecture": "ARM64",
     "Type": "msi",
     "Channel": "Current",
-    "URI": "https://nodejs.org/dist/v25.6.1/node-v25.6.1-arm64.msi"
+    "URI": "https://nodejs.org/dist/v25.7.0/node-v25.7.0-arm64.msi"
   },
   {
-    "Version": "25.6.1",
+    "Version": "25.7.0",
     "Architecture": "x64",
     "Type": "msi",
     "Channel": "Current",
-    "URI": "https://nodejs.org/dist/v25.6.1/node-v25.6.1-x64.msi"
+    "URI": "https://nodejs.org/dist/v25.7.0/node-v25.7.0-x64.msi"
   },
   {
-    "Version": "25.6.1",
+    "Version": "25.7.0",
     "Architecture": "x86",
     "Type": "msi",
     "Channel": "Current",
-    "URI": "https://nodejs.org/dist/v25.6.1/node-v25.6.1-x86.msi"
+    "URI": "https://nodejs.org/dist/v25.7.0/node-v25.7.0-x86.msi"
   },
   {
-    "Version": "25.6.1",
+    "Version": "25.7.0",
     "Architecture": "ARM64",
     "Type": "zip",
     "Channel": "Current",
-    "URI": "https://nodejs.org/dist/v25.6.1/node-v25.6.1-win-arm64.zip"
+    "URI": "https://nodejs.org/dist/v25.7.0/node-v25.7.0-win-arm64.zip"
   },
   {
-    "Version": "25.6.1",
+    "Version": "25.7.0",
     "Architecture": "x64",
     "Type": "zip",
     "Channel": "Current",
-    "URI": "https://nodejs.org/dist/v25.6.1/node-v25.6.1-win-x64.zip"
+    "URI": "https://nodejs.org/dist/v25.7.0/node-v25.7.0-win-x64.zip"
   },
   {
-    "Version": "25.6.1",
+    "Version": "25.7.0",
     "Architecture": "x86",
     "Type": "zip",
     "Channel": "Current",
-    "URI": "https://nodejs.org/dist/v25.6.1/node-v25.6.1-win-x86.zip"
+    "URI": "https://nodejs.org/dist/v25.7.0/node-v25.7.0-win-x86.zip"
   },
   {
-    "Version": "24.13.1",
+    "Version": "24.14.0",
     "Architecture": "x64",
     "Type": "msi",
     "Channel": "LTS",
-    "URI": "https://nodejs.org/dist/v24.13.1/node-v24.13.1-x64.msi"
+    "URI": "https://nodejs.org/dist/v24.14.0/node-v24.14.0-x64.msi"
   },
   {
-    "Version": "24.13.1",
+    "Version": "24.14.0",
     "Architecture": "x86",
     "Type": "msi",
     "Channel": "LTS",
-    "URI": "https://nodejs.org/dist/v24.13.1/node-v24.13.1-x86.msi"
+    "URI": "https://nodejs.org/dist/v24.14.0/node-v24.14.0-x86.msi"
   },
   {
-    "Version": "24.13.1",
+    "Version": "24.14.0",
     "Architecture": "x64",
     "Type": "zip",
     "Channel": "LTS",
-    "URI": "https://nodejs.org/dist/v24.13.1/node-v24.13.1-win-x64.zip"
+    "URI": "https://nodejs.org/dist/v24.14.0/node-v24.14.0-win-x64.zip"
   },
   {
-    "Version": "24.13.1",
+    "Version": "24.14.0",
     "Architecture": "x86",
     "Type": "zip",
     "Channel": "LTS",
-    "URI": "https://nodejs.org/dist/v24.13.1/node-v24.13.1-win-x86.zip"
+    "URI": "https://nodejs.org/dist/v24.14.0/node-v24.14.0-win-x86.zip"
   }
 ]

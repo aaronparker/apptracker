@@ -1,11 +1,11 @@
 [
   {
-    "Version": "2512",
-    "InternalVersion": "8.17.0-20184583317",
-    "Date": "16/12/2025",
-    "Sha256": "4840f4f5bede58b6f685861fb66a328aeb609a7ce95311d40a9d69b53ddb3601",
-    "Size": "371.2 MB",
+    "Version": "2512.1",
+    "InternalVersion": "2512.1-22261173697",
+    "Date": "25/2/2026",
+    "Sha256": "107befe2bad4d765c957ca7b2522117866ce93b7ae4fa75e7029132f225fef27",
+    "Size": "371.17 MB",
     "Type": "exe",
-    "URI": "https://download3.omnissa.com/software/CART26FQ4_WIN_2512/Omnissa-Horizon-Client-2512-8.17.0-20184583317.exe"
+    "URI": "https://download3.omnissa.com/software/CART26FQ4_WIN_2512.1/Omnissa-Horizon-Client-2512-8.17.1-22261173697.exe"
   }
 ]

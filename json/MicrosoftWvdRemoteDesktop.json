@@ -20,64 +20,64 @@
   {
     "Version": "1.2.7046.0",
     "Date": "14/2/2026",
-    "Channel": "Dogfood",
-    "MD5": "D433DD184D6681C39B323C039CFC6533",
-    "Sha2": "ED7DF4D1A98CC36F1105BAB8CBF12EE4E1FC5D2BF71AAC35EFC9697157A3F5BB5D0B6D31BF4D6A9DD796D415DC43C5996A28CA42A6A039C3B14E209B00133895",
-    "Architecture": "x64",
-    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/8d121bab-82e4-47eb-84e6-5db63086665a/RemoteDesktop_1.2.7046.0_x64.msi"
-  },
-  {
-    "Version": "1.2.7046.0",
-    "Date": "14/2/2026",
-    "Channel": "Insider",
-    "MD5": "D433DD184D6681C39B323C039CFC6533",
-    "Sha2": "ED7DF4D1A98CC36F1105BAB8CBF12EE4E1FC5D2BF71AAC35EFC9697157A3F5BB5D0B6D31BF4D6A9DD796D415DC43C5996A28CA42A6A039C3B14E209B00133895",
-    "Architecture": "x64",
-    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/8d121bab-82e4-47eb-84e6-5db63086665a/RemoteDesktop_1.2.7046.0_x64.msi"
-  },
-  {
-    "Version": "1.2.7046.0",
-    "Date": "14/2/2026",
-    "Channel": "Dogfood",
-    "MD5": "FA89479892C0F42980D06CD7BAB6E0EA",
-    "Sha2": "4581AA44859C2AE0636854D99A5592C53867D793E2CDD54BD7120AF79E5CDE25DFD036ABED9D876D6EA5CC3FF08303BF4A15B65911E6BE2FDC988DAE0FE7057D",
-    "Architecture": "x86",
-    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/45b6d21c-d3ad-4ab1-9098-a3d86d36042a/RemoteDesktop_1.2.7046.0_x86.msi"
-  },
-  {
-    "Version": "1.2.7046.0",
-    "Date": "14/2/2026",
-    "Channel": "Insider",
-    "MD5": "FA89479892C0F42980D06CD7BAB6E0EA",
-    "Sha2": "4581AA44859C2AE0636854D99A5592C53867D793E2CDD54BD7120AF79E5CDE25DFD036ABED9D876D6EA5CC3FF08303BF4A15B65911E6BE2FDC988DAE0FE7057D",
-    "Architecture": "x86",
-    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/45b6d21c-d3ad-4ab1-9098-a3d86d36042a/RemoteDesktop_1.2.7046.0_x86.msi"
-  },
-  {
-    "Version": "1.2.6980.0",
-    "Date": "22/1/2026",
     "Channel": "Public",
-    "MD5": "0E20176BD792BFBDBF36C53DD89576EF",
-    "Sha2": "49DFBB28EAFDB8201C8F81D916A0BBF8F7ED3F901A4FDD7C69C950C3C7B37003479761DD6069897F529E93B71509E7B61B4F5C7D487D9529AA33F1907B1A6C63",
+    "MD5": "C144FF673C1B29C61D9E464A7C781B05",
+    "Sha2": "AFD34ADEB2C7576CCA474BC92A425689D77E4932D2AB13F600A922B032EC0EB3F71F724E26F8189624FF375D655EC97FA0461DBFC400AE1EE8F7426EB8BFF2A9",
     "Architecture": "ARM64",
-    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/9e2e57dd-37fa-4e79-a32b-ab993c686d08/RemoteDesktop_1.2.6980.0_ARM64.msi"
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/fbf6eb5f-93f1-4481-9a7d-a7e75225ca8e/RemoteDesktop_1.2.7046.0_ARM64.msi"
   },
   {
-    "Version": "1.2.6980.0",
-    "Date": "22/1/2026",
-    "Channel": "Public",
-    "MD5": "5404F1560E27DB407AA2CC7E5CE37A77",
-    "Sha2": "02D0CDF708A127FDF222447E8AA0CE1EDC19536B90F718FFBC24B1B88AFCC937867B4F882417F56C5379FAC7D05F4BB46C2AAD3C77F74C45542436973BB42F50",
+    "Version": "1.2.7046.0",
+    "Date": "14/2/2026",
+    "Channel": "Dogfood",
+    "MD5": "D433DD184D6681C39B323C039CFC6533",
+    "Sha2": "ED7DF4D1A98CC36F1105BAB8CBF12EE4E1FC5D2BF71AAC35EFC9697157A3F5BB5D0B6D31BF4D6A9DD796D415DC43C5996A28CA42A6A039C3B14E209B00133895",
     "Architecture": "x64",
-    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/ccc0e495-0193-4790-97a0-24d5e1e2d598/RemoteDesktop_1.2.6980.0_x64.msi"
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/8d121bab-82e4-47eb-84e6-5db63086665a/RemoteDesktop_1.2.7046.0_x64.msi"
   },
   {
-    "Version": "1.2.6980.0",
-    "Date": "22/1/2026",
+    "Version": "1.2.7046.0",
+    "Date": "14/2/2026",
+    "Channel": "Insider",
+    "MD5": "D433DD184D6681C39B323C039CFC6533",
+    "Sha2": "ED7DF4D1A98CC36F1105BAB8CBF12EE4E1FC5D2BF71AAC35EFC9697157A3F5BB5D0B6D31BF4D6A9DD796D415DC43C5996A28CA42A6A039C3B14E209B00133895",
+    "Architecture": "x64",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/8d121bab-82e4-47eb-84e6-5db63086665a/RemoteDesktop_1.2.7046.0_x64.msi"
+  },
+  {
+    "Version": "1.2.7046.0",
+    "Date": "14/2/2026",
     "Channel": "Public",
-    "MD5": "165CA5F4800D4E074A1AA1582D673AAC",
-    "Sha2": "935704698DE79EB55FBC0C6E607204F80383719A6B41E9FC6CA5A533A7B2342411309EFF1F78667B2105F0E046429A2D60E8AD30DDA357490CBB0DA0CB51200C",
+    "MD5": "D433DD184D6681C39B323C039CFC6533",
+    "Sha2": "ED7DF4D1A98CC36F1105BAB8CBF12EE4E1FC5D2BF71AAC35EFC9697157A3F5BB5D0B6D31BF4D6A9DD796D415DC43C5996A28CA42A6A039C3B14E209B00133895",
+    "Architecture": "x64",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/8d121bab-82e4-47eb-84e6-5db63086665a/RemoteDesktop_1.2.7046.0_x64.msi"
+  },
+  {
+    "Version": "1.2.7046.0",
+    "Date": "14/2/2026",
+    "Channel": "Dogfood",
+    "MD5": "FA89479892C0F42980D06CD7BAB6E0EA",
+    "Sha2": "4581AA44859C2AE0636854D99A5592C53867D793E2CDD54BD7120AF79E5CDE25DFD036ABED9D876D6EA5CC3FF08303BF4A15B65911E6BE2FDC988DAE0FE7057D",
     "Architecture": "x86",
-    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/0370e825-f8d3-4d42-b65b-a556c641b749/RemoteDesktop_1.2.6980.0_x86.msi"
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/45b6d21c-d3ad-4ab1-9098-a3d86d36042a/RemoteDesktop_1.2.7046.0_x86.msi"
+  },
+  {
+    "Version": "1.2.7046.0",
+    "Date": "14/2/2026",
+    "Channel": "Insider",
+    "MD5": "FA89479892C0F42980D06CD7BAB6E0EA",
+    "Sha2": "4581AA44859C2AE0636854D99A5592C53867D793E2CDD54BD7120AF79E5CDE25DFD036ABED9D876D6EA5CC3FF08303BF4A15B65911E6BE2FDC988DAE0FE7057D",
+    "Architecture": "x86",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/45b6d21c-d3ad-4ab1-9098-a3d86d36042a/RemoteDesktop_1.2.7046.0_x86.msi"
+  },
+  {
+    "Version": "1.2.7046.0",
+    "Date": "14/2/2026",
+    "Channel": "Public",
+    "MD5": "FA89479892C0F42980D06CD7BAB6E0EA",
+    "Sha2": "4581AA44859C2AE0636854D99A5592C53867D793E2CDD54BD7120AF79E5CDE25DFD036ABED9D876D6EA5CC3FF08303BF4A15B65911E6BE2FDC988DAE0FE7057D",
+    "Architecture": "x86",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/45b6d21c-d3ad-4ab1-9098-a3d86d36042a/RemoteDesktop_1.2.7046.0_x86.msi"
   }
 ]
