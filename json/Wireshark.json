@@ -1,17 +1,17 @@
 [
   {
-    "Version": "4.6.3",
+    "Version": "4.6.4",
     "Release": "Stable",
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.6.3-x64.exe"
+    "URI": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.6.4-x64.exe"
   },
   {
-    "Version": "4.6.3",
+    "Version": "4.6.4",
     "Release": "Stable",
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.6.3-x64.msi"
+    "URI": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.6.4-x64.msi"
   },
   {
     "Version": "4.2.14",
