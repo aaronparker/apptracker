@@ -12,10 +12,7 @@ last_modified_date: 16/10/2024 12:36:32 AM
 
 Evergreen app: `OracleJava22`. Found **3** installers.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 404 (Not Found).
-```
+Last check: 🟢
 
 | Version | FullVersion | Date      | Sha256                                                                       | Type | URI                                                                                                                                            |
 | ------- | ----------- | --------- | ---------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -12,10 +12,7 @@ last_modified_date: 21/01/2026 1:32:00 PM
 
 Evergreen app: `OracleJava17`. Found **3** installers.
 
-Last check: 🔴
-```
-Response status code does not indicate success: 404 (Not Found).
-```
+Last check: 🟢
 
 | Version | FullVersion | Date      | Sha256                                                                       | Type | URI                                                                                                                                            |
 | ------- | ----------- | --------- | ---------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |

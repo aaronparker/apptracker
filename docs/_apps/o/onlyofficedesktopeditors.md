@@ -3,24 +3,22 @@ title: ONLYOFFICE Desktop Editors
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 26/12/2025 11:39:03 AM
+last_modified_date: 26/02/2026 11:31:42 AM
 ---
 
 ## ONLYOFFICE Desktop Editors
 
 [Source](https://www.onlyoffice.com/desktop.aspx)
 
-Evergreen app: `OnlyOfficeDesktopEditors`. Found **8** installers.
+Evergreen app: `OnlyOfficeDesktopEditors`. Found **6** installers.
 
 Last check: 🟢
 
-| Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                |
-| ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 9.2.1   | 26/12/2025 | 304115512 | c9dc51f2278d9174e3432383d9dfebccf9343815eabd011b957dd3beba74f2a4 | ARM64        | Default       | exe  | [https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.1/DesktopEditors_arm64.exe](https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.1/DesktopEditors_arm64.exe)   |
-| 9.2.1   | 26/12/2025 | 337670768 | 7ca45e82d4e3b8a1821f2704efc8986f61d7a7e8c9c3488560cbbea33bb8f563 | x64          | Default       | exe  | [https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.1/DesktopEditors_x64.exe](https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.1/DesktopEditors_x64.exe)       |
-| 9.2.1   | 26/12/2025 | 530110952 | cea1dbe29d09ed79a068e4c2bb7b6ff6caa1dc111054b0e858f04958b5c38eae | x64          | Default       | exe  | [https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.1/DesktopEditors_x64_xp.exe](https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.1/DesktopEditors_x64_xp.exe) |
-| 9.2.1   | 26/12/2025 | 316012624 | d7bf37768c2bd102d69868a3dccb88711fa81fe4f01f0e5588f1aa65f3ca8f89 | x86          | Default       | exe  | [https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.1/DesktopEditors_x86.exe](https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.1/DesktopEditors_x86.exe)       |
-| 9.2.1   | 26/12/2025 | 519492432 | 39c34e731ea38366efe438cd8cf863ebb09cf006d447c2c0ba085b3297322286 | x86          | Default       | exe  | [https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.1/DesktopEditors_x86_xp.exe](https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.1/DesktopEditors_x86_xp.exe) |
-| 9.2.1   | 26/12/2025 | 537864192 | 4a527e132a94f8400599291fa697ce3d7b70a8d5df4ee400eb6b0bee338ec709 | ARM64        | Default       | msi  | [https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.1/DesktopEditors_arm64.msi](https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.1/DesktopEditors_arm64.msi)   |
-| 9.2.1   | 26/12/2025 | 572741120 | c1f274bc70c45f5359389c3a154c870c5dcd09ffd2f5659f93b4aaf172dfef59 | x64          | Default       | msi  | [https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.1/DesktopEditors_x64.msi](https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.1/DesktopEditors_x64.msi)       |
-| 9.2.1   | 26/12/2025 | 555749888 | 270117c3ae0eec18e4428be406f8f3ad2d22c7ab3afdfb45ca4ecc650cb4a019 | x86          | Default       | msi  | [https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.1/DesktopEditors_x86.msi](https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.2.1/DesktopEditors_x86.msi)       |
+| Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                              |
+| ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 9.3.0   | 25/2/2026 | 307303296 | d50744e813fe6ca8642789683284301d92146fdbde21c0aa17fd0f51f0391710 | ARM64        | Default       | exe  | [https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.0/DesktopEditors_arm64.exe](https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.0/DesktopEditors_arm64.exe) |
+| 9.3.0   | 25/2/2026 | 340907768 | 5880d0f351d8f1f53be0101e2597f6b60df61f4c70ccb1a9ffa33293f8c2ee53 | x64          | Default       | exe  | [https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.0/DesktopEditors_x64.exe](https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.0/DesktopEditors_x64.exe)     |
+| 9.3.0   | 25/2/2026 | 319280016 | edbb9061e6a500abdb326dff2a5a83d9323e5c5a6b30bd4833a74ab933f000fa | x86          | Default       | exe  | [https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.0/DesktopEditors_x86.exe](https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.0/DesktopEditors_x86.exe)     |
+| 9.3.0   | 25/2/2026 | 542488576 | 306c0b36dd11a17b84e55581d3a6c392f203c6674b0cf63c98b2d52cc368b6c3 | ARM64        | Default       | msi  | [https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.0/DesktopEditors_arm64.msi](https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.0/DesktopEditors_arm64.msi) |
+| 9.3.0   | 25/2/2026 | 577423360 | 47e908da7c767be89d9af2982033a2cd09549282473e5778cab9ae58d5a82f13 | x64          | Default       | msi  | [https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.0/DesktopEditors_x64.msi](https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.0/DesktopEditors_x64.msi)     |
+| 9.3.0   | 25/2/2026 | 560308224 | 93ca3b62e29d25bcb0cf8503899539e9d389aaa916e5826df41f34dcb022ef9d | x86          | Default       | msi  | [https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.0/DesktopEditors_x86.msi](https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.0/DesktopEditors_x86.msi)     |
