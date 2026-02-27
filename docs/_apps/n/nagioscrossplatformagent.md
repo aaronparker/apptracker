@@ -3,7 +3,7 @@ title: Nagios Cross-Platform Agent
 layout: default
 nav_order: 2
 parent: N
-last_modified_date: 23/01/2026 11:36:03 AM
+last_modified_date: 27/02/2026 11:26:46 AM
 ---
 
 ## Nagios Cross-Platform Agent
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                    |
 | ------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------- |
-| 3.2.3   | x64          | exe  | [https://assets.nagios.com/downloads/ncpa3/ncpa-latest.exe](https://assets.nagios.com/downloads/ncpa3/ncpa-latest.exe) |
+| 3.3.0   | x64          | exe  | [https://assets.nagios.com/downloads/ncpa3/ncpa-latest.exe](https://assets.nagios.com/downloads/ncpa3/ncpa-latest.exe) |

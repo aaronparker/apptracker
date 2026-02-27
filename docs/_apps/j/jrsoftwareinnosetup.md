@@ -3,7 +3,7 @@ title: jrsoftware InnoSetup
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 26/02/2026 11:31:42 AM
+last_modified_date: 27/02/2026 11:26:46 AM
 ---
 
 ## jrsoftware InnoSetup
@@ -14,6 +14,6 @@ Evergreen app: `jrsoftwareInnoSetup`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | URI                                                                                              |
-| ------- | ------------------------------------------------------------------------------------------------ |
-| 6.7.1   | [https://files.innosetup.nl/innosetup-6.7.1.exe](https://files.innosetup.nl/innosetup-6.7.1.exe) |
+| Version | URI                                                                                                            |
+| ------- | -------------------------------------------------------------------------------------------------------------- |
+| 6.7.1   | [https://files.jrsoftware.org/is/6/innosetup-6.7.1.exe](https://files.jrsoftware.org/is/6/innosetup-6.7.1.exe) |

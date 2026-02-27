@@ -3,7 +3,7 @@ title: OpenRefine OpenRefine
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 09/12/2025 4:41:44 AM
+last_modified_date: 27/02/2026 11:26:46 AM
 ---
 
 ## OpenRefine OpenRefine
@@ -14,6 +14,6 @@ Evergreen app: `OpenRefine`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date     | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                            |
-| ------- | -------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 3.9.5   | 2/9/2025 | 175178903 | 39d8099c80cf6ecc7d7204c9420196cc231099af721c160ce0cc202127dd03e6 | x86          | Default       | exe  | [https://github.com/OpenRefine/OpenRefine/releases/download/3.9.5/openrefine-win-with-java-installer-3.9.5.exe](https://github.com/OpenRefine/OpenRefine/releases/download/3.9.5/openrefine-win-with-java-installer-3.9.5.exe) |
+| Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                                |
+| ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3.10.0  | 26/2/2026 | 173207869 | 2e979e4a301d5e4173ff8a5cbf4e24d0d0014a0bc3e42737df703823a42f8c76 | x86          | Default       | exe  | [https://github.com/OpenRefine/OpenRefine/releases/download/3.10.0/openrefine-win-with-java-installer-3.10.0.exe](https://github.com/OpenRefine/OpenRefine/releases/download/3.10.0/openrefine-win-with-java-installer-3.10.0.exe) |
