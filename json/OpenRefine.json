@@ -1,12 +1,12 @@
 [
   {
-    "Version": "3.9.5",
-    "Date": "2/9/2025",
-    "Size": 175178903,
-    "Sha256": "39d8099c80cf6ecc7d7204c9420196cc231099af721c160ce0cc202127dd03e6",
+    "Version": "3.10.0",
+    "Date": "26/2/2026",
+    "Size": 173207869,
+    "Sha256": "2e979e4a301d5e4173ff8a5cbf4e24d0d0014a0bc3e42737df703823a42f8c76",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/OpenRefine/OpenRefine/releases/download/3.9.5/openrefine-win-with-java-installer-3.9.5.exe"
+    "URI": "https://github.com/OpenRefine/OpenRefine/releases/download/3.10.0/openrefine-win-with-java-installer-3.10.0.exe"
   }
 ]

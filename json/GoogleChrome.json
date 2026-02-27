@@ -1,7 +1,7 @@
 [
   {
-    "Version": "147.0.7704.0",
-    "StartDate": "2026-02-25T22:11:25.244687Z",
+    "Version": "147.0.7707.0",
+    "StartDate": "2026-02-27T09:47:26.108873Z",
     "EndDate": "N/A",
     "Channel": "Canary",
     "Architecture": "x64",
@@ -9,8 +9,8 @@
     "URI": "https://dl.google.com/update2/installers/chromesetup.exe"
   },
   {
-    "Version": "147.0.7695.0",
-    "StartDate": "2026-02-20T17:19:31.146202Z",
+    "Version": "147.0.7703.0",
+    "StartDate": "2026-02-26T17:17:39.317321Z",
     "EndDate": "N/A",
     "Channel": "Dev",
     "Architecture": "x64",
@@ -18,8 +18,8 @@
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
   },
   {
-    "Version": "147.0.7695.0",
-    "StartDate": "2026-02-20T17:19:31.146202Z",
+    "Version": "147.0.7703.0",
+    "StartDate": "2026-02-26T17:17:39.317321Z",
     "EndDate": "N/A",
     "Channel": "Dev",
     "Architecture": "x86",
