@@ -3,7 +3,7 @@ title: Oleg Shparber Zeal
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 09/12/2025 4:41:44 AM
+last_modified_date: 28/02/2026 11:18:18 AM
 ---
 
 ## Oleg Shparber Zeal
@@ -14,6 +14,6 @@ Evergreen app: `OlegShparberZeal`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date     | Size      | Sha256 | Architecture | InstallerType | Type | URI                                                                                                                                                                          |
-| ------- | -------- | --------- | ------ | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0.7.2   | 8/9/2024 | 114012160 |        | x64          | Default       | msi  | [https://github.com/zealdocs/zeal/releases/download/v0.7.2/zeal-0.7.2-windows-x64.msi](https://github.com/zealdocs/zeal/releases/download/v0.7.2/zeal-0.7.2-windows-x64.msi) |
+| Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                          |
+| ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0.8.0   | 28/2/2026 | 133459968 | ef52de58863c7a9817cbea826c3d656f4b88082268465068cd3c2af55446a74e | x64          | Default       | msi  | [https://github.com/zealdocs/zeal/releases/download/v0.8.0/zeal-0.8.0-windows-x64.msi](https://github.com/zealdocs/zeal/releases/download/v0.8.0/zeal-0.8.0-windows-x64.msi) |

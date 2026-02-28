@@ -3,7 +3,7 @@ title: Meltytech Shotcut
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 01/02/2026 11:35:25 AM
+last_modified_date: 28/02/2026 11:18:18 AM
 ---
 
 ## Meltytech Shotcut
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                              |
 | ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 26.1.30 | 30/1/2026 | 107183056 | eb19e82ac9e00f61a0be81ee1f8a0584ca1038036b282adb375d3bd02c5295e2 | ARM64        | Default       | exe  | [https://github.com/mltframework/shotcut/releases/download/v26.1.30/shotcut-win_ARM-26.1.30.exe](https://github.com/mltframework/shotcut/releases/download/v26.1.30/shotcut-win_ARM-26.1.30.exe) |
-| 26.1.30 | 30/1/2026 | 143472768 | cff8c26fded1de97bf2c780547e89926e00cc0ec548180ce007fb178bd54b925 | x64          | Default       | exe  | [https://github.com/mltframework/shotcut/releases/download/v26.1.30/shotcut-win64-26.1.30.exe](https://github.com/mltframework/shotcut/releases/download/v26.1.30/shotcut-win64-26.1.30.exe)     |
+| 26.2.26 | 26/2/2026 | 106039000 | 13c01476ea2183748a4d1ebe773cb897a2f908c4bddf32374739302780e117cb | ARM64        | Default       | exe  | [https://github.com/mltframework/shotcut/releases/download/v26.2.26/shotcut-win_ARM-26.2.26.exe](https://github.com/mltframework/shotcut/releases/download/v26.2.26/shotcut-win_ARM-26.2.26.exe) |
+| 26.2.26 | 26/2/2026 | 141017664 | 89a4718748da6781f27dacd2106b16faea19da7caa73ec85463630154af374ff | x64          | Default       | exe  | [https://github.com/mltframework/shotcut/releases/download/v26.2.26/shotcut-win64-26.2.26.exe](https://github.com/mltframework/shotcut/releases/download/v26.2.26/shotcut-win64-26.2.26.exe)     |
