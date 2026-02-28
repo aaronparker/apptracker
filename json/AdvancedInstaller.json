@@ -1,9 +1,9 @@
 [
   {
-    "Version": "23.5",
-    "Size": "316979200",
-    "Sha256": "55AE307D18275696ADE6120D9F0BBE5F226B7120A5DD5FB4AA49D3901E849A03",
+    "Version": "23.5.1",
+    "Size": "316978176",
+    "Sha256": "E1BC1F309754611566B4055C678F0A49F6CEEABB395DBE24E07C4C159A134196",
     "Type": "msi",
-    "URI": "https://storage.advancedupdater.cloud/downloads/23.5/advinst.msi"
+    "URI": "https://storage.advancedupdater.cloud/downloads/23.5.1/advinst.msi"
   }
 ]

@@ -1,12 +1,12 @@
 [
   {
-    "Version": "0.7.2",
-    "Date": "8/9/2024",
-    "Size": 114012160,
-    "Sha256": null,
+    "Version": "0.8.0",
+    "Date": "28/2/2026",
+    "Size": 133459968,
+    "Sha256": "ef52de58863c7a9817cbea826c3d656f4b88082268465068cd3c2af55446a74e",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/zealdocs/zeal/releases/download/v0.7.2/zeal-0.7.2-windows-x64.msi"
+    "URI": "https://github.com/zealdocs/zeal/releases/download/v0.8.0/zeal-0.8.0-windows-x64.msi"
   }
 ]
