@@ -1287,14 +1287,14 @@
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1b97d604-3bba-4806-85fa-cf7048e693b5/MicrosoftEdgeEnterpriseX86.msi"
   },
   {
-    "Version": "1.3.221.3",
-    "Date": "2026-02-14T05:06:00",
+    "Version": "1.3.223.11",
+    "Date": "2026-03-01T04:52:00",
     "Channel": "EdgeUpdate",
-    "Expiry": "2027-02-14T05:06:00",
-    "SHA256": "F82C89D017826C274CC76A714BA7C9F062C2C5E8589FD386BE3621FBE19831E6",
+    "Expiry": "2027-03-01T04:52:00",
+    "SHA256": "D4503A589A3F4834B6E552CD40C05F904C75771FAAA462A46674D04D97D56520",
     "Size": 1.6,
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/43e76903-7526-49e2-95b1-454e12a8c13b/MicrosoftEdgeUpdateSetup_X86_1.3.221.3.exe"
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/331e6057-8ed1-4bd5-aa22-bcdba2a142de/MicrosoftEdgeUpdateSetup_X86_1.3.223.11.exe"
   }
 ]
