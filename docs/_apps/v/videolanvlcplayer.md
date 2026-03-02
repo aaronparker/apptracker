@@ -3,7 +3,7 @@ title: VideoLan VLC Player
 layout: default
 nav_order: 2
 parent: V
-last_modified_date: 01/03/2026 11:17:53 AM
+last_modified_date: 02/03/2026 11:32:06 AM
 ---
 
 ## VideoLan VLC Player 
@@ -16,9 +16,9 @@ Last check: 🟢
 
 | Version | Architecture | Type | URI                                                                                                                                                                      |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 3.0.23  | x64          | exe  | [https://mirrors.middlendian.com/videolan-ftp/vlc/3.0.23/win64/vlc-3.0.23-win64.exe](https://mirrors.middlendian.com/videolan-ftp/vlc/3.0.23/win64/vlc-3.0.23-win64.exe) |
+| 3.0.23  | x64          | exe  | [https://mirrors.middlendian.com/vlc/vlc/3.0.23/win64/vlc-3.0.23-win64.exe](https://mirrors.middlendian.com/vlc/vlc/3.0.23/win64/vlc-3.0.23-win64.exe)                   |
 | 3.0.23  | x86          | exe  | [https://mirrors.middlendian.com/videolan-ftp/vlc/3.0.23/win32/vlc-3.0.23-win32.exe](https://mirrors.middlendian.com/videolan-ftp/vlc/3.0.23/win32/vlc-3.0.23-win32.exe) |
-| 3.0.23  | x64          | msi  | [https://mirrors.middlendian.com/videolan-ftp/vlc/3.0.23/win64/vlc-3.0.23-win64.msi](https://mirrors.middlendian.com/videolan-ftp/vlc/3.0.23/win64/vlc-3.0.23-win64.msi) |
+| 3.0.23  | x64          | msi  | [https://mirrors.middlendian.com/vlc/vlc/3.0.23/win64/vlc-3.0.23-win64.msi](https://mirrors.middlendian.com/vlc/vlc/3.0.23/win64/vlc-3.0.23-win64.msi)                   |
 | 3.0.23  | x86          | msi  | [https://mirrors.middlendian.com/videolan-ftp/vlc/3.0.23/win32/vlc-3.0.23-win32.msi](https://mirrors.middlendian.com/videolan-ftp/vlc/3.0.23/win32/vlc-3.0.23-win32.msi) |
-| 3.0.23  | x64          | zip  | [https://mirrors.middlendian.com/videolan-ftp/vlc/3.0.23/win64/vlc-3.0.23-win64.zip](https://mirrors.middlendian.com/videolan-ftp/vlc/3.0.23/win64/vlc-3.0.23-win64.zip) |
+| 3.0.23  | x64          | zip  | [https://mirrors.middlendian.com/vlc/vlc/3.0.23/win64/vlc-3.0.23-win64.zip](https://mirrors.middlendian.com/vlc/vlc/3.0.23/win64/vlc-3.0.23-win64.zip)                   |
 | 3.0.23  | x86          | zip  | [https://mirrors.middlendian.com/videolan-ftp/vlc/3.0.23/win32/vlc-3.0.23-win32.zip](https://mirrors.middlendian.com/videolan-ftp/vlc/3.0.23/win32/vlc-3.0.23-win32.zip) |

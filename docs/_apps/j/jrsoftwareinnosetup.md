@@ -12,7 +12,10 @@ last_modified_date: 27/02/2026 11:26:46 AM
 
 Evergreen app: `jrsoftwareInnoSetup`. Found **1** installer.
 
-Last check: 🟢
+Last check: 🔴
+```
+Get-jrsoftwareInnoSetup: Failed to extract the version information from the uri.
+```
 
 | Version | URI                                                                                                            |
 | ------- | -------------------------------------------------------------------------------------------------------------- |
