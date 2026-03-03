@@ -3,7 +3,7 @@ title: Marcin Szeniak Bulk Crap Uninstaller
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 09/12/2025 4:41:44 AM
+last_modified_date: 03/03/2026 11:29:58 AM
 ---
 
 ## Marcin Szeniak Bulk Crap Uninstaller
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date     | Size    | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                            |
 | ------- | -------- | ------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 5.9     | 1/7/2025 | 8175399 | 1983cc74c1a17ffcae1f3b41b1a8182782ca50006158dff1323691afe1928b17 | x86          | Default       | exe  | [https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v5.9/BCUninstaller_5.9.0_setup.exe](https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v5.9/BCUninstaller_5.9.0_setup.exe) |
+| 6.0     | 3/3/2026 | 8577052 | df26bdff0b888a6b88656ac16120cd6921bf81b2b2514ad84c72186bf1046bdf | x86          | Default       | exe  | [https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v6.0/BCUninstaller_6.0.0_setup.exe](https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v6.0/BCUninstaller_6.0.0_setup.exe) |
