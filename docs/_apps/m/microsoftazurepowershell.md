@@ -3,7 +3,7 @@ title: Microsoft Azure PowerShell
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 03/02/2026 11:39:58 AM
+last_modified_date: 04/03/2026 11:24:45 AM
 ---
 
 ## Microsoft Azure PowerShell
@@ -14,7 +14,7 @@ Evergreen app: `MicrosoftAzurePowerShell`. Found **2** installers.
 
 Last check: 🟢
 
-| Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                                  |
-| ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 15.3.0  | 27/1/2026 | 128249856 | 897ba92c3b00025592501bccdad0075d754f9ac6abd6048a7032f6cd81bc9992 | x64          | Default       | msi  | [https://github.com/Azure/azure-powershell/releases/download/v15.3.0-February2026/Az-Cmdlets-15.3.0.40553-x64.msi](https://github.com/Azure/azure-powershell/releases/download/v15.3.0-February2026/Az-Cmdlets-15.3.0.40553-x64.msi) |
-| 15.3.0  | 27/1/2026 | 123379712 | 65d37a501bb3765103d9fe395ff285bb25e0aa800d97bc9a6a051f9bcfd54b95 | x86          | Default       | msi  | [https://github.com/Azure/azure-powershell/releases/download/v15.3.0-February2026/Az-Cmdlets-15.3.0.40553-x86.msi](https://github.com/Azure/azure-powershell/releases/download/v15.3.0-February2026/Az-Cmdlets-15.3.0.40553-x86.msi) |
+| Version | Date      | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                            |
+| ------- | --------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 15.4.0  | 24/2/2026 | 128561152 | bfd994598ae88f0a00833e975b083d371f32d1074b44f408c06f6458f6a6c057 | x64          | Default       | msi  | [https://github.com/Azure/azure-powershell/releases/download/v15.4.0-March2026/Az-Cmdlets-15.4.0.40597-x64.msi](https://github.com/Azure/azure-powershell/releases/download/v15.4.0-March2026/Az-Cmdlets-15.4.0.40597-x64.msi) |
+| 15.4.0  | 24/2/2026 | 123723776 | 7321fc49b388973620b3c4f59051c743b824f4651b85e020ae1ddcdce2f166d6 | x86          | Default       | msi  | [https://github.com/Azure/azure-powershell/releases/download/v15.4.0-March2026/Az-Cmdlets-15.4.0.40597-x86.msi](https://github.com/Azure/azure-powershell/releases/download/v15.4.0-March2026/Az-Cmdlets-15.4.0.40597-x86.msi) |

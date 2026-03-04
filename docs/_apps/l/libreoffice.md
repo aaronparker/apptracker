@@ -12,7 +12,10 @@ last_modified_date: 23/12/2025 11:34:42 AM
 
 Evergreen app: `LibreOffice`. Found **207** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. (download.documentfoundation.org:443)
+```
 
 | Version | Architecture | Release | Language    | URI                                                                                                                                                                                                                                                                            |
 | ------- | ------------ | ------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

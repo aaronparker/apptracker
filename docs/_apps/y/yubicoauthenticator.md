@@ -3,7 +3,7 @@ title: Yubico Authenticator
 layout: default
 nav_order: 2
 parent: Y
-last_modified_date: 09/10/2025 12:22:17 PM
+last_modified_date: 04/03/2026 11:24:45 AM
 ---
 
 ## Yubico Authenticator
@@ -14,6 +14,6 @@ Evergreen app: `YubicoAuthenticator`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                |
-| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 7.3.1   | 9/10/2025 | 53297152 | a278b9b558315f6eee4798034defe3716dd759ea36c1b0d076fbb386357a61e3 | x64          | Default       | msi  | [https://github.com/Yubico/yubioath-flutter/releases/download/7.3.1/yubico-authenticator-7.3.1-win64.msi](https://github.com/Yubico/yubioath-flutter/releases/download/7.3.1/yubico-authenticator-7.3.1-win64.msi) |
+| Version | Date     | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                                |
+| ------- | -------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 7.3.2   | 4/3/2026 | 60309504 | acf29d33c4716aac2e2bb7cf39a0996967abdc52f4bbae6cfa20b0e4af5f0f53 | x64          | Default       | msi  | [https://github.com/Yubico/yubioath-flutter/releases/download/7.3.2/yubico-authenticator-7.3.2-win64.msi](https://github.com/Yubico/yubioath-flutter/releases/download/7.3.2/yubico-authenticator-7.3.2-win64.msi) |

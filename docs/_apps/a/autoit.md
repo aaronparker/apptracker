@@ -3,7 +3,7 @@ title: AutoIt Scripting Language
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 07/09/2025 12:26:07 PM
+last_modified_date: 04/03/2026 11:24:45 AM
 ---
 
 ## AutoIt Scripting Language
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version  | Date     | Channel | Size     | Type | URI                                                                                                                                                                              |
 | -------- | -------- | ------- | -------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3.3.18.0 | 7/9/2025 | Stable  | 13213768 | exe  | [https://www.autoitscript.com/cgi-bin/getfile.pl?autoit3/autoit-v3.3.18.0-setup.exe](https://www.autoitscript.com/cgi-bin/getfile.pl?autoit3/autoit-v3.3.18.0-setup.exe)         |
+| 3.3.18.0 | 7/9/2025 | Stable  | 13213768 | exe  | [https://www.autoitscript.com/files/autoit3/autoit-v3.3.18.0-setup.exe](https://www.autoitscript.com/files/autoit3/autoit-v3.3.18.0-setup.exe)                                   |
 | 3.3.17.1 | 8/7/2025 | Beta    | 12444144 | exe  | [https://www.autoitscript.com/autoit3/files/beta/autoit/autoit-v3.3.17.1-beta-setup.exe](https://www.autoitscript.com/autoit3/files/beta/autoit/autoit-v3.3.17.1-beta-setup.exe) |
