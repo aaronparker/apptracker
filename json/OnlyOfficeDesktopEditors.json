@@ -1,62 +1,62 @@
 [
   {
-    "Version": "9.3.0",
-    "Date": "25/2/2026",
-    "Size": 307303296,
-    "Sha256": "d50744e813fe6ca8642789683284301d92146fdbde21c0aa17fd0f51f0391710",
+    "Version": "9.3.1",
+    "Date": "3/3/2026",
+    "Size": 307214176,
+    "Sha256": "69ebe9324a4794b5525272d4f086a33d1087c5da4db55e71318c661f625ffc61",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.0/DesktopEditors_arm64.exe"
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.1/DesktopEditors_arm64.exe"
   },
   {
-    "Version": "9.3.0",
-    "Date": "25/2/2026",
-    "Size": 340907768,
-    "Sha256": "5880d0f351d8f1f53be0101e2597f6b60df61f4c70ccb1a9ffa33293f8c2ee53",
+    "Version": "9.3.1",
+    "Date": "3/3/2026",
+    "Size": 340886184,
+    "Sha256": "855d16844018f0178825dacf88f33d7ab1d1eada51ad992553b39110672ec427",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.0/DesktopEditors_x64.exe"
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.1/DesktopEditors_x64.exe"
   },
   {
-    "Version": "9.3.0",
-    "Date": "25/2/2026",
-    "Size": 319280016,
-    "Sha256": "edbb9061e6a500abdb326dff2a5a83d9323e5c5a6b30bd4833a74ab933f000fa",
+    "Version": "9.3.1",
+    "Date": "3/3/2026",
+    "Size": 319308864,
+    "Sha256": "a3045f58c286b6d0f749316c812d74e122f658bdfaedcd2c4a30b85eb6974a14",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.0/DesktopEditors_x86.exe"
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.1/DesktopEditors_x86.exe"
   },
   {
-    "Version": "9.3.0",
-    "Date": "25/2/2026",
-    "Size": 542488576,
-    "Sha256": "306c0b36dd11a17b84e55581d3a6c392f203c6674b0cf63c98b2d52cc368b6c3",
+    "Version": "9.3.1",
+    "Date": "3/3/2026",
+    "Size": 542473728,
+    "Sha256": "ed0fcb89cae50d24e09fb9cfcf85fd3e8129f8f265f51cc7150d86572fb18e7f",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.0/DesktopEditors_arm64.msi"
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.1/DesktopEditors_arm64.msi"
   },
   {
-    "Version": "9.3.0",
-    "Date": "25/2/2026",
-    "Size": 577423360,
-    "Sha256": "47e908da7c767be89d9af2982033a2cd09549282473e5778cab9ae58d5a82f13",
+    "Version": "9.3.1",
+    "Date": "3/3/2026",
+    "Size": 577402880,
+    "Sha256": "46f334aa12fa997dd49d88742a272905e290254148a35c7fed9f59a92d4cba7d",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.0/DesktopEditors_x64.msi"
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.1/DesktopEditors_x64.msi"
   },
   {
-    "Version": "9.3.0",
-    "Date": "25/2/2026",
-    "Size": 560308224,
-    "Sha256": "93ca3b62e29d25bcb0cf8503899539e9d389aaa916e5826df41f34dcb022ef9d",
+    "Version": "9.3.1",
+    "Date": "3/3/2026",
+    "Size": 560384000,
+    "Sha256": "29f0fdb1d46e6d8fd2db4362ff6d96ff795ab572da4b80ea3de97d83bd57a285",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.0/DesktopEditors_x86.msi"
+    "URI": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.3.1/DesktopEditors_x86.msi"
   }
 ]
