@@ -3,7 +3,7 @@ title: Mestrelab Mnova
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 17/10/2025 11:34:49 AM
+last_modified_date: 05/03/2026 11:27:06 AM
 ---
 
 ## Mestrelab Mnova
@@ -16,5 +16,5 @@ Last check: 🟢
 
 | Version | Revision | Architecture | URI                                                                                                                                                          |
 | ------- | -------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 16.0.0  | 39276    | x64          | [http://mestrelab.com/downloads/mnova/win/msi/MestReNova-16.0.0-39276_x64.msi](http://mestrelab.com/downloads/mnova/win/msi/MestReNova-16.0.0-39276_x64.msi) |
+| 17.0.0  | 41118    | x64          | [http://mestrelab.com/downloads/mnova/win/msi/MestReNova-17.0.0-41118_x64.msi](http://mestrelab.com/downloads/mnova/win/msi/MestReNova-17.0.0-41118_x64.msi) |
 | 14.3.3  | 33362    | x86          | [http://mestrelab.com/downloads/mnova/win/msi/MestReNova-14.3.3-33362.msi](http://mestrelab.com/downloads/mnova/win/msi/MestReNova-14.3.3-33362.msi)         |

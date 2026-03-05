@@ -3,7 +3,7 @@ title: JASP
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 15/10/2025 11:30:21 AM
+last_modified_date: 05/03/2026 11:27:06 AM
 ---
 
 ## JASP
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | URI                                                                                                        |
 | ------- | ---------------------------------------------------------------------------------------------------------- |
-| 0.95.4  | [https://static.jasp-stats.org/JASP-0.95.4-64bit.msi](https://static.jasp-stats.org/JASP-0.95.4-64bit.msi) |
+| 0.96.0  | [https://static.jasp-stats.org/JASP-0.96.0-64bit.msi](https://static.jasp-stats.org/JASP-0.96.0-64bit.msi) |

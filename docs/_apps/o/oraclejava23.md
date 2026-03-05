@@ -12,7 +12,10 @@ last_modified_date: 16/04/2025 1:01:20 AM
 
 Evergreen app: `OracleJava23`. Found **3** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+Response status code does not indicate success: 403 (Forbidden).
+```
 
 | Version | FullVersion | Date      | Sha256                                                                       | Type | URI                                                                                                                                            |
 | ------- | ----------- | --------- | ---------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |

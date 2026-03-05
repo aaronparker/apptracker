@@ -3,7 +3,7 @@ title: Jan De Dobbeleer Oh My Posh
 layout: default
 nav_order: 2
 parent: J
-last_modified_date: 27/02/2026 11:26:46 AM
+last_modified_date: 05/03/2026 11:27:06 AM
 ---
 
 ## Jan De Dobbeleer Oh My Posh
@@ -14,9 +14,9 @@ Evergreen app: `JanDeDobbeleerOhMyPosh`. Found **4** installers.
 
 Last check: 🟢
 
-| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                            |
-| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 29.7.0  | 26/2/2026 | 18278856 | 29a69b06236d969a0a465354db0b4d0ae54e459b17d9e4bb95ee7de66ce5962a | ARM64        | Default       | exe  | [https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.7.0/posh-windows-arm64.exe](https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.7.0/posh-windows-arm64.exe) |
-| 29.7.0  | 26/2/2026 | 20018120 | 33e3240df43c196284d0e6f1bb2a9cb7eb931fc1c42bc7f49fa4094664e028be | x64          | Default       | exe  | [https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.7.0/posh-windows-amd64.exe](https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.7.0/posh-windows-amd64.exe) |
-| 29.7.0  | 26/2/2026 | 5652480  | dd94434438c75e48b6b6a336f173a94a65fb3d3ce3eaba73b94e6012181cd04c | ARM64        | Default       | msi  | [https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.7.0/install-arm64.msi](https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.7.0/install-arm64.msi)           |
-| 29.7.0  | 26/2/2026 | 6270976  | 038a3994269a0f2f05be8a294ab590f1aef1e237a67f1592e1d7f7ac175ccf7e | x64          | Default       | msi  | [https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.7.0/install-x64.msi](https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.7.0/install-x64.msi)               |
+| Version | Date     | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                            |
+| ------- | -------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 29.7.1  | 5/3/2026 | 18283464 | 6476266276a1cc717d1824e4317a89982e49dbe652657b6c66c292b95a05a37d | ARM64        | Default       | exe  | [https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.7.1/posh-windows-arm64.exe](https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.7.1/posh-windows-arm64.exe) |
+| 29.7.1  | 5/3/2026 | 20022728 | 676a358042b4dfee8610154c676a8083a1748e5c6f8e5e55ee1b910557d33e65 | x64          | Default       | exe  | [https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.7.1/posh-windows-amd64.exe](https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.7.1/posh-windows-amd64.exe) |
+| 29.7.1  | 5/3/2026 | 5652480  | d58470630a465feef449f67052878eeb94c67adb61028139c656271acede7fee | ARM64        | Default       | msi  | [https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.7.1/install-arm64.msi](https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.7.1/install-arm64.msi)           |
+| 29.7.1  | 5/3/2026 | 6270976  | 3ffb50db6a728daa4887c61512209ee87885537acd68c0508e97e41bb9d996d9 | x64          | Default       | msi  | [https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.7.1/install-x64.msi](https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.7.1/install-x64.msi)               |
