@@ -1,22 +1,22 @@
 [
   {
-    "Version": "5.11.0",
-    "Date": "13/1/2026",
-    "Size": 305453568,
-    "Sha256": "294d4c3907137e789b16b15990bab64380eff5df7c7d9d0d06ec83966f36ffa0",
+    "Version": "5.12.0",
+    "Date": "5/3/2026",
+    "Size": 167291168,
+    "Sha256": "3525bfe5c73ab77e4c26050efb8cb415ea43240ff1714cb1a3abb7800b5f2a35",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Ultimaker/Cura/releases/download/5.11.0/UltiMaker-Cura-5.11.0-win64-X64.exe"
+    "URI": "https://github.com/Ultimaker/Cura/releases/download/5.12.0/UltiMaker-Cura-5.12.0-win64-X64.exe"
   },
   {
-    "Version": "5.11.0",
-    "Date": "13/1/2026",
-    "Size": 341180416,
-    "Sha256": "516c98b40fa49f2da4640b379641ac43e9ae4e72fe363f937b85b14ffe99272f",
+    "Version": "5.12.0",
+    "Date": "5/3/2026",
+    "Size": 181714944,
+    "Sha256": "76b1559cae74940393e2f6e797d017e21386489a9b5620f7001b1d51f7182a68",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/Ultimaker/Cura/releases/download/5.11.0/UltiMaker-Cura-5.11.0-win64-X64.msi"
+    "URI": "https://github.com/Ultimaker/Cura/releases/download/5.12.0/UltiMaker-Cura-5.12.0-win64-X64.msi"
   }
 ]
