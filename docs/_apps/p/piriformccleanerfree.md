@@ -3,7 +3,7 @@ title: Piriform CCleaner Free
 layout: default
 nav_order: 2
 parent: P
-last_modified_date: 06/03/2026 11:21:45 AM
+last_modified_date: 07/03/2026 11:18:50 AM
 ---
 
 ## Piriform CCleaner Free
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version  | Filename             | URI                                                                                                                                                                                                                                  |
 | -------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 7.5.1255 | ccupdate705_free.exe | [https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/](https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/) |
+| 7.4.1172 | ccupdate704_free.exe | [https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/](https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/) |

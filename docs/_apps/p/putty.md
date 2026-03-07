@@ -12,7 +12,10 @@ last_modified_date: 08/02/2025 12:17:46 PM
 
 Evergreen app: `PuTTY`. Found **3** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+You cannot call a method on a null-valued expression.
+```
 
 | Version | Architecture | Type | URI                                                                                                                                                                |
 | ------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
