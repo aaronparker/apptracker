@@ -1,12 +1,12 @@
 [
   {
-    "Version": "3.0.17",
-    "Date": "6/3/2026",
-    "Size": 46654576,
-    "Sha256": "169c5cff865cdd8e0a3cbcb20eb437d44eafee9e14446713dac7f4c9b7562e51",
+    "Version": "3.0.18",
+    "Date": "7/3/2026",
+    "Size": 46653184,
+    "Sha256": "a7b3408401186a91123bd31a8610fb119232c559952e49fb6befec83a4b0cd5e",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/thewh1teagle/vibe/releases/download/v3.0.17/vibe_3.0.17_x64-setup.exe"
+    "URI": "https://github.com/thewh1teagle/vibe/releases/download/v3.0.18/vibe_3.0.18_x64-setup.exe"
   }
 ]
