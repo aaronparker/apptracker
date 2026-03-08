@@ -12,7 +12,10 @@ last_modified_date: 04/02/2026 11:41:52 AM
 
 Evergreen app: `AzulZulu25`. Found **4** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+The script 'Get-AzulZulu25.ps1' cannot be run because the following modules that are specified by the "#requires" statements of the script are missing: Evergreen.
+```
 
 | Version    | JavaVersion | ImageType | Architecture | Type | URI                                                                                                                                              |
 | ---------- | ----------- | --------- | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
