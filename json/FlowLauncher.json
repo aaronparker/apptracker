@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2.1.0",
-    "Date": "24/2/2026",
-    "Size": 99870720,
-    "Sha256": "02ef6900b778b1debc9458a2ee8739c9eae0d43e748ebe0179e3749eab0f5630",
+    "Version": "2.1.1",
+    "Date": "9/3/2026",
+    "Size": 98785280,
+    "Sha256": "e4dafc938d71c442cabe680d8d71c4464b23ac14c38e74d7c4d7e327a07fd80d",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Flow-Launcher/Flow.Launcher/releases/download/v2.1.0/Flow-Launcher-Setup.exe"
+    "URI": "https://github.com/Flow-Launcher/Flow.Launcher/releases/download/v2.1.1/Flow-Launcher-Setup.exe"
   }
 ]

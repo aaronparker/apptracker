@@ -1,82 +1,82 @@
 [
   {
-    "Version": "1.10.2",
-    "Date": "6/9/2025",
-    "Size": 18252016,
-    "Sha256": "d1edb0bb61a725b1919bf2d0f17dad3de7b78b175cf3196b2b320eb3f50a07c3",
+    "Version": "1.11.0",
+    "Date": "8/3/2026",
+    "Size": 18570536,
+    "Sha256": "41cca794716a8a05a12d748ad7c6d16fa0ba3c7c83ea1919822c422ee9685249",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.10.2/HandBrake-1.10.2-arm64-Win_GUI.exe"
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.11.0/HandBrake-1.11.0-arm64-Win_GUI.exe"
   },
   {
-    "Version": "1.10.2",
-    "Date": "6/9/2025",
-    "Size": 24303536,
-    "Sha256": "ff868bb43c19a4fd8bec8f4b9d83a756f6818cf4b229012715f35eb2416673cd",
+    "Version": "1.11.0",
+    "Date": "8/3/2026",
+    "Size": 25276296,
+    "Sha256": "ca41b35f173dd161f5d5ce0bad6c9f989c00e5a2653b14c913884cfbeb2f00d5",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.10.2/HandBrake-1.10.2-x86_64-Win_GUI.exe"
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.11.0/HandBrake-1.11.0-x86_64-Win_GUI.exe"
   },
   {
-    "Version": "1.10.2",
-    "Date": "6/9/2025",
-    "Size": 27130047,
-    "Sha256": "478c192deecb70353c39e9e7d0b196624ed9316ed275eead4871b5c353a305b3",
+    "Version": "1.11.0",
+    "Date": "8/3/2026",
+    "Size": 27401549,
+    "Sha256": "750d8fec962150e89bc4b438c4e927c0a4fce1c28c71b3f1410cff2aeeb063db",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.10.2/HandBrake-1.10.2-arm64-Win_GUI.zip"
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.11.0/HandBrake-1.11.0-arm64-Win_GUI.zip"
   },
   {
-    "Version": "1.10.2",
-    "Date": "6/9/2025",
-    "Size": 18154322,
-    "Sha256": "a4709c5a64b9f1cfeb5aa271d8081699b325e363e367b9619ef3449a33c9885b",
+    "Version": "1.11.0",
+    "Date": "8/3/2026",
+    "Size": 19299625,
+    "Sha256": "2f0374f1cf085be341ac49c2daa9b8c3f31ba1d8c824e1877589b39044332f9f",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.10.2/HandBrakeCLI-1.10.2-win-aarch64.zip"
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.11.0/HandBrakeCLI-1.11.0-win-aarch64.zip"
   },
   {
-    "Version": "1.10.2",
-    "Date": "6/9/2025",
-    "Size": 18421921,
-    "Sha256": "2d8889077a1677ed2c1270d10eef0ac696f3e724d5a39f5925479ab7cb9ab269",
+    "Version": "1.11.0",
+    "Date": "8/3/2026",
+    "Size": 19601120,
+    "Sha256": "41135eb56f5001659003c7bcbbbe7e0a29b1a13eafc51c53601e6131452796ab",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.10.2/LibHB-1.10.2-win-aarch64.zip"
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.11.0/LibHB-1.11.0-win-aarch64.zip"
   },
   {
-    "Version": "1.10.2",
-    "Date": "6/9/2025",
-    "Size": 33469248,
-    "Sha256": "5a64cead359cbc39f453f61f3a2c35748872690d4c3cc9f22b7c04bd8dda625d",
+    "Version": "1.11.0",
+    "Date": "8/3/2026",
+    "Size": 34918576,
+    "Sha256": "a3fcfa5ea781f062a4288552a243f26ceeada087cdc1cd60d8891abdbb5991e8",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.10.2/HandBrake-1.10.2-x86_64-Win_GUI.zip"
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.11.0/HandBrake-1.11.0-x86_64-Win_GUI.zip"
   },
   {
-    "Version": "1.10.2",
-    "Date": "6/9/2025",
-    "Size": 22668272,
-    "Sha256": "f0fc3b1c3c4b7a24618417ff6a1f50e2158ad9dab68717f7997c2ea3a5895004",
+    "Version": "1.11.0",
+    "Date": "8/3/2026",
+    "Size": 25708443,
+    "Sha256": "dd3486717ca417b54746e2ccedeaaba2fd982d0236261c4529b4d7d788adc593",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.10.2/HandBrakeCLI-1.10.2-win-x86_64.zip"
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.11.0/HandBrakeCLI-1.11.0-win-x86_64.zip"
   },
   {
-    "Version": "1.10.2",
-    "Date": "6/9/2025",
-    "Size": 23174204,
-    "Sha256": "01abfaf6d8e954a3347af357ce9c21867415316dafb31787c69f2bf9ab23d6ba",
+    "Version": "1.11.0",
+    "Date": "8/3/2026",
+    "Size": 26193203,
+    "Sha256": "e12d2d42e39657d20529289059edddd01c16532b46c0d452e67f25c50a453ffa",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.10.2/LibHB-1.10.2-win-x86_64.zip"
+    "URI": "https://github.com/HandBrake/HandBrake/releases/download/1.11.0/LibHB-1.11.0-win-x86_64.zip"
   }
 ]
