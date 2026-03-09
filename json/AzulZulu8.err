@@ -1,1 +1,0 @@
-The script 'Get-AzulZulu8.ps1' cannot be run because the following modules that are specified by the "#requires" statements of the script are missing: Evergreen.

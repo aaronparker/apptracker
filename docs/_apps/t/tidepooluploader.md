@@ -3,7 +3,7 @@ title: Tidepool Project Tidepool Uploader
 layout: default
 nav_order: 2
 parent: T
-last_modified_date: 16/12/2025 11:36:37 AM
+last_modified_date: 09/03/2026 11:34:03 AM
 ---
 
 ## Tidepool Project Tidepool Uploader
@@ -14,6 +14,6 @@ Evergreen app: `TidepoolUploader`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date       | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                            |
-| ------- | ---------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.64.1  | 15/12/2025 | 108140728 | 30970d15022e339f8395a44d6cf908c9a9e2d88577184ed89ffd61f1d3d55a2e | x64          | Default       | exe  | [https://github.com/tidepool-org/uploader/releases/download/v2.64.1/Tidepool-Uploader-Setup-2.64.1.exe](https://github.com/tidepool-org/uploader/releases/download/v2.64.1/Tidepool-Uploader-Setup-2.64.1.exe) |
+| Version | Date     | Size      | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                            |
+| ------- | -------- | --------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2.65.0  | 3/3/2026 | 116485176 | 2cf2c524fc0dde4ce7e1174107c6e1d4fc6747cbc590ac62915bb67d6d34edf1 | x86          | Default       | exe  | [https://github.com/tidepool-org/uploader/releases/download/v2.65.0/Tidepool-Uploader-Setup-2.65.0.exe](https://github.com/tidepool-org/uploader/releases/download/v2.65.0/Tidepool-Uploader-Setup-2.65.0.exe) |
