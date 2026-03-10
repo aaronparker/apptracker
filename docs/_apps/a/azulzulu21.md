@@ -3,23 +3,26 @@ title: Azul Zulu 21
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 04/02/2026 11:41:52 AM
+last_modified_date: 10/03/2026 11:27:51 AM
 ---
 
 ## Azul Zulu 21
 
 [Source](https://www.azul.com/downloads/#zulu)
 
-Evergreen app: `AzulZulu21`. Found **4** installers.
+Evergreen app: `AzulZulu21`. Found **10** installers.
 
-Last check: 🔴
-```
-The script 'Get-AzulZulu21.ps1' cannot be run because the following modules that are specified by the "#requires" statements of the script are missing: Evergreen.
-```
+Last check: 🟢
 
-| Version    | JavaVersion | ImageType | Architecture | Type | URI                                                                                                                                                |
-| ---------- | ----------- | --------- | ------------ | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 21.48.17.0 | 21.0.10+7   | JRE       | x64          | msi  | [https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-jre21.0.10-win_x64.msi](https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-jre21.0.10-win_x64.msi)       |
-| 21.48.17.0 | 21.0.10+7   | JDK       | x64          | msi  | [https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-jdk21.0.10-win_x64.msi](https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-jdk21.0.10-win_x64.msi)       |
-| 21.48.17.0 | 21.0.10+7   | JRE       | x64          | msi  | [https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-fx-jre21.0.10-win_x64.msi](https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-fx-jre21.0.10-win_x64.msi) |
-| 21.48.17.0 | 21.0.10+7   | JDK       | x64          | msi  | [https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-fx-jdk21.0.10-win_x64.msi](https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-fx-jdk21.0.10-win_x64.msi) |
+| Version    | JavaVersion | ImageType | Architecture | Type | URI                                                                                                                                                  |
+| ---------- | ----------- | --------- | ------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 21.48.17.0 | 21.0.10+7   | JRE       | x64          | msi  | [https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-jre21.0.10-win_x64.msi](https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-jre21.0.10-win_x64.msi)         |
+| 21.48.17.0 | 21.0.10+7   | JDK       | x64          | msi  | [https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-jdk21.0.10-win_x64.msi](https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-jdk21.0.10-win_x64.msi)         |
+| 21.48.17.0 | 21.0.10+7   | JREFX     | x64          | msi  | [https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-fx-jre21.0.10-win_x64.msi](https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-fx-jre21.0.10-win_x64.msi)   |
+| 21.48.17.0 | 21.0.10+7   | JDKFX     | x64          | msi  | [https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-fx-jdk21.0.10-win_x64.msi](https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-fx-jdk21.0.10-win_x64.msi)   |
+| 21.48.17.0 | 21.0.10+7   | JRE       | ARM64        | zip  | [https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-jre21.0.10-win_aarch64.zip](https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-jre21.0.10-win_aarch64.zip) |
+| 21.48.17.0 | 21.0.10+7   | JDK       | ARM64        | zip  | [https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-jdk21.0.10-win_aarch64.zip](https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-jdk21.0.10-win_aarch64.zip) |
+| 21.48.17.0 | 21.0.10+7   | JRE       | x64          | zip  | [https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-jre21.0.10-win_x64.zip](https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-jre21.0.10-win_x64.zip)         |
+| 21.48.17.0 | 21.0.10+7   | JDK       | x64          | zip  | [https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-jdk21.0.10-win_x64.zip](https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-jdk21.0.10-win_x64.zip)         |
+| 21.48.17.0 | 21.0.10+7   | JREFX     | x64          | zip  | [https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-fx-jre21.0.10-win_x64.zip](https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-fx-jre21.0.10-win_x64.zip)   |
+| 21.48.17.0 | 21.0.10+7   | JDKFX     | x64          | zip  | [https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-fx-jdk21.0.10-win_x64.zip](https://cdn.azul.com/zulu/bin/zulu21.48.17-ca-fx-jdk21.0.10-win_x64.zip)   |
