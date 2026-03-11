@@ -3,20 +3,22 @@ title: dnGrep
 layout: default
 nav_order: 2
 parent: D
-last_modified_date: 12/02/2026 11:45:13 AM
+last_modified_date: 11/03/2026 11:31:43 AM
 ---
 
 ## dnGrep
 
 [Source](https://dngrep.github.io/)
 
-Evergreen app: `dnGrep`. Found **4** installers.
+Evergreen app: `dnGrep`. Found **6** installers.
 
 Last check: 🟢
 
-| Version   | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                              |
-| --------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4.6.110.0 | 11/2/2026 | 79699968 | 687d3f3f4a7bd567bcbf5c1a12a5f09b6d3fc2764d33a7e38c4a55c5dfb00213 | x64          | Default       | msi  | [https://github.com/dnGrep/dnGrep/releases/download/v4.6.110.0/dnGREP.4.6.110.x64.msi](https://github.com/dnGrep/dnGrep/releases/download/v4.6.110.0/dnGREP.4.6.110.x64.msi)     |
-| 4.6.110.0 | 11/2/2026 | 73392128 | 032860b25c6519f09eae0017456226e066615c69548335ef9546e14484a42614 | x86          | Default       | msi  | [https://github.com/dnGrep/dnGrep/releases/download/v4.6.110.0/dnGREP.4.6.110.x86.msi](https://github.com/dnGrep/dnGrep/releases/download/v4.6.110.0/dnGREP.4.6.110.x86.msi)     |
-| 4.6.110.0 | 11/2/2026 | 81026370 | 9b406940c0cc5e0d9207852a3d2aebd94b884f6e6204ae0f1320356388a995aa | x64          | Default       | zip  | [https://github.com/dnGrep/dnGrep/releases/download/v4.6.110.0/dnGrep.4.6.110.0.x64.zip](https://github.com/dnGrep/dnGrep/releases/download/v4.6.110.0/dnGrep.4.6.110.0.x64.zip) |
-| 4.6.110.0 | 11/2/2026 | 74457499 | c96833a4e0379682fdfd94fa3712b344fe42ffe24a08950ca375d672b57779e5 | x86          | Default       | zip  | [https://github.com/dnGrep/dnGrep/releases/download/v4.6.110.0/dnGrep.4.6.110.0.x86.zip](https://github.com/dnGrep/dnGrep/releases/download/v4.6.110.0/dnGrep.4.6.110.0.x86.zip) |
+| Version  | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                              |
+| -------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 4.7.10.0 | 10/3/2026 | 65200128 | 21d91242efd13760a1b0e6fcf90328d748b25b7a6b1774001fb2b27c96bc32da | ARM64        | Default       | msi  | [https://github.com/dnGrep/dnGrep/releases/download/v4.7.10.0/dnGREP.4.7.10.ARM64.msi](https://github.com/dnGrep/dnGrep/releases/download/v4.7.10.0/dnGREP.4.7.10.ARM64.msi)     |
+| 4.7.10.0 | 10/3/2026 | 70905856 | e19c8eaedb21b2a0fe1c7245e31b9727aad50f89ef1bd47792b2934a40470b47 | x64          | Default       | msi  | [https://github.com/dnGrep/dnGrep/releases/download/v4.7.10.0/dnGREP.4.7.10.x64.msi](https://github.com/dnGrep/dnGrep/releases/download/v4.7.10.0/dnGREP.4.7.10.x64.msi)         |
+| 4.7.10.0 | 10/3/2026 | 65220608 | e7aa89df02c0baae10f02fd0dc5c0d7debe53e7c633479366240f0ceda6c9d47 | x86          | Default       | msi  | [https://github.com/dnGrep/dnGrep/releases/download/v4.7.10.0/dnGREP.4.7.10.x86.msi](https://github.com/dnGrep/dnGrep/releases/download/v4.7.10.0/dnGREP.4.7.10.x86.msi)         |
+| 4.7.10.0 | 10/3/2026 | 76228393 | 30afa706dcae9ced3a6be3a7ca4eb60d65622e7e6786646ac78edebd07650a7f | ARM64        | Default       | zip  | [https://github.com/dnGrep/dnGrep/releases/download/v4.7.10.0/dnGrep.4.7.10.0.ARM64.zip](https://github.com/dnGrep/dnGrep/releases/download/v4.7.10.0/dnGrep.4.7.10.0.ARM64.zip) |
+| 4.7.10.0 | 10/3/2026 | 81078663 | 3f8b9620468849aa0106ea071cb509d7a12cf20bca10c40ebcf708979ae82381 | x64          | Default       | zip  | [https://github.com/dnGrep/dnGrep/releases/download/v4.7.10.0/dnGrep.4.7.10.0.x64.zip](https://github.com/dnGrep/dnGrep/releases/download/v4.7.10.0/dnGrep.4.7.10.0.x64.zip)     |
+| 4.7.10.0 | 10/3/2026 | 74497193 | d0b9e9bc3539bfb19863baa5b23257a1e9b7d041a1a1525ba6056233e6f31032 | x86          | Default       | zip  | [https://github.com/dnGrep/dnGrep/releases/download/v4.7.10.0/dnGrep.4.7.10.0.x86.zip](https://github.com/dnGrep/dnGrep/releases/download/v4.7.10.0/dnGrep.4.7.10.0.x86.zip)     |

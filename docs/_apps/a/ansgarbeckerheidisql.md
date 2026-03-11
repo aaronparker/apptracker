@@ -3,7 +3,7 @@ title: Ansgar Becker HeidiSQL
 layout: default
 nav_order: 2
 parent: A
-last_modified_date: 31/01/2026 11:34:29 AM
+last_modified_date: 11/03/2026 11:31:43 AM
 ---
 
 ## Ansgar Becker HeidiSQL
@@ -14,6 +14,6 @@ Evergreen app: `AnsgarBeckerHeidiSQL`. Found **1** installer.
 
 Last check: 🟢
 
-| Version   | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                                    |
-| --------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 12.15.1.1 | 30/1/2026 | 17701464 | 1b46636e7d9e3a101e7062d9ea5f870bfea7f8906b1feb373c586c6ed4b82e40 | x86          | Default       | exe  | [https://github.com/HeidiSQL/HeidiSQL/releases/download/v12.15.1.1/HeidiSQL_12.15.0.7171_Setup.exe](https://github.com/HeidiSQL/HeidiSQL/releases/download/v12.15.1.1/HeidiSQL_12.15.0.7171_Setup.exe) |
+| Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                                            |
+| ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 12.16   | 10/3/2026 | 17710136 | d6632c9fb7041aa6cf9b7f72e36b8cf7c5c5b5aac14265c7d55a39ea32613a91 | x86          | Default       | exe  | [https://github.com/HeidiSQL/HeidiSQL/releases/download/v12.16/HeidiSQL_12.16.0.7229_Setup.exe](https://github.com/HeidiSQL/HeidiSQL/releases/download/v12.16/HeidiSQL_12.16.0.7229_Setup.exe) |

@@ -3,7 +3,7 @@ title: Microsoft SQL Server Management Studio 22
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 04/03/2026 11:24:45 AM
+last_modified_date: 11/03/2026 11:31:43 AM
 ---
 
 ## Microsoft SQL Server Management Studio 22
@@ -16,4 +16,4 @@ Last check: 🟢
 
 | Version | Date      | Type | URI                                                                                                                                                                                                                                                                                                                                                    |
 | ------- | --------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 22.3.2  | 20/2/2026 | exe  | [https://download.visualstudio.microsoft.com/download/pr/2b23517b-e100-42e1-a560-063af6edc4ec/11afc06e10a3e19ec60f9ca7b768ed68b9a74d8fcff5f6acac275127ba60c965/vs_SSMS.exe](https://download.visualstudio.microsoft.com/download/pr/2b23517b-e100-42e1-a560-063af6edc4ec/11afc06e10a3e19ec60f9ca7b768ed68b9a74d8fcff5f6acac275127ba60c965/vs_SSMS.exe) |
+| 22.3.2  | 28/2/2026 | exe  | [https://download.visualstudio.microsoft.com/download/pr/c7f9c40d-5956-4fa0-bd04-b866c2461198/58efa2590bf79fcea84f35cb6d0c5f6b852f7aa21a8e40939d1fdfe9cba80650/vs_SSMS.exe](https://download.visualstudio.microsoft.com/download/pr/c7f9c40d-5956-4fa0-bd04-b866c2461198/58efa2590bf79fcea84f35cb6d0c5f6b852f7aa21a8e40939d1fdfe9cba80650/vs_SSMS.exe) |
