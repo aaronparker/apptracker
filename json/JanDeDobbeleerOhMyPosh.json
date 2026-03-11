@@ -1,42 +1,42 @@
 [
   {
-    "Version": "29.7.1",
-    "Date": "5/3/2026",
+    "Version": "29.8.0",
+    "Date": "10/3/2026",
     "Size": 18283464,
-    "Sha256": "6476266276a1cc717d1824e4317a89982e49dbe652657b6c66c292b95a05a37d",
+    "Sha256": "ae83cad9356c2d18e3bfb965d656bc016b62cf9ad3b1896ec05179e324818672",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.7.1/posh-windows-arm64.exe"
+    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.8.0/posh-windows-arm64.exe"
   },
   {
-    "Version": "29.7.1",
-    "Date": "5/3/2026",
-    "Size": 20022728,
-    "Sha256": "676a358042b4dfee8610154c676a8083a1748e5c6f8e5e55ee1b910557d33e65",
+    "Version": "29.8.0",
+    "Date": "10/3/2026",
+    "Size": 20023240,
+    "Sha256": "c78712cf186617237a02fd675b25c4c28359f9be626088caebd471b8788af618",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.7.1/posh-windows-amd64.exe"
+    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.8.0/posh-windows-amd64.exe"
   },
   {
-    "Version": "29.7.1",
-    "Date": "5/3/2026",
-    "Size": 5652480,
-    "Sha256": "d58470630a465feef449f67052878eeb94c67adb61028139c656271acede7fee",
+    "Version": "29.8.0",
+    "Date": "10/3/2026",
+    "Size": 5660672,
+    "Sha256": "be2ce0a5b279611334a97ca8012bbf18f6af4241570b1154ec2312ec20d4fbfa",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.7.1/install-arm64.msi"
+    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.8.0/install-arm64.msi"
   },
   {
-    "Version": "29.7.1",
-    "Date": "5/3/2026",
+    "Version": "29.8.0",
+    "Date": "10/3/2026",
     "Size": 6270976,
-    "Sha256": "3ffb50db6a728daa4887c61512209ee87885537acd68c0508e97e41bb9d996d9",
+    "Sha256": "abb46f824beae3487b28f49b38def18b6faaeb364c82d13985ba740292481747",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.7.1/install-x64.msi"
+    "URI": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.8.0/install-x64.msi"
   }
 ]

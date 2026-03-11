@@ -1,32 +1,32 @@
 [
   {
-    "Version": "2.87.3",
-    "Date": "23/2/2026",
-    "Size": 12771328,
-    "Sha256": "49b7e5d4485bf7b7df04562e996cbf0568160bb381aeb83b276efc6cf526146a",
+    "Version": "2.88.0",
+    "Date": "10/3/2026",
+    "Size": 12853248,
+    "Sha256": "9186da188455c00a6c34819dc6d9096a751b2ab263b77c367ddc5c7b6669942f",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/cli/cli/releases/download/v2.87.3/gh_2.87.3_windows_arm64.msi"
+    "URI": "https://github.com/cli/cli/releases/download/v2.88.0/gh_2.88.0_windows_arm64.msi"
   },
   {
-    "Version": "2.87.3",
-    "Date": "23/2/2026",
-    "Size": 14188544,
-    "Sha256": "6a7f1e3b26a23f5f799934d85b36906327a7c1d1ae002d332e73fa670ecc463a",
+    "Version": "2.88.0",
+    "Date": "10/3/2026",
+    "Size": 14336000,
+    "Sha256": "ff034aec64d5765abb6f86475665807da9aea68e930bccc6f095b1760dcb6f6b",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/cli/cli/releases/download/v2.87.3/gh_2.87.3_windows_amd64.msi"
+    "URI": "https://github.com/cli/cli/releases/download/v2.88.0/gh_2.88.0_windows_amd64.msi"
   },
   {
-    "Version": "2.87.3",
-    "Date": "23/2/2026",
-    "Size": 13570048,
-    "Sha256": "fb93750da20d96fb786b2b369c5247c68afe37c31ffa725e63263d8227bebf69",
+    "Version": "2.88.0",
+    "Date": "10/3/2026",
+    "Size": 13742080,
+    "Sha256": "1cdd41c39190fbd50fa43219a96f4e29e19f7d5eaa15d092338c093a1ca48482",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/cli/cli/releases/download/v2.87.3/gh_2.87.3_windows_386.msi"
+    "URI": "https://github.com/cli/cli/releases/download/v2.88.0/gh_2.88.0_windows_386.msi"
   }
 ]
