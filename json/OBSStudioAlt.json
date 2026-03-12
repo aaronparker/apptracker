@@ -1,52 +1,52 @@
 [
   {
-    "Version": "32.0.4",
-    "Date": "13/12/2025",
-    "Size": 157503576,
-    "Sha256": "46a18bce8e2ff662b700c91d340a519376e712fe0af0d335536e4f9fd253f10a",
+    "Version": "32.1.0",
+    "Date": "8/3/2026",
+    "Size": 157804792,
+    "Sha256": "0e3d75eb83951d3fe100cdc7a97fd870f16781bbdcf544fbe101d9b89f9c6231",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/obsproject/obs-studio/releases/download/32.0.4/OBS-Studio-32.0.4-Windows-x64-Installer.exe"
+    "URI": "https://github.com/obsproject/obs-studio/releases/download/32.1.0/OBS-Studio-32.1.0-Windows-x64-Installer.exe"
   },
   {
-    "Version": "32.0.4",
-    "Date": "13/12/2025",
-    "Size": 53343083,
-    "Sha256": "19a191edbaccbb35fd00ed2145f3cb911770ac4e6d4635d48233004ccab22ed5",
+    "Version": "32.1.0",
+    "Date": "8/3/2026",
+    "Size": 53894648,
+    "Sha256": "c1e62dc4208343361fbdf6fbef2f557d51f83202cf39fb7b873663492b93d2f5",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/obsproject/obs-studio/releases/download/32.0.4/OBS-Studio-32.0.4-Windows-arm64-PDBs.zip"
+    "URI": "https://github.com/obsproject/obs-studio/releases/download/32.1.0/OBS-Studio-32.1.0-Windows-arm64-PDBs.zip"
   },
   {
-    "Version": "32.0.4",
-    "Date": "13/12/2025",
-    "Size": 163408594,
-    "Sha256": "89ff3f7a065089d6527837663d5fda79df64cffce480a129abe04d49745a204b",
+    "Version": "32.1.0",
+    "Date": "8/3/2026",
+    "Size": 163925000,
+    "Sha256": "af0ce32dc3c9beb443545fa5b356a4094b3bdbcb70936019c4c5198505dc19ee",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/obsproject/obs-studio/releases/download/32.0.4/OBS-Studio-32.0.4-Windows-arm64.zip"
+    "URI": "https://github.com/obsproject/obs-studio/releases/download/32.1.0/OBS-Studio-32.1.0-Windows-arm64.zip"
   },
   {
-    "Version": "32.0.4",
-    "Date": "13/12/2025",
-    "Size": 60284846,
-    "Sha256": "031a9183d754f1e0d3c1219cc8d977267e17cde9bef055dfd0dcd088a806fa85",
+    "Version": "32.1.0",
+    "Date": "8/3/2026",
+    "Size": 60571903,
+    "Sha256": "164a6476f46fa4ba274a47ec85b979a667b04d1130b19dccf7c3da9feddc87ce",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/obsproject/obs-studio/releases/download/32.0.4/OBS-Studio-32.0.4-Windows-x64-PDBs.zip"
+    "URI": "https://github.com/obsproject/obs-studio/releases/download/32.1.0/OBS-Studio-32.1.0-Windows-x64-PDBs.zip"
   },
   {
-    "Version": "32.0.4",
-    "Date": "13/12/2025",
-    "Size": 184284985,
-    "Sha256": "fd367a7f156319426f1a600720c1288ad0011da168dff41e0f94dbb18cc1dc0f",
+    "Version": "32.1.0",
+    "Date": "8/3/2026",
+    "Size": 184819056,
+    "Sha256": "7c742f250dc1355ca4a7ccfbcd07a1b63f53ea46f4e052bce2426d8d324ee90d",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/obsproject/obs-studio/releases/download/32.0.4/OBS-Studio-32.0.4-Windows-x64.zip"
+    "URI": "https://github.com/obsproject/obs-studio/releases/download/32.1.0/OBS-Studio-32.1.0-Windows-x64.zip"
   }
 ]
