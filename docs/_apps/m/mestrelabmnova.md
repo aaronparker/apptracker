@@ -12,7 +12,10 @@ last_modified_date: 11/03/2026 11:31:43 AM
 
 Evergreen app: `MestrelabMnova`. Found **2** installers.
 
-Last check: 🟢
+Last check: 🔴
+```
+A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. (mestrelab.com:80)
+```
 
 | Version | Revision | Architecture | URI                                                                                                                                                          |
 | ------- | -------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

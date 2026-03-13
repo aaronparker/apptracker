@@ -3,7 +3,7 @@ title: GitHub CLI
 layout: default
 nav_order: 2
 parent: G
-last_modified_date: 11/03/2026 11:31:43 AM
+last_modified_date: 13/03/2026 11:27:11 AM
 ---
 
 ## GitHub CLI
@@ -16,6 +16,6 @@ Last check: 🟢
 
 | Version | Date      | Size     | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                                  |
 | ------- | --------- | -------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.88.0  | 10/3/2026 | 12853248 | 9186da188455c00a6c34819dc6d9096a751b2ab263b77c367ddc5c7b6669942f | ARM64        | Default       | msi  | [https://github.com/cli/cli/releases/download/v2.88.0/gh_2.88.0_windows_arm64.msi](https://github.com/cli/cli/releases/download/v2.88.0/gh_2.88.0_windows_arm64.msi) |
-| 2.88.0  | 10/3/2026 | 14336000 | ff034aec64d5765abb6f86475665807da9aea68e930bccc6f095b1760dcb6f6b | x64          | Default       | msi  | [https://github.com/cli/cli/releases/download/v2.88.0/gh_2.88.0_windows_amd64.msi](https://github.com/cli/cli/releases/download/v2.88.0/gh_2.88.0_windows_amd64.msi) |
-| 2.88.0  | 10/3/2026 | 13742080 | 1cdd41c39190fbd50fa43219a96f4e29e19f7d5eaa15d092338c093a1ca48482 | x86          | Default       | msi  | [https://github.com/cli/cli/releases/download/v2.88.0/gh_2.88.0_windows_386.msi](https://github.com/cli/cli/releases/download/v2.88.0/gh_2.88.0_windows_386.msi)     |
+| 2.88.1  | 12/3/2026 | 12849152 | fe983322edd30646c887b12c84dc8a61738a0fea72c08ad92bea6a0f9b00daa8 | ARM64        | Default       | msi  | [https://github.com/cli/cli/releases/download/v2.88.1/gh_2.88.1_windows_arm64.msi](https://github.com/cli/cli/releases/download/v2.88.1/gh_2.88.1_windows_arm64.msi) |
+| 2.88.1  | 12/3/2026 | 14336000 | 33b5f9295a16bd7c77ca9a2d04eb6642fa6fe1868fa684c6eda05581b65c909b | x64          | Default       | msi  | [https://github.com/cli/cli/releases/download/v2.88.1/gh_2.88.1_windows_amd64.msi](https://github.com/cli/cli/releases/download/v2.88.1/gh_2.88.1_windows_amd64.msi) |
+| 2.88.1  | 12/3/2026 | 13742080 | 023b08c4dd0c77e4b2e2ebac2dd1f2490d3c6ba3450e874b49bf9e3582ce91e8 | x86          | Default       | msi  | [https://github.com/cli/cli/releases/download/v2.88.1/gh_2.88.1_windows_386.msi](https://github.com/cli/cli/releases/download/v2.88.1/gh_2.88.1_windows_386.msi)     |
