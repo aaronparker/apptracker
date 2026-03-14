@@ -3,7 +3,7 @@ title: Microsoft ODBC Driver for SQL Server (latest)
 layout: default
 nav_order: 2
 parent: M
-last_modified_date: 13/03/2026 11:27:11 AM
+last_modified_date: 14/03/2026 11:21:18 AM
 ---
 
 ## Microsoft ODBC Driver for SQL Server (latest)
@@ -26,7 +26,7 @@ Last check: 🟢
 | 18.6.1.1 | 15/12/2025 | 8667136 | Korean                | ARM64        | msi  | [https://download.microsoft.com/download/f0d78542-37b1-4162-98f1-e8ef3e73ae5f/arm64/1042/msodbcsql.msi](https://download.microsoft.com/download/f0d78542-37b1-4162-98f1-e8ef3e73ae5f/arm64/1042/msodbcsql.msi) |
 | 18.6.1.1 | 15/12/2025 | 8654848 | Portuguese (Brazil)   | ARM64        | msi  | [https://download.microsoft.com/download/41582a65-2f19-4cd8-89ff-090e480a5f74/arm64/1046/msodbcsql.msi](https://download.microsoft.com/download/41582a65-2f19-4cd8-89ff-090e480a5f74/arm64/1046/msodbcsql.msi) |
 | 18.6.1.1 | 15/12/2025 | 8687616 | Russian               | ARM64        | msi  | [https://download.microsoft.com/download/7b6c8b7c-5fde-47a3-af71-de31cbc717a2/arm64/1049/msodbcsql.msi](https://download.microsoft.com/download/7b6c8b7c-5fde-47a3-af71-de31cbc717a2/arm64/1049/msodbcsql.msi) |
-| 18.6.1.1 | 13/3/2026  | 86      | Spanish               | ARM64        | msi  | [https://download.microsoft.com/download/fc7f71b1-73c0-4c1c-a4d9-289359c0f72d/arm64/3082/msodbcsql.msi](https://download.microsoft.com/download/fc7f71b1-73c0-4c1c-a4d9-289359c0f72d/arm64/3082/msodbcsql.msi) |
+| 18.6.1.1 | 15/12/2025 | 8667136 | Spanish               | ARM64        | msi  | [https://download.microsoft.com/download/fc7f71b1-73c0-4c1c-a4d9-289359c0f72d/arm64/3082/msodbcsql.msi](https://download.microsoft.com/download/fc7f71b1-73c0-4c1c-a4d9-289359c0f72d/arm64/3082/msodbcsql.msi) |
 | 18.6.1.1 | 15/12/2025 | 7168000 | Chinese (Simplified)  | x64          | msi  | [https://download.microsoft.com/download/2c8c0798-9e50-4f44-94a1-96b760237c20/amd64/2052/msodbcsql.msi](https://download.microsoft.com/download/2c8c0798-9e50-4f44-94a1-96b760237c20/amd64/2052/msodbcsql.msi) |
 | 18.6.1.1 | 15/12/2025 | 7172096 | Chinese (Traditional) | x64          | msi  | [https://download.microsoft.com/download/0295ff5f-0a52-4079-96cf-bfb7dfdac0cd/amd64/1028/msodbcsql.msi](https://download.microsoft.com/download/0295ff5f-0a52-4079-96cf-bfb7dfdac0cd/amd64/1028/msodbcsql.msi) |
 | 18.6.1.1 | 15/12/2025 | 7254016 | English               | x64          | msi  | [https://download.microsoft.com/download/8d6e3acc-bf5b-41fe-ad51-a9ad406a780f/amd64/1033/msodbcsql.msi](https://download.microsoft.com/download/8d6e3acc-bf5b-41fe-ad51-a9ad406a780f/amd64/1033/msodbcsql.msi) |
@@ -48,4 +48,4 @@ Last check: 🟢
 | 18.6.1.1 | 15/12/2025 | 3854336 | Japanese              | x86          | msi  | [https://download.microsoft.com/download/709f97db-e1fa-4db0-8849-28fa847929a9/x86/1041/msodbcsql.msi](https://download.microsoft.com/download/709f97db-e1fa-4db0-8849-28fa847929a9/x86/1041/msodbcsql.msi)     |
 | 18.6.1.1 | 15/12/2025 | 3829760 | Portuguese (Brazil)   | x86          | msi  | [https://download.microsoft.com/download/ed20cf8a-1a25-4c99-8ad2-c9290e821d46/x86/1046/msodbcsql.msi](https://download.microsoft.com/download/ed20cf8a-1a25-4c99-8ad2-c9290e821d46/x86/1046/msodbcsql.msi)     |
 | 18.6.1.1 | 15/12/2025 | 3858432 | Russian               | x86          | msi  | [https://download.microsoft.com/download/d2c3a350-d63a-4aa9-a904-d60fa562116b/x86/1049/msodbcsql.msi](https://download.microsoft.com/download/d2c3a350-d63a-4aa9-a904-d60fa562116b/x86/1049/msodbcsql.msi)     |
-| 18.6.1.1 | 13/3/2026  | 86      | Spanish               | x86          | msi  | [https://download.microsoft.com/download/e9631b62-f6f0-4d9b-b86e-99e640a0e206/x86/3082/msodbcsql.msi](https://download.microsoft.com/download/e9631b62-f6f0-4d9b-b86e-99e640a0e206/x86/3082/msodbcsql.msi)     |
+| 18.6.1.1 | 15/12/2025 | 3837952 | Spanish               | x86          | msi  | [https://download.microsoft.com/download/e9631b62-f6f0-4d9b-b86e-99e640a0e206/x86/3082/msodbcsql.msi](https://download.microsoft.com/download/e9631b62-f6f0-4d9b-b86e-99e640a0e206/x86/3082/msodbcsql.msi)     |

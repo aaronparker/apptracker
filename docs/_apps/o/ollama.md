@@ -3,7 +3,7 @@ title: Ollama
 layout: default
 nav_order: 2
 parent: O
-last_modified_date: 06/03/2026 11:21:45 AM
+last_modified_date: 14/03/2026 11:21:18 AM
 ---
 
 ## Ollama
@@ -14,6 +14,6 @@ Evergreen app: `Ollama`. Found **1** installer.
 
 Last check: 🟢
 
-| Version | Date     | Size       | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                      |
-| ------- | -------- | ---------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0.17.7  | 6/3/2026 | 1262851584 | 6d1e32298259cf1ac19b240cd8244a0697753c8ba425e0707e9223725324694a | x86          | Default       | exe  | [https://github.com/ollama/ollama/releases/download/v0.17.7/OllamaSetup.exe](https://github.com/ollama/ollama/releases/download/v0.17.7/OllamaSetup.exe) |
+| Version | Date      | Size       | Sha256                                                           | Architecture | InstallerType | Type | URI                                                                                                                                                      |
+| ------- | --------- | ---------- | ---------------------------------------------------------------- | ------------ | ------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0.18.0  | 13/3/2026 | 1730964240 | 2aaf1eef38442a1d63a5f57a77330a9bfc25a43bde083e03edbb60cf9fe8b4fb | x86          | Default       | exe  | [https://github.com/ollama/ollama/releases/download/v0.18.0/OllamaSetup.exe](https://github.com/ollama/ollama/releases/download/v0.18.0/OllamaSetup.exe) |

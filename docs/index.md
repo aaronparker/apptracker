@@ -8,11 +8,11 @@ nav_order: 1
 This site tracks latest application versions via the [Evergreen](https://stealthpuppy.com/evergreen/) PowerShell module. To view details of the latest release, choose an application from the List of Apps tree on the left.
 
 {: .important }
-> Updates are posted every 24 hours. Last generated: `Friday 13/03/2026 11:34 +00:00 Etc/UTC`.
+> Updates are posted every 24 hours. Last generated: `Saturday 14/03/2026 11:28 +00:00 Etc/UTC`.
 
 ## Supported Applications
 
-App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **547** applications and **6658** unique application installers.
+App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Evergreen/) to track **547** applications and **6664** unique application installers.
 
 {: .highlight }
 > **Note:** The status of the application is based on the last update run. Validate the status of an application by running `Get-EvergreenApp` locally.
@@ -82,7 +82,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | AutoIt Scripting Language                                         | `2026-03-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/autoit/)                                          |
 | Automattic Simplenote                                             | `2025-12-09` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/automatticsimplenote/)                            |
 | AWS AppStream 2.0 Client                                          | `2025-09-19` | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/a/awsappstreamclient/)                              |
-| AWS CLI                                                           | `2026-03-13` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/awscli/)                                          |
+| AWS CLI                                                           | `2026-03-14` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/awscli/)                                          |
 | AWS SAM CLI                                                       | `2026-03-06` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/awssamcli/)                                       |
 | AWS Session Manager Plugin                                        | `2026-02-13` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/awssmp/)                                          |
 | Azul Zulu 11                                                      | `2026-03-10` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/a/azulzulu11/)                                      |
@@ -109,7 +109,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | BlueJ                                                             | `2025-06-03` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/b/bluej/)                                           |
 | brackets.io Brackets                                              | `2025-12-09` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/b/brackets/)                                        |
 | Bram Moolenaar Vim                                                | `2026-03-13` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/b/brammoolenaarvim/)                                |
-| Brave Software Brave Browser                                      | `2026-03-12` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/b/bravebrowser/)                                    |
+| Brave Software Brave Browser                                      | `2026-03-14` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/b/bravebrowser/)                                    |
 | Bruno Software Bruno                                              | `2026-02-25` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/b/brunosoftwarebruno/)                              |
 | Calibrite PROFILER                                                | `2025-12-09` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/c/calibriteprofiler/)                               |
 | Canva Affinity                                                    | `2026-01-21` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/c/canvaaffinity/)                                   |
@@ -173,7 +173,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Figma Desktop                                                     | `2026-02-24` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/f/figmadesktop/)                                    |
 | Flameshot                                                         | `2025-10-29` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/f/flameshot/)                                       |
 | Flow Launcher Team Flow Launcher                                  | `2026-03-09` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/f/flowlauncher/)                                    |
-| Dan Pristupov Fork                                                | `2026-02-25` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/f/fork/)                                            |
+| Dan Pristupov Fork                                                | `2026-03-14` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/f/fork/)                                            |
 | Foxit PDF Editor                                                  | `2026-03-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/f/foxitpdfeditor/)                                  |
 | Foxit PDF Reader                                                  | `2026-03-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/f/foxitreader/)                                     |
 | FreeCAD Team FreeCAD                                              | `2025-12-09` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/f/freecad/)                                         |
@@ -191,7 +191,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | GeoGebra Classic                                                  | `2026-03-10` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/geogebraclassic/)                                 |
 | Gephi                                                             | `2025-09-30` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gephi/)                                           |
 | Ghisler TotalCommander                                            | `2025-08-19` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/ghislertotalcommander/)                           |
-| GIMP                                                              | `2026-03-13` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gimp/)                                            |
+| GIMP                                                              | `2026-03-14` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gimp/)                                            |
 | Git Extensions                                                    | `2026-01-25` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gitextensions/)                                   |
 | Git for Windows                                                   | `2026-03-11` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gitforwindows/)                                   |
 | GitHub Atom                                                       | `2025-09-30` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/githubatom/)                                      |
@@ -199,10 +199,10 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | GitHub Desktop                                                    | `2026-03-11` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/githubdesktop/)                                   |
 | GitHub release                                                    | `2025-09-30` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/githubrelease/)                                   |
 | Gitify Team Gitify                                                | `2026-02-01` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gitify/)                                          |
-| Google Chrome Enterprise                                          | `2026-03-13` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/googlechrome/)                                    |
-| Google Chrome Driver                                              | `2026-03-13` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/googlechromedriver/)                              |
-| Google Chrome for Testing                                         | `2026-03-13` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/googlechromefortesting/)                          |
-| Google Chrome Headless Shell                                      | `2026-03-13` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/googlechromeheadlessshell/)                       |
+| Google Chrome Enterprise                                          | `2026-03-14` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/googlechrome/)                                    |
+| Google Chrome Driver                                              | `2026-03-14` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/googlechromedriver/)                              |
+| Google Chrome for Testing                                         | `2026-03-14` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/googlechromefortesting/)                          |
+| Google Chrome Headless Shell                                      | `2026-03-14` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/googlechromeheadlessshell/)                       |
 | Google Drive                                                      | `2024-04-12` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/googledrive/)                                     |
 | GoTo Connect                                                      | `2025-10-24` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gotoconnect/)                                     |
 | GoTo Meeting                                                      | `2025-09-12` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/g/gotomeeting/)                                     |
@@ -227,7 +227,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Hashicorp Vault                                                   | `2026-03-05` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/h/hashicorpvault/)                                  |
 | Hashicorp Waypoint                                                | `2024-04-12` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/h/hashicorpwaypoint/)                               |
 | Hendrik Erz Zettlr                                                | `2026-03-08` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/h/hendrikerzzettlr/)                                |
-| Henri Wahl Nagstamon                                              | `2026-03-13` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/h/henriwahlnagstamon/)                              |
+| Henri Wahl Nagstamon                                              | `2026-03-14` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/h/henriwahlnagstamon/)                              |
 | Hoppscotch Limited Hoppscotch                                     | `2026-03-06` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/h/hoppscotch/)                                      |
 | ImageGlass                                                        | `2026-01-02` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/i/imageglass/)                                      |
 | ImageMagick Studio ImageMagick                                    | `2026-03-09` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/i/imagemagickstudioimagemagick/)                    |
@@ -296,7 +296,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Meet Franz                                                        | `2025-12-09` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/meetfranz/)                                       |
 | Meltytech Shotcut                                                 | `2026-02-28` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/meltytechshotcut/)                                |
 | Mendeley Reference Manager                                        | `2026-03-03` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/mendeleyreferencemanager/)                        |
-| Mestrelab Mnova                                                   | `2026-03-11` | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/m/mestrelabmnova/)                                  |
+| Mestrelab Mnova                                                   | `2026-03-11` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/mestrelabmnova/)                                  |
 | Michael Hansen QTextPad                                           | `2025-12-09` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/michaelhansenqtextpad/)                           |
 | Microsoft .NET                                                    | `2026-03-13` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoft.net/)                                   |
 | Microsoft 365 Apps                                                | `2026-03-11` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoft365apps/)                                |
@@ -309,16 +309,16 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft Bicep                                                   | `2026-02-27` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftbicep/)                                  |
 | Microsoft Bot Framework Composer                                  | `2025-12-09` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftbotframeworkcomposer/)                   |
 | Microsoft Bot Framework Emulator                                  | `2025-09-30` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftbotframeworkemulator/)                   |
-| Microsoft Edge                                                    | `2026-03-12` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftedge/)                                   |
-| Microsoft Edge WebDriver                                          | `2026-03-12` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftedgedriver/)                             |
-| Microsoft Edge for Business                                       | `2026-03-13` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftedgeforbusiness/)                        |
-| Microsoft Edge WebView2 Runtime                                   | `2026-03-07` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftedgewebview2runtime/)                    |
+| Microsoft Edge                                                    | `2026-03-14` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftedge/)                                   |
+| Microsoft Edge WebDriver                                          | `2026-03-14` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftedgedriver/)                             |
+| Microsoft Edge for Business                                       | `2026-03-14` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftedgeforbusiness/)                        |
+| Microsoft Edge WebView2 Runtime                                   | `2026-03-14` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftedgewebview2runtime/)                    |
 | Microsoft FSLogix Apps                                            | `2026-02-12` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftfslogixapps/)                            |
-| Microsoft ODBC Driver for SQL Server (latest)                     | `2026-03-13` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftodbcdriverforsqlserver/)                 |
+| Microsoft ODBC Driver for SQL Server (latest)                     | `2026-03-14` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftodbcdriverforsqlserver/)                 |
 | Microsoft ODBC Driver for SQL Server 17.x                         | `2026-03-13` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftodbcdriverforsqlserver17/)               |
 | Microsoft OLE DB Driver for SQL Server (latest)                   | `2026-01-28` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftoledbdriverforsqlserver/)                |
 | Microsoft OLE DB Driver for SQL Server 18                         | `2026-01-26` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftoledbdriverforsqlserver18/)              |
-| Microsoft OneDrive                                                | `2026-03-13` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftonedrive/)                               |
+| Microsoft OneDrive                                                | `2026-03-14` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftonedrive/)                               |
 | Microsoft OpenJDK 11                                              | `2026-02-05` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk11/)                              |
 | Microsoft OpenJDK 17                                              | `2026-02-05` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk17/)                              |
 | Microsoft OpenJDK 21                                              | `2026-02-05` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftopenjdk21/)                              |
@@ -336,7 +336,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Microsoft Terminal                                                | `2026-03-06` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftterminal/)                               |
 | Microsoft Virtual Desktop Optimization Tool                       | `2024-06-12` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftvdot/)                                   |
 | Microsoft Visual Studio                                           | `2026-03-11` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudio/)                           |
-| Microsoft Visual Studio Code                                      | `2026-03-13` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudiocode/)                       |
+| Microsoft Visual Studio Code                                      | `2026-03-14` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftvisualstudiocode/)                       |
 | Microsoft Windows Admin Center                                    | `2025-12-11` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwindowsadmincenter/)                     |
 | Microsoft Windows Advanced Settings                               | `2025-12-21` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwindowsadvancedsettings/)                |
 | Microsoft Windows App                                             | `2026-02-11` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/microsoftwindowsapp/)                             |
@@ -353,7 +353,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | MirantisLens                                                      | `2026-03-13` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/mirantislens/)                                    |
 | Mobsya Association Thymio Suite                                   | `2025-12-09` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/mobsyaassociationthymiosuite/)                    |
 | Mountain Loop Labs Yaak                                           | `2026-03-12` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/mountainlooplabsyaak/)                            |
-| Mozilla Firefox                                                   | `2026-03-12` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/mozillafirefox/)                                  |
+| Mozilla Firefox                                                   | `2026-03-14` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/mozillafirefox/)                                  |
 | Mozilla Gecko Driver                                              | `2025-09-30` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/mozillageckodriver/)                              |
 | Mozilla Thunderbird                                               | `2026-03-12` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/mozillathunderbird/)                              |
 | mRemoteNG                                                         | `2025-09-30` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/m/mremoteng/)                                       |
@@ -388,7 +388,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Octopus Deploy Server                                             | `2026-03-10` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/octopusdeployserver/)                             |
 | Octopus Tentacle                                                  | `2026-03-12` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/octopustentacle/)                                 |
 | Oleg Shparber Zeal                                                | `2026-02-28` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/olegshparberzeal/)                                |
-| Ollama                                                            | `2026-03-06` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/ollama/)                                          |
+| Ollama                                                            | `2026-03-14` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/ollama/)                                          |
 | Omnissa Horizon Client                                            | `2026-02-25` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/omnissahorizonclient/)                            |
 | ONLYOFFICE Desktop Editors                                        | `2026-03-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/onlyofficedesktopeditors/)                        |
 | Open Chemistry Avogadro                                           | `2026-02-06` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/o/openchemistryavogadro/)                           |
@@ -431,7 +431,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | PostgreSQL Global Development Group PostgreSQL ODBC Driver        | `2026-03-11` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/postgresqlodbcdriver/)                            |
 | Postman                                                           | `2026-03-13` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/postman/)                                         |
 | PowerON Platforms AOVPN Dynamic Profile Configurator              | `2026-01-28` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/poweronplatformsaovpndynamicprofileconfigurator/) |
-| Praat                                                             | `2026-03-01` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/praat/)                                           |
+| Praat                                                             | `2026-03-14` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/praat/)                                           |
 | Pritunl OpenVPN Client                                            | `2025-12-09` | 🔴     | [view](https://stealthpuppy.com/apptracker/apps/p/pritunlopenvpnclient/)                            |
 | Progress Chef Infra Client                                        | `2026-02-26` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/progresschefinfraclient/)                         |
 | Progress Chef InSpec                                              | `2026-02-27` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/p/progresschefinspec/)                              |
@@ -487,7 +487,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | ScreenToGif                                                       | `2025-10-06` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/screentogif/)                                     |
 | ShareX                                                            | `2026-01-28` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/sharex/)                                          |
 | Sigil Ebook                                                       | `2026-03-12` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/sigil/)                                           |
-| Signal for Windows                                                | `2026-03-12` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/signaldesktop/)                                   |
+| Signal for Windows                                                | `2026-03-14` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/signaldesktop/)                                   |
 | Simon Steele Programmer's Notepad                                 | `2025-12-09` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/simonsteeleprogrammersnotepad/)                   |
 | Skymatic Cryptomator                                              | `2026-03-13` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/skymaticcryptomator/)                             |
 | Slack                                                             | `2026-03-06` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/s/slack/)                                           |
@@ -538,7 +538,7 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Vercel Hyper                                                      | `2025-09-30` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/v/vercelhyper/)                                     |
 | Versent saml2aws                                                  | `2025-12-09` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/v/versentsaml2aws/)                                 |
 | Vibe                                                              | `2026-03-13` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/v/vibe/)                                            |
-| VideoLan VLC Player                                               | `2026-03-13` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/v/videolanvlcplayer/)                               |
+| VideoLan VLC Player                                               | `2026-03-14` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/v/videolanvlcplayer/)                               |
 | VMPlex Workstation                                                | `2025-09-30` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/v/vmplexworkstation/)                               |
 | VMware Tools                                                      | `2026-01-25` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/v/vmwaretools/)                                     |
 | voidtools Everything                                              | `2025-11-05` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/v/voidtoolseverything/)                             |
@@ -563,6 +563,6 @@ App Tracker is using [Evergreen](https://www.powershellgallery.com/packages/Ever
 | Yubico Authenticator                                              | `2026-03-04` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/y/yubicoauthenticator/)                             |
 | Yubico YubiKey Manager CLI                                        | `2026-01-23` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/y/yuibicoyubikeymanagercli/)                        |
 | Zoom                                                              | `2026-03-11` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/z/zoom/)                                            |
-| Zoom Plugins for VDI                                              | `2026-02-16` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/z/zoomvdi/)                                         |
+| Zoom Plugins for VDI                                              | `2026-03-14` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/z/zoomvdi/)                                         |
 | ZorgMail Veilig verzenden plug-in                                 | `2026-01-27` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/z/zorgmailveiligverzendenaddin/)                    |
 | Zotero                                                            | `2026-03-07` | 🟢     | [view](https://stealthpuppy.com/apptracker/apps/z/zotero/)                                          |
