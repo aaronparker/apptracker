@@ -91,8 +91,8 @@
   },
   {
     "Version": "18.6.1.1",
-    "Date": "13/3/2026",
-    "Size": 86,
+    "Date": "15/12/2025",
+    "Size": 8667136,
     "Language": "Spanish",
     "Architecture": "ARM64",
     "Type": "msi",
@@ -289,8 +289,8 @@
   },
   {
     "Version": "18.6.1.1",
-    "Date": "13/3/2026",
-    "Size": 86,
+    "Date": "15/12/2025",
+    "Size": 3837952,
     "Language": "Spanish",
     "Architecture": "x86",
     "Type": "msi",
