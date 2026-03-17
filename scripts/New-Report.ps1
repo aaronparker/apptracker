@@ -116,9 +116,9 @@ Remove-Item -Path $OutputPath -Recurse -Force -ErrorAction "Continue"
 New-Item -Path $OutputPath -ItemType "Directory" -ErrorAction "SilentlyContinue"
 
 # Write the supported apps to a JSON file for reference
-Find-EvergreenApp | ConvertTo-Json | Out-File "$OutputPath/supported-apps.json" -Encoding utf8
+Find-EvergreenApp | ConvertTo-Json | Out-File "$JsonPath/supported-apps.json" -Encoding utf8 -Force
 
-foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*.json"))) {
+foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*.json") -Exclude "supported-apps.json")) {
 
     # Creates a new directory for a report and generates an index file inside the directory
     # The index file is named "index.md" and its content is based on the first letter of the file name.
