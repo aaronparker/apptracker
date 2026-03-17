@@ -115,6 +115,9 @@ $JsonFileMetadata = @()
 Remove-Item -Path $OutputPath -Recurse -Force -ErrorAction "Continue"
 New-Item -Path $OutputPath -ItemType "Directory" -ErrorAction "SilentlyContinue"
 
+# Write the supported apps to a JSON file for reference
+Find-EvergreenApp | ConvertTo-Json | Out-File "$OutputPath/supported-apps.json" -Encoding utf8
+
 foreach ($File in (Get-ChildItem -Path $(Join-Path -Path $JsonPath -ChildPath "*.json"))) {
 
     # Creates a new directory for a report and generates an index file inside the directory
