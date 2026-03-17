@@ -40,6 +40,9 @@ jobs:
           }
           . "${{ github.workspace }}/scripts/Update-JsonHosted.ps1" @params
 
+          # Write the supported apps to a JSON file for reference
+          Find-EvergreenApp | ConvertTo-Json | Out-File "${{ github.workspace }}/json/supported-apps.json" -Encoding utf8 -Force
+
       # Format the date number for the commit message
       - name: Get date
         id: get-date
