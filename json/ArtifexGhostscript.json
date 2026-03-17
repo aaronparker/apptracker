@@ -1,22 +1,22 @@
 [
   {
-    "Version": "10.06.0",
-    "Date": "9/9/2025",
-    "Size": 64956968,
-    "Sha256": "8d552205c0fe87a16bac2f377c8a1b090cfcbc610db7c281bd6a646b39c9c468",
+    "Version": "10.07.0",
+    "Date": "16/3/2026",
+    "Size": 64971752,
+    "Sha256": "8af854e2d62f9a3a674331321b347118a83928a3726631e458194121cf3bbeec",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10060/gs10060w64.exe"
+    "URI": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10070/gs10070w64.exe"
   },
   {
-    "Version": "10.06.0",
-    "Date": "9/9/2025",
-    "Size": 53008960,
-    "Sha256": "d6763594f3580124a0def45271e01d4388bba02b36626dcc4789f18dbad3a028",
+    "Version": "10.07.0",
+    "Date": "16/3/2026",
+    "Size": 53022048,
+    "Sha256": "012a57e06ef811901bcd051ea96c0b6dccc6480649023d9354e420f86009bada",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10060/gs10060w32.exe"
+    "URI": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10070/gs10070w32.exe"
   }
 ]
