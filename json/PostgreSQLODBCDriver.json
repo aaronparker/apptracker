@@ -1,32 +1,32 @@
 [
   {
-    "Version": "17_00_0008",
-    "Date": "10/3/2026",
-    "Size": 8197695,
-    "Sha256": "8bc8cc3159c79f22555b8deb37e0beb8e005f96a8a9d57132a2d4b1b66e23615",
+    "Version": "17_00_0009",
+    "Date": "17/3/2026",
+    "Size": 8199465,
+    "Sha256": "eba8cec786c532d75f682c1f5951e1580eb20caf5bed040daeb68b5d3c5ec1c6",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-17_00_0008/psqlodbc-setup.exe"
+    "URI": "https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-17_00_0009/psqlodbc-setup.exe"
   },
   {
-    "Version": "17_00_0008",
-    "Date": "10/3/2026",
+    "Version": "17_00_0009",
+    "Date": "17/3/2026",
     "Size": 4362240,
-    "Sha256": "c28b5604605df41250533418a5c92716cc8781a0104eddc675c00b99f23d8431",
+    "Sha256": "60039007d43aca994beea3073f2fe1ec09124fb857fe95e6d092f026ce2aaf52",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-17_00_0008/psqlodbc_x64.msi"
+    "URI": "https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-17_00_0009/psqlodbc_x64.msi"
   },
   {
-    "Version": "17_00_0008",
-    "Date": "10/3/2026",
+    "Version": "17_00_0009",
+    "Date": "17/3/2026",
     "Size": 3907584,
-    "Sha256": "f0ffb71b522ad14ec205d35bd0db275d351127051f61e85c08591dafa4169806",
+    "Sha256": "c9a44db411a938d0d0317cb3dad22797688fde33e91bbf64f4a8bc3a064a7ed6",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-17_00_0008/psqlodbc_x86.msi"
+    "URI": "https://github.com/postgresql-interfaces/psqlodbc/releases/download/REL-17_00_0009/psqlodbc_x86.msi"
   }
 ]

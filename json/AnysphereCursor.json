@@ -1,26 +1,26 @@
 [
   {
-    "Version": "2.6.19",
+    "Version": "2.6.20",
     "Platform": "win32-arm64",
     "Architecture": "ARM64",
-    "URI": "https://downloads.cursor.com/production/224838f96445be37e3db643a163a817c15b3606c/win32/arm64/system-setup/CursorSetup-arm64-2.6.19.exe"
+    "URI": "https://downloads.cursor.com/production/b29eb4ee5f9f6d1cb2afbc09070198d3ea6ad76f/win32/arm64/system-setup/CursorSetup-arm64-2.6.20.exe"
   },
   {
-    "Version": "2.6.19",
+    "Version": "2.6.20",
     "Platform": "win32-arm64-user",
     "Architecture": "ARM64",
-    "URI": "https://downloads.cursor.com/production/224838f96445be37e3db643a163a817c15b3606c/win32/arm64/user-setup/CursorUserSetup-arm64-2.6.19.exe"
+    "URI": "https://downloads.cursor.com/production/b29eb4ee5f9f6d1cb2afbc09070198d3ea6ad76f/win32/arm64/user-setup/CursorUserSetup-arm64-2.6.20.exe"
   },
   {
-    "Version": "2.6.19",
+    "Version": "2.6.20",
     "Platform": "win32-x64",
     "Architecture": "x64",
-    "URI": "https://downloads.cursor.com/production/224838f96445be37e3db643a163a817c15b3606c/win32/x64/system-setup/CursorSetup-x64-2.6.19.exe"
+    "URI": "https://downloads.cursor.com/production/b29eb4ee5f9f6d1cb2afbc09070198d3ea6ad76f/win32/x64/system-setup/CursorSetup-x64-2.6.20.exe"
   },
   {
-    "Version": "2.6.19",
+    "Version": "2.6.20",
     "Platform": "win32-x64-user",
     "Architecture": "x64",
-    "URI": "https://downloads.cursor.com/production/224838f96445be37e3db643a163a817c15b3606c/win32/x64/user-setup/CursorUserSetup-x64-2.6.19.exe"
+    "URI": "https://downloads.cursor.com/production/b29eb4ee5f9f6d1cb2afbc09070198d3ea6ad76f/win32/x64/user-setup/CursorUserSetup-x64-2.6.20.exe"
   }
 ]
