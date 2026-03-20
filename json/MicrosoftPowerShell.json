@@ -46,8 +46,8 @@
   {
     "Version": "7.6.0",
     "Date": "18/3/2026",
-    "Size": 344169237,
-    "Sha256": "f14326a4d9f61b61e78ffdee253e8d139e979e27849a12a7482778cf89136a48",
+    "Size": 344171265,
+    "Sha256": "730ba500de62e0f6b47f0293233ea6fd046536562a615dd3b532ffe90231e617",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msixbundle",
@@ -57,12 +57,34 @@
   {
     "Version": "7.6.0",
     "Date": "18/3/2026",
-    "Size": 344169237,
-    "Sha256": "f14326a4d9f61b61e78ffdee253e8d139e979e27849a12a7482778cf89136a48",
+    "Size": 344170526,
+    "Sha256": "3c305450adb6e77c49e1abd2664ea1649f7939e44d64eeb23f33fd3cb47bde35",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msixbundle",
+    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.0/PowerShell-LTS-7.6.0.msixbundle",
+    "Release": "LTS"
+  },
+  {
+    "Version": "7.6.0",
+    "Date": "18/3/2026",
+    "Size": 344171265,
+    "Sha256": "730ba500de62e0f6b47f0293233ea6fd046536562a615dd3b532ffe90231e617",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msixbundle",
     "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.0/PowerShell-7.6.0.msixbundle",
+    "Release": "Stable"
+  },
+  {
+    "Version": "7.6.0",
+    "Date": "18/3/2026",
+    "Size": 344170526,
+    "Sha256": "3c305450adb6e77c49e1abd2664ea1649f7939e44d64eeb23f33fd3cb47bde35",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "msixbundle",
+    "URI": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.0/PowerShell-LTS-7.6.0.msixbundle",
     "Release": "Stable"
   },
   {

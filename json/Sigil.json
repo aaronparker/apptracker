@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2.7.5",
-    "Date": "11/3/2026",
-    "Size": 147026697,
-    "Sha256": "85620da9b3d79106f5066271f54db815ca261267c678a48fd30204a6c33ab8fa",
+    "Version": "2.7.6",
+    "Date": "19/3/2026",
+    "Size": 147057158,
+    "Sha256": "6015d5312e9ed45f84a763ff2a76d4ce74c69c0e40773ba94b69c5457a077692",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Sigil-Ebook/Sigil/releases/download/2.7.5/Sigil-2.7.5-Windows-x64-Setup.exe"
+    "URI": "https://github.com/Sigil-Ebook/Sigil/releases/download/2.7.6/Sigil-2.7.6-Windows-x64-Setup.exe"
   }
 ]
