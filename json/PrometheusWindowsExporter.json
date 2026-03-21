@@ -1,42 +1,42 @@
 [
   {
-    "Version": "0.31.4",
+    "Version": "0.31.5",
     "Date": "20/3/2026",
     "Size": 20862392,
-    "Sha256": "3e8288e3113ebace6edcf68acfadbe865ec55c43f19334108b1d89edf16f6cc5",
+    "Sha256": "95b70f3e7e68e30b2669e109f26beab87692806955e3f5081875150af74a3ae8",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/prometheus-community/windows_exporter/releases/download/v0.31.4/windows_exporter-0.31.4-arm64.exe"
+    "URI": "https://github.com/prometheus-community/windows_exporter/releases/download/v0.31.5/windows_exporter-0.31.5-arm64.exe"
   },
   {
-    "Version": "0.31.4",
+    "Version": "0.31.5",
     "Date": "20/3/2026",
-    "Size": 22567352,
-    "Sha256": "4998d36da0910c6d4db9a7ba44d3a16056ade5039cdb3153db475f26db9f1015",
+    "Size": 22567864,
+    "Sha256": "25dc64acbc5b4c23fded714fb9aea17b51a73ce39aa0db91c38dd78666ae208a",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/prometheus-community/windows_exporter/releases/download/v0.31.4/windows_exporter-0.31.4-amd64.exe"
+    "URI": "https://github.com/prometheus-community/windows_exporter/releases/download/v0.31.5/windows_exporter-0.31.5-amd64.exe"
   },
   {
-    "Version": "0.31.4",
+    "Version": "0.31.5",
     "Date": "20/3/2026",
-    "Size": 10252288,
-    "Sha256": "72948dceccb85f5d5540bdb7577b84078ec9b4761cc7ee624c89181b46cfc266",
+    "Size": 10256384,
+    "Sha256": "625107fdadcd15e74894d7ea0bd2be79aea2888b1a7161bed249c58a56777529",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/prometheus-community/windows_exporter/releases/download/v0.31.4/windows_exporter-0.31.4-arm64.msi"
+    "URI": "https://github.com/prometheus-community/windows_exporter/releases/download/v0.31.5/windows_exporter-0.31.5-arm64.msi"
   },
   {
-    "Version": "0.31.4",
+    "Version": "0.31.5",
     "Date": "20/3/2026",
     "Size": 11087872,
-    "Sha256": "afc495bc6d9c1ba361eaace2ff8c1050ee5c6cc54d364bc572b319da09592d14",
+    "Sha256": "ab78d700811de3abd4b9c8702b14b14a1586951f82149438a646276fca36e397",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/prometheus-community/windows_exporter/releases/download/v0.31.4/windows_exporter-0.31.4-amd64.msi"
+    "URI": "https://github.com/prometheus-community/windows_exporter/releases/download/v0.31.5/windows_exporter-0.31.5-amd64.msi"
   }
 ]

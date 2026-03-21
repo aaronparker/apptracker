@@ -1,22 +1,22 @@
 [
   {
-    "Version": "9.0.8",
-    "Date": "15/3/2026",
-    "Size": 1084667448,
-    "Sha256": "40bb08882f5a6462468274e25e8f140ed183ad5031219c1a4a973f3f5851d1e1",
+    "Version": "10.0.0",
+    "Date": "19/3/2026",
+    "Size": 953593584,
+    "Sha256": "f3afe74e6558791dd70554f25afca1e6916fda49e2b7568cb8b7fcb408d423f9",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/KiCad/kicad-source-mirror/releases/download/9.0.8/kicad-9.0.8-arm64.exe"
+    "URI": "https://github.com/KiCad/kicad-source-mirror/releases/download/10.0.0/kicad-10.0.0-arm64.exe"
   },
   {
-    "Version": "9.0.8",
-    "Date": "15/3/2026",
-    "Size": 1110251584,
-    "Sha256": "f853f81dd6a90c769c521a35c438c5657fe39aaebe9967c8a74e743540920eb5",
+    "Version": "10.0.0",
+    "Date": "19/3/2026",
+    "Size": 979212568,
+    "Sha256": "a67e5145f9be7df762f9c3dc8caf73a0aee77df0c7989dd27aa075566d432e7d",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/KiCad/kicad-source-mirror/releases/download/9.0.8/kicad-9.0.8-x86_64.exe"
+    "URI": "https://github.com/KiCad/kicad-source-mirror/releases/download/10.0.0/kicad-10.0.0-x86_64.exe"
   }
 ]

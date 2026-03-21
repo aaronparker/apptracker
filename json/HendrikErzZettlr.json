@@ -1,12 +1,12 @@
 [
   {
-    "Version": "4.2.1",
-    "Date": "7/3/2026",
-    "Size": 140224032,
-    "Sha256": "27d60e8c47b339486214f87bb3f30e259c9e7d9ca9c467fb5500c2c329d824a4",
+    "Version": "4.3.0",
+    "Date": "21/3/2026",
+    "Size": 140622936,
+    "Sha256": "0ef29df70a81acc8fade2ba04830d00c78070b6159984605b8626124653f016c",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Zettlr/Zettlr/releases/download/v4.2.1/Zettlr-4.2.1-x64.exe"
+    "URI": "https://github.com/Zettlr/Zettlr/releases/download/v4.3.0/Zettlr-4.3.0-x64.exe"
   }
 ]
