@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2.0.21",
-    "Date": "9/2/2026",
-    "Size": 3046912,
-    "Sha256": "ca4247b757ab19dbf7a4ba5cfab69b0ebca60fb4f46e73389e5b9ea9a1cd7c7b",
+    "Version": "2.0.22",
+    "Date": "21/3/2026",
+    "Size": 3067392,
+    "Sha256": "5613e65158ab8a8a90d5986b18894080af367dc36347b366ee3aeb0dbcd6db86",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.21/AutoHotkey_2.0.21_setup.exe"
+    "URI": "https://github.com/AutoHotkey/AutoHotkey/releases/download/v2.0.22/AutoHotkey_2.0.22_setup.exe"
   }
 ]
