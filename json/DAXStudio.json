@@ -1,22 +1,22 @@
 [
   {
-    "Version": "3.4.0",
-    "Date": "23/10/2025",
-    "Size": 15790128,
-    "Sha256": "4cf92688b5cde094f10925bae02670578cce7e601b0f5ae3fddd81dfa259fb50",
+    "Version": "3.5.0",
+    "Date": "23/3/2026",
+    "Size": 19074752,
+    "Sha256": "312356d2dc532a55022e389c649b0f8a178af81d4c59b8b765e6164c7c6a8f95",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/DaxStudio/DaxStudio/releases/download/v3.4.0/DaxStudio_3_4_0_setup.exe"
+    "URI": "https://github.com/DaxStudio/DaxStudio/releases/download/v3.5.0/DaxStudio_3_5_0_setup.exe"
   },
   {
-    "Version": "3.4.0",
-    "Date": "23/10/2025",
-    "Size": 25023958,
-    "Sha256": "b2af19f72e54154932f7da17dc69a3aa799359412880c3b998457ba05c28c790",
+    "Version": "3.5.0",
+    "Date": "23/3/2026",
+    "Size": 29574538,
+    "Sha256": "6e581899bb684e35ca5dadbe1136318b99b60a24fb6d4021585696276def6091",
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "zip",
-    "URI": "https://github.com/DaxStudio/DaxStudio/releases/download/v3.4.0/DaxStudio_3_4_0_portable.zip"
+    "URI": "https://github.com/DaxStudio/DaxStudio/releases/download/v3.5.0/DaxStudio_3_5_0_portable.zip"
   }
 ]
