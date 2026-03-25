@@ -1,52 +1,52 @@
 [
   {
-    "Version": "0.11.24",
-    "Date": "22/3/2026",
+    "Version": "0.11.25",
+    "Date": "24/3/2026",
     "Size": 8958440,
-    "Sha256": "b6648adcd94de10246bb5f27ec354186a6417ad596482d5c61155b8925535493",
+    "Sha256": "8fb7fad1e09db55e89cd7201686c156003fe76e3082b6ffc7fce47262e3a5bde",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/mickem/nscp/releases/download/0.11.24/check_nsclient-0.11.24-x64.exe"
+    "URI": "https://github.com/mickem/nscp/releases/download/0.11.25/check_nsclient-0.11.25-x64.exe"
   },
   {
-    "Version": "0.11.24",
-    "Date": "22/3/2026",
+    "Version": "0.11.25",
+    "Date": "24/3/2026",
     "Size": 6959080,
-    "Sha256": "fa1e720bc926b9231ffd5a11196e25ebbe4eee90f0e4f80abb804390e9d6c9f4",
+    "Sha256": "0b74f0290789e59f25e28bd083a2a9401ca6efb99a10f0124740fe0326ae3ddc",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/mickem/nscp/releases/download/0.11.24/check_nsclient-0.11.24-Win32.exe"
+    "URI": "https://github.com/mickem/nscp/releases/download/0.11.25/check_nsclient-0.11.25-Win32.exe"
   },
   {
-    "Version": "0.11.24",
-    "Date": "22/3/2026",
-    "Size": 54185984,
-    "Sha256": "1515f9f3bf90bab990c2ced3a75d1c242611855d3aa5f9140eb452cfcd125cb6",
+    "Version": "0.11.25",
+    "Date": "24/3/2026",
+    "Size": 54198272,
+    "Sha256": "60b48cf8547c26a833193a016aa6e8a2372649cbd4310afcfbc7c1c016a67695",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/mickem/nscp/releases/download/0.11.24/NSCP-0.11.24-x64.msi"
+    "URI": "https://github.com/mickem/nscp/releases/download/0.11.25/NSCP-0.11.25-x64.msi"
   },
   {
-    "Version": "0.11.24",
-    "Date": "22/3/2026",
-    "Size": 63787008,
-    "Sha256": "07ce7261a88a58f983d8085af3e9fe0c2d9e3efbfeafaea72fa3ee70f49d6a06",
+    "Version": "0.11.25",
+    "Date": "24/3/2026",
+    "Size": 63791104,
+    "Sha256": "a8b9674e2c54c18accf5826415ca74dce65220f7ee687420e36339cb11eef85a",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/mickem/nscp/releases/download/0.11.24/NSCP-0.11.24-Win32-legacy-xp.msi"
+    "URI": "https://github.com/mickem/nscp/releases/download/0.11.25/NSCP-0.11.25-Win32-legacy-xp.msi"
   },
   {
-    "Version": "0.11.24",
-    "Date": "22/3/2026",
-    "Size": 43634688,
-    "Sha256": "5138813a0e54a631f1f879ae6eb4d85be7ecd21f60fb365fe8e0a02312c97992",
+    "Version": "0.11.25",
+    "Date": "24/3/2026",
+    "Size": 43642880,
+    "Sha256": "5f2d16f95a1ba82077204817a70773b33973ff860d88bd683abb9aa2101fb711",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/mickem/nscp/releases/download/0.11.24/NSCP-0.11.24-Win32.msi"
+    "URI": "https://github.com/mickem/nscp/releases/download/0.11.25/NSCP-0.11.25-Win32.msi"
   }
 ]
