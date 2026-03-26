@@ -1,13 +1,13 @@
 [
   {
-    "Version": "2025.3.3",
-    "Build": "253.31033.139",
+    "Version": "2025.3.4",
+    "Build": "253.32098.74",
     "Edition": "PyCharm Professional",
-    "Sha256": "https://download.jetbrains.com/python/pycharm-2025.3.3.exe.sha256",
-    "Date": "20/2/2026",
-    "Size": 891341944,
+    "Sha256": "https://download.jetbrains.com/python/pycharm-2025.3.4.exe.sha256",
+    "Date": "25/3/2026",
+    "Size": 891494248,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/python/pycharm-2025.3.3.exe"
+    "URI": "https://download.jetbrains.com/python/pycharm-2025.3.4.exe"
   },
   {
     "Version": "2025.2.6",
