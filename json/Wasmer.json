@@ -1,12 +1,12 @@
 [
   {
-    "Version": "7.0.1",
-    "Date": "2/2/2026",
-    "Size": 52021280,
-    "Sha256": "6b800ea49f8b610facc6f8330dc94d0d95ea7aeebb10e35077efad4528fc192c",
+    "Version": "7.1.0",
+    "Date": "27/3/2026",
+    "Size": 80135063,
+    "Sha256": "ab7824cf469bd4c40c63686bc9759ad76ed04cb161ebd29e937934e9d1c009ff",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/wasmerio/wasmer/releases/download/v7.0.1/wasmer-windows.exe"
+    "URI": "https://github.com/wasmerio/wasmer/releases/download/v7.1.0/wasmer-windows.exe"
   }
 ]
