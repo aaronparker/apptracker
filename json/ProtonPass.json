@@ -1,19 +1,19 @@
 [
   {
+    "Version": "1.35.1",
+    "Date": "2026-03-30T09:17:04",
+    "Release": "Beta",
+    "Sha512": "0364a6b804315061cc687e2f81743c2dbdbc58301b96e0f3313d0d59b2a115ad06f49cc0700105bedc7d74b174dfbdc010f15151962cfd542328863a03d49c67",
+    "Type": "exe",
+    "URI": "https://proton.me/download/pass/windows/ProtonPass_Setup_1.35.1.exe"
+  },
+  {
     "Version": "1.35.0",
     "Date": "2026-03-09T10:46:42",
     "Release": "Stable",
     "Sha512": "757f50eb8bca66401529d8b3f7ab8a3f53fc02de1e2dddc2701be2534ed21c3ca3c6ac37786ff92a717b24e3930ddf779b4487aca0e33d4358e4484b8e625ef0",
     "Type": "exe",
     "URI": "https://proton.me/download/pass/windows/ProtonPass_Setup_1.35.0.exe"
-  },
-  {
-    "Version": "1.34.2",
-    "Date": "2026-01-30T15:17:10",
-    "Release": "Beta",
-    "Sha512": "b3c56636d233c7b38cf866b6bd71a3994cb40858a6a91678943af47b3b05793c9d035a918f9a15d33676099ab85dedfbffe4175aa0a2d099a9ad97706b6264e5",
-    "Type": "exe",
-    "URI": "https://proton.me/download/pass/windows/ProtonPass_Setup_1.34.2.exe"
   },
   {
     "Version": "1.14.0",
