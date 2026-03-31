@@ -1,12 +1,12 @@
 [
   {
-    "Version": "33.0.0",
-    "Date": "23/3/2026",
-    "Size": 237707264,
-    "Sha256": "95aad7b1d302cff128388175ba7a1f9d422a9831c981482edf8b8eb09ea4c1b4",
+    "Version": "33.0.1",
+    "Date": "30/3/2026",
+    "Size": 237703168,
+    "Sha256": "fe4904d75d4f1d5ce7dddb7862963f013ee97bda1ed451f0c4c1b267a4317341",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/nextcloud-releases/desktop/releases/download/v33.0.0/Nextcloud-33.0.0-x64.msi"
+    "URI": "https://github.com/nextcloud-releases/desktop/releases/download/v33.0.1/Nextcloud-33.0.1-x64.msi"
   }
 ]

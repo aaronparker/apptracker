@@ -1,11 +1,11 @@
 [
   {
-    "Version": "1.12.12",
-    "Date": "24/3/2026",
+    "Version": "1.13.0",
+    "Date": "30/3/2026",
     "Release": "Stable",
-    "Sha512": "76bf4b5ea5a69b04a4e38af776e1424d433571cbeab72a0160c25999ea432daae7a1ee5890a0df7c675394193d17d6bafd8347cf4bb1695f3dac842d64feb894",
+    "Sha512": "c6a9dac1cbd2847d0e1613ecb75e0ca27bc12e474c0f7b695de8cbbfdba9d98fc9b17ed68b43af62433ea2c0faaed4bc76606144211a1e51709210290ab08c6d",
     "Type": "exe",
-    "URI": "https://proton.me/download/drive/windows/1.12.12/x64/Proton%20Drive%20Setup%201.12.12.exe"
+    "URI": "https://proton.me/download/drive/windows/1.13.0/x64/Proton%20Drive%20Setup%201.13.0.exe"
   },
   {
     "Version": "1.7.3",

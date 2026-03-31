@@ -1,22 +1,22 @@
 [
   {
-    "Version": "2.20.7",
-    "Date": "23/2/2026",
-    "Size": 33461208,
-    "Sha256": "537f53ada4dbba44e7aa53fd93cadee226ec150107e5a4091545b42802329173",
+    "Version": "2.21.7",
+    "Date": "30/3/2026",
+    "Size": 34584024,
+    "Sha256": "96f543a84122c093f2bce47e7c7392da9ccc75fb3d36024e71603bf33785b864",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Windscribe/Desktop-App/releases/download/v2.20.7/Windscribe_2.20.7_arm64.exe"
+    "URI": "https://github.com/Windscribe/Desktop-App/releases/download/v2.21.7/Windscribe_2.21.7_arm64.exe"
   },
   {
-    "Version": "2.20.7",
-    "Date": "23/2/2026",
-    "Size": 37982680,
-    "Sha256": "edadcd301dfae9a7c32bb720a912893c400db9b3497314b08f57318749b2a70c",
+    "Version": "2.21.7",
+    "Date": "30/3/2026",
+    "Size": 39904216,
+    "Sha256": "f42e3110682d957af701bea6ea79b4eb2a9097dcd41acac9fd0e39ca1276c3ba",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Windscribe/Desktop-App/releases/download/v2.20.7/Windscribe_2.20.7_amd64.exe"
+    "URI": "https://github.com/Windscribe/Desktop-App/releases/download/v2.21.7/Windscribe_2.21.7_amd64.exe"
   }
 ]

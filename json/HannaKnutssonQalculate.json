@@ -1,22 +1,12 @@
 [
   {
-    "Version": "5.9.0",
-    "Date": "19/1/2026",
-    "Size": 70204928,
-    "Sha256": "2911a16da9681fe3bc5518fb93a8350dce88e455c65b0e14abe35001449ae8a8",
+    "Version": "5.10.0",
+    "Date": "29/3/2026",
+    "Size": 70588416,
+    "Sha256": "7fb5c5aa22ddcfcda9ae001e52c0e0675686a4726a0035c9850ca2aea118c6b6",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/Qalculate/libqalculate/releases/download/v5.9.0/qalculate-5.9.0-x64.msi"
-  },
-  {
-    "Version": "5.9.0",
-    "Date": "19/1/2026",
-    "Size": 70204928,
-    "Sha256": "bfce91956845dba5a8fe5b9cc911ae8d15a76022165f8f6f2fc695e03dd5f2d5",
-    "Architecture": "x64",
-    "InstallerType": "Default",
-    "Type": "msi",
-    "URI": "https://github.com/Qalculate/libqalculate/releases/download/v5.9.0/qalculate-5.9.0b-x64.msi"
+    "URI": "https://github.com/Qalculate/libqalculate/releases/download/v5.10.0/qalculate-5.10.0-x64.msi"
   }
 ]

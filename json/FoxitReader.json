@@ -1,20 +1,20 @@
 [
   {
-    "Version": "2025.3.0.35737",
+    "Version": "2026.1.0.36452",
     "Language": "Multi-Language",
     "Type": "exe",
-    "URI": "https://cdn01.foxitsoftware.com/product/reader/desktop/win/2025.3.0/FoxitPDFReader20253_L10N_Setup_Prom_x64.exe"
+    "URI": "https://cdn01.foxitsoftware.com/product/reader/desktop/win/2026.1.0/FoxitPDFReader20261_L10N_Setup_Prom_x64.exe"
   },
   {
-    "Version": "2025.3.0.35737",
+    "Version": "2026.1.0.36452",
     "Language": "Multi-Language",
     "Type": "msp",
-    "URI": "https://cdn01.foxitsoftware.com/product/reader/desktop/win/2025.3.0/FoxitPDFReader20253_L10N_Setup_Prom_x64.msp"
+    "URI": "https://cdn01.foxitsoftware.com/product/reader/desktop/win/2026.1.0/FoxitPDFReader20261_L10N_Setup_Prom_x64.msp"
   },
   {
-    "Version": "2025.3.0.35737",
+    "Version": "2026.1.0.36452",
     "Language": "Multi-Language",
     "Type": "zip",
-    "URI": "https://cdn01.foxitsoftware.com/product/reader/desktop/win/2025.3.0/FoxitPDFReader20253_L10N_Setup_Prom_x64.zip"
+    "URI": "https://cdn01.foxitsoftware.com/product/reader/desktop/win/2026.1.0/FoxitPDFReader20261_L10N_Setup_Prom_x64.zip"
   }
 ]

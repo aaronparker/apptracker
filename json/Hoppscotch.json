@@ -1,22 +1,22 @@
 [
   {
-    "Version": "26.2.1",
-    "Date": "26/2/2026",
-    "Size": 44797952,
-    "Sha256": "17678ccd1be9e7cb82559df859bc5d0604fe66c90e756427ee8b58133066dbaf",
+    "Version": "26.3.0",
+    "Date": "31/3/2026",
+    "Size": 44900352,
+    "Sha256": "890f42235867146e581da0268ffad1ef6ddc1795320f906a40fe892d2580adb4",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/hoppscotch/releases/releases/download/v26.2.1-0/Hoppscotch_SelfHost_win_x64.msi"
+    "URI": "https://github.com/hoppscotch/releases/releases/download/v26.3.0-0/Hoppscotch_SelfHost_win_x64.msi"
   },
   {
-    "Version": "26.2.1",
-    "Date": "26/2/2026",
-    "Size": 45903872,
-    "Sha256": "8b156c69208269f60f7d61862b152220dcf08edfcde561eee030b032d139cecf",
+    "Version": "26.3.0",
+    "Date": "31/3/2026",
+    "Size": 45936640,
+    "Sha256": "e360045fe53f70f9265818de5fb3209e54c2b86f23cbfc7b0f0b55f5d5083145",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/hoppscotch/releases/releases/download/v26.2.1-0/Hoppscotch_win_x64.msi"
+    "URI": "https://github.com/hoppscotch/releases/releases/download/v26.3.0-0/Hoppscotch_win_x64.msi"
   }
 ]

@@ -1,22 +1,22 @@
 [
   {
-    "Version": "5.4.5",
-    "Date": "26/1/2026",
-    "Size": 98291712,
-    "Sha256": "f3215eaad4b22ac8e0b75f098cd4061e5997d32b73f7fdb4cdff1801bd7b8bd7",
+    "Version": "6.0.0",
+    "Date": "30/3/2026",
+    "Size": 97767424,
+    "Sha256": "33d51701c9b6c5654e6619bd5ff9a08368a530c678a058d111f6e630ec1f84de",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/torakiki/pdfsam/releases/download/v5.4.5/pdfsam-basic-5.4.5-windows-x64.msi"
+    "URI": "https://github.com/torakiki/pdfsam/releases/download/v6.0.0/pdfsam-basic-6.0.0-windows-x64.msi"
   },
   {
-    "Version": "5.4.5",
-    "Date": "26/1/2026",
-    "Size": 96678313,
-    "Sha256": "36e9fdadf0934eca85ab2504394f5ad936dbb2d5a4b2db087e1aa62f5bb1e817",
+    "Version": "6.0.0",
+    "Date": "30/3/2026",
+    "Size": 96249725,
+    "Sha256": "172ed2973b3adfb9e707afef6fe829c8d07a6c108e498226a6b0dd10f13ae8d5",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "zip",
-    "URI": "https://github.com/torakiki/pdfsam/releases/download/v5.4.5/pdfsam-basic-5.4.5-windows-x64.zip"
+    "URI": "https://github.com/torakiki/pdfsam/releases/download/v6.0.0/pdfsam-basic-6.0.0-windows-x64.zip"
   }
 ]
