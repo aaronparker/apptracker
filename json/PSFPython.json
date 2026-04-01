@@ -1,13 +1,13 @@
 [
   {
-    "Version": "26.0",
+    "Version": "26.1",
     "Python": 100,
-    "md5": "DEF982EE6964BF78869F2BC0ADAB066D",
-    "Size": 9994240,
-    "Date": "23/2/2026",
+    "md5": "FE937DB651C99A20F7048C20018A2692",
+    "Size": 9990144,
+    "Date": "31/3/2026",
     "Type": "msi",
     "Architecture": "x86",
-    "URI": "https://www.python.org/ftp/python/pymanager/python-manager-26.0.msi"
+    "URI": "https://www.python.org/ftp/python/pymanager/python-manager-26.1.msi"
   },
   {
     "Version": "3.14.3",

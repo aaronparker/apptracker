@@ -1,39 +1,39 @@
 [
   {
-    "Version": "148.0.3928.0",
-    "Date": "2026-03-24T21:02:00",
+    "Version": "148.0.3943.0",
+    "Date": "2026-03-31T19:26:00",
     "Channel": "Dev",
     "Release": "Enterprise",
-    "Expiry": "2026-06-24T21:02:00",
-    "SHA256": "115982C353D70531DA62C3CC67CBB9CEA3FB05774A93D1BB538AFA96C5646F8C",
-    "Size": 193.52,
+    "Expiry": "2026-06-30T19:26:00",
+    "SHA256": "952B58AC7121BBE581628F8D78CD06E4AFA8797A420E495BF29EB547D8120A45",
+    "Size": 194.13,
     "Architecture": "arm64",
     "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f7113aab-d354-4deb-87fd-cf32b8b8785d/MicrosoftEdgeDevEnterpriseARM64.msi"
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c9d55d59-0d39-4a70-b79c-15891dca4d57/MicrosoftEdgeDevEnterpriseARM64.msi"
   },
   {
-    "Version": "148.0.3928.0",
-    "Date": "2026-03-24T20:49:00",
+    "Version": "148.0.3943.0",
+    "Date": "2026-03-31T19:32:00",
     "Channel": "Dev",
     "Release": "Enterprise",
-    "Expiry": "2026-06-24T20:49:00",
-    "SHA256": "62AD3ECDDBDAADFD3B9C2C50EF105C8BCAEC416E1F9A0DB56F59AD76FD68A0BB",
-    "Size": 188.65,
+    "Expiry": "2026-06-30T19:32:00",
+    "SHA256": "147AA68CD8E5B9F518F10C3FAF43AFD446FCCA3B69034C807E9800952EE2DB50",
+    "Size": 189.46,
     "Architecture": "x64",
     "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2b716977-7883-4c63-9f4d-fac93f161631/MicrosoftEdgeDevEnterpriseX64.msi"
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/408a1c8a-084e-4b64-853e-2cc4b2f5c846/MicrosoftEdgeDevEnterpriseX64.msi"
   },
   {
-    "Version": "148.0.3928.0",
-    "Date": "2026-03-24T20:50:00",
+    "Version": "148.0.3943.0",
+    "Date": "2026-03-31T19:33:00",
     "Channel": "Dev",
     "Release": "Enterprise",
-    "Expiry": "2026-06-24T20:50:00",
-    "SHA256": "CCB7B7ADA14690B3E83091251E6DDEB51F49C71C00CF0C9C69E86FF9A39EBBF2",
-    "Size": 166.61,
+    "Expiry": "2026-06-30T19:33:00",
+    "SHA256": "EB6C033F773C4428D3F0EF8121D410CB515B58F2B5036BEAA385761FDF57D6C9",
+    "Size": 167.35,
     "Architecture": "x86",
     "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1284f657-a4bf-441a-afca-b80cccd5eea9/MicrosoftEdgeDevEnterpriseX86.msi"
+    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/de35535b-06a1-46fa-8bf8-04333ec9c42b/MicrosoftEdgeDevEnterpriseX86.msi"
   },
   {
     "Version": "147.0.3912.37",
