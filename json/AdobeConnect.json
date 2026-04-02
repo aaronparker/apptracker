@@ -1,15 +1,15 @@
 [
   {
-    "Version": "2025.9.15",
+    "Version": "2026.3.125",
     "Type": "exe",
     "Architecture": "x64",
-    "URI": "https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2025_9_15.exe"
+    "URI": "https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectAppSetup11_2026_3_125.exe"
   },
   {
-    "Version": "2025.9.15",
+    "Version": "2026.3.125",
     "Type": "msi",
     "Architecture": "x64",
-    "URI": "https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2025_9_15.msi"
+    "URI": "https://download.adobe.com/pub/connect/updaters/meeting/11_0/ConnectApp11_2026_3_125.msi"
   },
   {
     "Version": "2024.9.149",
