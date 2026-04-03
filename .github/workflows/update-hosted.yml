@@ -34,11 +34,7 @@ jobs:
         shell: pwsh
         working-directory: ${{ github.workspace }}
         run: |
-          $params = @{
-              Path = "${{ github.workspace }}/json"
-              Apps = @("FreedomScientificFusion", "FreedomScientificJAWS", "FreedomScientificZoomText", "OracleJava17", "OracleJava20", "OracleJava21", "OracleJava22", "OracleJava23", "OracleJava25")
-          }
-          . "${{ github.workspace }}/scripts/Update-JsonHosted.ps1" @params
+          . "${{ github.workspace }}/scripts/Update-JsonHosted.ps1" -Path "${{ github.workspace }}/json"
 
           # Write the supported apps to a JSON file for reference
           Find-EvergreenApp | ConvertTo-Json | Out-File "${{ github.workspace }}/json/supported-apps.json" -Encoding utf8 -Force
