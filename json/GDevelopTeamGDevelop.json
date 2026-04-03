@@ -1,12 +1,12 @@
 [
   {
-    "Version": "5.6.263",
-    "Date": "1/4/2026",
-    "Size": 149959208,
-    "Sha256": "a8ed34048cddc10a2563a2fc56b300695c9b34fdace51c08f0e7a0c95969628b",
-    "Architecture": "x86",
+    "Version": "5.6.264",
+    "Date": "2/4/2026",
+    "Size": 149958408,
+    "Sha256": "12a28c3f541e3dce72a4214b1abfebb21b1872b959732ae5ab168f103a578bc2",
+    "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/4ian/GDevelop/releases/download/v5.6.263/GDevelop-5-Setup-5.6.263.exe"
+    "URI": "https://github.com/4ian/GDevelop/releases/download/v5.6.264/GDevelop-5-Setup-5.6.264.exe"
   }
 ]
