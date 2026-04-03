@@ -510,11 +510,6 @@
     "Link": "https://cisco.github.io/ChezScheme/"
   },
   {
-    "Name": "CitrixShareFile",
-    "Application": "Citrix ShareFile for Windows",
-    "Link": "https://www.citrix.com/downloads/sharefile/clients-and-plug-ins/citrix-files-for-windows.html"
-  },
-  {
     "Name": "CitrixWorkspaceApp",
     "Application": "Citrix Workspace app",
     "Link": "https://www.citrix.com/downloads/workspace-app/"
@@ -1253,6 +1248,11 @@
     "Name": "KiCad",
     "Application": "KiCad KiCad",
     "Link": "https://gitlab.com/kicad/code/kicad"
+  },
+  {
+    "Name": "KinoveaKinovea",
+    "Application": "Kinovea",
+    "Link": "https://kinovea.org"
   },
   {
     "Name": "KitwareCMake",
@@ -2083,6 +2083,11 @@
     "Name": "ProgressChefWorkstation",
     "Application": "Progress Chef Workstation",
     "Link": "https://www.chef.io/products/chef-workstation"
+  },
+  {
+    "Name": "ProgressShareFile",
+    "Application": "Progress ShareFile",
+    "Link": "https://www.sharefile.com/product-feature/data-access-and-control"
   },
   {
     "Name": "ProjectLibre",
