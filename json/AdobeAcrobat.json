@@ -3,7 +3,6 @@
     "Version": "26.001.21367",
     "Track": "DC",
     "Product": "Reader",
-    "DownloadType": "Update",
     "Language": "Multi",
     "Architecture": "x64",
     "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600121367/AcroRdrDCx64Upd2600121367_MUI.msp"
@@ -12,7 +11,6 @@
     "Version": "26.001.21367",
     "Track": "DC",
     "Product": "Acrobat",
-    "DownloadType": "Update",
     "Language": "Neutral",
     "Architecture": "x64",
     "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600121367/AcrobatDCx64Upd2600121367.msp"
@@ -21,7 +19,6 @@
     "Version": "26.001.21367",
     "Track": "DC",
     "Product": "Reader",
-    "DownloadType": "Update",
     "Language": "Neutral",
     "Architecture": "x64",
     "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600121367/AcroRdrDCx64Upd2600121367.msp"
@@ -30,7 +27,6 @@
     "Version": "26.001.21367",
     "Track": "DC",
     "Product": "Reader",
-    "DownloadType": "Update",
     "Language": "Multi",
     "Architecture": "x86",
     "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2600121367/AcroRdrDCUpd2600121367_MUI.msp"
@@ -39,7 +35,6 @@
     "Version": "26.001.21367",
     "Track": "DC",
     "Product": "Acrobat",
-    "DownloadType": "Update",
     "Language": "Neutral",
     "Architecture": "x86",
     "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600121367/AcrobatDCUpd2600121367.msp"
@@ -48,7 +43,6 @@
     "Version": "26.001.21367",
     "Track": "DC",
     "Product": "Reader",
-    "DownloadType": "Update",
     "Language": "Neutral",
     "Architecture": "x86",
     "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2600121367/AcroRdrDCUpd2600121367.msp"
@@ -57,7 +51,6 @@
     "Version": "20.005.30838",
     "Track": "2020",
     "Product": "Reader",
-    "DownloadType": "Update",
     "Language": "Multi",
     "Architecture": "x86",
     "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2020/2000530838/AcroRdr2020Upd2000530838_MUI.msp"
@@ -66,7 +59,6 @@
     "Version": "20.005.30838",
     "Track": "2020",
     "Product": "Acrobat",
-    "DownloadType": "Update",
     "Language": "Neutral",
     "Architecture": "x86",
     "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/Acrobat2020/2000530838/Acrobat2020Upd2000530838.msp"
@@ -75,7 +67,6 @@
     "Version": "17.012.30262",
     "Track": "2017",
     "Product": "Reader",
-    "DownloadType": "Update",
     "Language": "Multi",
     "Architecture": "x86",
     "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2017/1701230262/AcroRdr2017Upd1701230262_MUI.msp"
@@ -84,7 +75,6 @@
     "Version": "17.012.30262",
     "Track": "2017",
     "Product": "Acrobat",
-    "DownloadType": "Update",
     "Language": "Neutral",
     "Architecture": "x86",
     "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/Acrobat2017/1701230262/Acrobat2017Upd1701230262.msp"
@@ -93,7 +83,6 @@
     "Version": "15.006.30527",
     "Track": "2015",
     "Product": "Reader",
-    "DownloadType": "Update",
     "Language": "Multi",
     "Architecture": "x86",
     "URI": "https://ardownload2.adobe.com/pub/adobe/reader/win/Acrobat2015/1500630527/AcroRdr2015Upd1500630527_MUI.msp"
@@ -102,7 +91,6 @@
     "Version": "15.006.30527",
     "Track": "2015",
     "Product": "Acrobat",
-    "DownloadType": "Update",
     "Language": "Neutral",
     "Architecture": "x86",
     "URI": "https://ardownload2.adobe.com/pub/adobe/acrobat/win/Acrobat2015/1500630527/Acrobat2015Upd1500630527.msp"
