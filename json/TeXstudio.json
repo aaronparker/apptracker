@@ -4,8 +4,8 @@
     "Date": "27/3/2026",
     "Size": 138261440,
     "Sha256": "bf0a12db0f3047316945e6f7a6437f4aade492a987cd4749507f85d8b6019eef",
-    "Architecture": "ARM64",
-    "InstallerType": "Default",
+    "Architecture": "ARM",
+    "InstallerType": "Qt6",
     "Type": "exe",
     "URI": "https://github.com/texstudio-org/texstudio/releases/download/4.9.3/texstudio-4.9.3-win-arm-qt6-signed.exe"
   },
@@ -15,7 +15,7 @@
     "Size": 144711656,
     "Sha256": "c9fa1275820ac1604039989f66b4798f6faafb1e79a3ba014c1c9550214ee7d8",
     "Architecture": "x86",
-    "InstallerType": "Default",
+    "InstallerType": "Qt6",
     "Type": "exe",
     "URI": "https://github.com/texstudio-org/texstudio/releases/download/4.9.3/texstudio-4.9.3-win-qt6-signed.exe"
   }

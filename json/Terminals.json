@@ -3,9 +3,8 @@
     "Version": "4.0.1",
     "Date": "21/6/2017",
     "Size": 4960256,
-    "Sha256": null,
     "Architecture": "x86",
-    "InstallerType": "Minimal",
+    "InstallerType": "Default",
     "Type": "msi",
     "URI": "https://github.com/Terminals-Origin/Terminals/releases/download/4.0.1/TerminalsSetup_4.0.1.msi"
   }

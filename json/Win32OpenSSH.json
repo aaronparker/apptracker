@@ -34,7 +34,7 @@
     "Date": "29/4/2025",
     "Size": 4800073,
     "Sha256": "c3f69d55171a07fb145fdb2707f85e39623952127d2385c9b7a92919807921ed",
-    "Architecture": "ARM64",
+    "Architecture": "ARM",
     "InstallerType": "Default",
     "Type": "zip",
     "URI": "https://github.com/PowerShell/Win32-OpenSSH/releases/download/10.0.0.0p2-Preview/OpenSSH-ARM.zip"

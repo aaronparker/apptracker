@@ -5,7 +5,7 @@
     "Size": 136384512,
     "Sha256": "04215bec5632a976b48eb632856b50f1eaaa183b9c2a5904e11d1bacc4961ff7",
     "Architecture": "x64",
-    "InstallerType": "Minimal",
+    "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/kubernetes/minikube/releases/download/v1.38.1/minikube-windows-amd64.exe"
   },
@@ -15,7 +15,7 @@
     "Size": 50928289,
     "Sha256": "4191fa56bdf25c4bb785f62bbb005a06c56e51cc9e08116149f7f816b907187d",
     "Architecture": "x86",
-    "InstallerType": "Minimal",
+    "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/kubernetes/minikube/releases/download/v1.38.1/minikube-installer.exe"
   }

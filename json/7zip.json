@@ -4,7 +4,7 @@
     "Date": "12/2/2026",
     "Size": 1659567,
     "Sha256": "50f0a6887cd63bcd95f62d648d58e878ae583c6497d02f20a7078c1e061f229d",
-    "Architecture": "ARM64",
+    "Architecture": "ARM",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/ip7z/7zip/releases/download/26.00/7z2600-arm.exe"

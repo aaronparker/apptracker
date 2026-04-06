@@ -4,7 +4,7 @@
     "Date": "26/2/2026",
     "Size": 106039000,
     "Sha256": "13c01476ea2183748a4d1ebe773cb897a2f908c4bddf32374739302780e117cb",
-    "Architecture": "ARM64",
+    "Architecture": "ARM",
     "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/mltframework/shotcut/releases/download/v26.2.26/shotcut-win_ARM-26.2.26.exe"

@@ -5,7 +5,7 @@
     "Size": 2922143,
     "Sha256": "961af964cc17e090765e4bccfa1728ad7212d63ba0dbe3e71663218ac63f72b8",
     "Architecture": "ARM64",
-    "InstallerType": "Default",
+    "InstallerType": "NonDarkMode",
     "Type": "exe",
     "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v25.01-v1.5.7-R4/7z25.01-zstd-arm64-ndm.exe"
   },
@@ -25,7 +25,7 @@
     "Size": 3063793,
     "Sha256": "61f450281a18efa708680bd8ef106bb75163a2913917e3e34603bd463ad6a531",
     "Architecture": "x64",
-    "InstallerType": "Default",
+    "InstallerType": "NonDarkMode",
     "Type": "exe",
     "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v25.01-v1.5.7-R4/7z25.01-zstd-x64-ndm.exe"
   },
@@ -45,7 +45,7 @@
     "Size": 2773913,
     "Sha256": "76fc39cdc72648647e1fd152fbd82d123fcc8d43b3ba51cd19a8b21e0bae19ca",
     "Architecture": "x86",
-    "InstallerType": "Default",
+    "InstallerType": "NonDarkMode",
     "Type": "exe",
     "URI": "https://github.com/mcmilk/7-Zip-zstd/releases/download/v25.01-v1.5.7-R4/7z25.01-zstd-x32-ndm.exe"
   },

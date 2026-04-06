@@ -5,7 +5,7 @@
     "Size": 19906560,
     "Sha256": "979a52195bd41d8062ac251d162818ee3f39e09af0e94be581ca34b718e2980e",
     "Architecture": "x64",
-    "InstallerType": "Default",
+    "InstallerType": "Qt5",
     "Type": "msi",
     "URI": "https://github.com/transmission/transmission/releases/download/4.1.1/transmission-4.1.1-qt5-x64.msi"
   },
@@ -25,7 +25,7 @@
     "Size": 17702912,
     "Sha256": "f9bc128ecb579823c2789954d761c7af6b9bce4dc9f8bc7b02aeaa0fa1a14a99",
     "Architecture": "x86",
-    "InstallerType": "Default",
+    "InstallerType": "Qt5",
     "Type": "msi",
     "URI": "https://github.com/transmission/transmission/releases/download/4.1.1/transmission-4.1.1-qt5-x86.msi"
   },

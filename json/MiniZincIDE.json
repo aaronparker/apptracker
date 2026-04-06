@@ -5,7 +5,7 @@
     "Size": 37831904,
     "Sha256": "a4f475b042b6d23132fbef1dbcd673933483b0054ce60630afc39d45f076ed96",
     "Architecture": "x64",
-    "InstallerType": "Minimal",
+    "InstallerType": "Default",
     "Type": "exe",
     "URI": "https://github.com/MiniZinc/MiniZincIDE/releases/download/2.9.5/MiniZincIDE-2.9.5-bundled-setup-win64.exe"
   }

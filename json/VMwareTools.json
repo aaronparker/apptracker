@@ -1,7 +1,7 @@
 [
   {
     "Version": "13.0.10",
-    "Architecture": "ARM64",
+    "Architecture": "ARM",
     "URI": "https://packages-prod.broadcom.com/tools/releases/latest/windows/arm/VMware-tools-13.0.10-25056151-arm.exe"
   },
   {
