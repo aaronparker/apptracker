@@ -7,7 +7,7 @@
     "Expiry": "2026-06-30T19:26:00",
     "SHA256": "952B58AC7121BBE581628F8D78CD06E4AFA8797A420E495BF29EB547D8120A45",
     "Size": 194.13,
-    "Architecture": "arm64",
+    "Architecture": "ARM64",
     "Type": "msi",
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c9d55d59-0d39-4a70-b79c-15891dca4d57/MicrosoftEdgeDevEnterpriseARM64.msi"
   },
@@ -43,7 +43,7 @@
     "Expiry": "2026-07-06T22:34:00",
     "SHA256": "15A1237E556E766EBAA3222E3B260B9DB2F08051ACC1F269F6E0C5AC5EC3AC97",
     "Size": 192.1,
-    "Architecture": "arm64",
+    "Architecture": "ARM64",
     "Type": "msi",
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/14874708-e911-4bb1-b00f-d05efaa9cb97/MicrosoftEdgeBetaEnterpriseARM64.msi"
   },
@@ -79,7 +79,7 @@
     "Expiry": "2027-04-06T17:40:00",
     "SHA256": "27E87DAD0D70D44DF430A8B600C182D4708221167B541B0C9DFAB7921F1C872B",
     "Size": 198.14,
-    "Architecture": "arm64",
+    "Architecture": "ARM64",
     "Type": "msi",
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4c0b28d5-ed6c-4e5c-b8fa-65de9c31d016/MicrosoftEdgeEnterpriseARM64.msi"
   },

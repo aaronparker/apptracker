@@ -2,7 +2,7 @@
   {
     "Version": "146.0.3856.109",
     "Channel": "Stable",
-    "Architecture": "arm64",
+    "Architecture": "ARM64",
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0c0163d6-8e08-423c-be2f-1846285323fc/MicrosoftEdgeWebView2RuntimeInstallerARM64.exe"
   },
   {

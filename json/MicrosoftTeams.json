@@ -2,7 +2,7 @@
   {
     "Version": "26058.713.4529.5861",
     "Release": "Enterprise",
-    "Architecture": "arm64",
+    "Architecture": "ARM64",
     "Type": "msix",
     "URI": "https://installer.teams.static.microsoft/production-windows-arm64/26058.713.4529.5861/MSTeams-arm64.msix"
   },
@@ -23,7 +23,7 @@
   {
     "Version": "25198.1112.3855.2900",
     "Release": "Consumer",
-    "Architecture": "arm64",
+    "Architecture": "ARM64",
     "Type": "msix",
     "URI": "https://installer.teams.static.microsoft/production-windows-arm64/25198.1112.3855.2900/MicrosoftTeams-arm64.msix"
   },
