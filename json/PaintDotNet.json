@@ -2,13 +2,13 @@
   {
     "Version": "5.112.9563.32325",
     "Channel": "stable",
-    "Architecture": "anycpu",
+    "Architecture": "any",
     "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.12/paint.net.5.1.12.install.anycpu.web.zip"
   },
   {
     "Version": "5.112.9563.32325",
     "Channel": "stable",
-    "Architecture": "arm64",
+    "Architecture": "ARM64",
     "URI": "https://github.com/paintdotnet/release/releases/download/v5.1.12/paint.net.5.1.12.install.arm64.zip"
   },
   {

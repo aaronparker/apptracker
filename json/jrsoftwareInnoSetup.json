@@ -1,6 +1,12 @@
 [
   {
-    "Version": "6.7.1",
-    "URI": "https://files.jrsoftware.org/is/6/innosetup-6.7.1.exe"
+    "Version": "is-6_7_1",
+    "Date": "11/2/2026",
+    "Size": 10619024,
+    "Sha256": "4d11e8050b6185e0d49bd9e8cc661a7a59f44959a621d31d11033124c4e8a7b0",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "exe",
+    "URI": "https://github.com/jrsoftware/issrc/releases/download/is-6_7_1/innosetup-6.7.1.exe"
   }
 ]

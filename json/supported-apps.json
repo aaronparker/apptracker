@@ -726,7 +726,7 @@
   },
   {
     "Name": "ESETPROTECTServer",
-    "Application": "ESET Endpoint Antivirus",
+    "Application": "ESET PROTECT Server",
     "Link": "https://www.eset.com/au/business/solutions/endpoint-protection/"
   },
   {
@@ -1561,7 +1561,7 @@
   },
   {
     "Name": "MicrosoftTeams",
-    "Application": "Microsoft Teams (new)",
+    "Application": "Microsoft Teams",
     "Link": "https://www.microsoft.com/teams"
   },
   {
