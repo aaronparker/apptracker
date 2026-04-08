@@ -1,12 +1,12 @@
 [
   {
-    "Version": "24.1.1",
+    "Version": "24.1.2",
     "Date": "7/4/2026",
-    "Size": 106250000,
-    "Sha256": "36a71844165e635ec89d486367a29996a926eb0161f8dcfe9190b149a71d177b",
+    "Size": 106237960,
+    "Sha256": "04b9fa37c6336ece369aa5f30bd310c3926fc478a1879451fb437a967b2bacfa",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/balena-io/balena-cli/releases/download/v24.1.1/balena-cli-v24.1.1-windows-x64-installer.exe"
+    "URI": "https://github.com/balena-io/balena-cli/releases/download/v24.1.2/balena-cli-v24.1.2-windows-x64-installer.exe"
   }
 ]

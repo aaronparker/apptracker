@@ -1,22 +1,22 @@
 [
   {
-    "Version": "1.42.0",
-    "Date": "17/3/2026",
-    "Size": 163961032,
-    "Sha256": "e32f1850da7683ea800cb56cb5501a0bc68d4a9c502b843144270779610b8f4d",
+    "Version": "1.43.0",
+    "Date": "26/3/2026",
+    "Size": 163634376,
+    "Sha256": "26721c9ac4f0a07cf3ff9620c96b851e06f5ec48e857d53f0aa9fe8f16ea3f83",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.42.0/StorageExplorer-windows-arm64.exe"
+    "URI": "https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.43.0/StorageExplorer-windows-arm64.exe"
   },
   {
-    "Version": "1.42.0",
-    "Date": "17/3/2026",
-    "Size": 172274160,
-    "Sha256": "0af583a9d09d02cf06e1bd3e2227733c9acde2ccd0ff9c41d4769b3d24889284",
+    "Version": "1.43.0",
+    "Date": "26/3/2026",
+    "Size": 172132776,
+    "Sha256": "0d6ff1c282cffa003a4c281d92bcc3a4d6581e1158855c19fa54444a7d1de481",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.42.0/StorageExplorer-windows-x64.exe"
+    "URI": "https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.43.0/StorageExplorer-windows-x64.exe"
   }
 ]
