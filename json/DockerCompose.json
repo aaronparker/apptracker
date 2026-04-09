@@ -1,22 +1,22 @@
 [
   {
-    "Version": "5.1.1",
-    "Date": "18/3/2026",
-    "Size": 30094848,
-    "Sha256": "2c42d7600886bb56d9bb009f348b4f7f8c603c954c7b07be3d53b3218877ce4a",
+    "Version": "5.1.2",
+    "Date": "9/4/2026",
+    "Size": 30814208,
+    "Sha256": "553c96849d49d029774304e56723884a2f8696c2eb516f546d349ef1c9d303ba",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/docker/compose/releases/download/v5.1.1/docker-compose-windows-aarch64.exe"
+    "URI": "https://github.com/docker/compose/releases/download/v5.1.2/docker-compose-windows-aarch64.exe"
   },
   {
-    "Version": "5.1.1",
-    "Date": "18/3/2026",
-    "Size": 32317952,
-    "Sha256": "f7ad2f6965c88153e4902019ec86e95414f0025cba0b6440f328f935a1f8b12b",
+    "Version": "5.1.2",
+    "Date": "9/4/2026",
+    "Size": 33119232,
+    "Sha256": "00e839301ca18ee5109b3ef086788f3a281c317c0b77ba42a06fc6f806401255",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/docker/compose/releases/download/v5.1.1/docker-compose-windows-x86_64.exe"
+    "URI": "https://github.com/docker/compose/releases/download/v5.1.2/docker-compose-windows-x86_64.exe"
   }
 ]
