@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2.65.0",
-    "Date": "3/3/2026",
-    "Size": 116485176,
-    "Sha256": "2cf2c524fc0dde4ce7e1174107c6e1d4fc6747cbc590ac62915bb67d6d34edf1",
+    "Version": "2.65.1",
+    "Date": "9/4/2026",
+    "Size": 116489592,
+    "Sha256": "72a277295f515b1be2725950d931123c55ecc553c7429488de8a857cc2cc34f2",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/tidepool-org/uploader/releases/download/v2.65.0/Tidepool-Uploader-Setup-2.65.0.exe"
+    "URI": "https://github.com/tidepool-org/uploader/releases/download/v2.65.1/Tidepool-Uploader-Setup-2.65.1.exe"
   }
 ]

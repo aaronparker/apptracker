@@ -1464,17 +1464,6 @@
   },
   {
     "Version": "143.0.3650.66",
-    "Date": "2025-12-04T23:58:00",
-    "Channel": "Stable",
-    "Expiry": "2026-12-04T23:58:00",
-    "SHA256": "6B87F5106C17305D719A4688D8744E7ACB0DB13B9ABB1202C8077EE9AE0829F1",
-    "Size": 189.09,
-    "Architecture": "ARM64",
-    "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5e0e6dc5-d718-4868-8069-a2af2cd88ea0/MicrosoftEdgeEnterpriseARM64.msi"
-  },
-  {
-    "Version": "143.0.3650.66",
     "Date": "2025-12-05T00:05:00",
     "Channel": "Stable",
     "Expiry": "2026-12-05T00:05:00",
@@ -1604,39 +1593,6 @@
     "Architecture": "x86",
     "Type": "msi",
     "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/680c6dc9-f26a-4a30-abf0-44f75c89124c/MicrosoftEdgeEnterpriseX86.msi"
-  },
-  {
-    "Version": "142.0.3595.120",
-    "Date": "2025-12-04T19:03:00",
-    "Channel": "Stable",
-    "Expiry": "2026-12-04T19:03:00",
-    "SHA256": "7EE6F2822A418DA8349A3D0CC0A2FA2019872F8102CF70454CE4B03203A77DB9",
-    "Size": 188.09,
-    "Architecture": "ARM64",
-    "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/7b28a54e-a16b-4f3c-a500-dd67969561dd/MicrosoftEdgeEnterpriseARM64.msi"
-  },
-  {
-    "Version": "142.0.3595.120",
-    "Date": "2025-12-04T19:30:00",
-    "Channel": "Stable",
-    "Expiry": "2026-12-04T19:30:00",
-    "SHA256": "C29DD01BCB72F01845DB59F424FA89BD1F3C4EAD868857BCC7529C9A6A0C76B9",
-    "Size": 183.25,
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6e27b95a-5567-406b-885b-8ed947df3208/MicrosoftEdgeEnterpriseX64.msi"
-  },
-  {
-    "Version": "142.0.3595.120",
-    "Date": "2025-12-04T19:25:00",
-    "Channel": "Stable",
-    "Expiry": "2026-12-04T19:25:00",
-    "SHA256": "C2764939199E64053C710F395F428491A4527827E5D307470E19F0264A9219A5",
-    "Size": 163.05,
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c7655d83-4232-4414-a121-3b85ba232f7b/MicrosoftEdgeEnterpriseX86.msi"
   },
   {
     "Version": "1.3.227.11",
