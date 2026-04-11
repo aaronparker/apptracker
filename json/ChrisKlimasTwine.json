@@ -1,12 +1,12 @@
 [
   {
-    "Version": "2.11.1",
-    "Date": "8/11/2025",
-    "Size": 117069269,
-    "Sha256": "1effe5fb83c6f2eda51cbac4c08b18c476a4b6bd6f7dec01656b7b338e3c63f6",
+    "Version": "2.12.0",
+    "Date": "10/4/2026",
+    "Size": 121078841,
+    "Sha256": "1292d6dddc64b89583cca6e17123215e5d7cd35c32cdea1c14edfff7599e6ebc",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/klembot/twinejs/releases/download/2.11.1/Twine-2.11.1-Windows.exe"
+    "URI": "https://github.com/klembot/twinejs/releases/download/2.12.0/Twine-2.12.0-Windows.exe"
   }
 ]
