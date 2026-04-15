@@ -1,12 +1,12 @@
 [
   {
-    "Version": "1.1.0",
-    "Date": "25/3/2026",
-    "Size": 519252872,
-    "Sha256": "82d769db2780c6d7b20bcb4587bcfee204219b088bbc7f2e74a0d89c8e0af674",
+    "Version": "1.1.1",
+    "Date": "14/4/2026",
+    "Size": 519357544,
+    "Sha256": "3e4caf58cc1d82e4e8d726572f741ae664b6e91a77c4d3cb59102d9b8bd51feb",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/FreeCAD/FreeCAD/releases/download/1.1.0/FreeCAD_1.1.0-Windows-x86_64-py311-installer.exe"
+    "URI": "https://github.com/FreeCAD/FreeCAD/releases/download/1.1.1/FreeCAD_1.1.1-Windows-x86_64-py311-installer.exe"
   }
 ]
