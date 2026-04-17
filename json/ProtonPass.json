@@ -1,11 +1,11 @@
 [
   {
-    "Version": "1.36.0",
-    "Date": "2026-04-03T09:53:35",
+    "Version": "1.36.1",
+    "Date": "2026-04-16T12:07:29",
     "Release": "Stable",
-    "Sha512": "3afe8d9580dcfc967bf4c080bea9ae4e2cc80118da4e81b5bc32459ea0260a7e1187e97edd24969dd36127c30dbe05348590e52f9a4a7da013efda46506821d1",
+    "Sha512": "e7d73c5ef884613b0da2fba694f2d97b7811dcde3cae6f500ac8ceeff969d2c41ddf5f661ca7f95a8631db2df87fc17b739db2bf2b6c637157343fa2987f108d",
     "Type": "exe",
-    "URI": "https://proton.me/download/pass/windows/ProtonPass_Setup_1.36.0.exe"
+    "URI": "https://proton.me/download/pass/windows/ProtonPass_Setup_1.36.1.exe"
   },
   {
     "Version": "1.35.1",
