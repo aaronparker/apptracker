@@ -1,82 +1,82 @@
 [
   {
-    "Version": "7.1.1",
-    "Date": "7/10/2025",
-    "Size": 124213530,
-    "Sha256": "2780b3307e65bdce96e68824888f4d9a4994c7fd5f19a589dde3e1afaa9d11e8",
+    "Version": "7.1.2",
+    "Date": "18/4/2026",
+    "Size": 124262004,
+    "Sha256": "d3289d41054b10cb51355571da44cc6093813e36706b8a0f9ae98459ab9d0a6b",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ferdium/ferdium-app/releases/download/v7.1.1/Ferdium-win-AutoSetup-7.1.1-arm64.exe"
+    "URI": "https://github.com/ferdium/ferdium-app/releases/download/v7.1.2/Ferdium-win-AutoSetup-7.1.2-arm64.exe"
   },
   {
-    "Version": "7.1.1",
-    "Date": "7/10/2025",
-    "Size": 123968753,
-    "Sha256": "bf41e2d95f92018b5e64bd5e4d0f55d7d8fab4c48f6861298378b6e26624b123",
+    "Version": "7.1.2",
+    "Date": "18/4/2026",
+    "Size": 124017196,
+    "Sha256": "aa26f58f396003f413be32b5ff647d3585ec855295715fe5978df15dc41bf3b6",
     "Architecture": "ARM64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/ferdium/ferdium-app/releases/download/v7.1.1/Ferdium-win-Portable-7.1.1-arm64.exe"
+    "URI": "https://github.com/ferdium/ferdium-app/releases/download/v7.1.2/Ferdium-win-Portable-7.1.2-arm64.exe"
   },
   {
-    "Version": "7.1.1",
-    "Date": "7/10/2025",
-    "Size": 113964494,
-    "Sha256": "38d7d0f87d391418090c7e471b2ed30d3f60e8489e1e468a5171f153723fc32b",
+    "Version": "7.1.2",
+    "Date": "18/4/2026",
+    "Size": 113965774,
+    "Sha256": "724a656c92d77d74650efd18fd60b1f11840bfe4531321b2bcd6cf27c9bc7865",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ferdium/ferdium-app/releases/download/v7.1.1/Ferdium-win-AutoSetup-7.1.1-x64.exe"
+    "URI": "https://github.com/ferdium/ferdium-app/releases/download/v7.1.2/Ferdium-win-AutoSetup-7.1.2-x64.exe"
   },
   {
-    "Version": "7.1.1",
-    "Date": "7/10/2025",
-    "Size": 113719319,
-    "Sha256": "b005d80c0c0b1989ffd35022b06a4f046bf3582ed50e29f7f1aff34a32a35a0d",
+    "Version": "7.1.2",
+    "Date": "18/4/2026",
+    "Size": 113720608,
+    "Sha256": "77072398c1db5c58eaa1297d267b3a08b7b45d7e9970e2e358fcbfd42437c1f0",
     "Architecture": "x64",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/ferdium/ferdium-app/releases/download/v7.1.1/Ferdium-win-Portable-7.1.1-x64.exe"
+    "URI": "https://github.com/ferdium/ferdium-app/releases/download/v7.1.2/Ferdium-win-Portable-7.1.2-x64.exe"
   },
   {
-    "Version": "7.1.1",
-    "Date": "7/10/2025",
-    "Size": 108452573,
-    "Sha256": "a6b5de1acf6e360cc7468fb46b059397f8eb7f15f4069f0b50d3f946f3a096e5",
+    "Version": "7.1.2",
+    "Date": "18/4/2026",
+    "Size": 108478842,
+    "Sha256": "8862ee7bc5668bbf43f9c15e1f04a7cd4f06e1ea0214aeb4ee1fbd46a8dee35b",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ferdium/ferdium-app/releases/download/v7.1.1/Ferdium-win-AutoSetup-7.1.1-ia32.exe"
+    "URI": "https://github.com/ferdium/ferdium-app/releases/download/v7.1.2/Ferdium-win-AutoSetup-7.1.2-ia32.exe"
   },
   {
-    "Version": "7.1.1",
-    "Date": "7/10/2025",
-    "Size": 345107364,
-    "Sha256": "6a2b1e4348dec68fdfae86cd2389d57ed0f8290391f05eee736b6616b08e95e4",
+    "Version": "7.1.2",
+    "Date": "18/4/2026",
+    "Size": 345183387,
+    "Sha256": "25816b9dc2e191685795ed7ab16127ba18e4b5b31f4f439a312526056863738c",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/ferdium/ferdium-app/releases/download/v7.1.1/Ferdium-win-AutoSetup-7.1.1.exe"
+    "URI": "https://github.com/ferdium/ferdium-app/releases/download/v7.1.2/Ferdium-win-AutoSetup-7.1.2.exe"
   },
   {
-    "Version": "7.1.1",
-    "Date": "7/10/2025",
-    "Size": 108207900,
-    "Sha256": "e7d2f8b86a02296ac9ad0a45bf01b1145e71db58496fa8ae267de284344e0823",
+    "Version": "7.1.2",
+    "Date": "18/4/2026",
+    "Size": 108234160,
+    "Sha256": "3a938f69bfb5cbef135b94e0b5964f79c09e7719ec6ebc2d8a802c6e090a7cbf",
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/ferdium/ferdium-app/releases/download/v7.1.1/Ferdium-win-Portable-7.1.1-ia32.exe"
+    "URI": "https://github.com/ferdium/ferdium-app/releases/download/v7.1.2/Ferdium-win-Portable-7.1.2-ia32.exe"
   },
   {
-    "Version": "7.1.1",
-    "Date": "7/10/2025",
-    "Size": 344862284,
-    "Sha256": "e407fc774bb79a611f27fd98c6a9b923424f3f868b9a5983c881561ffcc6666f",
+    "Version": "7.1.2",
+    "Date": "18/4/2026",
+    "Size": 344938282,
+    "Sha256": "391643ca0986b2f9ced8f5d357b55028181230ef8d3de3b31604de13783317b0",
     "Architecture": "x86",
     "InstallerType": "Portable",
     "Type": "exe",
-    "URI": "https://github.com/ferdium/ferdium-app/releases/download/v7.1.1/Ferdium-win-Portable-7.1.1.exe"
+    "URI": "https://github.com/ferdium/ferdium-app/releases/download/v7.1.2/Ferdium-win-Portable-7.1.2.exe"
   }
 ]
