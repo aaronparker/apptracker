@@ -1,72 +1,72 @@
 [
   {
-    "Version": "1.89.137",
-    "Date": "16/4/2026",
-    "Size": 153654624,
-    "Sha256": "17e87985407fd89202f82de9817a8f68d693b5421967bf7d1333239229894871",
+    "Version": "1.89.141",
+    "Date": "21/4/2026",
+    "Size": 153951072,
+    "Sha256": "865f07f1fd63ef070957d9af18de1adb1650190308056addbdb7051348925cba",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/brave/brave-browser/releases/download/v1.89.137/BraveBrowserStandaloneSetupArm64.exe"
+    "URI": "https://github.com/brave/brave-browser/releases/download/v1.89.141/BraveBrowserStandaloneSetupArm64.exe"
   },
   {
-    "Version": "1.89.137",
-    "Date": "16/4/2026",
-    "Size": 153655136,
-    "Sha256": "5f584ed6f4958af48f129a73d2f37043f7d805746a37209b18cecf720e7b8b35",
+    "Version": "1.89.141",
+    "Date": "21/4/2026",
+    "Size": 153952096,
+    "Sha256": "ff3e48f8587cd9a3ea3963b2df21a89f932f17061608d79ae51488bec97863ac",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/brave/brave-browser/releases/download/v1.89.137/BraveBrowserStandaloneSilentSetupArm64.exe"
+    "URI": "https://github.com/brave/brave-browser/releases/download/v1.89.141/BraveBrowserStandaloneSilentSetupArm64.exe"
   },
   {
-    "Version": "1.89.137",
-    "Date": "16/4/2026",
+    "Version": "1.89.141",
+    "Date": "21/4/2026",
     "Size": 1277280,
-    "Sha256": "7432e871fefa87946ecdc7f715127861f38fe15afb65404bb65af4a45ace6293",
+    "Sha256": "0bfa149ba275b5f666ea6e2ba857e717a5540303e3bbc2f9644e07533185f4f6",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/brave/brave-browser/releases/download/v1.89.137/BraveBrowserSetup.exe"
+    "URI": "https://github.com/brave/brave-browser/releases/download/v1.89.141/BraveBrowserSetup.exe"
   },
   {
-    "Version": "1.89.137",
-    "Date": "16/4/2026",
-    "Size": 148245856,
-    "Sha256": "f27de3f9c5684dfa605b32e61d019ffaafebd29985c67c82d221aca841a9265f",
+    "Version": "1.89.141",
+    "Date": "21/4/2026",
+    "Size": 148544864,
+    "Sha256": "347cfc21a7ab07d5750afb52fbd3acb0ca01ba514dc76d8abdbe9253e4cc6ea8",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/brave/brave-browser/releases/download/v1.89.137/BraveBrowserStandaloneSetup.exe"
+    "URI": "https://github.com/brave/brave-browser/releases/download/v1.89.141/BraveBrowserStandaloneSetup.exe"
   },
   {
-    "Version": "1.89.137",
-    "Date": "16/4/2026",
-    "Size": 133677920,
-    "Sha256": "3c8d5c6a44518b3692b803c8a552ea2dd750c8fcb6c0951b51693ce3f92495ad",
+    "Version": "1.89.141",
+    "Date": "21/4/2026",
+    "Size": 133957984,
+    "Sha256": "921fa593fdfe7f2768476ce1b09b77f0b2195f6bc9b5e9bb7b54665e50baa034",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/brave/brave-browser/releases/download/v1.89.137/BraveBrowserStandaloneSetup32.exe"
+    "URI": "https://github.com/brave/brave-browser/releases/download/v1.89.141/BraveBrowserStandaloneSetup32.exe"
   },
   {
-    "Version": "1.89.137",
-    "Date": "16/4/2026",
-    "Size": 148245856,
-    "Sha256": "6df590d6e0630609036b504af7a56e8c18e9dfc93539f3c17568586f973a7804",
+    "Version": "1.89.141",
+    "Date": "21/4/2026",
+    "Size": 148544352,
+    "Sha256": "e8d1689534c11dd18c22f53005e8dd53ef32c52ba0440be93aadd5e79af695a5",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/brave/brave-browser/releases/download/v1.89.137/BraveBrowserStandaloneSilentSetup.exe"
+    "URI": "https://github.com/brave/brave-browser/releases/download/v1.89.141/BraveBrowserStandaloneSilentSetup.exe"
   },
   {
-    "Version": "1.89.137",
-    "Date": "16/4/2026",
-    "Size": 133677408,
-    "Sha256": "200f1decc8868d6d23d288e091a730740f10b9519f3650fec8490b808d815998",
+    "Version": "1.89.141",
+    "Date": "21/4/2026",
+    "Size": 133959008,
+    "Sha256": "994bd685810e8281ab7f5becbd82bce0fe7c269c87b40f723bf96b0917a86f9b",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/brave/brave-browser/releases/download/v1.89.137/BraveBrowserStandaloneSilentSetup32.exe"
+    "URI": "https://github.com/brave/brave-browser/releases/download/v1.89.141/BraveBrowserStandaloneSilentSetup32.exe"
   }
 ]

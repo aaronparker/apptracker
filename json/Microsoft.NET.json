@@ -1,133 +1,133 @@
 [
   {
-    "Version": "10.0.202",
+    "Version": "10.0.203",
     "Channel": "LTS",
     "Support": "active",
     "Installer": "sdk",
     "Architecture": "ARM64",
-    "Sha512": "3636df89522997a731b7e7d7b17a7ac803647e07e9a215ee10f00bd9cf7c3ee4cccaecfc7318c4d0c37f3c09318843a526d11f5e57192090875c6580705b386c",
+    "Sha512": "62a2e55d18263b706bb220877a2c0e7c7eb2819dceed7bbcd696e5d3b875013783542557358eb070a144f19dd1c3386a122bb01d52ebe6bb39abd7a1882b5dc9",
     "Type": "exe",
-    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.202/dotnet-sdk-10.0.202-win-arm64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.203/dotnet-sdk-10.0.203-win-arm64.exe"
   },
   {
-    "Version": "10.0.202",
+    "Version": "10.0.203",
     "Channel": "LTS",
     "Support": "active",
     "Installer": "sdk",
     "Architecture": "x64",
-    "Sha512": "d3d8792493497ea9127d41fa8898f599be54af1aeb9a5adf6e5b8dc27ff12ab5e4ae73e553d6f626ff785b6d2b4b2dfaab00fe9446e8c3c38e453050914b47c8",
+    "Sha512": "369bef6b731c683bba0c1aaa3d51b9b11bf4d4f056a57c6de3ac88c04783f4f9d593f4dedba09a1b758fe7b66b7e1a412e107d1e0823528c10918adab6742b5e",
     "Type": "exe",
-    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.202/dotnet-sdk-10.0.202-win-x64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.203/dotnet-sdk-10.0.203-win-x64.exe"
   },
   {
-    "Version": "10.0.202",
+    "Version": "10.0.203",
     "Channel": "LTS",
     "Support": "active",
     "Installer": "sdk",
     "Architecture": "x86",
-    "Sha512": "31c3d043ccb25427d0039ab94f4a97925095b89946efbe950b02bdd4807ad0463c33f9898083402dabd6ac758f2f7cbc15bfd3b420ad06d3730fb7343aae5d3c",
+    "Sha512": "dbfef1e52a9e03a258a8d925916f866a56f69c85660eaa1d3e802fca158936a635c9ea03dbc0c37cb7bfc871acf38e6e958fd33b7c8b0d78de3d130b26fcbc0b",
     "Type": "exe",
-    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.202/dotnet-sdk-10.0.202-win-x86.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.203/dotnet-sdk-10.0.203-win-x86.exe"
   },
   {
-    "Version": "10.0.6",
+    "Version": "10.0.7",
     "Channel": "LTS",
     "Support": "active",
     "Installer": "runtime",
     "Architecture": "ARM64",
-    "Sha512": "845eaa2d927800740b54a265d2dbd789b716fa6be4ba30e9712260fed3752b3decf2de78d6e3b1a2b41652802f84174d7154220c4d2b1979c042cbb18955b5d4",
+    "Sha512": "57f91f209c5979539a59e2e887cc271f9f0affaac64d87904d508705c3c459d2675ee73cdea014debfaa4c26eb883b25a29030535719eb857aa593c0a350e604",
     "Type": "exe",
-    "URI": "https://builds.dotnet.microsoft.com/dotnet/Runtime/10.0.6/dotnet-runtime-10.0.6-win-arm64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Runtime/10.0.7/dotnet-runtime-10.0.7-win-arm64.exe"
   },
   {
-    "Version": "10.0.6",
+    "Version": "10.0.7",
     "Channel": "LTS",
     "Support": "active",
     "Installer": "windowsdesktop",
     "Architecture": "ARM64",
-    "Sha512": "87a1c452859ac2f18661178846863fd665c2c0b03eb6f01ed3bc3654aabf0a9fa2b5b039c18015e2a349b92c4f810591d76bb1d5f3f79393247230a5b996e5fc",
+    "Sha512": "b4e3d70ac698877fcf9c4e1f95c4bffbac86a1cc37707ac2cd01ac8173b192a412b7d063e52efd3478d329ced56ba6467116b159784aba6f93b24cd1412f87c5",
     "Type": "exe",
-    "URI": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.6/windowsdesktop-runtime-10.0.6-win-arm64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.7/windowsdesktop-runtime-10.0.7-win-arm64.exe"
   },
   {
-    "Version": "10.0.6",
+    "Version": "10.0.7",
     "Channel": "LTS",
     "Support": "active",
     "Installer": "aspnetcore-runtime",
     "Architecture": "ARM64",
-    "Sha512": "5645bc969a014aff2fa5773091ef80caab8e7c4f3530f56e5f9e89e294429a024d55ab0037f071d778636aaf2bfc15f3997c5d011a6d0813eb59dec6e36040be",
+    "Sha512": "8a88e729eafe4dd9911361f27631987cad462a3639ecc1e2fba63e6d4355f5daef18f9fce2130b717357704149ba82aa464399bef3a087a013293108f463aacd",
     "Type": "exe",
-    "URI": "https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/10.0.6/aspnetcore-runtime-10.0.6-win-arm64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/10.0.7/aspnetcore-runtime-10.0.7-win-arm64.exe"
   },
   {
-    "Version": "10.0.6",
+    "Version": "10.0.7",
     "Channel": "LTS",
     "Support": "active",
     "Installer": "runtime",
     "Architecture": "x64",
-    "Sha512": "6f664badc1dea1f8ec78083c942f405d7d9e64c1a7d42fd803ea7a98ebc795c6f3ba4a8a8d2e12d4916bf5a55d82e78444d71201f29153c656a2a039711632e6",
+    "Sha512": "e6ecc41b546e3aef74fab2ec8b066bb198b197492223c145c35170124f0dfe83c419ddeaf247ce670f35a6afba967877563a2de8fa0bb45866039d9fb399712f",
     "Type": "exe",
-    "URI": "https://builds.dotnet.microsoft.com/dotnet/Runtime/10.0.6/dotnet-runtime-10.0.6-win-x64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Runtime/10.0.7/dotnet-runtime-10.0.7-win-x64.exe"
   },
   {
-    "Version": "10.0.6",
+    "Version": "10.0.7",
     "Channel": "LTS",
     "Support": "active",
     "Installer": "windowsdesktop",
     "Architecture": "x64",
-    "Sha512": "d4decabfb31ed54898637f01a0c38d5ef581e99926aa448f2378ac40c4362f93b403305e10d8c5e5e764f8ec9c04cf50ff5f3e70ac98f05da2651eb5c85a8cd3",
+    "Sha512": "6473d5b01e93d12720c3befa5ee52c61b189760db5c029182838a8c24daf8e03b33787de6ddac7c4c9f97c08c65c528bf9c366ec9c401ae5462824c4f5e70604",
     "Type": "exe",
-    "URI": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.6/windowsdesktop-runtime-10.0.6-win-x64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.7/windowsdesktop-runtime-10.0.7-win-x64.exe"
   },
   {
-    "Version": "10.0.6",
+    "Version": "10.0.7",
     "Channel": "LTS",
     "Support": "active",
     "Installer": "aspnetcore-runtime",
     "Architecture": "x64",
-    "Sha512": "2e43eff02cf0869edeb746c9b927f10c203d3fc3cbe3f44afee43a5a5d795e9c722694ec320364b76304d1117503b13b839470b4194c4ac234331d2f4ee73589",
+    "Sha512": "d14b46d792ee2e23d5a9f87be01bf064809ba4bb45c105c0be3012da8d3fc0933f8dcb0bde6f9da73258519fdde2cbba9f1e20cae943af5177f86284a4dcf3d0",
     "Type": "exe",
-    "URI": "https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/10.0.6/aspnetcore-runtime-10.0.6-win-x64.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/10.0.7/aspnetcore-runtime-10.0.7-win-x64.exe"
   },
   {
-    "Version": "10.0.6",
+    "Version": "10.0.7",
     "Channel": "LTS",
     "Support": "active",
     "Installer": "runtime",
     "Architecture": "x86",
-    "Sha512": "b5e9e34385efccd82cd81156caf7f9101fac2d5c9b2aa82252a7e428e7fffc85165087bd87884fccadc184f228631494f17b982f327ddc9d52d60eaab9674a4c",
+    "Sha512": "769f34df1d69e0f16022e31950c044c4917eb36dda674de4cf6901f71d30fcd33c9f04b7b0bf01a051e54bf631752394a4962b7b0748bd440853ab4c0300e77f",
     "Type": "exe",
-    "URI": "https://builds.dotnet.microsoft.com/dotnet/Runtime/10.0.6/dotnet-runtime-10.0.6-win-x86.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/Runtime/10.0.7/dotnet-runtime-10.0.7-win-x86.exe"
   },
   {
-    "Version": "10.0.6",
+    "Version": "10.0.7",
     "Channel": "LTS",
     "Support": "active",
     "Installer": "windowsdesktop",
     "Architecture": "x86",
-    "Sha512": "b3e9bd0efef882847a4e2dbd83e2b7f934981f784bf9a3a7faf1c2665102d2553023b9c7ab105f440ecb844ddcee63056624d2ac1f520d05dafa2810a250a0ce",
+    "Sha512": "ebc101f1d709f87bae5330d6ec797791c971f5c5e5ad990436816179c1040455b51e6dadb973bb6d441bda4e8d20c3bef103ae6208df11004c1e9d3cd2dcc9fb",
     "Type": "exe",
-    "URI": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.6/windowsdesktop-runtime-10.0.6-win-x86.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.7/windowsdesktop-runtime-10.0.7-win-x86.exe"
   },
   {
-    "Version": "10.0.6",
+    "Version": "10.0.7",
     "Channel": "LTS",
     "Support": "active",
     "Installer": "aspnetcore-runtime",
     "Architecture": "x86",
-    "Sha512": "e299d6b3beff831491e8f2669944dbf18c44eb8062fa7bab396be7866ccf4968d1b2d79b0c605d577a0cb175a6f09f7e0fd6fcbca9facae4fca538a1609bd168",
+    "Sha512": "08167c5ee98f16f59844e25348a7fa668a495a21fa1ca3ac30de3d90a44add2f1801216783abf44fead3916e1281bbfa033f951c8dd67c3f487e9f224c43248c",
     "Type": "exe",
-    "URI": "https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/10.0.6/aspnetcore-runtime-10.0.6-win-x86.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/10.0.7/aspnetcore-runtime-10.0.7-win-x86.exe"
   },
   {
-    "Version": "10.0.6",
+    "Version": "10.0.7",
     "Channel": "LTS",
     "Support": "active",
     "Installer": "aspnetcore-runtime",
     "Architecture": "x86",
-    "Sha512": "78b21270f7830f90e9ce4646b05645f70580e4318fcddde1846a0fa04d64659964ff957776786702703111526a158f68e571f48de728b8a3adfecaf8985403bf",
+    "Sha512": "fa14ffc28182d2de274759047f9498bff21f2a346cc756a8958a653e1bacdb700776d7598f1974acac48b787476b2ba01d99b1d61d8db59fdb82de3ff06aed07",
     "Type": "exe",
-    "URI": "https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/10.0.6/dotnet-hosting-10.0.6-win.exe"
+    "URI": "https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/10.0.7/dotnet-hosting-10.0.7-win.exe"
   },
   {
     "Version": "9.0.313",

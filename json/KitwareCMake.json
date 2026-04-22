@@ -1,32 +1,32 @@
 [
   {
-    "Version": "4.3.1",
-    "Date": "27/3/2026",
-    "Size": 36495360,
-    "Sha256": "c1932e50d5eb726be6fe57cbcc51c5d13fd404086a287bcc17e75e371009beb1",
+    "Version": "4.3.2",
+    "Date": "21/4/2026",
+    "Size": 36487168,
+    "Sha256": "34d3a3c7baab9a874d271fea873ee8c4183bd579066697e68500a673b05121ca",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/Kitware/CMake/releases/download/v4.3.1/cmake-4.3.1-windows-arm64.msi"
+    "URI": "https://github.com/Kitware/CMake/releases/download/v4.3.2/cmake-4.3.2-windows-arm64.msi"
   },
   {
-    "Version": "4.3.1",
-    "Date": "27/3/2026",
-    "Size": 38154240,
-    "Sha256": "92ea30f5541abb693a5ac9c1d5f4353369fbc1e8f23a775e3e27f17c5b00212f",
+    "Version": "4.3.2",
+    "Date": "21/4/2026",
+    "Size": 38150144,
+    "Sha256": "6915813bedf3a8a698b72fc858e0c2a99761be981745c3c3c99bd30e1477e142",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/Kitware/CMake/releases/download/v4.3.1/cmake-4.3.1-windows-x86_64.msi"
+    "URI": "https://github.com/Kitware/CMake/releases/download/v4.3.2/cmake-4.3.2-windows-x86_64.msi"
   },
   {
-    "Version": "4.3.1",
-    "Date": "27/3/2026",
-    "Size": 35651584,
-    "Sha256": "5e5ac3542e406be0d3fb4509bd1d374e1bed1a0c0c71cd72e40dbeb7195d23ed",
+    "Version": "4.3.2",
+    "Date": "21/4/2026",
+    "Size": 35631104,
+    "Sha256": "911b289997e2e93243f75917e36394898519b219ac161d2288593112ad44b4de",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/Kitware/CMake/releases/download/v4.3.1/cmake-4.3.1-windows-i386.msi"
+    "URI": "https://github.com/Kitware/CMake/releases/download/v4.3.2/cmake-4.3.2-windows-i386.msi"
   }
 ]
