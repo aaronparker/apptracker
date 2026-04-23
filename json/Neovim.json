@@ -1,22 +1,22 @@
 [
   {
-    "Version": "0.12.1",
-    "Date": "6/4/2026",
-    "Size": 12812328,
-    "Sha256": "9e6626300229f0eea4542ebace787c17552faa93aea5beddf568dd4ee0da6cf2",
+    "Version": "0.12.2",
+    "Date": "22/4/2026",
+    "Size": 12820540,
+    "Sha256": "d1db3fa2fafa1096ccb5489fe99998864f07e87a98f49e20bef314beb71090a9",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/neovim/neovim/releases/download/v0.12.1/nvim-win-arm64.msi"
+    "URI": "https://github.com/neovim/neovim/releases/download/v0.12.2/nvim-win-arm64.msi"
   },
   {
-    "Version": "0.12.1",
-    "Date": "6/4/2026",
-    "Size": 12427304,
-    "Sha256": "8b71160072e33136bcc78fbcd109dd5b1c6b0a89857b790c07e5cc2eb98929cc",
+    "Version": "0.12.2",
+    "Date": "22/4/2026",
+    "Size": 12443708,
+    "Sha256": "3aefe5540b61b0efd58eb64bd1522935b18a8c203f35c4387f606fb5f4bd2093",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/neovim/neovim/releases/download/v0.12.1/nvim-win64.msi"
+    "URI": "https://github.com/neovim/neovim/releases/download/v0.12.2/nvim-win64.msi"
   }
 ]
