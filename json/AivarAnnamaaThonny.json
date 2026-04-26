@@ -1,29 +1,22 @@
 [
   {
-    "Version": "4.1.7",
-    "Date": "16/12/2024",
-    "Size": 23475936,
-    "Architecture": "x86",
+    "Version": "5.0.0",
+    "Date": "25/4/2026",
+    "Size": 23981584,
+    "Sha256": "b86391839e60e35eb1dec31f2814ccfd2ff2d551f344a787c3ad96a8387fbb0b",
+    "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/thonny/thonny/releases/download/v4.1.7/thonny-4.1.7.exe"
+    "URI": "https://github.com/thonny/thonny/releases/download/v5.0.0/thonny-5.0.0-arm64.exe"
   },
   {
-    "Version": "4.1.7",
-    "Date": "16/12/2024",
-    "Size": 18403264,
-    "Architecture": "x86",
+    "Version": "5.0.0",
+    "Date": "25/4/2026",
+    "Size": 25356424,
+    "Sha256": "1a3b98bf9cecfc32e810517c0ecbaa756fbab74c5ec5bd9cdb7a39d40f52ba45",
+    "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/thonny/thonny/releases/download/v4.1.7/thonny-py38-4.1.7.exe"
-  },
-  {
-    "Version": "4.1.7",
-    "Date": "16/12/2024",
-    "Size": 80497424,
-    "Architecture": "x86",
-    "InstallerType": "Default",
-    "Type": "exe",
-    "URI": "https://github.com/thonny/thonny/releases/download/v4.1.7/thonny-xxl-4.1.7.exe"
+    "URI": "https://github.com/thonny/thonny/releases/download/v5.0.0/thonny-5.0.0-x64.exe"
   }
 ]
