@@ -1,42 +1,42 @@
 [
   {
-    "Version": "0.98.1",
-    "Date": "26/3/2026",
-    "Size": 385411952,
-    "Sha256": "e52788f0b199433a56b0cea5dda3611da2f9d0af123e2e90f9a908d8164aad20",
+    "Version": "0.99.0",
+    "Date": "26/4/2026",
+    "Size": 384818288,
+    "Sha256": "b9e9cddbfe17f785a1a05420636ad716a323fc26b8d55d3b554879bb1f0bf2e8",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.98.1/PowerToysSetup-0.98.1-arm64.exe"
+    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.99.0/PowerToysSetup-0.99.0-arm64.exe"
   },
   {
-    "Version": "0.98.1",
-    "Date": "26/3/2026",
-    "Size": 385389336,
-    "Sha256": "dd9f1e0243a16adaa831f8e1119ae7394cb031b5b12401a0a243880f8f099545",
+    "Version": "0.99.0",
+    "Date": "26/4/2026",
+    "Size": 384795376,
+    "Sha256": "2bca2a1edb0077faf752dde95c8d02a0a7a70f8e5128f43ea58432bbbe4e3c62",
     "Architecture": "ARM64",
     "InstallerType": "User",
     "Type": "exe",
-    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.98.1/PowerToysUserSetup-0.98.1-arm64.exe"
+    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.99.0/PowerToysUserSetup-0.99.0-arm64.exe"
   },
   {
-    "Version": "0.98.1",
-    "Date": "26/3/2026",
-    "Size": 394494632,
-    "Sha256": "43b25c7927d43b9b8ae0b4b7116a7a4ffca66fae031bcf4b30fe38ac382c6f35",
+    "Version": "0.99.0",
+    "Date": "26/4/2026",
+    "Size": 394525744,
+    "Sha256": "47d193f77a99ffb606a5e7132b0736bb0fb86bed6f30d68c4269dbdd6928c0af",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.98.1/PowerToysSetup-0.98.1-x64.exe"
+    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.99.0/PowerToysSetup-0.99.0-x64.exe"
   },
   {
-    "Version": "0.98.1",
-    "Date": "26/3/2026",
-    "Size": 394468640,
-    "Sha256": "fc417bf42d6497a87682286fb541d4fa789ef0e4a812571bc0c2e4d591e63caa",
+    "Version": "0.99.0",
+    "Date": "26/4/2026",
+    "Size": 394501224,
+    "Sha256": "1e3586a2ecd454b86fe61c44b003e0027fcc24dcb5135958b73d04a58285618c",
     "Architecture": "x64",
     "InstallerType": "User",
     "Type": "exe",
-    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.98.1/PowerToysUserSetup-0.98.1-x64.exe"
+    "URI": "https://github.com/microsoft/PowerToys/releases/download/v0.99.0/PowerToysUserSetup-0.99.0-x64.exe"
   }
 ]

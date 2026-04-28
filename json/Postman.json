@@ -1,12 +1,12 @@
 [
   {
-    "Version": "12.8.0",
-    "Size": 159562872,
-    "Hash": "B17A1C575F595685EA7BCF2A9EF47E8CA2A8CA26",
-    "Date": "2026-04-27T02:52:37",
+    "Version": "12.8.1",
+    "Size": 159560824,
+    "Hash": "739248401C56E5AABAD4A3E6030E351FBDD95312",
+    "Date": "2026-04-28T02:54:08",
     "Architecture": "x64",
-    "Filename": "Postman v12.8.0 (x64).exe",
-    "URI": "https://dl.pstmn.io/download/version/12.8.0/windows64"
+    "Filename": "Postman v12.8.1 (x64).exe",
+    "URI": "https://dl.pstmn.io/download/version/12.8.1/windows64"
   },
   {
     "Version": "9.4.1",
