@@ -1,12 +1,12 @@
 [
   {
-    "Version": "6.19.0",
-    "Date": "24/3/2026",
-    "Size": 93820128,
-    "Sha256": "31f991d1aacde238a119e1727ca0b09f921bc3791c4085d7ae5116533dbb6a97",
+    "Version": "6.20.0",
+    "Date": "28/4/2026",
+    "Size": 93862280,
+    "Sha256": "a43e2cdd52c40ef5c32a9880465fe1f9419f4d244107aecc82b490b8e588c047",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/gitify-app/gitify/releases/download/v6.19.0/Gitify-Setup-6.19.0.exe"
+    "URI": "https://github.com/gitify-app/gitify/releases/download/v6.20.0/Gitify-Setup-6.20.0.exe"
   }
 ]

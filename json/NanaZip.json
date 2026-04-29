@@ -1,12 +1,12 @@
 [
   {
-    "Version": "6.0.1698.0",
-    "Date": "25/4/2026",
-    "Size": 11658654,
-    "Sha256": "6e5fefb3f442737944993bec459d0fb0945a7cd69ef45cdc26c7c555bdbf177b",
+    "Version": "6.0.1701.0",
+    "Date": "28/4/2026",
+    "Size": 11663818,
+    "Sha256": "83e61e3bf8359f3aed5dba3487eae7c620b3ace48fc5d168af8b89221f067e78",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msixbundle",
-    "URI": "https://github.com/M2Team/NanaZip/releases/download/6.0.1698.0/NanaZip_6.0.1698.0.msixbundle"
+    "URI": "https://github.com/M2Team/NanaZip/releases/download/6.0.1701.0/NanaZip_6.0.1701.0.msixbundle"
   }
 ]
