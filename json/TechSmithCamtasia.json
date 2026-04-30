@@ -1,14 +1,14 @@
 [
   {
-    "Version": "26.1.1",
-    "Date": "2026-04-28T00:00:00",
+    "Version": "26.1.2",
+    "Date": "2026-04-29T00:00:00",
     "Type": "exe",
-    "URI": "http://download.techsmith.com/camtasiastudio/releases/2611/camtasia.exe"
+    "URI": "http://download.techsmith.com/camtasiastudio/releases/2612/camtasia.exe"
   },
   {
-    "Version": "26.1.1",
-    "Date": "2026-04-28T00:00:00",
+    "Version": "26.1.2",
+    "Date": "2026-04-29T00:00:00",
     "Type": "msi",
-    "URI": "http://download.techsmith.com/camtasiastudio/releases/2611/camtasia.msi"
+    "URI": "http://download.techsmith.com/camtasiastudio/releases/2612/camtasia.msi"
   }
 ]
