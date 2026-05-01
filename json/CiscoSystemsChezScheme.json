@@ -7,6 +7,6 @@
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/cisco/ChezScheme/releases/download/v10.3.0/ChezScheme.exe"
+    "URI": "https://github.com/cisco/ChezScheme/releases/download/v10.3.0/ChezScheme10.3.0.exe"
   }
 ]

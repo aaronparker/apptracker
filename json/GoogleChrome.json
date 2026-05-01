@@ -1,7 +1,7 @@
 [
   {
-    "Version": "149.0.7817.0",
-    "StartDate": "2026-04-30T08:22:13.5945Z",
+    "Version": "149.0.7819.0",
+    "StartDate": "2026-05-01T08:10:35.003193Z",
     "EndDate": "N/A",
     "Channel": "Canary",
     "Architecture": "x64",
@@ -9,8 +9,8 @@
     "URI": "https://dl.google.com/update2/installers/chromesetup.exe"
   },
   {
-    "Version": "149.0.7808.0",
-    "StartDate": "2026-04-24T22:44:21.112325Z",
+    "Version": "149.0.7815.2",
+    "StartDate": "2026-04-30T14:48:12.446353Z",
     "EndDate": "N/A",
     "Channel": "Dev",
     "Architecture": "x64",
@@ -18,8 +18,8 @@
     "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
   },
   {
-    "Version": "149.0.7808.0",
-    "StartDate": "2026-04-24T22:44:21.112325Z",
+    "Version": "149.0.7815.2",
+    "StartDate": "2026-04-30T14:48:12.446353Z",
     "EndDate": "N/A",
     "Channel": "Dev",
     "Architecture": "x86",
@@ -110,7 +110,7 @@
   {
     "Version": "146.0.7680.216",
     "StartDate": "2026-04-28T20:00:49.442658Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-04-30T23:30:54.994411Z",
     "Channel": "Extended",
     "Architecture": "ARM64",
     "Type": "msi",
@@ -119,7 +119,7 @@
   {
     "Version": "146.0.7680.216",
     "StartDate": "2026-04-28T20:00:49.442658Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-04-30T23:30:54.994411Z",
     "Channel": "Extended",
     "Architecture": "x64",
     "Type": "msi",
@@ -128,7 +128,7 @@
   {
     "Version": "146.0.7680.216",
     "StartDate": "2026-04-28T20:00:49.442658Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-04-30T23:30:54.994411Z",
     "Channel": "Extended",
     "Architecture": "x86",
     "Type": "msi",
@@ -137,7 +137,7 @@
   {
     "Version": "146.0.7680.216",
     "StartDate": "2026-04-28T20:00:49.442658Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-04-30T23:30:54.994411Z",
     "Channel": "Extended",
     "Architecture": "ARM64",
     "Type": "zip",
@@ -146,7 +146,7 @@
   {
     "Version": "146.0.7680.216",
     "StartDate": "2026-04-28T20:00:49.442658Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-04-30T23:30:54.994411Z",
     "Channel": "Extended",
     "Architecture": "x64",
     "Type": "zip",
@@ -155,7 +155,7 @@
   {
     "Version": "146.0.7680.216",
     "StartDate": "2026-04-28T20:00:49.442658Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-04-30T23:30:54.994411Z",
     "Channel": "Extended",
     "Architecture": "x86",
     "Type": "zip",
