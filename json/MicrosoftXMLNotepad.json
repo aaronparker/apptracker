@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "2.9.0.21",
+    "Date": "28/3/2026",
+    "Size": 3896627,
+    "Sha256": "61e53435db1ad637d6cd9593bf85871a1dc02d772df17edf9c13418926b4a74c",
+    "Architecture": "any",
+    "InstallerType": "Default",
+    "Type": "msixbundle",
+    "URI": "https://github.com/microsoft/XmlNotepad/releases/download/2.9.0.21/XmlNotepadPackage_2.9.0.21_AnyCPU.msixbundle"
+  },
+  {
+    "Version": "2.9.0.21",
+    "Date": "28/3/2026",
+    "Size": 3126143,
+    "Sha256": "e3e795ff8090de55e3c17b249b19fe86edd8e35881dbb6f70a86d1927bb38976",
+    "Architecture": "x86",
+    "InstallerType": "Default",
+    "Type": "zip",
+    "URI": "https://github.com/microsoft/XmlNotepad/releases/download/2.9.0.21/XmlNotepadSetup.zip"
+  }
+]
