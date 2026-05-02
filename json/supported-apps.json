@@ -1640,6 +1640,11 @@
     "Link": "https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd"
   },
   {
+    "Name": "MicrosoftXMLNotepad",
+    "Application": "Microsoft XML Notepad",
+    "Link": "https://microsoft.github.io/XmlNotepad/"
+  },
+  {
     "Name": "Miniconda",
     "Application": "Miniconda",
     "Link": "https://docs.conda.io/en/latest/miniconda.html"
