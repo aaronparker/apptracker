@@ -1,20 +1,12 @@
 [
   {
-    "Version": "0.10.1",
-    "Date": "17/1/2023",
-    "Size": 125986656,
+    "Version": "0.11.1",
+    "Date": "3/5/2026",
+    "Size": 133550880,
+    "Sha256": "98d7184242922e044eb12cbf7ff4ed3a9bbc2963aa59968ddea881ead462e15b",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/gephi/gephi/releases/download/v0.10.1/gephi-0.10.1-windows-x64.exe"
-  },
-  {
-    "Version": "0.10.1",
-    "Date": "17/1/2023",
-    "Size": 121932728,
-    "Architecture": "x86",
-    "InstallerType": "Default",
-    "Type": "exe",
-    "URI": "https://github.com/gephi/gephi/releases/download/v0.10.1/gephi-0.10.1-windows-x32.exe"
+    "URI": "https://github.com/gephi/gephi/releases/download/v0.11.1/gephi-0.11.1-windows-x64.exe"
   }
 ]
