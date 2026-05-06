@@ -1,20 +1,20 @@
 [
   {
-    "Version": "2.0.1071.0",
+    "Version": "2.0.1129.0",
     "Architecture": "ARM64",
-    "Filename": "WindowsApp_arm64_Release_2.0.1071.0.msix",
-    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/ec42c762-f80f-4fde-9190-c3adacffc942/WindowsApp_arm64_Release_2.0.1071.0.msix"
+    "Filename": "WindowsApp_arm64_Release_2.0.1129.0.msix",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/581f2c9d-0acb-46f6-8346-28614bbf5e83/WindowsApp_arm64_Release_2.0.1129.0.msix"
   },
   {
-    "Version": "2.0.1071.0",
+    "Version": "2.0.1129.0",
     "Architecture": "x64",
-    "Filename": "WindowsApp_x64_Release_2.0.1071.0.msix",
-    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/8d11c978-7f9b-4f0d-83e0-f6e104c263f1/WindowsApp_x64_Release_2.0.1071.0.msix"
+    "Filename": "WindowsApp_x64_Release_2.0.1129.0.msix",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/0a11b53f-95d7-4ea7-a283-00f8162fabdf/WindowsApp_x64_Release_2.0.1129.0.msix"
   },
   {
-    "Version": "2.0.1071.0",
+    "Version": "2.0.1129.0",
     "Architecture": "x86",
-    "Filename": "WindowsApp_x86_Release_2.0.1071.0.msix",
-    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/db1e6154-852e-468d-a8a0-537ca95d7c2c/WindowsApp_x86_Release_2.0.1071.0.msix"
+    "Filename": "WindowsApp_x86_Release_2.0.1129.0.msix",
+    "URI": "https://res.cdn.office.net/remote-desktop-windows-client/25425a80-babd-4cbe-8764-d2715555c8a8/WindowsApp_x86_Release_2.0.1129.0.msix"
   }
 ]
