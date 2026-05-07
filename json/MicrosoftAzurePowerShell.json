@@ -1,22 +1,22 @@
 [
   {
-    "Version": "15.6.0",
-    "Date": "29/4/2026",
-    "Size": 128868352,
-    "Sha256": "0f2c88afca27dd3b753e6a0aa6ab8b4bbd7edbb1a2a10fdbf1a777b1d59f6dc2",
+    "Version": "15.6.1",
+    "Date": "6/5/2026",
+    "Size": 128892928,
+    "Sha256": "dcd55932dee87ac15982952acbc4888eed1f15fc3fa6848dc55d14c97a08f86b",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/Azure/azure-powershell/releases/download/v15.6.0-May2026/Az-Cmdlets-15.6.0.40764-x64.msi"
+    "URI": "https://github.com/Azure/azure-powershell/releases/download/v15.6.1-May2026/Az-Cmdlets-15.6.1.40772-x64.msi"
   },
   {
-    "Version": "15.6.0",
-    "Date": "29/4/2026",
-    "Size": 124813312,
-    "Sha256": "56ca9f2eef69d4da2c1f7ecdfd9fa5e7c0935b8b64650e204757d59fed2096ae",
+    "Version": "15.6.1",
+    "Date": "6/5/2026",
+    "Size": 124891136,
+    "Sha256": "f39a76491c77c6cafc928b5eacee033d2f4a14f00e48d583e2f38207035edc02",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "msi",
-    "URI": "https://github.com/Azure/azure-powershell/releases/download/v15.6.0-May2026/Az-Cmdlets-15.6.0.40764-x86.msi"
+    "URI": "https://github.com/Azure/azure-powershell/releases/download/v15.6.1-May2026/Az-Cmdlets-15.6.1.40772-x86.msi"
   }
 ]

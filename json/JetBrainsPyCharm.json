@@ -10,13 +10,13 @@
     "URI": "https://download.jetbrains.com/python/pycharm-2026.1.1.exe"
   },
   {
-    "Version": "2025.2.6.1",
-    "Build": "252.28539.58",
+    "Version": "2025.3",
+    "Build": "253.28294.336",
     "Edition": "PyCharm Community",
-    "Sha256": "https://download.jetbrains.com/python/pycharm-community-2025.2.6.1.exe.sha256",
-    "Date": "30/4/2026",
-    "Size": 805305944,
+    "Sha256": "https://download.jetbrains.com/python/pycharm-2025.3.exe.sha256",
+    "Date": "8/12/2025",
+    "Size": 887691448,
     "Type": "exe",
-    "URI": "https://download.jetbrains.com/python/pycharm-community-2025.2.6.1.exe"
+    "URI": "https://download.jetbrains.com/python/pycharm-2025.3.exe"
   }
 ]
