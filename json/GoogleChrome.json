@@ -1,12 +1,30 @@
 [
   {
-    "Version": "150.0.7830.0",
-    "StartDate": "2026-05-07T08:32:03.977649Z",
+    "Version": "150.0.7831.0",
+    "StartDate": "2026-05-07T19:24:50.874057Z",
     "EndDate": "N/A",
     "Channel": "Canary",
     "Architecture": "x64",
     "Type": "exe",
     "URI": "https://dl.google.com/update2/installers/chromesetup.exe"
+  },
+  {
+    "Version": "150.0.7828.2",
+    "StartDate": "2026-05-07T20:22:31.498063Z",
+    "EndDate": "N/A",
+    "Channel": "Dev",
+    "Architecture": "x64",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
+  },
+  {
+    "Version": "150.0.7828.2",
+    "StartDate": "2026-05-07T20:22:31.498063Z",
+    "EndDate": "N/A",
+    "Channel": "Dev",
+    "Architecture": "x86",
+    "Type": "msi",
+    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
   },
   {
     "Version": "149.0.7827.3",
@@ -36,27 +54,9 @@
     "URI": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi"
   },
   {
-    "Version": "149.0.7815.2",
-    "StartDate": "2026-04-30T14:48:12.446353Z",
-    "EndDate": "N/A",
-    "Channel": "Dev",
-    "Architecture": "x64",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi"
-  },
-  {
-    "Version": "149.0.7815.2",
-    "StartDate": "2026-04-30T14:48:12.446353Z",
-    "EndDate": "N/A",
-    "Channel": "Dev",
-    "Architecture": "x86",
-    "Type": "msi",
-    "URI": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise.msi"
-  },
-  {
     "Version": "148.0.7778.97",
     "StartDate": "2026-05-05T20:31:18.039302Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-05-07T23:45:30.941009Z",
     "Channel": "Extended",
     "Architecture": "ARM64",
     "Type": "msi",
@@ -74,7 +74,7 @@
   {
     "Version": "148.0.7778.97",
     "StartDate": "2026-05-05T20:31:18.039302Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-05-07T23:45:30.941009Z",
     "Channel": "Extended",
     "Architecture": "x64",
     "Type": "msi",
@@ -92,7 +92,7 @@
   {
     "Version": "148.0.7778.97",
     "StartDate": "2026-05-05T20:31:18.039302Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-05-07T23:45:30.941009Z",
     "Channel": "Extended",
     "Architecture": "x86",
     "Type": "msi",
@@ -110,7 +110,7 @@
   {
     "Version": "148.0.7778.97",
     "StartDate": "2026-05-05T20:31:18.039302Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-05-07T23:45:30.941009Z",
     "Channel": "Extended",
     "Architecture": "ARM64",
     "Type": "zip",
@@ -128,7 +128,7 @@
   {
     "Version": "148.0.7778.97",
     "StartDate": "2026-05-05T20:31:18.039302Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-05-07T23:45:30.941009Z",
     "Channel": "Extended",
     "Architecture": "x64",
     "Type": "zip",
@@ -146,7 +146,7 @@
   {
     "Version": "148.0.7778.97",
     "StartDate": "2026-05-05T20:31:18.039302Z",
-    "EndDate": "N/A",
+    "EndDate": "2026-05-07T23:45:30.941009Z",
     "Channel": "Extended",
     "Architecture": "x86",
     "Type": "zip",

@@ -1,22 +1,22 @@
 [
   {
-    "Version": "1.0.232",
-    "Date": "4/5/2026",
-    "Size": 126882632,
-    "Sha256": "c60173b50f0be66fd95da30ec9abbad212fc360d6b6bce119d422e0e094091dd",
+    "Version": "1.0.233",
+    "Date": "7/5/2026",
+    "Size": 138064864,
+    "Sha256": "d28c926ff0e081155bcd8509e08251dee72873487272beaedb9aa7e717c57b83",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Eugeny/tabby/releases/download/v1.0.232/tabby-1.0.232-setup-arm64.exe"
+    "URI": "https://github.com/Eugeny/tabby/releases/download/v1.0.233/tabby-1.0.233-setup-arm64.exe"
   },
   {
-    "Version": "1.0.232",
-    "Date": "4/5/2026",
-    "Size": 124950816,
-    "Sha256": "2034532e66878f8fa46afeb403f74eef34e3aa8ffc5498b4ad035e41f15492b8",
+    "Version": "1.0.233",
+    "Date": "7/5/2026",
+    "Size": 150048104,
+    "Sha256": "c635ccf53a9b24f7cfe26ba548c45f0580fb5dd77f219f3786f6fc2e8ebaf7cb",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/Eugeny/tabby/releases/download/v1.0.232/tabby-1.0.232-setup-x64.exe"
+    "URI": "https://github.com/Eugeny/tabby/releases/download/v1.0.233/tabby-1.0.233-setup-x64.exe"
   }
 ]

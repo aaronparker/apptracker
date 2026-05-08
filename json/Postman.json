@@ -1,12 +1,12 @@
 [
   {
-    "Version": "12.9.2",
-    "Size": 159575672,
-    "Hash": "2860BA71472E2200FD754F8D69C8B6E7E517A84A",
-    "Date": "2026-05-05T03:02:26",
+    "Version": "12.9.7",
+    "Size": 159477368,
+    "Hash": "700739B8292C2423473224B2032D1BEBBC4CE89B",
+    "Date": "2026-05-08T02:54:47",
     "Architecture": "x64",
-    "Filename": "Postman v12.9.2 (x64).exe",
-    "URI": "https://dl.pstmn.io/download/version/12.9.2/windows64"
+    "Filename": "Postman v12.9.7 (x64).exe",
+    "URI": "https://dl.pstmn.io/download/version/12.9.7/windows64"
   },
   {
     "Version": "9.4.1",
