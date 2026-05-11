@@ -11,37 +11,37 @@
     "URI": "https://www.python.org/ftp/python/pymanager/python-manager-26.1.msi"
   },
   {
-    "Version": "3.14.4",
+    "Version": "3.14.5",
     "Release": "3.14",
     "Python": 3,
-    "Date": "7/4/2026",
-    "Md5": "013aba2ab541051b7c64fee93a195b06",
-    "Size": 29621176,
+    "Date": "10/5/2026",
+    "Md5": "",
+    "Size": 29661672,
     "Architecture": "ARM64",
     "Type": "exe",
-    "URI": "https://www.python.org/ftp/python/3.14.4/python-3.14.4-arm64.exe"
+    "URI": "https://www.python.org/ftp/python/3.14.5/python-3.14.5-arm64.exe"
   },
   {
-    "Version": "3.14.4",
+    "Version": "3.14.5",
     "Release": "3.14",
     "Python": 3,
-    "Date": "7/4/2026",
-    "Md5": "07c2c35e0f7f586915ca44037b0ed8e3",
-    "Size": 30310128,
+    "Date": "10/5/2026",
+    "Md5": "",
+    "Size": 30361968,
     "Architecture": "x64",
     "Type": "exe",
-    "URI": "https://www.python.org/ftp/python/3.14.4/python-3.14.4-amd64.exe"
+    "URI": "https://www.python.org/ftp/python/3.14.5/python-3.14.5-amd64.exe"
   },
   {
-    "Version": "3.14.4",
+    "Version": "3.14.5",
     "Release": "3.14",
     "Python": 3,
-    "Date": "7/4/2026",
-    "Md5": "fcbc7e40ecac443214bae8a774a7b338",
-    "Size": 28869136,
+    "Date": "10/5/2026",
+    "Md5": "",
+    "Size": 28926168,
     "Architecture": "x86",
     "Type": "exe",
-    "URI": "https://www.python.org/ftp/python/3.14.4/python-3.14.4.exe"
+    "URI": "https://www.python.org/ftp/python/3.14.5/python-3.14.5.exe"
   },
   {
     "Version": "2.7.18",

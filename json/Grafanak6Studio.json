@@ -1,12 +1,12 @@
 [
   {
-    "Version": "1.13.0",
-    "Date": "28/4/2026",
-    "Size": 209936544,
-    "Sha256": "dff64b7cf073a0fb00bec792881c4f6bb462c9fb07d4538dff81befa745539d0",
+    "Version": "1.13.1",
+    "Date": "11/5/2026",
+    "Size": 209932088,
+    "Sha256": "a27ac927d53f4998d2f68b6c805184657c18d0a7a9abc79658c5af0a9bdc6a48",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/grafana/k6-studio/releases/download/v1.13.0/k6.Studio-1.13.0.Setup.exe"
+    "URI": "https://github.com/grafana/k6-studio/releases/download/v1.13.1/k6.Studio-1.13.1.Setup.exe"
   }
 ]
