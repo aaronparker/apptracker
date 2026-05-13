@@ -1,66 +1,66 @@
 [
   {
-    "Version": "1.120.0",
+    "Version": "1.121.0",
     "Platform": "win32-arm64",
     "Channel": "Insider",
     "Architecture": "ARM64",
-    "Sha256": "29639aa6347ea5463f23c0eaf89b4f1f6c331516584fb4128ebf37d2c0df4bfa",
-    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/cf596c6254ef0cfaa28b666db7b8ed53430d04b4/VSCodeSetup-arm64-1.120.0-insider.exe"
+    "Sha256": "3d608b3a94ecd8a950b83991d98fe2b841abaca09cc5f269043162763df40ad7",
+    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/c305abcf5246623ddb4e3f1be03f36e2f9dd7caf/VSCodeSetup-arm64-1.121.0-insider.exe"
+  },
+  {
+    "Version": "1.121.0",
+    "Platform": "win32-arm64-user",
+    "Channel": "Insider",
+    "Architecture": "ARM64",
+    "Sha256": "a531f8829830aeef77f5dc9907f1007d5641b8755ab6f773716bc8eabf840c70",
+    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/c305abcf5246623ddb4e3f1be03f36e2f9dd7caf/VSCodeUserSetup-arm64-1.121.0-insider.exe"
+  },
+  {
+    "Version": "1.121.0",
+    "Platform": "win32-x64",
+    "Channel": "Insider",
+    "Architecture": "x64",
+    "Sha256": "e3f228109bb35396536865b4738885500a77c916faee337cb54c71164b6053e1",
+    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/c305abcf5246623ddb4e3f1be03f36e2f9dd7caf/VSCodeSetup-x64-1.121.0-insider.exe"
+  },
+  {
+    "Version": "1.121.0",
+    "Platform": "win32-x64-user",
+    "Channel": "Insider",
+    "Architecture": "x64",
+    "Sha256": "27786f41706564a790360226e9fdb6bb7bde7afa3ba95a966fec0cb217fc029b",
+    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/c305abcf5246623ddb4e3f1be03f36e2f9dd7caf/VSCodeUserSetup-x64-1.121.0-insider.exe"
+  },
+  {
+    "Version": "1.120.0",
+    "Platform": "win32-arm64",
+    "Channel": "Stable",
+    "Architecture": "ARM64",
+    "Sha256": "6c55dd50e8733dca146ec4003ad30799f190a1526dff04ac295dd136499c4d5e",
+    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/0958016b2af9f09bb4257e0df4a95e2f90590f9f/VSCodeSetup-arm64-1.120.0.exe"
   },
   {
     "Version": "1.120.0",
     "Platform": "win32-arm64-user",
-    "Channel": "Insider",
+    "Channel": "Stable",
     "Architecture": "ARM64",
-    "Sha256": "c1bec5b77890d312b6764da30c569d902c5f401efc3424344bc4b5ced7de8ec5",
-    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/cf596c6254ef0cfaa28b666db7b8ed53430d04b4/VSCodeUserSetup-arm64-1.120.0-insider.exe"
+    "Sha256": "9be675df1c3df1c8cbe5dc12084a022dc086ff14a54972871e8c826c91e2abfd",
+    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/0958016b2af9f09bb4257e0df4a95e2f90590f9f/VSCodeUserSetup-arm64-1.120.0.exe"
   },
   {
     "Version": "1.120.0",
     "Platform": "win32-x64",
-    "Channel": "Insider",
+    "Channel": "Stable",
     "Architecture": "x64",
-    "Sha256": "4c60cd560fb8d044162747fc44e8fd52a6c1e49a6f1e46dcb7896bb8e2081e8a",
-    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/cf596c6254ef0cfaa28b666db7b8ed53430d04b4/VSCodeSetup-x64-1.120.0-insider.exe"
+    "Sha256": "095623e42c711a4500610a101f7372fd78603826cddb7dfa8ba426362955a189",
+    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/0958016b2af9f09bb4257e0df4a95e2f90590f9f/VSCodeSetup-x64-1.120.0.exe"
   },
   {
     "Version": "1.120.0",
     "Platform": "win32-x64-user",
-    "Channel": "Insider",
-    "Architecture": "x64",
-    "Sha256": "318975793a8a4557a0bc29a600c2d530c31a34c088ebfaec29c27ee2bc29593a",
-    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/insider/cf596c6254ef0cfaa28b666db7b8ed53430d04b4/VSCodeUserSetup-x64-1.120.0-insider.exe"
-  },
-  {
-    "Version": "1.119.0",
-    "Platform": "win32-arm64",
-    "Channel": "Stable",
-    "Architecture": "ARM64",
-    "Sha256": "cb5cad4ef5c302f614dc25ce61c2361c81fff8bd40396c1a222115abbd3744ab",
-    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/8b640eef5a6c6089c029249d48efa5c99adf7d51/VSCodeSetup-arm64-1.119.0.exe"
-  },
-  {
-    "Version": "1.119.0",
-    "Platform": "win32-arm64-user",
-    "Channel": "Stable",
-    "Architecture": "ARM64",
-    "Sha256": "f243916a7cc023117a6429dc746c6c955b19cfa34ed9ee88872479c84dbbe624",
-    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/8b640eef5a6c6089c029249d48efa5c99adf7d51/VSCodeUserSetup-arm64-1.119.0.exe"
-  },
-  {
-    "Version": "1.119.0",
-    "Platform": "win32-x64",
     "Channel": "Stable",
     "Architecture": "x64",
-    "Sha256": "2fcb5444b2d03e19fe6898eacb066ff0a91bd610cf3d7dd461ede16acad47125",
-    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/8b640eef5a6c6089c029249d48efa5c99adf7d51/VSCodeSetup-x64-1.119.0.exe"
-  },
-  {
-    "Version": "1.119.0",
-    "Platform": "win32-x64-user",
-    "Channel": "Stable",
-    "Architecture": "x64",
-    "Sha256": "8c3cf83d67f27a24ecb95812163f928f7404279a87681ec6fdb594095cc8271d",
-    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/8b640eef5a6c6089c029249d48efa5c99adf7d51/VSCodeUserSetup-x64-1.119.0.exe"
+    "Sha256": "42fbe9fede89977c04fc21097df3180e0ee0624bde4dde79155a8e2255ff2ae9",
+    "URI": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/0958016b2af9f09bb4257e0df4a95e2f90590f9f/VSCodeUserSetup-x64-1.120.0.exe"
   }
 ]

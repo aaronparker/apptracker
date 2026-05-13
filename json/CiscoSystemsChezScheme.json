@@ -1,12 +1,12 @@
 [
   {
-    "Version": "10.4.0",
-    "Date": "30/4/2026",
-    "Size": 28671809,
-    "Sha256": "d0d4238fd44f91dc4d823203481cf269755984817c66fd24c534d989d233b75c",
+    "Version": "10.4.1",
+    "Date": "11/5/2026",
+    "Size": 28716912,
+    "Sha256": "81c869b0f6a88dfeb37cc3c55198f816b7d08e5740900fef5e985f089476081d",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/cisco/ChezScheme/releases/download/v10.4.0/ChezScheme10.4.0.exe"
+    "URI": "https://github.com/cisco/ChezScheme/releases/download/v10.4.1/ChezScheme10.4.1.exe"
   }
 ]
