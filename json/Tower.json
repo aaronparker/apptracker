@@ -8,23 +8,23 @@
   },
   {
     "Version": "12.1.557",
+    "Channel": "stable",
+    "sha1": "D05ECD0CCBC24F3C3712285EFE8736CDA9B56649",
+    "Type": "exe",
+    "URI": "https://www.git-tower.com/apps/tower3-win/557-ca9adea2/Tower-12.1.557.exe"
+  },
+  {
+    "Version": "12.1.557",
     "Channel": "beta",
     "sha1": "72C22943EF7FBF305A40458B1599EC262397B879",
     "Type": "msi",
     "URI": "https://www.git-tower.com/apps/tower3-win/557-ca9adea2/Tower-12.1.557.msi"
   },
   {
-    "Version": "12.0.556",
+    "Version": "12.1.557",
     "Channel": "stable",
-    "sha1": "1125F44A1A65101FE58A99A8D65FE231CBACCB2B",
-    "Type": "exe",
-    "URI": "https://www.git-tower.com/apps/tower3-win/556-46906b7c/Tower-12.0.556.exe"
-  },
-  {
-    "Version": "12.0.556",
-    "Channel": "stable",
-    "sha1": "31BAC9DAF760ECBC192257C4736395302E452AA4",
+    "sha1": "72C22943EF7FBF305A40458B1599EC262397B879",
     "Type": "msi",
-    "URI": "https://www.git-tower.com/apps/tower3-win/556-46906b7c/Tower-12.0.556.msi"
+    "URI": "https://www.git-tower.com/apps/tower3-win/557-ca9adea2/Tower-12.1.557.msi"
   }
 ]

@@ -1,11 +1,12 @@
 [
   {
-    "Version": "4.5.23.3836",
-    "Date": "12/4/2025",
-    "Size": 2552240,
+    "Version": "4.5.24.3857",
+    "Date": "13/5/2026",
+    "Size": 2546096,
+    "Sha256": "714770f49a7a27fcd15b90136c1d875459f8ed1a7fce85366af6dbb8b19455e9",
     "Architecture": "x86",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/rainmeter/rainmeter/releases/download/v4.5.23.3836/Rainmeter-4.5.23.exe"
+    "URI": "https://github.com/rainmeter/rainmeter/releases/download/v4.5.24.3857/Rainmeter-4.5.24.exe"
   }
 ]
