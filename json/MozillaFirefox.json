@@ -11099,15 +11099,6 @@
   {
     "Version": "140.10.2",
     "Channel": "Extended Support",
-    "Language": "gu-IN",
-    "Architecture": "ARM64",
-    "Type": "msix",
-    "Filename": "Firefox Setup 140.10.2esr.msix",
-    "URI": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.10.2esr/win64-aarch64/multi/Firefox%20Setup%20140.10.2esr.msix"
-  },
-  {
-    "Version": "140.10.2",
-    "Channel": "Extended Support",
     "Language": "he",
     "Architecture": "ARM64",
     "Type": "msix",
