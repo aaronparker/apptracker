@@ -1,22 +1,22 @@
 [
   {
-    "Version": "26.0.4",
-    "Date": "30/4/2026",
-    "Size": 110445512,
-    "Sha256": "40d52dd87b43eecf484b2e56f6cf0059096be6611694090ac69e1486b012408a",
+    "Version": "26.0.5",
+    "Date": "15/5/2026",
+    "Size": 110550000,
+    "Sha256": "62536f937d7a6f201744c35560c703423025ca057a3d2b468a12d5f3052126bb",
     "Architecture": "ARM64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/dbeaver/dbeaver/releases/download/26.0.4/dbeaver-ce-26.0.4-windows-aarch64.exe"
+    "URI": "https://github.com/dbeaver/dbeaver/releases/download/26.0.5/dbeaver-ce-26.0.5-windows-aarch64.exe"
   },
   {
-    "Version": "26.0.4",
-    "Date": "30/4/2026",
-    "Size": 116639856,
-    "Sha256": "62b4c46f8f2ab6040688f5c0b368c553158fca383e38c343e14ed00b4a10d54b",
+    "Version": "26.0.5",
+    "Date": "15/5/2026",
+    "Size": 116744968,
+    "Sha256": "473f069b03035acd0259a6479eee9af7517515bab0dc974cc81999f07bda0911",
     "Architecture": "x64",
     "InstallerType": "Default",
     "Type": "exe",
-    "URI": "https://github.com/dbeaver/dbeaver/releases/download/26.0.4/dbeaver-ce-26.0.4-windows-x86_64.exe"
+    "URI": "https://github.com/dbeaver/dbeaver/releases/download/26.0.5/dbeaver-ce-26.0.5-windows-x86_64.exe"
   }
 ]
